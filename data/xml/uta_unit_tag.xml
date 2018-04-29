@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ROOT SYSTEM "uta_unit_tag.dtd">
+<ROOT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <row>
+      <field name="UTA_TAG_ID">1</field>
+      <field name="UTA_UNIT_ID">1</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">1</field>
+      <field name="UTA_UNIT_ID">20</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">1</field>
+      <field name="UTA_UNIT_ID">36</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">1</field>
+      <field name="UTA_UNIT_ID">96</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">2</field>
+      <field name="UTA_UNIT_ID">1</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">2</field>
+      <field name="UTA_UNIT_ID">13</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">2</field>
+      <field name="UTA_UNIT_ID">20</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">7</field>
+      <field name="UTA_UNIT_ID">23</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">7</field>
+      <field name="UTA_UNIT_ID">29</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">7</field>
+      <field name="UTA_UNIT_ID">30</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">7</field>
+      <field name="UTA_UNIT_ID">32</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">7</field>
+      <field name="UTA_UNIT_ID">96</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">13</field>
+      <field name="UTA_UNIT_ID">2</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">18</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">51</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">52</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">53</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">54</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">55</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">15</field>
+      <field name="UTA_UNIT_ID">56</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">16</field>
+      <field name="UTA_UNIT_ID">95</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">16</field>
+      <field name="UTA_UNIT_ID">97</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">22</field>
+      <field name="UTA_UNIT_ID">4</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">24</field>
+      <field name="UTA_UNIT_ID">2</field>
+    </row>
+    <row>
+      <field name="UTA_TAG_ID">24</field>
+      <field name="UTA_UNIT_ID">20</field>
+    </row>
+</ROOT>
