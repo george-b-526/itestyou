@@ -1,0 +1,57 @@
+W tym pliku są rozdziały:
+   [co to jest]
+   [instalacja]
+   [skuteczność tej nauki]
+   [jakość bazy English basic]
+   [sposób nauki - propozycja]
+
+[co to jest]
+To jest baza "English basic" do nauki angielskiego:
+   - słownictwa (w tym odmian nie regularnych)
+   - fraz
+   - zdań
+   - gramatyki
+
+[instalacja]
+Do nauki jest potrzebny program Mnemosyne (do ściągnięcia ze strony http://www.mnemosyne-proj.org/). Po instalacji i uruchomieniu programu trzeba wybrać z menu
+plik pozycję Importuj i zrobić co trzeba. Nie panikować gdy podczas importu program przestanie odpowiadać, bo chwilę mu to zajmie zanim łyknie parę tysięcy kart.
+
+
+[skuteczność tej nauki]
+W chwili gdy to piszę uczę się już 10 miesięcy. Początkowo chciałem tylko bazę z formami nie regularnymi występującymi w słownictwie angielskim (nie miałem nawet programu i grzebiąc w Google znalazłem wzmiankę o Mnemosyne w jednym z komentarzy na jakieś biednej stronce). Jednak prędko doszedłem do wniosku, że nawet podstawy angielskiego słabo znam i zdecydowałem wystartować zupełnie od zera by wyczesać wszystkie podsatwowe i oczywiste braki. Wcześniej próbowałem uczyć się na płatnych krusach oraz z kilkoma programami (dwoma bazami SuperMemo (obie Advanced English), Profesor Henry, Euro+). Ale z różnych powodów to wszystko było nie skuteczne (część to problemy obiektywne i nie zależne ode Mnie). Dlatego zdecydowałme od zera zbudowac swoją bazę. Rozbudowuję ją i ulepszam w miarę nauki. Po tych 10 miesiącach wydaje Mi się, że żadziej sięgam po słownik - większość tekstów jakie czytam rozumiem bez słownika i to w sytuacji gdy bez przerwy grzebię w angielskiej dokumentacji i innych anglotekstach. Często z satysfakcją rozpoznaję wyrazy i konstrukcje ktróre zapamiętałem pracując te 10 miesięcy z Mnemosyne. Co więcej z jakichś pwodów część słówek jakie znałem wcześniej kojażyłem błędnie lub nie precyzyjnie - z tą bazą takie "hity" też daje się prostować. Oczywiście nie wszystko rozumię bo czasem są taki wykoślawione wygibasy angielskie, że kompletnie nie wiem z czym mam do czynienia. Mimo dalej odczuwalnych braków na obecnym etapie mam ambicję by opanować do końca maeriał bazy English basic i na razie nie planuję wbijać do głowy wszystkich możliwych wariantów zboczeń języka angielskiego.
+
+[jakość bazy English basic]
+Jakość każdego produktu ma 2 aspekty. Jakość projektu i jakość wykonania.
+
+   [jakość projektu]
+   Celem tej było stworzenie bazy z minimalną ilością materiału wystarczającego do rozumienia większości pisanego tekstu i do sporządzania krótkich i zrozumiałych tekstów po angielsku. W zasadzie nie było analiz ani wyrafinowanego doboru treści do realizacji tego celu. Słownictwo (categoria English - vocabluary) zostało stworzone z dwuch częśći:
+   1) słownictwa wybranego ze słowników pod kątem nazywania elementów otaczającego świata i realizowanych czynności codziennych (tego było ok. 1800 kart)
+   2) lista 2000 najpopularniejszych słów z serwera http://www.isel.edu.pl/
+   Po połączeniu 1) i 2) wyszło z tego ok 2500 kart do nauki (czyli słów). W sumie mogło by być tego trochę więcej.
+   Gramatyka miała być minimalna i wystarczająca do rozumienia codziennych konstrukcji. Więc są czasy, ale nie ma strony biernej ani okresów warunkowych (z resztą to jest tak wydumane, że wręcz nie pojęte, by ktoś decydował się na brnięcie w te bzdury - jeśli się mylę to Mnie oświeć).
+   Dzięki napotkaniu strony http://www.isel.edu.pl/ pojawił się pomysł by dodać do bazy angielskie frazy i zdania. To jest super koncepcja tyle że wymagająca jeszcze rozbudowy o jakieś przydatne konstrukcje. Tak więc kategoria frazy i zdania raczej wymaga uzupełnienia i rozszeżenia.
+   
+   [jakość wykonania]
+   Nie skromnie mówiąc to praktycznie nie wiem nic o błędach w tej bazie. Początkowo z bazy SuperMemo przepisane były czasowniki nie regularne choć gdy się im przyjrzałem i sprawdziłem parę okazało się być regularnymi. Tym nie mniej od początku (w ciągu 10 miesięcy) nie stwierdziłem żadnego błędu tłumacznia. Więc na tej podstawie zaryzykuję stwierdzenie, że jakość wykonania jest bardzo dobra.
+
+
+[sposób nauki - propozycja]
+Ta nauka polega na wkuwaniu elementów języka angielskiego. To wkuwanie jest optymalizowane przez program Mnemosyne (nie źle działa ta optymalizacja). Nie ma się co "ścinać" czytając o wkuwaniu, bo nie ma szans by skumać angielski bez wkuwania - zero analogi z polskim słownictwem (choć jeśli ktoś ma dosŧęp do analizy porównawczej języka polskiego i angielskiego to prosiłbym o podesłanie Mi materiałów na ten temat). Faktycznie nauka języka obcego to ogłupianie się, ale warunki nas do tego zmuszają i nie ma wyboru (wynika to z partactw dziejowych polaków). Przy wkuwaniu ogromnej ilości nie logicznych treści (tak jak w tym przypadku) należy się zabezpiećzyć przed negatywnymi skutkami tego procederu. Negatywne skutki to otępienie umysłowe gdy się wkuwa na siłę i bez myślnie (np.: zatrzymywanie przy każdej karcie i wielokrotne powtarzanie). Znalazłem rozwiązanie tego problemu, a może nawet odwrócenie działania. Czyli wg mojej obserwacji nie występuje otępienie, a możliwe, że wręcz przeciwnie (jednak trudno Mi jednoznacznie to stwierdzić, czy ogółnie moje lepsze wyniki to zasługa mojego sposobu wkuwania angielskiego czy może któregoś innego racjonalizatorskiego działania jakie podejmuję nie zależnie od nauki angielskiego). Oto propozycja sposobu nauki z bazą English basic dla Mnemosyne:
+
+   [ogólna strategia]
+   Z kartami (jednostki nauki w Mnemosyne) należy pracować tak szybko jak tylko jest się w stanie podejmować decyzje od nośnie oceny zaraz po ukazaniu się karty. Jest to rozsądne, bo przecież celem nauki jest błyskawiczne kojarzenie elementów angielskiego a nie dumanie co to tam było napisane (szkoda czasu na potykanie się przy każdym kontakcie z angielskim słownictwem). Dodatkowo jak się wolno pracuje, to zaczyna się dumanie o różnych sprawach co jest sprzeczne z celem nauki. Więc jak się wyświetla karta, to ma być krótka piłka: wiesz? nie wiesz? i ocena. Ma to być na prawdę szybkie tempo. Nie ma co się ogłupiać całymi dniami ślęcząc nad tym angielskim. Dlatego Ja pracuję 1h dziennie. I za sukces uważam gdy przerobię ponad 500 kart w 1h. Mój rekord to 542 kart w ciągu 1h. Niestety Ty się nie dowiesz jak szybko pracujesz bo w oficjalnej wersji programu nie ma takich statystyk. Ale jak ktoś się czuje na siłach to mogę mu podesłać gotową łatę (patch) i może to sobie łatwo dokleić (raczej w Linuxie). Problemem utrudniającym osiąganie dobrej wydajności są dobre pomysły wpadające do głowy podczas nauki. Dlatego proponuję mieć w zasięgu ręki długopis i kartkę by sobie notowac potencjalnie wartościowe pomysły i tematy by nie tracić ich (można się wywyższać nad tą koncepcję notowania pomysłów, ale fakty są takie, że bez mechanizmów kompensujących słabą pamięć traci się ogromnie wiele i nie raz trzeba tracić czas na dogrzebywanie się do znanego wcześniej rozwiązania).
+
+   [wiele odmian nie regularnych]
+   Wiele czasowników nie relularnych ma wiele wariantów (więcej niż jedna w past i past participle). Więc rodzi się pytanie: Czy trzeba uczyć się wszystkich możliwych odmian? Trudno powiedzieć bez wiedzy o tym co faktycznie używają angole i jankesi. Ja mam racjonalizatorskie podejście do tego problemu. Uczę się tych wariantów odmian które są jak najbliższe formie podstawowej i pomijam pozostałe. Wszystkie karty z odmianami nie regularnymi są zrobione tak, że forma najbardziej zbliżona do podstawowej wysŧępuje jako pierwsza, a pozostałe są po znakach alternatywy czyli || (dwie pionowe kreski).
+
+   [wiele znaczeń jednego hasła]
+   Zdaża się, że słowo angielskie ma wiele znaczeń w języku polskim (i odwrotnie). Co w tedy? No cóż, Ja wkuwam wszystkie. Jest to dość racjonalne, bo i tak tłumaczenia podane na danej karcie (w tej bazie English basic), to i tak nie wielka część tłumaczeń dostępnych w słownikach, a nawet w słownikach chyba nie ma wszystkich możłiwych znaczeń danego słowa.
+
+   [elementy typu: in, on, for, to, at]
+   Problem z tymi "elementami" języka angielskiego polega na tym, że nie mają one jednoznacznych odpowiedników w języku polskim. Przez to nauka fraz i zdań w których one występują jest istnym koszmarem. Więc jak zneutralizować ten koszmar? Ja mam taką strategię, gdy się uczę wystawiając ocenę nie biorę pod uwagę tego czy się pomylę w jednym z tych upierdliwych "elementów" (oceniam tak jakby tego błędu nie było skupiając się na ocenie poprawności pozostałych angielskich wyrazów). Natomiast gdy wyświetli się ptyanie i mam wątpliwości jaki to też "elemencik" tym razem należy użyć, to odpuszczam sobie podawanie tego "elementu" i oceniam poprawność zapamiętania pozostałych wyrazów. Ale gdy podana jest precyzyjne zastosowanie tych "elementów" to wkuwam to i normalnie oceniam (np. podane są zasady stosowania at, on, in przy określaniu czasu).
+
+   [bez sensowne hasła angielskie]
+   Zdaża się że wystąpi bez sensowne hasło angielskie. Te hasła wjechały do bazy English basic przy imporcie fraz i zdań ISEL (które generalnie są sensowne i potencjalnie przydatne). Bez sensownych haseł jest nie wiele. W sumie można te hasła wykasować. Ale Ja i tak się ich uczę by rozpoznać jak trafię na jakieś anglosaskie idiotyzmy. By nie być gołosłownym, to podam przykłady tych haseł: "How upsetting! I hope the problem will find its solution." czyli po polsku: "Jakież to przykre || przygnębiające! Mam nadzieję, że problem sam się rozwiąże.", albo "I feel like crying. Just my luck!", co żekomo znaczy "Chce mi się płakać. Takie to już moje szczęście!", albo "as likely as not" co żekomo znaczy "najprawdopodobniej || pewnie". Tyle utkwiło Mi w pamięci, ale różnych drobnych spaczeń językowych w angielskim jest więcej.
+
+
+Życzę szybkich postępów w nauce angielskiego!

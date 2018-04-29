@@ -1,0 +1,1708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Czech (&#x010C;e&#x0161;tina)">
+<!--generated: Sun Jan 29 02:47:49 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="schopnost" i="0" m="ability" t="n" />
+<w c="abstract" e="čin; skutek" i="1" m="act" t="n" />
+<w c="abstract" e="čin" i="2" m="action" t="n" />
+<w c="abstract" e="aktivita; činnost" i="3" m="activity" t="n" />
+<w c="abstract" e="přídavek; dodatek" i="4" m="addition" t="n" />
+<w c="abstract" e="množství" i="5" m="amount" t="n" />
+<w c="abstract" e="útok" i="6" m="attack" t="n" />
+<w c="abstract" e="námaha; úsilí; pokus; snaha" i="7" m="attempt" t="n" />
+<w c="abstract" e="stanovisko" i="8" m="attitude" t="n" />
+<w c="abstract" e="zadní strana" i="9" m="back" t="n" />
+<w c="abstract" e="chování" i="10" m="behavior" t="n" />
+<w c="abstract" e="kousek" i="11" m="bit" t="n" />
+<w c="abstract" e="úder" i="12" m="blow" t="n" />
+<w c="abstract" e="přestávka; pauza" i="13" m="break" t="n" />
+<w c="abstract" e="kampaň" i="14" m="campaign" t="n" />
+<w c="abstract" e="případ" i="15" m="case" t="n" />
+<w c="abstract" e="příležitost; šance" i="16" m="chance" t="n" />
+<w c="abstract" e="proměna; transformace; změna; přeměna; záměna; výměna" i="17" m="change" t="n" />
+<w c="abstract" e="volba; výběr" i="18" m="choice" t="n" />
+<w c="abstract" e="situace; stav" i="19" m="condition" t="n" />
+<w c="abstract" e="spojení" i="20" m="connection" t="n" />
+<w c="abstract" e="přípojka; konektor" i="21" m="connection" t="n" />
+<w c="abstract" e="prasklina; štěrbina; trhlina; puklina" i="22" m="crack" t="n" />
+<w c="abstract" e="rozmačkání; rozdrcení" i="23" m="crush" t="n" />
+<w c="abstract" e="řez" i="24" m="cut" t="n" />
+<w c="abstract" e="poškození" i="25" m="damage" t="n" />
+<w c="abstract" e="nebezpečí" i="26" m="danger" t="n" />
+<w c="abstract" e="úmrtní; smrt" i="27" m="death" t="n" />
+<w c="abstract" e="ornament; dekorace; výzdoba; ozdoba" i="28" m="decoration" t="n" />
+<w c="abstract" e="obrana" i="29" m="defense" t="n" />
+<w c="abstract" e="destrukce; zničení" i="30" m="destruction" t="n" />
+<w c="abstract" e="podrobnost; detail" i="31" m="detail" t="n" />
+<w c="abstract" e="nadvláda; převaha" i="32" m="dominance" t="n" />
+<w c="abstract" e="kapka" i="33" m="drop" t="n" />
+<w c="abstract" e="povinnost" i="34" m="duty" t="n" />
+<w c="abstract" e="námaha" i="35" m="effort" t="n" />
+<w c="abstract" e="pád" i="36" m="fall" t="n" />
+<w c="abstract" e="vlastnost" i="37" m="feature" t="n" />
+<w c="abstract" e="boj" i="38" m="fight" t="n" />
+<w c="abstract" e="předek; přední strana" i="39" m="front" t="n" />
+<w c="abstract" e="výška" i="40" m="height" t="n" />
+<w c="abstract" e="rána; úder" i="41" m="hit" t="n" />
+<w c="abstract" e="díra; otvor" i="42" m="hole" t="n" />
+<w c="abstract" e="přírůstek" i="43" m="increase" t="n" />
+<w c="abstract" e="růst" i="44" m="increase" t="n" />
+<w c="abstract" e="Internet; internet" i="45" m="internet" t="n" />
+<w c="abstract" e="náraz" i="46" m="jolt" t="n" />
+<w c="abstract" e="skok" i="47" m="jump" t="n" />
+<w c="abstract" e="kopnutí; kop" i="48" m="kick" t="n" />
+<w c="abstract" e="druh; typ" i="49" m="kind" t="n" />
+<w c="abstract" e="uzel" i="50" m="knot" t="n" />
+<w c="abstract" e="seznam" i="51" m="list" t="n" />
+<w c="abstract" e="většina" i="52" m="majority" t="n" />
+<w c="abstract" e="způsob" i="53" m="manner" t="n" />
+<w c="abstract" e="záležitost; věc" i="54" m="matter" t="n" />
+<w c="abstract" e="způsob; postup" i="55" m="means" t="n" />
+<w c="abstract" e="mysl" i="56" m="mind" t="n" />
+<w c="abstract" e="fungování; chod" i="57" m="operation" t="n" />
+<w c="abstract" e="protiklad; opak" i="58" m="opposite" t="n" />
+<w c="abstract" e="erupce; výbuch" i="59" m="outburst" t="n" />
+<w c="abstract" e="kus; díl; podíl; část" i="60" m="part" t="n" />
+<w c="abstract" e="díl; podíl; část" i="61" m="part" t="n" />
+<w c="abstract" e="osobnost; charakter" i="62" m="personality" t="n" />
+<w c="abstract" e="součást; kousek; kus; díl" i="63" m="piece" t="n" />
+<w c="abstract" e="místo" i="64" m="place" t="n" />
+<w c="abstract" e="pozice" i="65" m="position" t="n" />
+<w c="abstract" e="moc; síla" i="66" m="power" t="n" />
+<w c="abstract" e="praxe" i="67" m="practice" t="n" />
+<w c="abstract" e="úkol; projekt" i="68" m="project" t="n" />
+<w c="abstract" e="vlastnost" i="69" m="property" t="n" />
+<w c="abstract" e="kvalita" i="70" m="quality" t="n" />
+<w c="abstract" e="klid" i="71" m="quiet" t="n" />
+<w c="abstract" e="dosah" i="72" m="reach" t="n" />
+<w c="abstract" e="hlášení" i="73" m="report" t="n" />
+<w c="abstract" e="zodpovědnost" i="74" m="responsibility" t="n" />
+<w c="abstract" e="odpočinek; oddech" i="75" m="rest" t="n" />
+<w c="abstract" e="vrácení se; návrat" i="76" m="return" t="n" />
+<w c="abstract" e="stoupání; vzestup" i="77" m="rise" t="n" />
+<w c="abstract" e="nebezpečí; riziko" i="78" m="risk" t="n" />
+<w c="abstract" e="místo" i="79" m="seat" t="n" />
+<w c="abstract" e="seriál" i="80" m="serial" t="n" />
+<w c="abstract" e="soubor; sada; set; souprava" i="81" m="set" t="n" />
+<w c="abstract" e="chvění; třes" i="82" m="shake" t="n" />
+<w c="abstract" e="šok" i="83" m="shock" t="n" />
+<w c="abstract" e="ticho" i="84" m="silence" t="n" />
+<w c="abstract" e="situace" i="85" m="situation" t="n" />
+<w c="abstract" e="kus" i="86" m="slice" t="n" />
+<w c="abstract" e="stav" i="87" m="state" t="n" />
+<w c="abstract" e="krok" i="88" m="step" t="n" />
+<w c="abstract" e="zastavení" i="89" m="stop" t="n" />
+<w c="abstract" e="chuť" i="90" m="taste" t="n" />
+<w c="abstract" e="předmět; věc" i="91" m="thing" t="n" />
+<w c="abstract" e="vrchol; vrcholek" i="92" m="top" t="n" />
+<w c="abstract" e="kontakt; dotyk; styk" i="93" m="touch" t="n" />
+<w c="abstract" e="zacházení" i="94" m="treatment" t="n" />
+<w c="abstract" e="úskok; trik; lest" i="95" m="trick" t="n" />
+<w c="abstract" e="druh; typ" i="96" m="type" t="n" />
+<w c="abstract" e="užití; upotřebení; užívání; využití" i="97" m="use" t="n" />
+<w c="abstract" e="opotřebení" i="98" m="wear" t="n" />
+<w c="abstract" e="celek" i="99" m="whole" t="n" />
+<w c="abstract" e="úmysl; vůle" i="100" m="will" t="n" />
+<w c="abstract" e="přání" i="101" m="wish" t="n" />
+<w c="adjectives" e="kyselý" i="102" m="acid" t="adj" />
+<w c="adjectives" e="po" i="103" m="after" t="adj" />
+<w c="adjectives" e="před" i="104" m="ago" t="adj" />
+<w c="adjectives" e="vše; všechno" i="105" m="all" t="adj" />
+<w c="adjectives" e="nějaký; některý; jakýkoli; libovolný" i="106" m="any" t="adj" />
+<w c="adjectives" e="automatický" i="107" m="automatic" t="adj" />
+<w c="adjectives" e="disponibilní; použitelný; přístupný; dostupný" i="108" m="available" t="adj" />
+<w c="adjectives" e="trpký; hořký" i="109" m="bitter" t="adj" />
+<w c="adjectives" e="únavný; nudný" i="110" m="boring" t="adj" />
+<w c="adjectives" e="obě; oba" i="111" m="both" t="adj" />
+<w c="adjectives" e="světlý; jasný" i="112" m="bright" t="adj" />
+<w c="adjectives" e="rozbitý; zlomený" i="113" m="broken" t="adj" />
+<w c="adjectives" e="centrální" i="114" m="central" t="adj" />
+<w c="adjectives" e="jistý" i="115" m="certain" t="adj" />
+<w c="adjectives" e="laciný; levný" i="116" m="cheap" t="adj" />
+<w c="adjectives" e="chemický" i="117" m="chemical" t="adj" />
+<w c="adjectives" e="jasný; zřetelný" i="118" m="clear" t="adj" />
+<w c="adjectives" e="zavřený" i="119" m="closed" t="adj" />
+<w c="adjectives" e="barevný" i="120" m="color" t="adj" />
+<w c="adjectives" e="běžný; obvyklý" i="121" m="common" t="adj" />
+<w c="adjectives" e="společný" i="122" m="common" t="adj" />
+<w c="adjectives" e="kompletní; dokonalý" i="123" m="complete" t="adj" />
+<w c="adjectives" e="vědomý" i="124" m="conscious" t="adj" />
+<w c="adjectives" e="krutý; barbarský; brutální" i="125" m="cruel" t="adj" />
+<w c="adjectives" e="současný; obvyklý; běžný" i="126" m="current" t="adj" />
+<w c="adjectives" e="háklivý" i="127" m="dainty" t="adj" />
+<w c="adjectives" e="nebezpečný" i="128" m="dangerous" t="adj" />
+<w c="adjectives" e="delikátní; něžný; jemný" i="129" m="delicate" t="adj" />
+<w c="adjectives" e="jiný" i="130" m="different" t="adj" />
+<w c="adjectives" e="jiný; odlišný; zvláštní" i="131" m="different" t="adj" />
+<w c="adjectives" e="odlišný; rozdílný; různý" i="132" m="different" t="adj" />
+<w c="adjectives" e="dole" i="133" m="down" t="adj" />
+<w c="adjectives" e="suchý" i="134" m="dry" t="adj" />
+<w c="adjectives" e="každý" i="135" m="each" t="adj" />
+<w c="adjectives" e="časný; raný" i="136" m="early" t="adj" />
+<w c="adjectives" e="lehký; jednoduchý" i="137" m="easy" t="adj" />
+<w c="adjectives" e="ekonomický" i="138" m="economic" t="adj" />
+<w c="adjectives" e="hospodárný; spořivý; šetrný; úsporný; ekonomický" i="139" m="economic" t="adj" />
+<w c="adjectives" e="elektrický" i="140" m="electric" t="adj" />
+<w c="adjectives" e="rovný; stejný" i="141" m="equal" t="adj" />
+<w c="adjectives" e="sudý" i="142" m="even" t="adj" />
+<w c="adjectives" e="vyrovnaný; rovný" i="143" m="even" t="adj" />
+<w c="adjectives" e="každý" i="144" m="every" t="adj" />
+<w c="adjectives" e="výtečný; prvotřídní; bezvadný; výborný; skvělý; vynikající" i="145" m="excellent" t="adj" />
+<w c="adjectives" e="falešný; imitovaný" i="146" m="fake" t="adj" />
+<w c="adjectives" e="chybný; nesprávný" i="147" m="false" t="adj" />
+<w c="adjectives" e="vzdálený; daleký" i="148" m="far" t="adj" />
+<w c="adjectives" e="tlustý" i="149" m="fat" t="adj" />
+<w c="adjectives" e="mastný; tučný" i="150" m="fat" t="adj" />
+<w c="adjectives" e="málo" i="151" m="few" t="adj" />
+<w c="adjectives" e="konečný" i="152" m="final" t="adj" />
+<w c="adjectives" e="finanční" i="153" m="financial" t="adj" />
+<w c="adjectives" e="pevný; tuhý" i="154" m="firm" t="adj" />
+<w c="adjectives" e="první" i="155" m="first" t="adj" />
+<w c="adjectives" e="daný; stanovený" i="156" m="fixed" t="adj" />
+<w c="adjectives" e="rovný; plochý" i="157" m="flat" t="adj" />
+<w c="adjectives" e="následující; další" i="158" m="following" t="adj" />
+<w c="adjectives" e="cizí" i="159" m="foreign" t="adj" />
+<w c="adjectives" e="bývalý; minulý; předešlý" i="160" m="former" t="adj" />
+<w c="adjectives" e="křehký; lámavý" i="161" m="fragile" t="adj" />
+<w c="adjectives" e="zdarma; bezplatný" i="162" m="free" t="adj" />
+<w c="adjectives" e="četný; častý" i="163" m="frequent" t="adj" />
+<w c="adjectives" e="čerstvý; nový; svěží" i="164" m="fresh" t="adj" />
+<w c="adjectives" e="přední" i="165" m="front" t="adj" />
+<w c="adjectives" e="plný" i="166" m="full" t="adj" />
+<w c="adjectives" e="celkový; úplný" i="167" m="full" t="adj" />
+<w c="adjectives" e="dále" i="168" m="further" t="adj" />
+<w c="adjectives" e="budoucí; příští" i="169" m="future" t="adj" />
+<w c="adjectives" e="všeobecný; obecný" i="170" m="general" t="adj" />
+<w c="adjectives" e="poctivý; čestný" i="171" m="good" t="adj" />
+<w c="adjectives" e="industriální; průmyslový" i="172" m="industrial" t="adj" />
+<w c="adjectives" e="zajímavý" i="173" m="interesting" t="adj" />
+<w c="adjectives" e="internacionální; mezinárodní" i="174" m="international" t="adj" />
+<w c="adjectives" e="poslední; minulý" i="175" m="last" t="adj" />
+<w c="adjectives" e="opožděný; zpožděný" i="176" m="late" t="adj" />
+<w c="adjectives" e="legální; zákonný" i="177" m="legal" t="adj" />
+<w c="adjectives" e="dietní; nízkokalorický" i="178" m="light" t="adj" />
+<w c="adjectives" e="kapalný; tekutý" i="179" m="liquid" t="adj" />
+<w c="adjectives" e="lokální; místní" i="180" m="local" t="adj" />
+<w c="adjectives" e="hlasitý; hlučný" i="181" m="loud" t="adj" />
+<w c="adjectives" e="nízký" i="182" m="low" t="adj" />
+<w c="adjectives" e="šťastný; mající štěstí" i="183" m="lucky" t="adj" />
+<w c="adjectives" e="hlavní; podstatný" i="184" m="main" t="adj" />
+<w c="adjectives" e="hlavní" i="185" m="major" t="adj" />
+<w c="adjectives" e="mnoho" i="186" m="many" t="adj" />
+<w c="adjectives" e="kovový" i="187" m="metal" t="adj" />
+<w c="adjectives" e="vojenský" i="188" m="military" t="adj" />
+<w c="adjectives" e="nepatrný; maličký" i="189" m="minute" t="adj" />
+<w c="adjectives" e="moderní; novodobý" i="190" m="modern" t="adj" />
+<w c="adjectives" e="více" i="191" m="more" t="adj" />
+<w c="adjectives" e="hodně; mnoho" i="192" m="much" t="adj" />
+<w c="adjectives" e="úzký" i="193" m="narrow" t="adj" />
+<w c="adjectives" e="národní" i="194" m="national" t="adj" />
+<w c="adjectives" e="přírodní" i="195" m="natural" t="adj" />
+<w c="adjectives" e="nezbytný; nutný; potřebný; nevyhnutelný" i="196" m="necessary" t="adj" />
+<w c="adjectives" e="sousední; další" i="197" m="next" t="adj" />
+<w c="adjectives" e="žádný" i="198" m="no" t="adj" />
+<w c="adjectives" e="normální" i="199" m="normal" t="adj" />
+<w c="adjectives" e="vypnutý" i="200" m="off" t="adj" />
+<w c="adjectives" e="zapnutý" i="201" m="on" t="adj" />
+<w c="adjectives" e="opačný; protější; protilehlý" i="202" m="opposite" t="adj" />
+<w c="adjectives" e="originální; původní" i="203" m="original" t="adj" />
+<w c="adjectives" e="jiný" i="204" m="other" t="adj" />
+<w c="adjectives" e="vlastní" i="205" m="own" t="adj" />
+<w c="adjectives" e="rovnoběžný; paralelní; souběžný" i="206" m="parallel" t="adj" />
+<w c="adjectives" e="určitý" i="207" m="particular" t="adj" />
+<w c="adjectives" e="uplynulý; minulý" i="208" m="past" t="adj" />
+<w c="adjectives" e="osobní" i="209" m="personal" t="adj" />
+<w c="adjectives" e="tělesný; fyzický" i="210" m="physical" t="adj" />
+<w c="adjectives" e="politický" i="211" m="political" t="adj" />
+<w c="adjectives" e="politováníhodný; žalostný; nebohý; ubohý" i="212" m="poor" t="adj" />
+<w c="adjectives" e="populární" i="213" m="popular" t="adj" />
+<w c="adjectives" e="možný" i="214" m="possible" t="adj" />
+<w c="adjectives" e="nynější; přítomný; současný" i="215" m="present" t="adj" />
+<w c="adjectives" e="předešlý" i="216" m="previous" t="adj" />
+<w c="adjectives" e="soukromý" i="217" m="private" t="adj" />
+<w c="adjectives" e="pravděpodobný" i="218" m="probable" t="adj" />
+<w c="adjectives" e="profesionální" i="219" m="professional" t="adj" />
+<w c="adjectives" e="veřejný" i="220" m="public" t="adj" />
+<w c="adjectives" e="tichý" i="221" m="quiet" t="adj" />
+<w c="adjectives" e="připravený" i="222" m="ready" t="adj" />
+<w c="adjectives" e="nedávný" i="223" m="recent" t="adj" />
+<w c="adjectives" e="pravidelný" i="224" m="regular" t="adj" />
+<w c="adjectives" e="odpovědný" i="225" m="responsible" t="adj" />
+<w c="adjectives" e="správný" i="226" m="right" t="adj" />
+<w c="adjectives" e="nepoddajný; neohebný; pevný; tuhý" i="227" m="rigid" t="adj" />
+<w c="adjectives" e="drsný; hrubý" i="228" m="rough" t="adj" />
+<w c="adjectives" e="kruhový; kulatý" i="229" m="round" t="adj" />
+<w c="adjectives" e="žalostný" i="230" m="sad" t="adj" />
+<w c="adjectives" e="bezpečný" i="231" m="safe" t="adj" />
+<w c="adjectives" e="stejný" i="232" m="same" t="adj" />
+<w c="adjectives" e="druhý" i="233" m="second" t="adj" />
+<w c="adjectives" e="tajný" i="234" m="secret" t="adj" />
+<w c="adjectives" e="samostatný; separátní; oddělený" i="235" m="separate" t="adj" />
+<w c="adjectives" e="vážný" i="236" m="serious" t="adj" />
+<w c="adjectives" e="stanovený" i="237" m="set" t="adj" />
+<w c="adjectives" e="několik" i="238" m="several" t="adj" />
+<w c="adjectives" e="krátký" i="239" m="short" t="adj" />
+<w c="adjectives" e="nehlučný; tichý" i="240" m="silent" t="adj" />
+<w c="adjectives" e="stříbrný" i="241" m="silver" t="adj" />
+<w c="adjectives" e="jednoduchý" i="242" m="simple" t="adj" />
+<w c="adjectives" e="jednotlivý; samotný; jediný" i="243" m="single" t="adj" />
+<w c="adjectives" e="malý; nepatrný; drobný" i="244" m="small" t="adj" />
+<w c="adjectives" e="hladký" i="245" m="smooth" t="adj" />
+<w c="adjectives" e="sociální; společenský" i="246" m="social" t="adj" />
+<w c="adjectives" e="tuhý" i="247" m="solid" t="adj" />
+<w c="adjectives" e="řídký" i="248" m="sparse" t="adj" />
+<w c="adjectives" e="zvláštní" i="249" m="special" t="adj" />
+<w c="adjectives" e="specifický" i="250" m="specific" t="adj" />
+<w c="adjectives" e="čtvercový" i="251" m="square" t="adj" />
+<w c="adjectives" e="normální" i="252" m="standard" t="adj" />
+<w c="adjectives" e="lepkavý; lepivý" i="253" m="sticky" t="adj" />
+<w c="adjectives" e="přímý; rovný" i="254" m="straight" t="adj" />
+<w c="adjectives" e="zvláštní; divný; neobvyklý" i="255" m="strange" t="adj" />
+<w c="adjectives" e="elegantní" i="256" m="stylish" t="adj" />
+<w c="adjectives" e="neočekávaný; nenadálý; náhlý" i="257" m="sudden" t="adj" />
+<w c="adjectives" e="sladký" i="258" m="sweet" t="adj" />
+<w c="adjectives" e="vysoký" i="259" m="tall" t="adj" />
+<w c="adjectives" e="hustý" i="260" m="thick" t="adj" />
+<w c="adjectives" e="úzký; slabý" i="261" m="thin" t="adj" />
+<w c="adjectives" e="těsný" i="262" m="tight" t="adj" />
+<w c="adjectives" e="pravdivý; pravý" i="263" m="true" t="adj" />
+<w c="adjectives" e="ohyzdný; ošklivý; šeredný; škaredý" i="264" m="ugly" t="adj" />
+<w c="adjectives" e="pod" i="265" m="under" t="adj" />
+<w c="adjectives" e="neobvyklý" i="266" m="unusual" t="adj" />
+<w c="adjectives" e="z druhé ruky; použitý" i="267" m="used" t="adj" />
+<w c="adjectives" e="obvyklý" i="268" m="usual" t="adj" />
+<w c="adjectives" e="rozmanitý; různorodý; rozdílný; různý" i="269" m="various" t="adj" />
+<w c="adjectives" e="hřejivý; teplý" i="270" m="warm" t="adj" />
+<w c="adjectives" e="vlhký; mokrý" i="271" m="wet" t="adj" />
+<w c="adjectives" e="celý" i="272" m="whole" t="adj" />
+<w c="adjectives" e="široký" i="273" m="wide" t="adj" />
+<w c="adjectives" e="druhý; jiný; odlišný" i="274" m="another" t="adj" />
+<w c="adjectives" e="špatný" i="275" m="bad" t="adj" />
+<w c="adjectives" e="základní" i="276" m="basic" t="adj" />
+<w c="adjectives" e="krásný; hezký" i="277" m="beautiful" t="adj" />
+<w c="adjectives" e="nejlepší" i="278" m="best" t="adj" />
+<w c="adjectives" e="lepší" i="279" m="better" t="adj" />
+<w c="adjectives" e="velký; veliký; rozsáhlý; objemný" i="280" m="big" t="adj" />
+<w c="adjectives" e="čistý" i="281" m="clean" t="adj" />
+<w c="adjectives" e="studený" i="282" m="cold" t="adj" />
+<w c="adjectives" e="správný; korektní" i="283" m="correct" t="adj" />
+<w c="adjectives" e="tmavý" i="284" m="dark" t="adj" />
+<w c="adjectives" e="hluboký" i="285" m="deep" t="adj" />
+<w c="adjectives" e="těžký; obtížný; nesnadný" i="286" m="difficult" t="adj" />
+<w c="adjectives" e="špinavý; znečištěný; nečistý" i="287" m="dirty" t="adj" />
+<w c="adjectives" e="rychlý" i="288" m="fast" t="adj" />
+<w c="adjectives" e="dobrý" i="289" m="good" t="adj" />
+<w c="adjectives" e="veliký; velký" i="290" m="great" t="adj" />
+<w c="adjectives" e="skvělý; báječný; senzační" i="291" m="great" t="adj" />
+<w c="adjectives" e="šťastný; veselý" i="292" m="happy" t="adj" />
+<w c="adjectives" e="zdravý" i="293" m="healthy" t="adj" />
+<w c="adjectives" e="těžký" i="294" m="heavy" t="adj" />
+<w c="adjectives" e="vysoký" i="295" m="high" t="adj" />
+<w c="adjectives" e="horký; teplý" i="296" m="hot" t="adj" />
+<w c="adjectives" e="důležitý; významný" i="297" m="important" t="adj" />
+<w c="adjectives" e="levý" i="298" m="left" t="adj" />
+<w c="adjectives" e="lehký" i="299" m="light" t="adj" />
+<w c="adjectives" e="drobný; malý" i="300" m="little" t="adj" />
+<w c="adjectives" e="dlouhý" i="301" m="long" t="adj" />
+<w c="adjectives" e="nedaleký; blízký" i="302" m="near" t="adj" />
+<w c="adjectives" e="nový" i="303" m="new" t="adj" />
+<w c="adjectives" e="hezký; pěkný; příjemný; milý" i="304" m="nice" t="adj" />
+<w c="adjectives" e="otevřený" i="305" m="open" t="adj" />
+<w c="adjectives" e="opravdový; skutečný; pravý" i="306" m="real" t="adj" />
+<w c="adjectives" e="pravý" i="307" m="right" t="adj" />
+<w c="adjectives" e="ostrý" i="308" m="sharp" t="adj" />
+<w c="adjectives" e="podobný" i="309" m="similar" t="adj" />
+<w c="adjectives" e="pomalý" i="310" m="slow" t="adj" />
+<w c="adjectives" e="měkký" i="311" m="soft" t="adj" />
+<w c="adjectives" e="silný" i="312" m="strong" t="adj" />
+<w c="adjectives" e="slabý" i="313" m="weak" t="adj" />
+<w c="adjectives" e="nesprávný; chybný" i="314" m="wrong" t="adj" />
+<w c="adjective" e="schopný" i="315" m="able" t="adj" />
+<w c="adjective" e="živý; žijící" i="316" m="alive" t="adj" />
+<w c="adjective" e="osamělý" i="317" m="alone" t="adj" />
+<w c="adjective" e="rozhněvaný; rozzlobený" i="318" m="angry" t="adj" />
+<w c="adjective" e="bdělý; probuzený" i="319" m="awake" t="adj" />
+<w c="adjective" e="mrtvý" i="320" m="dead" t="adj" />
+<w c="adjective" e="ženský" i="321" m="female" t="adj" />
+<w c="adjective" e="svobodný; volný" i="322" m="free" t="adj" />
+<w c="adjective" e="přátelský" i="323" m="friendly" t="adj" />
+<w c="adjective" e="zdravý" i="324" m="healthy" t="adj" />
+<w c="adjective" e="lidský" i="325" m="human" t="adj" />
+<w c="adjective" e="hladový" i="326" m="hungry" t="adj" />
+<w c="adjective" e="nemocný" i="327" m="ill" t="adj" />
+<w c="adjective" e="netrpělivý" i="328" m="impatient" t="adj" />
+<w c="adjective" e="inteligentní; rozumný" i="329" m="intelligent" t="adj" />
+<w c="adjective" e="spravedlivý" i="330" m="just" t="adj" />
+<w c="adjective" e="milý" i="331" m="kind" t="adj" />
+<w c="adjective" e="samčí" i="332" m="male" t="adj" />
+<w c="adjective" e="mužný" i="333" m="male" t="adj" />
+<w c="adjective" e="ženatý; vdaná" i="334" m="married" t="adj" />
+<w c="adjective" e="ničemný; podlý; zlý" i="335" m="mean" t="adj" />
+<w c="adjective" e="lékařský; léčebný" i="336" m="medical" t="adj" />
+<w c="adjective" e="starý" i="337" m="old" t="adj" />
+<w c="adjective" e="trpělivý" i="338" m="patient" t="adj" />
+<w c="adjective" e="chudý; nemajetný" i="339" m="poor" t="adj" />
+<w c="adjective" e="individuální" i="340" m="private" t="adj" />
+<w c="adjective" e="bohatý" i="341" m="rich" t="adj" />
+<w c="adjective" e="královský" i="342" m="royal" t="adj" />
+<w c="adjective" e="smutný" i="343" m="sad" t="adj" />
+<w c="adjective" e="bystrý" i="344" m="sharp" t="adj" />
+<w c="adjective" e="hloupý; pošetilý" i="345" m="silly" t="adj" />
+<w c="adjective" e="upřímný" i="346" m="sincere" t="adj" />
+<w c="adjective" e="neženatý; svobodný" i="347" m="single" t="adj" />
+<w c="adjective" e="zkušený; obratný; zručný; zběhlý" i="348" m="skilful" t="adj" />
+<w c="adjective" e="hloupý" i="349" m="stupid" t="adj" />
+<w c="adjective" e="poddaný; podřízený" i="350" m="subject" t="adj" />
+<w c="adjective" e="úspěšný" i="351" m="successful" t="adj" />
+<w c="adjective" e="žíznivý" i="352" m="thirsty" t="adj" />
+<w c="adjective" e="unavený" i="353" m="tired" t="adj" />
+<w c="adjective" e="nezaměstnaný" i="354" m="unemployed" t="adj" />
+<w c="adjective" e="násilný" i="355" m="violent" t="adj" />
+<w c="adjective" e="moudrý" i="356" m="wise" t="adj" />
+<w c="adjective" e="mladý" i="357" m="young" t="adj" />
+<w c="adverb" e="kolem" i="358" m="about" t="adv" />
+<w c="adverb" e="nad" i="359" m="above" t="adv" />
+<w c="adverb" e="přes" i="360" m="across" t="adv" />
+<w c="adverb" e="napříč" i="361" m="across" t="adv" />
+<w c="adverb" e="opět; znovu; zase" i="362" m="again" t="adv" />
+<w c="adverb" e="téměř; skoro" i="363" m="almost" t="adv" />
+<w c="adverb" e="podél" i="364" m="along" t="adv" />
+<w c="adverb" e="už" i="365" m="already" t="adv" />
+<w c="adverb" e="pořád; vždy" i="366" m="always" t="adv" />
+<w c="adverb" e="přibližně" i="367" m="approximately" t="adv" />
+<w c="adverb" e="vpředu; před" i="368" m="before" t="adv" />
+<w c="adverb" e="než" i="369" m="before" t="adv" />
+<w c="adverb" e="vzadu" i="370" m="behind" t="adv" />
+<w c="adverb" e="mezi" i="371" m="between" t="adv" />
+<w c="adverb" e="za" i="372" m="beyond" t="adv" />
+<w c="adverb" e="okolo" i="373" m="by" t="adv" />
+<w c="adverb" e="jasně; zřejmě" i="374" m="clearly" t="adv" />
+<w c="adverb" e="přímo" i="375" m="directly" t="adv" />
+<w c="adverb" e="dolů" i="376" m="down" t="adv" />
+<w c="adverb" e="brzy" i="377" m="early" t="adv" />
+<w c="adverb" e="buď" i="378" m="either" t="adv" />
+<w c="adverb" e="dost" i="379" m="enough" t="adv" />
+<w c="adverb" e="sám; samotný" i="380" m="entirely" t="adv" />
+<w c="adverb" e="jako" i="381" m="equally" t="adv" />
+<w c="adverb" e="dokonce" i="382" m="even" t="adv" />
+<w c="adverb" e="doslovně; přesně" i="383" m="exactly" t="adv" />
+<w c="adverb" e="nakonec" i="384" m="finally" t="adv" />
+<w c="adverb" e="nejprve; především" i="385" m="first" t="adv" />
+<w c="adverb" e="dopředu" i="386" m="forward" t="adv" />
+<w c="adverb" e="zde" i="387" m="here" t="adv" />
+<w c="adverb" e="zde" i="388" m="here" t="adv" />
+<w c="adverb" e="nicméně; přestože" i="389" m="however" t="adv" />
+<w c="adverb" e="bezprostředně; hned; okamžitě" i="390" m="immediately" t="adv" />
+<w c="adverb" e="dovnitř" i="391" m="in" t="adv" />
+<w c="adverb" e="doopravdy; opravdu; vskutku" i="392" m="indeed" t="adv" />
+<w c="adverb" e="uvnitř" i="393" m="inside" t="adv" />
+<w c="adverb" e="místo toho; namísto" i="394" m="instead" t="adv" />
+<w c="adverb" e="pozdě" i="395" m="late" t="adv" />
+<w c="adverb" e="později; poté" i="396" m="later" t="adv" />
+<w c="adverb" e="nejméně" i="397" m="least" t="adv" />
+<w c="adverb" e="trochu" i="398" m="little" t="adv" />
+<w c="adverb" e="více" i="399" m="more" t="adv" />
+<w c="adverb" e="zpravidla" i="400" m="mostly" t="adv" />
+<w c="adverb" e="nikdy" i="401" m="never" t="adv" />
+<w c="adverb" e="ne" i="402" m="not" t="adv" />
+<w c="adverb" e="nyní; právě; teď" i="403" m="now" t="adv" />
+<w c="adverb" e="zjevně; zřejmě" i="404" m="obviously" t="adv" />
+<w c="adverb" e="často" i="405" m="often" t="adv" />
+<w c="adverb" e="jednou; jedenkrát; kdysi" i="406" m="once" t="adv" />
+<w c="adverb" e="venku; mimo; vně" i="407" m="outside" t="adv" />
+<w c="adverb" e="obzvláště; obzvlášť; především; zejména; zvláště; zvlášť; mimořádně; nezvykle" i="408" m="particularly" t="adv" />
+<w c="adverb" e="možná" i="409" m="possibly" t="adv" />
+<w c="adverb" e="spíše; raději" i="410" m="preferably" t="adv" />
+<w c="adverb" e="pravděpodobně" i="411" m="probably" t="adv" />
+<w c="adverb" e="rychle" i="412" m="quickly" t="adv" />
+<w c="adverb" e="dosti" i="413" m="quite" t="adv" />
+<w c="adverb" e="skutečně; opravdu" i="414" m="really" t="adv" />
+<w c="adverb" e="pravdivě; skutečně" i="415" m="really" t="adv" />
+<w c="adverb" e="nedávno" i="416" m="recently" t="adv" />
+<w c="adverb" e="pouze; jen" i="417" m="simply" t="adv" />
+<w c="adverb" e="pomalu" i="418" m="slowly" t="adv" />
+<w c="adverb" e="tak" i="419" m="so" t="adv" />
+<w c="adverb" e="občas; někdy" i="420" m="sometimes" t="adv" />
+<w c="adverb" e="brzy" i="421" m="soon" t="adv" />
+<w c="adverb" e="stále" i="422" m="still" t="adv" />
+<w c="adverb" e="takový; takové" i="423" m="such" t="adv" />
+<w c="adverb" e="náhle" i="424" m="suddenly" t="adv" />
+<w c="adverb" e="jistě; určitě" i="425" m="surely" t="adv" />
+<w c="adverb" e="pak; potom" i="426" m="then" t="adv" />
+<w c="adverb" e="tam; tamhle" i="427" m="there" t="adv" />
+<w c="adverb" e="proto; tedy" i="428" m="therefore" t="adv" />
+<w c="adverb" e="dnes" i="429" m="today" t="adv" />
+<w c="adverb" e="společně; spolu" i="430" m="together" t="adv" />
+<w c="adverb" e="zítra" i="431" m="tomorrow" t="adv" />
+<w c="adverb" e="dnes večer" i="432" m="tonight" t="adv" />
+<w c="adverb" e="rovněž; také; též" i="433" m="too" t="adv" />
+<w c="adverb" e="nahoru; vzhůru" i="434" m="up" t="adv" />
+<w c="adverb" e="obvykle" i="435" m="usually" t="adv" />
+<w c="adverb" e="moc; velmi; velice" i="436" m="very" t="adv" />
+<w c="adverb" e="dobře" i="437" m="well" t="adv" />
+<w c="adverb" e="proč" i="438" m="why" t="adv" />
+<w c="anatomy" e="paže; ruka" i="439" m="arm" t="noun" />
+<w c="anatomy" e="záda; hřbet" i="440" m="back" t="noun" />
+<w c="anatomy" e="zobák" i="441" m="beak" t="noun" />
+<w c="anatomy" e="krev" i="442" m="blood" t="noun" />
+<w c="anatomy" e="trup; tělo" i="443" m="body" t="noun" />
+<w c="anatomy" e="kost" i="444" m="bone" t="noun" />
+<w c="anatomy" e="mozek" i="445" m="brain" t="noun" />
+<w c="anatomy" e="dech" i="446" m="breath" t="noun" />
+<w c="anatomy" e="buňka" i="447" m="cell" t="noun" />
+<w c="anatomy" e="hruď" i="448" m="chest" t="noun" />
+<w c="anatomy" e="hrudník; hruď" i="449" m="chest" t="noun" />
+<w c="anatomy" e="brada" i="450" m="chin" t="noun" />
+<w c="anatomy" e="ucho" i="451" m="ear" t="noun" />
+<w c="anatomy" e="oko" i="452" m="eye" t="noun" />
+<w c="anatomy" e="tvář; obličej" i="453" m="face" t="noun" />
+<w c="anatomy" e="prst" i="454" m="finger" t="noun" />
+<w c="anatomy" e="chodidlo" i="455" m="foot" t="noun" />
+<w c="anatomy" e="čelo" i="456" m="forehead" t="noun" />
+<w c="anatomy" e="gen" i="457" m="gene" t="noun" />
+<w c="anatomy" e="vlasy" i="458" m="hair" t="noun" />
+<w c="anatomy" e="chlup; vlas" i="459" m="hair" t="noun" />
+<w c="anatomy" e="ruka" i="460" m="hand" t="noun" />
+<w c="anatomy" e="hlava" i="461" m="head" t="noun" />
+<w c="anatomy" e="srdce" i="462" m="heart" t="noun" />
+<w c="anatomy" e="koleno" i="463" m="knee" t="noun" />
+<w c="anatomy" e="noha" i="464" m="leg" t="noun" />
+<w c="anatomy" e="pysk; ret" i="465" m="lip" t="noun" />
+<w c="anatomy" e="ústa; pusa" i="466" m="mouth" t="noun" />
+<w c="anatomy" e="sval" i="467" m="muscle" t="noun" />
+<w c="anatomy" e="nehet" i="468" m="nail" t="noun" />
+<w c="anatomy" e="krk" i="469" m="neck" t="noun" />
+<w c="anatomy" e="nerv" i="470" m="nerve" t="noun" />
+<w c="anatomy" e="nos" i="471" m="nose" t="noun" />
+<w c="anatomy" e="kůže; pleť; pokožka" i="472" m="skin" t="noun" />
+<w c="anatomy" e="žaludek" i="473" m="stomach" t="noun" />
+<w c="anatomy" e="ocas; ohon; chvost" i="474" m="tail" t="noun" />
+<w c="anatomy" e="hrdlo" i="475" m="throat" t="noun" />
+<w c="anatomy" e="palec" i="476" m="thumb" t="noun" />
+<w c="anatomy" e="prst" i="477" m="toe" t="noun" />
+<w c="anatomy" e="jazyk" i="478" m="tongue" t="noun" />
+<w c="anatomy" e="zub" i="479" m="tooth" t="noun" />
+<w c="anatomy" e="křídlo" i="480" m="wing" t="noun" />
+<w c="animals" e="mravenec" i="481" m="ant" t="noun" />
+<w c="animals" e="medvěd" i="482" m="bear" t="noun" />
+<w c="animals" e="včela" i="483" m="bee" t="noun" />
+<w c="animals" e="pták" i="484" m="bird" t="noun" />
+<w c="animals" e="kočka" i="485" m="cat" t="noun" />
+<w c="animals" e="kráva" i="486" m="cow" t="noun" />
+<w c="animals" e="pes" i="487" m="dog" t="noun" />
+<w c="animals" e="slon" i="488" m="elephant" t="noun" />
+<w c="animals" e="ryba" i="489" m="fish" t="noun" />
+<w c="animals" e="moucha" i="490" m="fly" t="noun" />
+<w c="animals" e="koza" i="491" m="goat" t="noun" />
+<w c="animals" e="kůň" i="492" m="horse" t="noun" />
+<w c="animals" e="hmyz" i="493" m="insect" t="noun" />
+<w c="animals" e="lev" i="494" m="lion" t="noun" />
+<w c="animals" e="opice" i="495" m="monkey" t="noun" />
+<w c="animals" e="svině; prase; vepř" i="496" m="pig" t="noun" />
+<w c="animals" e="ovce" i="497" m="sheep" t="noun" />
+<w c="animals" e="had" i="498" m="snake" t="noun" />
+<w c="art" e="umění" i="499" m="art" t="n" />
+<w c="art" e="kapela" i="500" m="band" t="n" />
+<w c="art" e="barva" i="501" m="color" t="n" />
+<w c="art" e="koncert" i="502" m="concert" t="n" />
+<w c="art" e="rozmanitost; pestrost; různost" i="503" m="diversity" t="n" />
+<w c="art" e="obveselení; zábava" i="504" m="entertainment" t="n" />
+<w c="art" e="hit" i="505" m="hit" t="n" />
+<w c="art" e="obraz" i="506" m="image" t="n" />
+<w c="art" e="film" i="507" m="movie" t="n" />
+<w c="art" e="hudba" i="508" m="music" t="n" />
+<w c="art" e="nota" i="509" m="note" t="n" />
+<w c="art" e="orchestr" i="510" m="orchestra" t="n" />
+<w c="art" e="barva" i="511" m="paint" t="n" />
+<w c="art" e="obraz; malba" i="512" m="painting" t="n" />
+<w c="art" e="obraz; obrázek" i="513" m="picture" t="n" />
+<w c="art" e="báseň" i="514" m="poem" t="n" />
+<w c="art" e="poezie" i="515" m="poetry" t="n" />
+<w c="art" e="rytmus" i="516" m="rhythm" t="n" />
+<w c="art" e="píseň; písnička" i="517" m="song" t="n" />
+<w c="art" e="jeviště" i="518" m="stage" t="n" />
+<w c="art" e="styl" i="519" m="style" t="n" />
+<w c="art" e="móda" i="520" m="vogue" t="n" />
+<w c="article" e="určitý člen; ten; ta; to" i="521" m="the" t="" />
+<w c="business" e="účet" i="522" m="account" t="n" />
+<w c="business" e="výhoda" i="523" m="advantage" t="n" />
+<w c="business" e="propagace; reklama; inzerát" i="524" m="advertisement" t="n" />
+<w c="business" e="rada" i="525" m="advice" t="n" />
+<w c="business" e="kontrakt; smlouva; úmluva; dohoda" i="526" m="agreement" t="n" />
+<w c="business" e="pozornost" i="527" m="attention" t="n" />
+<w c="business" e="autorizace; oprávnění; pravomoc; autorita; zmocnění" i="528" m="authority" t="n" />
+<w c="business" e="bankovka" i="529" m="banknote" t="n" />
+<w c="business" e="obchod" i="530" m="bargain" t="n" />
+<w c="business" e="druh; značka; model; typ" i="531" m="brand" t="n" />
+<w c="business" e="obchod" i="532" m="business" t="n" />
+<w c="business" e="podnikatelka; obchodnice" i="533" m="businesswoman" t="n" />
+<w c="business" e="kapitál" i="534" m="capital" t="n" />
+<w c="business" e="drobné" i="535" m="change" t="n" />
+<w c="business" e="šek" i="536" m="check" t="n" />
+<w c="business" e="komise; výbor" i="537" m="committee" t="n" />
+<w c="business" e="podnik; firma" i="538" m="company" t="n" />
+<w c="business" e="konkurence" i="539" m="competition" t="n" />
+<w c="business" e="stížnost; obžaloba" i="540" m="complaint" t="n" />
+<w c="business" e="soutěž" i="541" m="contest" t="n" />
+<w c="business" e="smlouva; kontrakt" i="542" m="contract" t="n" />
+<w c="business" e="kopie; opis" i="543" m="copy" t="n" />
+<w c="business" e="náklady; výdaje" i="544" m="cost" t="n" />
+<w c="business" e="rada; koncil" i="545" m="council" t="n" />
+<w c="business" e="kurz; školení" i="546" m="course" t="n" />
+<w c="business" e="zákazník; klient; odběratel" i="547" m="customer" t="n" />
+<w c="business" e="potřeba" i="548" m="demand" t="n" />
+<w c="business" e="odbor; oddělení; sekce" i="549" m="department" t="n" />
+<w c="business" e="návrh" i="550" m="design" t="n" />
+<w c="business" e="obtížnost" i="551" m="difficulty" t="n" />
+<w c="business" e="směr" i="552" m="direction" t="n" />
+<w c="business" e="manažer; řídící pracovník; ředitel; direktor; správce" i="553" m="director" t="n" />
+<w c="business" e="hospodářství; ekonomika" i="554" m="economy" t="n" />
+<w c="business" e="prostředí" i="555" m="environment" t="n" />
+<w c="business" e="zkušenost" i="556" m="experience" t="n" />
+<w c="business" e="firma" i="557" m="firm" t="n" />
+<w c="business" e="formulář; tiskopis" i="558" m="form" t="n" />
+<w c="business" e="seskupení; skupina" i="559" m="group" t="n" />
+<w c="business" e="pomoc; asistence; výpomoc; podpora" i="560" m="help" t="n" />
+<w c="business" e="dovolená; prázdniny" i="561" m="holiday" t="n" />
+<w c="business" e="výdělek; příjem" i="562" m="income" t="n" />
+<w c="business" e="průmysl" i="563" m="industry" t="n" />
+<w c="business" e="pojištění" i="564" m="insurance" t="n" />
+<w c="business" e="úrok" i="565" m="interest" t="n" />
+<w c="business" e="faktura; účet" i="566" m="invoice" t="n" />
+<w c="business" e="úloha; práce; úkol" i="567" m="job" t="n" />
+<w c="business" e="zákon" i="568" m="law" t="n" />
+<w c="business" e="dovolená" i="569" m="leave" t="n" />
+<w c="business" e="ztráta" i="570" m="loss" t="n" />
+<w c="business" e="management; řízení; vedení" i="571" m="management" t="n" />
+<w c="business" e="značka; znak" i="572" m="marker" t="n" />
+<w c="business" e="trh" i="573" m="market" t="n" />
+<w c="business" e="materiál; hmota" i="574" m="material" t="n" />
+<w c="business" e="střední hodnota; průměr" i="575" m="mean" t="n" />
+<w c="business" e="setkání; schůzka" i="576" m="meeting" t="n" />
+<w c="business" e="peníze" i="577" m="money" t="n" />
+<w c="business" e="zaměstnání; práce" i="578" m="occupation" t="n" />
+<w c="business" e="nabídka" i="579" m="offer" t="n" />
+<w c="business" e="kancelář" i="580" m="office" t="n" />
+<w c="business" e="úředník" i="581" m="officer" t="n" />
+<w c="business" e="operace" i="582" m="operation" t="n" />
+<w c="business" e="vlastník; držitel; majitel" i="583" m="owner" t="n" />
+<w c="business" e="balení; svazek; balík" i="584" m="package" t="n" />
+<w c="business" e="oddělení; divize; oddíl" i="585" m="part" t="n" />
+<w c="business" e="platba" i="586" m="payment" t="n" />
+<w c="business" e="plán" i="587" m="plan" t="n" />
+<w c="business" e="cena" i="588" m="price" t="n" />
+<w c="business" e="problém" i="589" m="problem" t="n" />
+<w c="business" e="produkt" i="590" m="product" t="n" />
+<w c="business" e="výtěžek; profit; zisk" i="591" m="profit" t="n" />
+<w c="business" e="majetek; vlastnictví" i="592" m="property" t="n" />
+<w c="business" e="tarif; sazba" i="593" m="rate" t="n" />
+<w c="business" e="zůstatek; reziduum; zbytek" i="594" m="rest" t="n" />
+<w c="business" e="právo" i="595" m="right" t="n" />
+<w c="business" e="prodej; odbyt" i="596" m="sale" t="n" />
+<w c="business" e="oddíl; oddělení; sekce; úsek" i="597" m="section" t="n" />
+<w c="business" e="obsluha; služba; servis" i="598" m="service" t="n" />
+<w c="business" e="akcie" i="599" m="share" t="n" />
+<w c="business" e="obchod; krám" i="600" m="shop" t="n" />
+<w c="business" e="show; přehlídka; představení" i="601" m="show" t="n" />
+<w c="business" e="zručnost; dovednost" i="602" m="skill" t="n" />
+<w c="business" e="zaměstnanci; personál; štáb" i="603" m="staff" t="n" />
+<w c="business" e="struktura" i="604" m="structure" t="n" />
+<w c="business" e="úspěch" i="605" m="success" t="n" />
+<w c="business" e="podpora; opora" i="606" m="support" t="n" />
+<w c="business" e="tabulka" i="607" m="table" t="n" />
+<w c="business" e="daň; zdanění" i="608" m="tax" t="n" />
+<w c="business" e="družstvo; tým; mužstvo" i="609" m="team" t="n" />
+<w c="business" e="obchod" i="610" m="trade" t="n" />
+<w c="business" e="hodnota; cena" i="611" m="value" t="n" />
+<w c="business" e="odměna" i="612" m="wages" t="n" />
+<w c="business" e="práce" i="613" m="work" t="n" />
+<w c="business" e="pracovník; pracující" i="614" m="worker" t="n" />
+<w c="city" e="letiště" i="615" m="airport" t="n" />
+<w c="city" e="banka" i="616" m="bank" t="n" />
+<w c="city" e="most" i="617" m="bridge" t="n" />
+<w c="city" e="stavba; budova; dům" i="618" m="building" t="n" />
+<w c="city" e="hlavní město" i="619" m="capital" t="n" />
+<w c="city" e="hrad" i="620" m="castle" t="n" />
+<w c="city" e="kostel; chrám" i="621" m="church" t="n" />
+<w c="city" e="kino; biograf" i="622" m="cinema" t="n" />
+<w c="city" e="velkoměsto; metropole" i="623" m="city" t="n" />
+<w c="city" e="továrna" i="624" m="factory" t="n" />
+<w c="city" e="byt" i="625" m="flat" t="n" />
+<w c="city" e="nemocnice; ošetřovna" i="626" m="hospital" t="n" />
+<w c="city" e="hotel" i="627" m="hotel" t="n" />
+<w c="city" e="knihovna" i="628" m="library" t="n" />
+<w c="city" e="muzeum" i="629" m="museum" t="n" />
+<w c="city" e="park" i="630" m="park" t="n" />
+<w c="city" e="vězení" i="631" m="prison" t="n" />
+<w c="city" e="restaurace" i="632" m="restaurant" t="n" />
+<w c="city" e="silnice; cesta" i="633" m="road" t="n" />
+<w c="city" e="škola" i="634" m="school" t="n" />
+<w c="city" e="stanice" i="635" m="station" t="n" />
+<w c="city" e="ulice" i="636" m="street" t="n" />
+<w c="city" e="konstrukce; stavba; struktura" i="637" m="structure" t="n" />
+<w c="city" e="podzemní dráha; metro" i="638" m="subway" t="n" />
+<w c="city" e="supermarket" i="639" m="supermarket" t="n" />
+<w c="city" e="divadlo" i="640" m="theater" t="n" />
+<w c="city" e="město" i="641" m="town" t="n" />
+<w c="city" e="univerzita" i="642" m="university" t="n" />
+<w c="city" e="vesnice" i="643" m="village" t="n" />
+<w c="clothes" e="kabelka" i="644" m="bag" t="n" />
+<w c="clothes" e="bota" i="645" m="boot" t="n" />
+<w c="clothes" e="látka; tkanina; textil" i="646" m="cloth" t="n" />
+<w c="clothes" e="oblečení" i="647" m="clothing" t="n" />
+<w c="clothes" e="kabát" i="648" m="coat" t="n" />
+<w c="clothes" e="límec" i="649" m="collar" t="n" />
+<w c="clothes" e="klobouk" i="650" m="hat" t="n" />
+<w c="clothes" e="kabát; bunda" i="651" m="jacket" t="n" />
+<w c="clothes" e="skvost; klenot; šperk; drahokam; drahý kámen" i="652" m="jewel" t="n" />
+<w c="clothes" e="prsten" i="653" m="ring" t="n" />
+<w c="clothes" e="košile" i="654" m="shirt" t="n" />
+<w c="clothes" e="střevíc; bota; obuv" i="655" m="shoe" t="n" />
+<w c="clothes" e="sukně" i="656" m="skirt" t="n" />
+<w c="clothes" e="ponožka" i="657" m="sock" t="n" />
+<w c="clothes" e="kufr" i="658" m="suitcase" t="n" />
+<w c="clothes" e="kravata; vázanka" i="659" m="tie" t="n" />
+<w c="colors" e="černý" i="660" m="black" t="adj" />
+<w c="colors" e="modrý" i="661" m="blue" t="adj" />
+<w c="colors" e="hnědý" i="662" m="brown" t="adj" />
+<w c="colors" e="šedý" i="663" m="gray" t="adj" />
+<w c="colors" e="zelený" i="664" m="green" t="adj" />
+<w c="colors" e="oranžový" i="665" m="orange" t="adj" />
+<w c="colors" e="růžový" i="666" m="pink" t="adj" />
+<w c="colors" e="červený; rudý; šarlatový" i="667" m="red" t="adj" />
+<w c="colors" e="fialový" i="668" m="violet" t="adj" />
+<w c="colors" e="bílý" i="669" m="white" t="adj" />
+<w c="colors" e="žlutý; žloutkově žlutý" i="670" m="yellow" t="adj" />
+<w c="communication" e="proklamace; prohlášení; oznámení" i="671" m="announcement" t="n" />
+<w c="communication" e="odpověď" i="672" m="answer" t="n" />
+<w c="communication" e="schválení; souhlas" i="673" m="approval" t="n" />
+<w c="communication" e="spor; kontroverze" i="674" m="argument" t="n" />
+<w c="communication" e="argument" i="675" m="argument" t="n" />
+<w c="communication" e="kniha" i="676" m="book" t="n" />
+<w c="communication" e="telefonát; volání" i="677" m="call" t="n" />
+<w c="communication" e="znak" i="678" m="character" t="n" />
+<w c="communication" e="křik; výkřik; volání; pokřik" i="679" m="cry" t="n" />
+<w c="communication" e="informace; data" i="680" m="data" t="n" />
+<w c="communication" e="závěr; rozhodnutí; úsudek; usnesení" i="681" m="decision" t="n" />
+<w c="communication" e="slovník; lexikon" i="682" m="dictionary" t="n" />
+<w c="communication" e="diskuze" i="683" m="discussion" t="n" />
+<w c="communication" e="pochybnost; nejistota; pochyba" i="684" m="doubt" t="n" />
+<w c="communication" e="zážitek" i="685" m="experience" t="n" />
+<w c="communication" e="pohled" i="686" m="expression" t="n" />
+<w c="communication" e="pocit" i="687" m="feeling" t="n" />
+<w c="communication" e="humor" i="688" m="humor" t="n" />
+<w c="communication" e="myšlenka; idea; představa; nápad" i="689" m="idea" t="n" />
+<w c="communication" e="informace" i="690" m="information" t="n" />
+<w c="communication" e="zájem" i="691" m="interest" t="n" />
+<w c="communication" e="rozhovor; interview" i="692" m="interview" t="n" />
+<w c="communication" e="jazyk; řeč" i="693" m="language" t="n" />
+<w c="communication" e="jazyk" i="694" m="language" t="n" />
+<w c="communication" e="písmeno" i="695" m="letter" t="n" />
+<w c="communication" e="dopis" i="696" m="letter" t="n" />
+<w c="communication" e="lež" i="697" m="lie" t="n" />
+<w c="communication" e="časopis; magazín" i="698" m="magazine" t="n" />
+<w c="communication" e="pošta" i="699" m="mail" t="n" />
+<w c="communication" e="vzpomínka" i="700" m="memory" t="n" />
+<w c="communication" e="paměť" i="701" m="memory" t="n" />
+<w c="communication" e="chyba" i="702" m="mistake" t="n" />
+<w c="communication" e="jméno; název" i="703" m="name" t="n" />
+<w c="communication" e="noviny" i="704" m="newspaper" t="n" />
+<w c="communication" e="poznámka" i="705" m="note" t="n" />
+<w c="communication" e="číslo" i="706" m="number" t="n" />
+<w c="communication" e="stanovisko; názor" i="707" m="opinion" t="n" />
+<w c="communication" e="strana" i="708" m="page" t="n" />
+<w c="communication" e="tečka; bod" i="709" m="point" t="n" />
+<w c="communication" e="výslovnost" i="710" m="pronunciation" t="n" />
+<w c="communication" e="návrh" i="711" m="proposal" t="n" />
+<w c="communication" e="protest" i="712" m="protest" t="n" />
+<w c="communication" e="otázka; dotaz" i="713" m="question" t="n" />
+<w c="communication" e="reakce" i="714" m="reaction" t="n" />
+<w c="communication" e="důvod" i="715" m="reason" t="n" />
+<w c="communication" e="relace; vztah" i="716" m="relation" t="n" />
+<w c="communication" e="požadavek; žádost; prosba" i="717" m="request" t="n" />
+<w c="communication" e="tajemství" i="718" m="secret" t="n" />
+<w c="communication" e="věta" i="719" m="sentence" t="n" />
+<w c="communication" e="podoba; tvar" i="720" m="shape" t="n" />
+<w c="communication" e="znaménko" i="721" m="sign" t="n" />
+<w c="communication" e="mluva; řeč" i="722" m="speech" t="n" />
+<w c="communication" e="pravopis" i="723" m="spelling" t="n" />
+<w c="communication" e="kritérium; standard; měřítko; norma; míra" i="724" m="standard" t="n" />
+<w c="communication" e="výpověď; tvrzení" i="725" m="statement" t="n" />
+<w c="communication" e="námět; téma" i="726" m="subject" t="n" />
+<w c="communication" e="návrh" i="727" m="suggestion" t="n" />
+<w c="communication" e="hlas" i="728" m="voice" t="n" />
+<w c="communication" e="slovo" i="729" m="word" t="n" />
+<w c="communication" e="písmo" i="730" m="writing" t="n" />
+<w c="conjunction" e="a" i="731" m="and" t="conj" />
+<w c="conjunction" e="poněvadž; protože; neboť" i="732" m="because" t="conj" />
+<w c="conjunction" e="protože" i="733" m="for" t="conj" />
+<w c="conjunction" e="jestli; když; kdyby; jestliže; -li" i="734" m="if" t="conj" />
+<w c="conjunction" e="nebo" i="735" m="or" t="conj" />
+<w c="conjunction" e="než" i="736" m="than" t="conj" />
+<w c="conjunction" e="dokud" i="737" m="until" t="conj" />
+<w c="conjunction" e="kdykoli; kdykoliv; vždycky" i="738" m="whenever" t="conj" />
+<w c="containers" e="pytel; vak; taška" i="739" m="bag" t="n" />
+<w c="containers" e="košík" i="740" m="basket" t="n" />
+<w c="containers" e="láhev" i="741" m="bottle" t="n" />
+<w c="containers" e="krabice; bedna" i="742" m="box" t="n" />
+<w c="containers" e="plechovka; konzerva" i="743" m="can" t="n" />
+<w c="containers" e="šálek; hrneček; hrnek" i="744" m="cup" t="n" />
+<w c="containers" e="sklenice; sklenička; sklenka" i="745" m="glass" t="n" />
+<w c="containers" e="talíř" i="746" m="plate" t="n" />
+<w c="conversation" e="nevím" i="747" m="I don't know" t="" />
+<w c="conversation" e="nerozumím" i="748" m="I don't understand" t="" />
+<w c="conversation" e="na zdraví" i="749" m="cheers" t="" />
+<w c="conversation" e="mluvíte anglicky" i="750" m="do you speak English" t="" />
+<w c="conversation" e="dobrý den" i="751" m="good day" t="" />
+<w c="conversation" e="hodně štěstí" i="752" m="good luck" t="" />
+<w c="conversation" e="všechno nejlepší" i="753" m="happy birthday" t="" />
+<w c="conversation" e="ahoj; nazdar; čau" i="754" m="hello" t="" />
+<w c="conversation" e="jak se máš" i="755" m="how are you" t="" />
+<w c="conversation" e="kolik stojí" i="756" m="how much is it" t="" />
+<w c="conversation" e="mokcrát děkuji" i="757" m="many thanks" t="" />
+<w c="conversation" e="jmenuji se" i="758" m="my name is" t="" />
+<w c="conversation" e="ne" i="759" m="no" t="" />
+<w c="conversation" e="promiň" i="760" m="sorry" t="" />
+<w c="conversation" e="prosím" i="761" m="sorry" t="" />
+<w c="conversation" e="děkuji pěkně" i="762" m="thank you very much" t="" />
+<w c="conversation" e="ano" i="763" m="yes" t="" />
+<w c="conversation" e="není zač" i="764" m="you're welcome" t="" />
+<w c="countries" e="Čína" i="765" m="China" t="n" />
+<w c="countries" e="Česká republika" i="766" m="Czech Republic" t="n" />
+<w c="countries" e="Francie" i="767" m="France" t="n" />
+<w c="countries" e="Německo" i="768" m="Germany" t="n" />
+<w c="countries" e="Indie" i="769" m="India" t="n" />
+<w c="countries" e="Itálie" i="770" m="Italy" t="n" />
+<w c="countries" e="Japonsko" i="771" m="Japan" t="n" />
+<w c="countries" e="Španělsko" i="772" m="Spain" t="n" />
+<w c="countries" e="Británie" i="773" m="United Kingdom" t="n" />
+<w c="countries" e="USA; Spojené státy americké" i="774" m="United States" t="n" />
+<w c="devices" e="fotoaparát; foťák" i="775" m="camera" t="n" />
+<w c="devices" e="mobilní telefon; mobil" i="776" m="cellphone" t="n" />
+<w c="devices" e="hodiny" i="777" m="clock" t="n" />
+<w c="devices" e="počítač" i="778" m="computer" t="n" />
+<w c="devices" e="elevátor; výtah" i="779" m="elevator" t="n" />
+<w c="devices" e="motor" i="780" m="engine" t="n" />
+<w c="devices" e="nástroj; instrument; přístroj" i="781" m="instrument" t="n" />
+<w c="devices" e="stroj" i="782" m="machine" t="n" />
+<w c="devices" e="trouba; pec" i="783" m="oven" t="n" />
+<w c="devices" e="televize" i="784" m="television" t="n" />
+<w c="devices" e="kamera" i="785" m="television camera" t="n" />
+<w c="devices" e="hodinky" i="786" m="watch" t="n" />
+<w c="drinks" e="pivo" i="787" m="beer" t="n" />
+<w c="drinks" e="káva" i="788" m="coffee" t="n" />
+<w c="drinks" e="nápoj; pití" i="789" m="drink" t="n" />
+<w c="drinks" e="mléko" i="790" m="milk" t="n" />
+<w c="drinks" e="mléčný koktejl" i="791" m="milkshake" t="n" />
+<w c="drinks" e="čaj" i="792" m="tea" t="n" />
+<w c="drinks" e="voda" i="793" m="water" t="n" />
+<w c="drinks" e="víno" i="794" m="wine" t="n" />
+<w c="education" e="ročník; třída" i="795" m="class" t="n" />
+<w c="education" e="vzdělání" i="796" m="education" t="n" />
+<w c="education" e="výchova" i="797" m="education" t="n" />
+<w c="education" e="vzdělávání; učení; pedagogie; školství; pedagogika; vzdělání; výuka; vyučování" i="798" m="education" t="n" />
+<w c="education" e="zkouška" i="799" m="examination" t="n" />
+<w c="education" e="známka" i="800" m="grade" t="n" />
+<w c="education" e="vědomosti; znalosti" i="801" m="knowledge" t="n" />
+<w c="education" e="student; žák" i="802" m="student" t="n" />
+<w c="education" e="instruktor; cvičitel; učitel" i="803" m="teacher" t="n" />
+<w c="education" e="vzdělávání; výcvik" i="804" m="training" t="n" />
+<w c="environment" e="kyselý déšť" i="805" m="acid rain" t="n" />
+<w c="environment" e="atmosféra" i="806" m="atmosphere" t="n" />
+<w c="environment" e="klimatické změny" i="807" m="climate change" t="n" />
+<w c="environment" e="skládka" i="808" m="dump" t="n" />
+<w c="environment" e="ekologie" i="809" m="ecology" t="n" />
+<w c="environment" e="okolí; prostředí; životní prostředí" i="810" m="environment" t="n" />
+<w c="environment" e="fosilní palivo" i="811" m="fossil fuel" t="n" />
+<w c="environment" e="globální oteplování" i="812" m="global warming" t="n" />
+<w c="environment" e="skleníkový efekt" i="813" m="greenhouse effect" t="n" />
+<w c="environment" e="důl" i="814" m="mine" t="n" />
+<w c="environment" e="ozón; ozon" i="815" m="ozone" t="n" />
+<w c="environment" e="znečištění" i="816" m="pollution" t="n" />
+<w c="environment" e="recyklace" i="817" m="recycling" t="n" />
+<w c="environment" e="smog" i="818" m="smog" t="n" />
+<w c="environment" e="odpad" i="819" m="waste" t="n" />
+<w c="family" e="dítě; miminko; nemluvně; kojenec" i="820" m="baby" t="n" />
+<w c="family" e="narození; zrození" i="821" m="birth" t="n" />
+<w c="family" e="narozeniny" i="822" m="birthday" t="n" />
+<w c="family" e="kluk; chlapec; hoch" i="823" m="boy" t="n" />
+<w c="family" e="bratr" i="824" m="brother" t="n" />
+<w c="family" e="dítě" i="825" m="child" t="n" />
+<w c="family" e="dcera" i="826" m="daughter" t="n" />
+<w c="family" e="úmrtí; smrt" i="827" m="death" t="n" />
+<w c="family" e="rodina" i="828" m="family" t="n" />
+<w c="family" e="otec" i="829" m="father" t="n" />
+<w c="family" e="přítel; kamarád; přítelkyně; kamarádka" i="830" m="friend" t="n" />
+<w c="family" e="dívka; děvče; holka; slečna" i="831" m="girl" t="n" />
+<w c="family" e="dědeček; děda" i="832" m="grandfather" t="n" />
+<w c="family" e="člověk; jedinec; osoba" i="833" m="human" t="n" />
+<w c="family" e="manžel" i="834" m="husband" t="n" />
+<w c="family" e="život" i="835" m="life" t="n" />
+<w c="family" e="muž; chlap" i="836" m="man" t="n" />
+<w c="family" e="manželství" i="837" m="marriage" t="n" />
+<w c="family" e="matka" i="838" m="mother" t="n" />
+<w c="family" e="soused" i="839" m="neighbor" t="n" />
+<w c="family" e="rodič" i="840" m="parent" t="n" />
+<w c="family" e="jedinec; člověk; osoba" i="841" m="person" t="n" />
+<w c="family" e="příbuzenský vztah" i="842" m="relationship" t="n" />
+<w c="family" e="sestra" i="843" m="sister" t="n" />
+<w c="family" e="syn" i="844" m="son" t="n" />
+<w c="family" e="svatba; sňatek" i="845" m="wedding" t="n" />
+<w c="family" e="svatba" i="846" m="wedding" t="n" />
+<w c="family" e="manželka; žena; choť" i="847" m="wife" t="n" />
+<w c="family" e="žena" i="848" m="woman" t="n" />
+<w c="feelings" e="strach" i="849" m="fear" t="n" />
+<w c="feelings" e="nenávist" i="850" m="hate" t="n" />
+<w c="feelings" e="láska" i="851" m="love" t="n" />
+<w c="feelings" e="potěšení" i="852" m="pleasure" t="n" />
+<w c="feelings" e="naděje" i="853" m="promise" t="n" />
+<w c="food" e="chléb; chleba" i="854" m="bread" t="n" />
+<w c="food" e="snídaně" i="855" m="breakfast" t="n" />
+<w c="food" e="máslo" i="856" m="butter" t="n" />
+<w c="food" e="zákusek; koláč" i="857" m="cake" t="n" />
+<w c="food" e="sýr" i="858" m="cheese" t="n" />
+<w c="food" e="čokoláda" i="859" m="chocolate" t="n" />
+<w c="food" e="pohár" i="860" m="cup" t="n" />
+<w c="food" e="vejce" i="861" m="egg" t="n" />
+<w c="food" e="potravina; potrava; živina; pokrm; jídlo" i="862" m="food" t="n" />
+<w c="food" e="vidlička" i="863" m="fork" t="n" />
+<w c="food" e="ovoce; plod" i="864" m="fruit" t="n" />
+<w c="food" e="nůž" i="865" m="knife" t="n" />
+<w c="food" e="oběd" i="866" m="lunch" t="n" />
+<w c="food" e="jídlo; pokrm" i="867" m="meal" t="n" />
+<w c="food" e="maso" i="868" m="meat" t="n" />
+<w c="food" e="olej" i="869" m="oil" t="n" />
+<w c="food" e="salát" i="870" m="salad" t="n" />
+<w c="food" e="sůl" i="871" m="salt" t="n" />
+<w c="food" e="sendvič" i="872" m="sandwich" t="n" />
+<w c="food" e="omáčka" i="873" m="sauce" t="n" />
+<w c="food" e="polévka" i="874" m="soup" t="n" />
+<w c="food" e="lžíce" i="875" m="spoon" t="n" />
+<w c="food" e="cukr" i="876" m="sugar" t="n" />
+<w c="food" e="sladkost" i="877" m="sweet" t="n" />
+<w c="fruits" e="jablko" i="878" m="apple" t="n" />
+<w c="fruits" e="meruňka" i="879" m="apricot" t="n" />
+<w c="fruits" e="banán" i="880" m="banana" t="n" />
+<w c="fruits" e="ostružina" i="881" m="blackberry" t="n" />
+<w c="fruits" e="třešeň" i="882" m="cherry" t="n" />
+<w c="fruits" e="citrón; citron" i="883" m="lemon" t="n" />
+<w c="fruits" e="ořech" i="884" m="nut" t="n" />
+<w c="fruits" e="pomeranč" i="885" m="orange" t="n" />
+<w c="fruits" e="broskev" i="886" m="peach" t="n" />
+<w c="fruits" e="hruška" i="887" m="pear" t="n" />
+<w c="fruits" e="ananas" i="888" m="pineapple" t="n" />
+<w c="fruits" e="bluma; slíva; švestka" i="889" m="plum" t="n" />
+<w c="fruits" e="malina" i="890" m="raspberry" t="n" />
+<w c="fruits" e="jahoda" i="891" m="strawberry" t="n" />
+<w c="furniture" e="lůžko; postel" i="892" m="bed" t="n" />
+<w c="furniture" e="koberec" i="893" m="carpet" t="n" />
+<w c="furniture" e="židle" i="894" m="chair" t="n" />
+<w c="furniture" e="skříň" i="895" m="cupboard" t="n" />
+<w c="furniture" e="závěs; opona; záclona" i="896" m="curtain" t="n" />
+<w c="furniture" e="psací stůl" i="897" m="desk" t="n" />
+<w c="furniture" e="zásuvka; šuplík" i="898" m="drawer" t="n" />
+<w c="furniture" e="křeslo" i="899" m="seat" t="n" />
+<w c="furniture" e="police" i="900" m="shelf" t="n" />
+<w c="furniture" e="dřez" i="901" m="sink" t="n" />
+<w c="furniture" e="stůl; stolek" i="902" m="table" t="n" />
+<w c="geography" e="Země" i="903" m="Earth" t="n" />
+<w c="geography" e="měsíc" i="904" m="Moon" t="n" />
+<w c="geography" e="břeh" i="905" m="bank" t="n" />
+<w c="geography" e="pláž" i="906" m="beach" t="n" />
+<w c="geography" e="východ" i="907" m="east" t="n" />
+<w c="geography" e="pahorek; kopec" i="908" m="hill" t="n" />
+<w c="geography" e="ostrov" i="909" m="island" t="n" />
+<w c="geography" e="jezero" i="910" m="lake" t="n" />
+<w c="geography" e="pevnina; souš; zem" i="911" m="land" t="n" />
+<w c="geography" e="mapa" i="912" m="map" t="n" />
+<w c="geography" e="sever" i="913" m="north" t="n" />
+<w c="geography" e="rovina" i="914" m="plain" t="n" />
+<w c="geography" e="krajina; region; oblast" i="915" m="region" t="n" />
+<w c="geography" e="řeka" i="916" m="river" t="n" />
+<w c="geography" e="moře" i="917" m="sea" t="n" />
+<w c="geography" e="jih" i="918" m="south" t="n" />
+<w c="geography" e="vesmír" i="919" m="space" t="n" />
+<w c="geography" e="hvězda" i="920" m="star" t="n" />
+<w c="geography" e="slunce" i="921" m="sun" t="n" />
+<w c="geography" e="západ" i="922" m="west" t="n" />
+<w c="house" e="adresa" i="923" m="address" t="n" />
+<w c="house" e="koupelna" i="924" m="bathroom" t="n" />
+<w c="house" e="ložnice" i="925" m="bedroom" t="n" />
+<w c="house" e="cihla" i="926" m="brick" t="n" />
+<w c="house" e="dveře" i="927" m="door" t="n" />
+<w c="house" e="podlaha; zem" i="928" m="floor" t="n" />
+<w c="house" e="patro; podlaží; poschodí" i="929" m="floor" t="n" />
+<w c="house" e="nábytek" i="930" m="furniture" t="n" />
+<w c="house" e="garáž" i="931" m="garage" t="n" />
+<w c="house" e="zahrada" i="932" m="garden" t="n" />
+<w c="house" e="brána" i="933" m="gate" t="n" />
+<w c="house" e="hala; vestibul; předsíň; foyer" i="934" m="hall" t="n" />
+<w c="house" e="domov; bydliště" i="935" m="home" t="n" />
+<w c="house" e="dům" i="936" m="house" t="n" />
+<w c="house" e="kuchyně; kuchyň" i="937" m="kitchen" t="n" />
+<w c="house" e="střecha" i="938" m="roof" t="n" />
+<w c="house" e="místnost; pokoj" i="939" m="room" t="n" />
+<w c="house" e="sprcha" i="940" m="shower" t="n" />
+<w c="house" e="schod" i="941" m="step" t="n" />
+<w c="house" e="záchod; WC; toaleta" i="942" m="toilet" t="n" />
+<w c="house" e="stěna; zeď" i="943" m="wall" t="n" />
+<w c="house" e="studna" i="944" m="well" t="n" />
+<w c="house" e="okno" i="945" m="window" t="n" />
+<w c="languages" e="čínština" i="946" m="Chinese" t="n" />
+<w c="languages" e="angličtina" i="947" m="English" t="n" />
+<w c="languages" e="francouzština" i="948" m="French" t="n" />
+<w c="languages" e="němčina" i="949" m="German" t="n" />
+<w c="languages" e="hindština" i="950" m="Hindi" t="n" />
+<w c="languages" e="italština" i="951" m="Italian" t="n" />
+<w c="languages" e="japonština" i="952" m="Japanese" t="n" />
+<w c="languages" e="ruština" i="953" m="Russian" t="n" />
+<w c="languages" e="španělština" i="954" m="Spanish" t="n" />
+<w c="materials" e="kyselina" i="955" m="acid" t="n" />
+<w c="materials" e="chemikálie" i="956" m="chemical" t="n" />
+<w c="materials" e="prvek" i="957" m="chemical element" t="n" />
+<w c="materials" e="uhlí" i="958" m="coal" t="n" />
+<w c="materials" e="bavlna" i="959" m="cotton" t="n" />
+<w c="materials" e="prach" i="960" m="dust" t="n" />
+<w c="materials" e="zemina; půda; země" i="961" m="earth" t="n" />
+<w c="materials" e="tuk" i="962" m="fat" t="n" />
+<w c="materials" e="sklo" i="963" m="glass" t="n" />
+<w c="materials" e="klíh; lep; lepidlo" i="964" m="glue" t="n" />
+<w c="materials" e="zlato" i="965" m="gold" t="n" />
+<w c="materials" e="zrnko" i="966" m="grain" t="n" />
+<w c="materials" e="led" i="967" m="ice" t="n" />
+<w c="materials" e="inkoust" i="968" m="ink" t="n" />
+<w c="materials" e="železo" i="969" m="iron" t="n" />
+<w c="materials" e="olovo" i="970" m="lead" t="n" />
+<w c="materials" e="kůže; useň" i="971" m="leather" t="n" />
+<w c="materials" e="tekutina; kapalina" i="972" m="liquid" t="n" />
+<w c="materials" e="hmota; látka" i="973" m="matter" t="n" />
+<w c="materials" e="kov" i="974" m="metallic element" t="n" />
+<w c="materials" e="ropa" i="975" m="oil" t="n" />
+<w c="materials" e="papír" i="976" m="paper" t="n" />
+<w c="materials" e="jed" i="977" m="poison" t="n" />
+<w c="materials" e="prach; prášek" i="978" m="powder" t="n" />
+<w c="materials" e="písek" i="979" m="sand" t="n" />
+<w c="materials" e="hedvábí" i="980" m="silk" t="n" />
+<w c="materials" e="stříbro" i="981" m="silver" t="n" />
+<w c="materials" e="mýdlo" i="982" m="soap" t="n" />
+<w c="materials" e="ocel" i="983" m="steel" t="n" />
+<w c="materials" e="dřevo" i="984" m="wood" t="n" />
+<w c="materials" e="vlna" i="985" m="wool" t="n" />
+<w c="mathematics" e="sčítání" i="986" m="addition" t="n" />
+<w c="mathematics" e="úhel" i="987" m="angle" t="n" />
+<w c="mathematics" e="prostor; plocha" i="988" m="area" t="n" />
+<w c="mathematics" e="střed" i="989" m="center" t="n" />
+<w c="mathematics" e="kruh" i="990" m="circle" t="n" />
+<w c="mathematics" e="prvek; element" i="991" m="component" t="n" />
+<w c="mathematics" e="křivka" i="992" m="curve" t="n" />
+<w c="mathematics" e="stupeň" i="993" m="degree" t="n" />
+<w c="mathematics" e="úroveň; stupeň; hladina" i="994" m="degree" t="n" />
+<w c="mathematics" e="rozdíl" i="995" m="difference" t="n" />
+<w c="mathematics" e="vzdálenost" i="996" m="distance" t="n" />
+<w c="mathematics" e="segmentace; rozdělení" i="997" m="division" t="n" />
+<w c="mathematics" e="hrana" i="998" m="edge" t="n" />
+<w c="mathematics" e="funkce" i="999" m="function" t="n" />
+<w c="mathematics" e="polovice; polovička; polovina; půlka" i="1000" m="half" t="n" />
+<w c="mathematics" e="limit; hranice; mez" i="1001" m="limit" t="n" />
+<w c="mathematics" e="linie; čára" i="1002" m="line" t="n" />
+<w c="mathematics" e="síť" i="1003" m="net" t="n" />
+<w c="mathematics" e="pořádek" i="1004" m="order" t="n" />
+<w c="mathematics" e="vnějšek" i="1005" m="outside" t="n" />
+<w c="mathematics" e="procento" i="1006" m="percent" t="n" />
+<w c="mathematics" e="funkce; účel" i="1007" m="purpose" t="n" />
+<w c="mathematics" e="výsledek" i="1008" m="result" t="n" />
+<w c="mathematics" e="odmocnina" i="1009" m="root" t="n" />
+<w c="mathematics" e="pravidlo" i="1010" m="rule" t="n" />
+<w c="mathematics" e="množina" i="1011" m="set" t="n" />
+<w c="mathematics" e="strana" i="1012" m="side" t="n" />
+<w c="mathematics" e="čtverec" i="1013" m="square" t="n" />
+<w c="mathematics" e="druhá mocnina; kvadrát" i="1014" m="square" t="n" />
+<w c="mathematics" e="nahrazení; substituce; nahrazování; záměna" i="1015" m="substitution" t="n" />
+<w c="mathematics" e="povrch" i="1016" m="surface" t="n" />
+<w c="mathematics" e="součet; suma" i="1017" m="total" t="n" />
+<w c="medicine" e="péče" i="1018" m="care" t="n" />
+<w c="medicine" e="nachlazení; rýma" i="1019" m="cold" t="n" />
+<w c="medicine" e="kašlání" i="1020" m="cough" t="n" />
+<w c="medicine" e="nemoc; onemocnění" i="1021" m="disease" t="n" />
+<w c="medicine" e="doktor; lékař" i="1022" m="doctor" t="n" />
+<w c="medicine" e="zdraví" i="1023" m="health" t="n" />
+<w c="medicine" e="menstruace; měsíčky" i="1024" m="menstruation" t="n" />
+<w c="medicine" e="ošetřovatelka; zdravotní sestra" i="1025" m="nurse" t="n" />
+<w c="medicine" e="chirurgický zákrok; operace" i="1026" m="operation" t="n" />
+<w c="medicine" e="bolest" i="1027" m="pain" t="n" />
+<w c="medicine" e="pacient" i="1028" m="patient" t="n" />
+<w c="medicine" e="steh" i="1029" m="stitch" t="n" />
+<w c="nature" e="vzduch; ovzduší" i="1030" m="air" t="n" />
+<w c="nature" e="zvíře; živočich; stvoření; bytost; tvor" i="1031" m="animal" t="n" />
+<w c="nature" e="větev" i="1032" m="branch" t="n" />
+<w c="nature" e="tok; proud; proudění" i="1033" m="current" t="n" />
+<w c="nature" e="evoluce; vývoj" i="1034" m="evolution" t="n" />
+<w c="nature" e="farma; statek" i="1035" m="farm" t="n" />
+<w c="nature" e="pole; lán" i="1036" m="field" t="n" />
+<w c="nature" e="oheň; plamen" i="1037" m="fire" t="n" />
+<w c="nature" e="květina" i="1038" m="flower" t="n" />
+<w c="nature" e="les" i="1039" m="forest" t="n" />
+<w c="nature" e="tráva" i="1040" m="grass" t="n" />
+<w c="nature" e="list; listí; listoví; lupen" i="1041" m="leaf" t="n" />
+<w c="nature" e="život" i="1042" m="life" t="n" />
+<w c="nature" e="vlhkost; vláha" i="1043" m="moisture" t="n" />
+<w c="nature" e="příroda" i="1044" m="nature" t="n" />
+<w c="nature" e="rostlina" i="1045" m="plant" t="n" />
+<w c="nature" e="kořen" i="1046" m="root" t="n" />
+<w c="nature" e="pohlaví" i="1047" m="sex" t="n" />
+<w c="nature" e="obloha" i="1048" m="sky" t="n" />
+<w c="nature" e="spánek" i="1049" m="sleep" t="n" />
+<w c="nature" e="vůně; zápach; aroma" i="1050" m="smell" t="n" />
+<w c="nature" e="kouř; dým" i="1051" m="smoke" t="n" />
+<w c="nature" e="zřídlo; pramen; zdroj" i="1052" m="spring" t="n" />
+<w c="nature" e="lodyha; stéblo; stonek" i="1053" m="stem" t="n" />
+<w c="nature" e="proud" i="1054" m="stream" t="n" />
+<w c="nature" e="strom" i="1055" m="tree" t="n" />
+<w c="nature" e="vlna" i="1056" m="wave" t="n" />
+<w c="nature" e="počasí" i="1057" m="weather" t="n" />
+<w c="nature" e="svět" i="1058" m="world" t="n" />
+<w c="numbers" e="pár" i="1059" m="couple" t="n" />
+<w c="numbers" e="osm" i="1060" m="eight" t="n" />
+<w c="numbers" e="osmnáct" i="1061" m="eighteen" t="n" />
+<w c="numbers" e="osmdesát" i="1062" m="eighty" t="n" />
+<w c="numbers" e="jedenáct" i="1063" m="eleven" t="n" />
+<w c="numbers" e="patnáct" i="1064" m="fifteen" t="n" />
+<w c="numbers" e="padesát" i="1065" m="fifty" t="n" />
+<w c="numbers" e="pět" i="1066" m="five" t="n" />
+<w c="numbers" e="čtyřicet" i="1067" m="forty" t="n" />
+<w c="numbers" e="čtyři" i="1068" m="four" t="n" />
+<w c="numbers" e="čtrnáct" i="1069" m="fourteen" t="n" />
+<w c="numbers" e="sto" i="1070" m="hundred" t="n" />
+<w c="numbers" e="milion; milión" i="1071" m="million" t="n" />
+<w c="numbers" e="devět" i="1072" m="nine" t="n" />
+<w c="numbers" e="devatenáct" i="1073" m="nineteen" t="n" />
+<w c="numbers" e="devadesát" i="1074" m="ninety" t="n" />
+<w c="numbers" e="nic; nula" i="1075" m="nothing" t="n" />
+<w c="numbers" e="jeden" i="1076" m="one" t="n" />
+<w c="numbers" e="sedm" i="1077" m="seven" t="n" />
+<w c="numbers" e="sedmnáct" i="1078" m="seventeen" t="n" />
+<w c="numbers" e="sedmdesát" i="1079" m="seventy" t="n" />
+<w c="numbers" e="šest" i="1080" m="six" t="n" />
+<w c="numbers" e="šestnáct" i="1081" m="sixteen" t="n" />
+<w c="numbers" e="šedesát" i="1082" m="sixty" t="n" />
+<w c="numbers" e="deset" i="1083" m="ten" t="n" />
+<w c="numbers" e="třetí" i="1084" m="third" t="n" />
+<w c="numbers" e="třináct" i="1085" m="thirteen" t="n" />
+<w c="numbers" e="třicet" i="1086" m="thirty" t="n" />
+<w c="numbers" e="tisíc" i="1087" m="thousand" t="n" />
+<w c="numbers" e="tisíc" i="1088" m="thousand" t="n" />
+<w c="numbers" e="tři" i="1089" m="three" t="n" />
+<w c="numbers" e="dvacet" i="1090" m="twenty" t="n" />
+<w c="numbers" e="dvě" i="1091" m="two" t="n" />
+<w c="objects" e="míč" i="1092" m="ball" t="n" />
+<w c="objects" e="čepel" i="1093" m="blade" t="n" />
+<w c="objects" e="deska" i="1094" m="board" t="n" />
+<w c="objects" e="karta" i="1095" m="card" t="n" />
+<w c="objects" e="řetěz" i="1096" m="chain" t="n" />
+<w c="objects" e="obušek; kyj" i="1097" m="club" t="n" />
+<w c="objects" e="kotouč; role; svitek" i="1098" m="coil" t="n" />
+<w c="objects" e="kryt; víko; obal" i="1099" m="cover" t="n" />
+<w c="objects" e="obálka" i="1100" m="envelope" t="n" />
+<w c="objects" e="péro; pírko; peří; pero" i="1101" m="feather" t="n" />
+<w c="objects" e="vlajka" i="1102" m="flag" t="n" />
+<w c="objects" e="rám; rámec; rámeček" i="1103" m="frame" t="n" />
+<w c="objects" e="topůrko; držadlo" i="1104" m="handle" t="n" />
+<w c="objects" e="jídelní lístek; menu" i="1105" m="menu" t="n" />
+<w c="objects" e="matice; matka" i="1106" m="nut" t="n" />
+<w c="objects" e="špendlík" i="1107" m="pin" t="n" />
+<w c="objects" e="trubka; roura; potrubí" i="1108" m="pipe" t="n" />
+<w c="objects" e="dárek; dar" i="1109" m="present" t="n" />
+<w c="objects" e="lano; provaz" i="1110" m="rope" t="n" />
+<w c="objects" e="plachta" i="1111" m="sail" t="n" />
+<w c="objects" e="semeno" i="1112" m="seed" t="n" />
+<w c="objects" e="poštovné; poštovní známka" i="1113" m="stamp" t="n" />
+<w c="objects" e="hůl; klacek; tyč" i="1114" m="stick" t="n" />
+<w c="objects" e="kámen" i="1115" m="stone" t="n" />
+<w c="objects" e="vstupenka; jízdenka; lístek" i="1116" m="ticket" t="n" />
+<w c="objects" e="kolo" i="1117" m="wheel" t="n" />
+<w c="objects" e="drát" i="1118" m="wire" t="n" />
+<w c="physics" e="rovnováha" i="1119" m="balance" t="n" />
+<w c="physics" e="náboj" i="1120" m="charge" t="n" />
+<w c="physics" e="energie" i="1121" m="energy" t="n" />
+<w c="physics" e="světlo" i="1122" m="light" t="n" />
+<w c="physics" e="hmota; masa" i="1123" m="mass" t="n" />
+<w c="physics" e="množství" i="1124" m="mass" t="n" />
+<w c="physics" e="měření" i="1125" m="measurement" t="n" />
+<w c="physics" e="zrcadlo" i="1126" m="mirror" t="n" />
+<w c="physics" e="pohyb" i="1127" m="movement" t="n" />
+<w c="physics" e="tlak" i="1128" m="pressure" t="n" />
+<w c="physics" e="proces" i="1129" m="process" t="n" />
+<w c="physics" e="rozměr; velikost" i="1130" m="size" t="n" />
+<w c="physics" e="zvuk; tón" i="1131" m="sound" t="n" />
+<w c="physics" e="pára" i="1132" m="steam" t="n" />
+<w c="physics" e="síla" i="1133" m="strength" t="n" />
+<w c="physics" e="čas" i="1134" m="time" t="n" />
+<w c="physics" e="jednotka" i="1135" m="unit" t="n" />
+<w c="physics" e="váha" i="1136" m="weight" t="n" />
+<w c="prepositions" e="proti" i="1137" m="against" t="prep" />
+<w c="prepositions" e="uprostřed; mezi" i="1138" m="among" t="prep" />
+<w c="prepositions" e="na" i="1139" m="at" t="prep" />
+<w c="prepositions" e="na" i="1140" m="at" t="prep" />
+<w c="prepositions" e="vedle" i="1141" m="beside" t="prep" />
+<w c="prepositions" e="během" i="1142" m="during" t="prep" />
+<w c="prepositions" e="pro" i="1143" m="for" t="prep" />
+<w c="prepositions" e="z; od" i="1144" m="from" t="prep" />
+<w c="prepositions" e="z; od" i="1145" m="from" t="prep" />
+<w c="prepositions" e="do" i="1146" m="into" t="prep" />
+<w c="prepositions" e="vyjádření druhého pádu" i="1147" m="of" t="prep" />
+<w c="prepositions" e="na" i="1148" m="on" t="prep" />
+<w c="prepositions" e="na" i="1149" m="on" t="prep" />
+<w c="prepositions" e="od té doby" i="1150" m="since" t="prep" />
+<w c="prepositions" e="k" i="1151" m="to" t="prep" />
+<w c="prepositions" e="s" i="1152" m="with" t="prep" />
+<w c="prepositions" e="s" i="1153" m="with" t="prep" />
+<w c="prepositions" e="bez" i="1154" m="without" t="prep" />
+<w c="professions" e="herec" i="1155" m="actor" t="n" />
+<w c="professions" e="herečka" i="1156" m="actress" t="n" />
+<w c="professions" e="umělec" i="1157" m="artist" t="n" />
+<w c="professions" e="obchodník" i="1158" m="businessman" t="n" />
+<w c="professions" e="kuchařka; kuchař" i="1159" m="cook" t="n" />
+<w c="professions" e="expert" i="1160" m="expert" t="n" />
+<w c="professions" e="generál" i="1161" m="general" t="n" />
+<w c="professions" e="žurnalista; novinář" i="1162" m="journalist" t="n" />
+<w c="professions" e="soudce" i="1163" m="judge" t="n" />
+<w c="professions" e="ministr" i="1164" m="minister" t="n" />
+<w c="professions" e="muzikant; hudebník" i="1165" m="musician" t="n" />
+<w c="professions" e="fotograf" i="1166" m="photographer" t="n" />
+<w c="professions" e="pilot" i="1167" m="pilot" t="n" />
+<w c="professions" e="policista" i="1168" m="policeman" t="n" />
+<w c="professions" e="politik" i="1169" m="politician" t="n" />
+<w c="professions" e="prezident" i="1170" m="president" t="n" />
+<w c="professions" e="profesionál; odborník" i="1171" m="professional" t="n" />
+<w c="professions" e="zástupce" i="1172" m="representative" t="n" />
+<w c="professions" e="námořník" i="1173" m="sailor" t="n" />
+<w c="professions" e="vědec" i="1174" m="scientist" t="n" />
+<w c="professions" e="sekretářka" i="1175" m="secretary" t="n" />
+<w c="professions" e="služebník; sluha" i="1176" m="servant" t="n" />
+<w c="professions" e="zpěvák; pěvec" i="1177" m="singer" t="n" />
+<w c="professions" e="voják; vojín" i="1178" m="soldier" t="n" />
+<w c="professions" e="spisovatel" i="1179" m="writer" t="n" />
+<w c="pronouns" e="kdokoli" i="1180" m="anyone" t="pron" />
+<w c="pronouns" e="cokoli" i="1181" m="anything" t="pron" />
+<w c="pronouns" e="všichni" i="1182" m="everybody" t="pron" />
+<w c="pronouns" e="vše" i="1183" m="everything" t="pron" />
+<w c="pronouns" e="on" i="1184" m="he" t="pron" />
+<w c="pronouns" e="její" i="1185" m="her" t="pron" />
+<w c="pronouns" e="sebe" i="1186" m="herself" t="pron" />
+<w c="pronouns" e="jemu" i="1187" m="him" t="pron" />
+<w c="pronouns" e="sebe" i="1188" m="himself" t="pron" />
+<w c="pronouns" e="jeho" i="1189" m="his" t="pron" />
+<w c="pronouns" e="to" i="1190" m="it" t="pron" />
+<w c="pronouns" e="samo; samo sebe" i="1191" m="itself" t="pron" />
+<w c="pronouns" e="mně" i="1192" m="me" t="pron" />
+<w c="pronouns" e="můj" i="1193" m="my" t="pron" />
+<w c="pronouns" e="náš; naše" i="1194" m="our" t="pron" />
+<w c="pronouns" e="ona" i="1195" m="she" t="pron" />
+<w c="pronouns" e="tamten" i="1196" m="that" t="pron" />
+<w c="pronouns" e="jejich" i="1197" m="their" t="pron" />
+<w c="pronouns" e="oni" i="1198" m="them" t="pron" />
+<w c="pronouns" e="tyto; tyhle" i="1199" m="these" t="pron" />
+<w c="pronouns" e="oni" i="1200" m="they" t="pron" />
+<w c="pronouns" e="ten; ta; tenhle; tuto" i="1201" m="this" t="pron" />
+<w c="pronouns" e="ty" i="1202" m="those" t="pron" />
+<w c="pronouns" e="nás" i="1203" m="us" t="pron" />
+<w c="pronouns" e="my" i="1204" m="we" t="pron" />
+<w c="pronouns" e="co" i="1205" m="what" t="pron" />
+<w c="pronouns" e="kdy" i="1206" m="when" t="pron" />
+<w c="pronouns" e="který" i="1207" m="which" t="pron" />
+<w c="pronouns" e="který" i="1208" m="which" t="pron" />
+<w c="pronouns" e="kdo" i="1209" m="who" t="pron" />
+<w c="pronouns" e="od koho; komu" i="1210" m="whom" t="pron" />
+<w c="pronouns" e="čí" i="1211" m="whose" t="pron" />
+<w c="pronouns" e="ty; Vy" i="1212" m="you" t="pron" />
+<w c="pronouns" e="tvůj; tvé; vaše; váš" i="1213" m="your" t="pron" />
+<w c="pronouns" e="se" i="1214" m="yourself" t="pron" />
+<w c="relations" e="milenec; kluk" i="1215" m="boyfriend" t="n" />
+<w c="relations" e="schůzka" i="1216" m="date" t="n" />
+<w c="relations" e="drahoušek; miláček" i="1217" m="dear" t="n" />
+<w c="relations" e="přítelkyně" i="1218" m="girlfriend" t="n" />
+<w c="relations" e="host" i="1219" m="guest" t="n" />
+<w c="relations" e="polibek; pusa; políbení" i="1220" m="kiss" t="n" />
+<w c="relations" e="večírek" i="1221" m="party" t="n" />
+<w c="relations" e="sex" i="1222" m="sex" t="n" />
+<w c="relations" e="úsměv" i="1223" m="smile" t="n" />
+<w c="relations" e="překvapení" i="1224" m="surprise" t="n" />
+<w c="relations" e="návštěva" i="1225" m="visit" t="n" />
+<w c="science" e="biologie" i="1226" m="biology" t="n" />
+<w c="science" e="příčina; důvod" i="1227" m="cause" t="n" />
+<w c="science" e="podstata; esence; základ; jádro" i="1228" m="center" t="n" />
+<w c="science" e="chemie" i="1229" m="chemistry" t="n" />
+<w c="science" e="porovnání; srovnání" i="1230" m="comparison" t="n" />
+<w c="science" e="následek; důsledek; konsekvence; výsledek; účinek; efekt" i="1231" m="consequence" t="n" />
+<w c="science" e="kontrola" i="1232" m="control" t="n" />
+<w c="science" e="disciplína; obor" i="1233" m="discipline" t="n" />
+<w c="science" e="objev" i="1234" m="discovery" t="n" />
+<w c="science" e="objev; objevení" i="1235" m="discovery" t="n" />
+<w c="science" e="událost" i="1236" m="event" t="n" />
+<w c="science" e="důkaz" i="1237" m="evidence" t="n" />
+<w c="science" e="příklad" i="1238" m="example" t="n" />
+<w c="science" e="fakt" i="1239" m="fact" t="n" />
+<w c="science" e="vynalezení; vynález; výmysl" i="1240" m="invention" t="n" />
+<w c="science" e="problém" i="1241" m="issue" t="n" />
+<w c="science" e="metoda" i="1242" m="method" t="n" />
+<w c="science" e="model" i="1243" m="model" t="n" />
+<w c="science" e="alternativa" i="1244" m="option" t="n" />
+<w c="science" e="fáza; stupeň; fáze" i="1245" m="phase" t="n" />
+<w c="science" e="procedura; pochod; postup; proces" i="1246" m="procedure" t="n" />
+<w c="science" e="produkce" i="1247" m="production" t="n" />
+<w c="science" e="program" i="1248" m="program" t="n" />
+<w c="science" e="projekt" i="1249" m="project" t="n" />
+<w c="science" e="dosah; rámec" i="1250" m="range" t="n" />
+<w c="science" e="výzkum; zkoumání; bádání" i="1251" m="research" t="n" />
+<w c="science" e="vyšetřování; šetření" i="1252" m="research" t="n" />
+<w c="science" e="věda" i="1253" m="science" t="n" />
+<w c="science" e="společnost" i="1254" m="society" t="n" />
+<w c="science" e="systém; soustava" i="1255" m="system" t="n" />
+<w c="science" e="technologie" i="1256" m="technology" t="n" />
+<w c="science" e="teorie" i="1257" m="theory" t="n" />
+<w c="science" e="tendence; trend" i="1258" m="trend" t="n" />
+<w c="science" e="problém; potíž" i="1259" m="trouble" t="n" />
+<w c="science" e="uživatel" i="1260" m="user" t="n" />
+<w c="society" e="armáda" i="1261" m="army" t="n" />
+<w c="society" e="základna" i="1262" m="base" t="n" />
+<w c="society" e="společnost; sdružení; spolek; klub; cech" i="1263" m="club" t="n" />
+<w c="society" e="společnost" i="1264" m="company" t="n" />
+<w c="society" e="země" i="1265" m="country" t="n" />
+<w c="society" e="soud" i="1266" m="court" t="n" />
+<w c="society" e="trestný čin; zločin; trestná činnost" i="1267" m="crime" t="n" />
+<w c="society" e="kultura" i="1268" m="culture" t="n" />
+<w c="society" e="demokracie; republika" i="1269" m="democracy" t="n" />
+<w c="society" e="nadvláda" i="1270" m="dominion" t="n" />
+<w c="society" e="volby; volba" i="1271" m="election" t="n" />
+<w c="society" e="existence; bytí" i="1272" m="existence" t="n" />
+<w c="society" e="žena" i="1273" m="female" t="n" />
+<w c="society" e="vláda" i="1274" m="government" t="n" />
+<w c="society" e="historie" i="1275" m="history" t="n" />
+<w c="society" e="jednotlivec" i="1276" m="individual" t="n" />
+<w c="society" e="instituce" i="1277" m="institution" t="n" />
+<w c="society" e="král" i="1278" m="king" t="n" />
+<w c="society" e="vůdce; vedoucí" i="1279" m="leader" t="n" />
+<w c="society" e="samec; muž" i="1280" m="male" t="n" />
+<w c="society" e="člen" i="1281" m="member" t="n" />
+<w c="society" e="národ" i="1282" m="nation" t="n" />
+<w c="society" e="novina; zprávy" i="1283" m="news" t="n" />
+<w c="society" e="hluk" i="1284" m="noise" t="n" />
+<w c="society" e="příkaz; rozkaz; povel" i="1285" m="order" t="n" />
+<w c="society" e="organizace" i="1286" m="organization" t="n" />
+<w c="society" e="průkazka" i="1287" m="pass" t="n" />
+<w c="society" e="cestovní pas" i="1288" m="passport" t="n" />
+<w c="society" e="mír" i="1289" m="peace" t="n" />
+<w c="society" e="lidé" i="1290" m="people" t="n" />
+<w c="society" e="policie" i="1291" m="police" t="n" />
+<w c="society" e="politika" i="1292" m="policy" t="n" />
+<w c="society" e="obyvatelstvo; populace" i="1293" m="population" t="n" />
+<w c="society" e="veřejnost; lid" i="1294" m="public" t="n" />
+<w c="society" e="trest" i="1295" m="punishment" t="n" />
+<w c="society" e="náboženství" i="1296" m="religion" t="n" />
+<w c="society" e="víra" i="1297" m="religion" t="n" />
+<w c="society" e="stát" i="1298" m="state" t="n" />
+<w c="society" e="titulek; nadpis" i="1299" m="title" t="n" />
+<w c="society" e="svaz; unie; sdružení" i="1300" m="union" t="n" />
+<w c="society" e="válka" i="1301" m="war" t="n" />
+<w c="society" e="vůle" i="1302" m="will" t="n" />
+<w c="society" e="poslední vůle; závěť" i="1303" m="will" t="n" />
+<w c="sports" e="vyznamenání" i="1304" m="award" t="n" />
+<w c="sports" e="baseball" i="1305" m="baseball" t="n" />
+<w c="sports" e="mistrovství; šampionát; přebor; titul" i="1306" m="championship" t="n" />
+<w c="sports" e="rival; soupeř; protivník; konkurent; sok" i="1307" m="competitor" t="n" />
+<w c="sports" e="cíl" i="1308" m="finish" t="n" />
+<w c="sports" e="fotbal" i="1309" m="football" t="n" />
+<w c="sports" e="hra" i="1310" m="game" t="n" />
+<w c="sports" e="gól" i="1311" m="goal" t="n" />
+<w c="sports" e="golf" i="1312" m="golf" t="n" />
+<w c="sports" e="zápas" i="1313" m="match" t="n" />
+<w c="sports" e="hráč" i="1314" m="player" t="n" />
+<w c="sports" e="rekord" i="1315" m="record" t="n" />
+<w c="sports" e="tenis" i="1316" m="tennis" t="n" />
+<w c="sports" e="vrh; hod" i="1317" m="throw" t="n" />
+<w c="sports" e="vítězství; výhra" i="1318" m="win" t="n" />
+<w c="time" e="duben" i="1319" m="April" t="n" />
+<w c="time" e="srpen" i="1320" m="August" t="n" />
+<w c="time" e="prosinec; Prosinec" i="1321" m="December" t="n" />
+<w c="time" e="únor" i="1322" m="February" t="n" />
+<w c="time" e="pátek" i="1323" m="Friday" t="n" />
+<w c="time" e="leden" i="1324" m="January" t="n" />
+<w c="time" e="červenec" i="1325" m="July" t="n" />
+<w c="time" e="červen" i="1326" m="June" t="n" />
+<w c="time" e="květen; máj" i="1327" m="May" t="n" />
+<w c="time" e="pondělek; pondělí" i="1328" m="Monday" t="n" />
+<w c="time" e="listopad" i="1329" m="November" t="n" />
+<w c="time" e="říjen" i="1330" m="October" t="n" />
+<w c="time" e="sobota" i="1331" m="Saturday" t="n" />
+<w c="time" e="září" i="1332" m="September" t="n" />
+<w c="time" e="neděle" i="1333" m="Sunday" t="n" />
+<w c="time" e="čtvrtek" i="1334" m="Thursday" t="n" />
+<w c="time" e="úterý" i="1335" m="Tuesday" t="n" />
+<w c="time" e="středa" i="1336" m="Wednesday" t="n" />
+<w c="time" e="odpoledne" i="1337" m="afternoon" t="n" />
+<w c="time" e="stáří; věk" i="1338" m="age" t="n" />
+<w c="time" e="podzim" i="1339" m="autumn" t="n" />
+<w c="time" e="začátek; počátek" i="1340" m="beginning" t="n" />
+<w c="time" e="století" i="1341" m="century" t="n" />
+<w c="time" e="datum" i="1342" m="date" t="n" />
+<w c="time" e="den" i="1343" m="day" t="n" />
+<w c="time" e="konec" i="1344" m="end" t="n" />
+<w c="time" e="večer" i="1345" m="evening" t="n" />
+<w c="time" e="budoucnost" i="1346" m="future" t="n" />
+<w c="time" e="hodina" i="1347" m="hour" t="n" />
+<w c="time" e="půlnoc" i="1348" m="midnight" t="n" />
+<w c="time" e="minuta" i="1349" m="minute" t="n" />
+<w c="time" e="okamžik; moment" i="1350" m="moment" t="n" />
+<w c="time" e="okamžik; chvíle; moment" i="1351" m="moment" t="n" />
+<w c="time" e="měsíc" i="1352" m="month" t="n" />
+<w c="time" e="ráno; jitro; dopoledne" i="1353" m="morning" t="n" />
+<w c="time" e="noc" i="1354" m="night" t="n" />
+<w c="time" e="teď; nyní" i="1355" m="now" t="n" />
+<w c="time" e="minulost" i="1356" m="past" t="n" />
+<w c="time" e="pauza; přestávka; přerušení" i="1357" m="pause" t="n" />
+<w c="time" e="období; doba" i="1358" m="period" t="n" />
+<w c="time" e="současnost" i="1359" m="present" t="n" />
+<w c="time" e="roční období; sezóna; sezona" i="1360" m="season" t="n" />
+<w c="time" e="vteřina; sekunda" i="1361" m="second" t="n" />
+<w c="time" e="jaro" i="1362" m="spring" t="n" />
+<w c="time" e="léto" i="1363" m="summer" t="n" />
+<w c="time" e="dnešek" i="1364" m="today" t="n" />
+<w c="time" e="zítřek; zítra" i="1365" m="tomorrow" t="n" />
+<w c="time" e="týden" i="1366" m="week" t="n" />
+<w c="time" e="víkend; konec týdne" i="1367" m="weekend" t="n" />
+<w c="time" e="chvíle" i="1368" m="while" t="n" />
+<w c="time" e="zima" i="1369" m="winter" t="n" />
+<w c="time" e="rok" i="1370" m="year" t="n" />
+<w c="tools" e="zvon; zvonek" i="1371" m="bell" t="n" />
+<w c="tools" e="kartáč; štětec; kartáček" i="1372" m="brush" t="n" />
+<w c="tools" e="tlačítko; knoflík" i="1373" m="button" t="n" />
+<w c="tools" e="zbraň; pistole" i="1374" m="gun" t="n" />
+<w c="tools" e="kladívko; kladivo" i="1375" m="hammer" t="n" />
+<w c="tools" e="háček; hák" i="1376" m="hook" t="n" />
+<w c="tools" e="klíč" i="1377" m="key" t="n" />
+<w c="tools" e="zámek" i="1378" m="lock" t="n" />
+<w c="tools" e="zápalka; sirka" i="1379" m="match" t="n" />
+<w c="tools" e="hřeb; hřebík" i="1380" m="nail" t="n" />
+<w c="tools" e="jehlice; jehla" i="1381" m="needle" t="n" />
+<w c="tools" e="pero" i="1382" m="pen" t="n" />
+<w c="tools" e="tužka" i="1383" m="pencil" t="n" />
+<w c="tools" e="čerpadlo; pumpa" i="1384" m="pump" t="n" />
+<w c="tools" e="nůžky" i="1385" m="scissors" t="n" />
+<w c="tools" e="pružina; péro" i="1386" m="spring" t="n" />
+<w c="tools" e="razítko" i="1387" m="stamp" t="n" />
+<w c="tools" e="bič" i="1388" m="whip" t="n" />
+<w c="transport" e="nehoda" i="1389" m="accident" t="n" />
+<w c="transport" e="jízdní kolo; kolo; bicykl" i="1390" m="bike" t="n" />
+<w c="transport" e="člun" i="1391" m="boat" t="n" />
+<w c="transport" e="autobus" i="1392" m="bus" t="n" />
+<w c="transport" e="auto; automobil; motorové vozidlo" i="1393" m="car" t="n" />
+<w c="transport" e="zatáčka" i="1394" m="curve" t="n" />
+<w c="transport" e="rychlík" i="1395" m="express" t="n" />
+<w c="transport" e="létání; let" i="1396" m="flight" t="n" />
+<w c="transport" e="jízda; cesta" i="1397" m="journey" t="n" />
+<w c="transport" e="cestující; pasažér" i="1398" m="passenger" t="n" />
+<w c="transport" e="letadlo; letoun; aeroplán" i="1399" m="plane" t="n" />
+<w c="transport" e="loď" i="1400" m="ship" t="n" />
+<w c="transport" e="smyk" i="1401" m="skid" t="n" />
+<w c="transport" e="kolej; kolejnice" i="1402" m="track" t="n" />
+<w c="transport" e="vlak" i="1403" m="train" t="n" />
+<w c="transport" e="doprava; přeprava" i="1404" m="transport" t="n" />
+<w c="vegetables" e="fazole; bob" i="1405" m="bean" t="n" />
+<w c="vegetables" e="kapusta; zelí" i="1406" m="cabbage" t="n" />
+<w c="vegetables" e="mrkev; karotka" i="1407" m="carrot" t="n" />
+<w c="vegetables" e="okurka" i="1408" m="cucumber" t="n" />
+<w c="vegetables" e="česnek" i="1409" m="garlic" t="n" />
+<w c="vegetables" e="oliva" i="1410" m="olive" t="n" />
+<w c="vegetables" e="cibule" i="1411" m="onion" t="n" />
+<w c="vegetables" e="pastiňák" i="1412" m="parsnip" t="n" />
+<w c="vegetables" e="hrách" i="1413" m="pea" t="n" />
+<w c="vegetables" e="brambor; brambora" i="1414" m="potato" t="n" />
+<w c="vegetables" e="ředkvička" i="1415" m="radish" t="n" />
+<w c="vegetables" e="rýže" i="1416" m="rice" t="n" />
+<w c="vegetables" e="rajské jablíčko; rajče" i="1417" m="tomato" t="n" />
+<w c="verbs" e="akceptovat; přijmout; přijímat" i="1418" m="accept" t="v" />
+<w c="verbs" e="obvinit; obžalovat; vinit" i="1419" m="accuse" t="v" />
+<w c="verbs" e="dosahovat; dosáhnout; docílit" i="1420" m="achieve" t="v" />
+<w c="verbs" e="jednat; činit" i="1421" m="act" t="v" />
+<w c="verbs" e="přidat; přidávat" i="1422" m="add" t="v" />
+<w c="verbs" e="připočíst; sečítat; sečíst; sčítat" i="1423" m="add" t="v" />
+<w c="verbs" e="připouštět; připustit; přiznat; přiznávat; uznat" i="1424" m="admit" t="v" />
+<w c="verbs" e="postihnout; ovlivňovat; zasáhnout; ovlivnit" i="1425" m="affect" t="v" />
+<w c="verbs" e="souhlasit" i="1426" m="agree" t="v" />
+<w c="verbs" e="dovolit; povolit" i="1427" m="allow" t="v" />
+<w c="verbs" e="ohlásit; oznámit; oznamovat" i="1428" m="announce" t="v" />
+<w c="verbs" e="hádat se; přít se" i="1429" m="argue" t="v" />
+<w c="verbs" e="dorazit; přijet; přijít; přicestovat; přiletět; dojet" i="1430" m="arrive" t="v" />
+<w c="verbs" e="zeptat; ptát" i="1431" m="ask" t="v" />
+<w c="verbs" e="zaútočit; útočit; napadnout" i="1432" m="attack" t="v" />
+<w c="verbs" e="vyhnout se; vyhýbat se" i="1433" m="avoid" t="v" />
+<w c="verbs" e="žít" i="1434" m="be" t="v" />
+<w c="verbs" e="nést; nosit" i="1435" m="bear" t="v" />
+<w c="verbs" e="zdolat; porazit" i="1436" m="beat" t="v" />
+<w c="verbs" e="stát se" i="1437" m="become" t="v" />
+<w c="verbs" e="jednat; chovat se" i="1438" m="behave" t="v" />
+<w c="verbs" e="věřit" i="1439" m="believe" t="v" />
+<w c="verbs" e="prospívat; prospět" i="1440" m="benefit" t="v" />
+<w c="verbs" e="kousat; kousnout; ukousnout" i="1441" m="bite" t="v" />
+<w c="verbs" e="přinášet; přinést" i="1442" m="bring" t="v" />
+<w c="verbs" e="budovat; stavět; konstruovat; zkonstruovat; vybudovat; postavit" i="1443" m="build" t="v" />
+<w c="verbs" e="spálit" i="1444" m="burn" t="v" />
+<w c="verbs" e="telefonovat; volat" i="1445" m="call" t="v" />
+<w c="verbs" e="starat se; pečovat" i="1446" m="care" t="v" />
+<w c="verbs" e="nosit; nést" i="1447" m="carry" t="v" />
+<w c="verbs" e="chytit; chytat; lapit" i="1448" m="catch" t="v" />
+<w c="verbs" e="přimět" i="1449" m="cause" t="v" />
+<w c="verbs" e="změnit" i="1450" m="change" t="v" />
+<w c="verbs" e="volit; zvolit; vybrat; vybírat" i="1451" m="choose" t="v" />
+<w c="verbs" e="třídit; klasifikovat; seřadit; uspořádat; roztřídit" i="1452" m="classify" t="v" />
+<w c="verbs" e="vyčistit; očistit" i="1453" m="clean" t="v" />
+<w c="verbs" e="porovnat; porovnávat; srovnat; srovnávat" i="1454" m="compare" t="v" />
+<w c="verbs" e="obsahovat" i="1455" m="contain" t="v" />
+<w c="verbs" e="pokračovat; vytrvat" i="1456" m="continue" t="v" />
+<w c="verbs" e="kontrolovat; ovládat; řídit" i="1457" m="control" t="v" />
+<w c="verbs" e="vařit" i="1458" m="cook" t="v" />
+<w c="verbs" e="kopírovat; zkopírovat" i="1459" m="copy" t="v" />
+<w c="verbs" e="kašlat" i="1460" m="cough" t="v" />
+<w c="verbs" e="počítat; spočítat" i="1461" m="count" t="v" />
+<w c="verbs" e="rozdrtit" i="1462" m="crush" t="v" />
+<w c="verbs" e="mačkat; smáčknout; zmačkat; rozmačkat; rozmáčknout" i="1463" m="crush" t="v" />
+<w c="verbs" e="brečet; plakat" i="1464" m="cry" t="v" />
+<w c="verbs" e="rozhodovat; rozhodnout" i="1465" m="decide" t="v" />
+<w c="verbs" e="doručit" i="1466" m="deliver" t="v" />
+<w c="verbs" e="popisovat; vylíčit; popsat" i="1467" m="describe" t="v" />
+<w c="verbs" e="navrhnout" i="1468" m="design" t="v" />
+<w c="verbs" e="dychtit; toužit; chtít" i="1469" m="desire" t="v" />
+<w c="verbs" e="zjistit" i="1470" m="determine" t="v" />
+<w c="verbs" e="vyvíjet; vyvinout" i="1471" m="develop" t="v" />
+<w c="verbs" e="zemřít; umřít; zahynout" i="1472" m="die" t="v" />
+<w c="verbs" e="zjistit" i="1473" m="discover" t="v" />
+<w c="verbs" e="diskutovat; debatovat; hovořit" i="1474" m="discuss" t="v" />
+<w c="verbs" e="nemít rád" i="1475" m="dislike" t="v" />
+<w c="verbs" e="roztříštit; rozštěpit; rozdělit" i="1476" m="divide" t="v" />
+<w c="verbs" e="pochybovat" i="1477" m="doubt" t="v" />
+<w c="verbs" e="řídit" i="1478" m="drive" t="v" />
+<w c="verbs" e="zahrnovat; obsahovat" i="1479" m="embrace" t="v" />
+<w c="verbs" e="povzbudit" i="1480" m="encourage" t="v" />
+<w c="verbs" e="končit; skončit" i="1481" m="end" t="v" />
+<w c="verbs" e="zvýšit" i="1482" m="enhance" t="v" />
+<w c="verbs" e="užívat; vychutnat; těšit se z" i="1483" m="enjoy" t="v" />
+<w c="verbs" e="vstupovat; vniknout; vstoupit; vkročit; vejít" i="1484" m="enter" t="v" />
+<w c="verbs" e="založit" i="1485" m="establish" t="v" />
+<w c="verbs" e="odhadovat; odhadnout" i="1486" m="estimate" t="v" />
+<w c="verbs" e="překročit; překonat" i="1487" m="exceed" t="v" />
+<w c="verbs" e="existovat" i="1488" m="exist" t="v" />
+<w c="verbs" e="očekávat" i="1489" m="expect" t="v" />
+<w c="verbs" e="objasnit; vysvětlit; vysvětlovat" i="1490" m="explain" t="v" />
+<w c="verbs" e="vyjádřit" i="1491" m="express" t="v" />
+<w c="verbs" e="bojovat; rvát se; zápasit" i="1492" m="fight" t="v" />
+<w c="verbs" e="naplnit; vyplnit" i="1493" m="fill" t="v" />
+<w c="verbs" e="objevit" i="1494" m="find" t="v" />
+<w c="verbs" e="dokončit; ukončit; skončit" i="1495" m="finish" t="v" />
+<w c="verbs" e="vyrovnat" i="1496" m="flush" t="v" />
+<w c="verbs" e="prominout; odpustit" i="1497" m="forgive" t="v" />
+<w c="verbs" e="osvobozovat; vysvobodit; osvobodit" i="1498" m="free" t="v" />
+<w c="verbs" e="vstávat; vstát" i="1499" m="get up" t="v" />
+<w c="verbs" e="kapitulovat; vzdát se" i="1500" m="give up" t="v" />
+<w c="verbs" e="vyrůstat; narůstat" i="1501" m="grow" t="v" />
+<w c="verbs" e="přihodit se; nastat" i="1502" m="happen" t="v" />
+<w c="verbs" e="nenávidět" i="1503" m="hate" t="v" />
+<w c="verbs" e="schovat; schovávat; skrýt; skrývat; ukrýt; zakrýt; zakrývat" i="1504" m="hide" t="v" />
+<w c="verbs" e="držet" i="1505" m="hold" t="v" />
+<w c="verbs" e="identifikovat" i="1506" m="identify" t="v" />
+<w c="verbs" e="obsahovat; zahrnovat" i="1507" m="imply" t="v" />
+<w c="verbs" e="zahrnout" i="1508" m="include" t="v" />
+<w c="verbs" e="vzrůstat; zvětšovat se; přibývat" i="1509" m="increase" t="v" />
+<w c="verbs" e="zranit; poranit" i="1510" m="injure" t="v" />
+<w c="verbs" e="uvést; představit" i="1511" m="introduce" t="v" />
+<w c="verbs" e="představovat; představit; uvádět; uvést" i="1512" m="introduce" t="v" />
+<w c="verbs" e="připojit; spojit" i="1513" m="join" t="v" />
+<w c="verbs" e="udržet; udržovat; zachovat" i="1514" m="keep" t="v" />
+<w c="verbs" e="kopat; kopnout" i="1515" m="kick" t="v" />
+<w c="verbs" e="usmrtit; zabít; zabíjet" i="1516" m="kill" t="v" />
+<w c="verbs" e="přistát" i="1517" m="land" t="v" />
+<w c="verbs" e="vést; zavést" i="1518" m="lead" t="v" />
+<w c="verbs" e="nechat; zanechat" i="1519" m="leave" t="v" />
+<w c="verbs" e="nechávat; nechat" i="1520" m="let" t="v" />
+<w c="verbs" e="nadzdvihnout; pozdvihnout; vyzvednout; pozvednout; zvyšovat; vztyčit; zdvihat; zvedat" i="1521" m="lift" t="v" />
+<w c="verbs" e="omezit; limitovat; omezovat" i="1522" m="limit" t="v" />
+<w c="verbs" e="nabít" i="1523" m="load" t="v" />
+<w c="verbs" e="zamknout; zamykat" i="1524" m="lock" t="v" />
+<w c="verbs" e="vypadat" i="1525" m="look" t="v" />
+<w c="verbs" e="prohrát" i="1526" m="lose" t="v" />
+<w c="verbs" e="spravovat; řídit; vést" i="1527" m="manage" t="v" />
+<w c="verbs" e="oženit se; provdat se; ženit se; vdát se" i="1528" m="marry" t="v" />
+<w c="verbs" e="odpovídat si; shodovat se" i="1529" m="match" t="v" />
+<w c="verbs" e="znamenat" i="1530" m="mean" t="v" />
+<w c="verbs" e="mínit; zamýšlet" i="1531" m="mean" t="v" />
+<w c="verbs" e="měřit; změřit" i="1532" m="measure" t="v" />
+<w c="verbs" e="citovat; uvádět; uvést" i="1533" m="mention" t="v" />
+<w c="verbs" e="zameškat; zmeškat; propást" i="1534" m="miss" t="v" />
+<w c="verbs" e="minout; netrefit" i="1535" m="miss" t="v" />
+<w c="verbs" e="nazvat; pojmenovat" i="1536" m="name" t="v" />
+<w c="verbs" e="obsluhovat; ovládat" i="1537" m="operate" t="v" />
+<w c="verbs" e="nařídit; přikázat; rozkazovat; rozkázat" i="1538" m="order" t="v" />
+<w c="verbs" e="vlastnit" i="1539" m="own" t="v" />
+<w c="verbs" e="předat" i="1540" m="pass" t="v" />
+<w c="verbs" e="loupat; oloupat" i="1541" m="peel" t="v" />
+<w c="verbs" e="naplánovat" i="1542" m="plan" t="v" />
+<w c="verbs" e="potěšit" i="1543" m="please" t="v" />
+<w c="verbs" e="orat; zorat" i="1544" m="plow" t="v" />
+<w c="verbs" e="otrávit" i="1545" m="poison" t="v" />
+<w c="verbs" e="leštit; nablýskat; naleštit; vyleštit" i="1546" m="polish" t="v" />
+<w c="verbs" e="přichystat; připravit" i="1547" m="prepare" t="v" />
+<w c="verbs" e="stisknout; stlačit" i="1548" m="press" t="v" />
+<w c="verbs" e="předejít; zabránit; zamezit" i="1549" m="prevent" t="v" />
+<w c="verbs" e="vytisknout" i="1550" m="print" t="v" />
+<w c="verbs" e="zpracovat; zpracovávat" i="1551" m="process" t="v" />
+<w c="verbs" e="profitovat" i="1552" m="profit" t="v" />
+<w c="verbs" e="protestovat" i="1553" m="protest" t="v" />
+<w c="verbs" e="dokazovat; prokázat; dokázat" i="1554" m="prove" t="v" />
+<w c="verbs" e="publikovat; vydat" i="1555" m="publish" t="v" />
+<w c="verbs" e="vychovat" i="1556" m="raise" t="v" />
+<w c="verbs" e="hodnotit; ohodnotit; známkovat" i="1557" m="rate" t="v" />
+<w c="verbs" e="dosahovat; dosáhnout" i="1558" m="reach" t="v" />
+<w c="verbs" e="přijmout; obdržet; dostat" i="1559" m="receive" t="v" />
+<w c="verbs" e="nahrát" i="1560" m="record" t="v" />
+<w c="verbs" e="redukovat; zmenšit; omezit; snížit" i="1561" m="reduce" t="v" />
+<w c="verbs" e="odrazit; odrážet; zrcadlit" i="1562" m="reflect" t="v" />
+<w c="verbs" e="odmítnout" i="1563" m="refuse" t="v" />
+<w c="verbs" e="odstranit; odstraňovat; vyjmout" i="1564" m="remove" t="v" />
+<w c="verbs" e="vrátit" i="1565" m="render" t="v" />
+<w c="verbs" e="nahradit; vyměnit" i="1566" m="replace" t="v" />
+<w c="verbs" e="odpovídat; odpovědět; reagovat" i="1567" m="reply" t="v" />
+<w c="verbs" e="nahlásit; ohlásit; oznámit" i="1568" m="report" t="v" />
+<w c="verbs" e="reprezentovat; představovat; symbolizovat; zastupovat" i="1569" m="represent" t="v" />
+<w c="verbs" e="žádat; požadovat" i="1570" m="request" t="v" />
+<w c="verbs" e="respektovat; uznávat; ctít" i="1571" m="respect" t="v" />
+<w c="verbs" e="odpočívat" i="1572" m="rest" t="v" />
+<w c="verbs" e="prozradit; odkrýt; odhalit" i="1573" m="reveal" t="v" />
+<w c="verbs" e="riskovat" i="1574" m="risk" t="v" />
+<w c="verbs" e="zaokrouhlit" i="1575" m="round off" t="v" />
+<w c="verbs" e="vládnout" i="1576" m="rule" t="v" />
+<w c="verbs" e="uspořit; šetřit" i="1577" m="save" t="v" />
+<w c="verbs" e="chránit; spasit; ušetřit; zachránit; zachraňovat" i="1578" m="save" t="v" />
+<w c="verbs" e="vidět" i="1579" m="see" t="v" />
+<w c="verbs" e="považovat; pokládat za; vidět" i="1580" m="see" t="v" />
+<w c="verbs" e="odeslat; poslat; zaslat; posílat; zasílat; vyslat" i="1581" m="send" t="v" />
+<w c="verbs" e="sloužit" i="1582" m="serve" t="v" />
+<w c="verbs" e="šít; stehovat; sešít" i="1583" m="sew" t="v" />
+<w c="verbs" e="sdílet; mít společné" i="1584" m="share" t="v" />
+<w c="verbs" e="ječet; vykřiknout; křičet; řvát" i="1585" m="shout" t="v" />
+<w c="verbs" e="ukázat; demonstrovat; předvést; prezentovat" i="1586" m="show" t="v" />
+<w c="verbs" e="praštit; uhodit; udeřit" i="1587" m="smash" t="v" />
+<w c="verbs" e="vonět" i="1588" m="smell" t="v" />
+<w c="verbs" e="páchnout; smrdět" i="1589" m="smell" t="v" />
+<w c="verbs" e="cítit" i="1590" m="smell" t="v" />
+<w c="verbs" e="kouřit" i="1591" m="smoke" t="v" />
+<w c="verbs" e="strávit" i="1592" m="spend" t="v" />
+<w c="verbs" e="stát" i="1593" m="stand" t="v" />
+<w c="verbs" e="zůstávat; zůstat" i="1594" m="stay" t="v" />
+<w c="verbs" e="krást; odcizit; ukrást; zcizit" i="1595" m="steal" t="v" />
+<w c="verbs" e="zastavit" i="1596" m="stop" t="v" />
+<w c="verbs" e="studovat" i="1597" m="study" t="v" />
+<w c="verbs" e="zakusit; vytrpět; utrpět" i="1598" m="suffer" t="v" />
+<w c="verbs" e="navrhnout; navrhovat" i="1599" m="suggest" t="v" />
+<w c="verbs" e="poskytovat; poskytnout; zásobovat; obstarat; dodávat; opatřit; vybavit; zásobit" i="1600" m="supply" t="v" />
+<w c="verbs" e="podporovat" i="1601" m="support" t="v" />
+<w c="verbs" e="domnívat se; předpokládat" i="1602" m="suppose" t="v" />
+<w c="verbs" e="překvapit" i="1603" m="surprise" t="v" />
+<w c="verbs" e="vydržet; vystačit" i="1604" m="survive" t="v" />
+<w c="verbs" e="ochutnávat; ochutnat; okusit" i="1605" m="taste" t="v" />
+<w c="verbs" e="vyučovat; učit" i="1606" m="teach" t="v" />
+<w c="verbs" e="otestovat; testovat; vyzkoušet" i="1607" m="test" t="v" />
+<w c="verbs" e="děkovat" i="1608" m="thank" t="v" />
+<w c="verbs" e="myslet; přemýšlet" i="1609" m="think" t="v" />
+<w c="verbs" e="házet; hodit" i="1610" m="throw" t="v" />
+<w c="verbs" e="nazvat; pojmenovat" i="1611" m="title" t="v" />
+<w c="verbs" e="obchodovat" i="1612" m="trade" t="v" />
+<w c="verbs" e="cvičit; školit; trénovat; vycvičit; vyškolit" i="1613" m="train" t="v" />
+<w c="verbs" e="chodit; jet; pohybovat se; cestovat" i="1614" m="travel" t="v" />
+<w c="verbs" e="ošetřit; léčit" i="1615" m="treat" t="v" />
+<w c="verbs" e="obelstít; podvést; napálit; ošálit; oklamat" i="1616" m="trick" t="v" />
+<w c="verbs" e="zkoušet; zkusit" i="1617" m="try" t="v" />
+<w c="verbs" e="obrátit; otočit" i="1618" m="turn" t="v" />
+<w c="verbs" e="navštívit; navštěvovat" i="1619" m="visit" t="v" />
+<w c="verbs" e="jít" i="1620" m="walk" t="v" />
+<w c="verbs" e="zahřát; ohřát" i="1621" m="warm" t="v" />
+<w c="verbs" e="umýt; vyprat; prát" i="1622" m="wash" t="v" />
+<w c="verbs" e="sledovat; pozorovat; dívat se" i="1623" m="watch" t="v" />
+<w c="verbs" e="nosit; mít na sobě" i="1624" m="wear" t="v" />
+<w c="verbs" e="vážit" i="1625" m="weigh" t="v" />
+<w c="verbs" e="zvítězit; vyhrát" i="1626" m="win" t="v" />
+<w c="verbs" e="přát si; toužit" i="1627" m="wish" t="v" />
+<w c="verbs" e="být" i="1628" m="be" t="v" />
+<w c="verbs" e="počínat; začínat; zahájit; začít; počít" i="1629" m="begin" t="v" />
+<w c="verbs" e="rozbít; zlomit" i="1630" m="break" t="v" />
+<w c="verbs" e="koupit; nakoupit; nakupovat; zakoupit" i="1631" m="buy" t="v" />
+<w c="verbs" e="zavírat; zavřít" i="1632" m="close" t="v" />
+<w c="verbs" e="přicházet" i="1633" m="come" t="v" />
+<w c="verbs" e="řezat; uříznout; říznout" i="1634" m="cut" t="v" />
+<w c="verbs" e="tančit; tancovat" i="1635" m="dance" t="v" />
+<w c="verbs" e="dělat; provádět; praktikovat" i="1636" m="do" t="v" />
+<w c="verbs" e="pít" i="1637" m="drink" t="v" />
+<w c="verbs" e="jíst; sníst" i="1638" m="eat" t="v" />
+<w c="verbs" e="padat; padnout; spadnout; upadnout" i="1639" m="fall" t="v" />
+<w c="verbs" e="vycítit; cítit; hmatat" i="1640" m="feel" t="v" />
+<w c="verbs" e="nalézt; najít; nalézat" i="1641" m="find" t="v" />
+<w c="verbs" e="vystřelit; střílet" i="1642" m="fire" t="v" />
+<w c="verbs" e="létat; letět" i="1643" m="fly" t="v" />
+<w c="verbs" e="následovat" i="1644" m="follow" t="v" />
+<w c="verbs" e="zapomenout; zapomínat" i="1645" m="forget" t="v" />
+<w c="verbs" e="získat; dostat" i="1646" m="get" t="v" />
+<w c="verbs" e="dávat; dát" i="1647" m="give" t="v" />
+<w c="verbs" e="mít" i="1648" m="have" t="v" />
+<w c="verbs" e="slyšet; uslyšet; naslouchat; poslouchat" i="1649" m="hear" t="v" />
+<w c="verbs" e="pomáhat; asistovat; napomáhat; pomoci" i="1650" m="help" t="v" />
+<w c="verbs" e="doufat" i="1651" m="hope" t="v" />
+<w c="verbs" e="skákat; skočit" i="1652" m="jump" t="v" />
+<w c="verbs" e="líbat; políbit" i="1653" m="kiss" t="v" />
+<w c="verbs" e="znát; vědět" i="1654" m="know" t="v" />
+<w c="verbs" e="smát se" i="1655" m="laugh" t="v" />
+<w c="verbs" e="naučit se; učit se" i="1656" m="learn" t="v" />
+<w c="verbs" e="ležet" i="1657" m="lie" t="v" />
+<w c="verbs" e="lhát" i="1658" m="lie" t="v" />
+<w c="verbs" e="mít rád" i="1659" m="like" t="v" />
+<w c="verbs" e="naslouchat; poslouchat" i="1660" m="listen" t="v" />
+<w c="verbs" e="dívat se; dívat; koukat" i="1661" m="look" t="v" />
+<w c="verbs" e="ztratit; ztrácet" i="1662" m="lose" t="v" />
+<w c="verbs" e="milovat" i="1663" m="love" t="v" />
+<w c="verbs" e="dělat" i="1664" m="make" t="v" />
+<w c="verbs" e="potkávat; potkat; setkávat se; setkat se; sejít se" i="1665" m="meet" t="v" />
+<w c="verbs" e="pohybovat; pohnout" i="1666" m="move" t="v" />
+<w c="verbs" e="potřebovat; vyžadovat; požadovat; žádat" i="1667" m="need" t="v" />
+<w c="verbs" e="nabídnout; nabízet" i="1668" m="offer" t="v" />
+<w c="verbs" e="otevřít; otvírat" i="1669" m="open" t="v" />
+<w c="verbs" e="platit; zaplatit" i="1670" m="pay" t="v" />
+<w c="verbs" e="hrát" i="1671" m="play" t="v" />
+<w c="verbs" e="tahat; táhnout; vytahovat" i="1672" m="pull" t="v" />
+<w c="verbs" e="strkat; tlačit; strčit" i="1673" m="push" t="v" />
+<w c="verbs" e="pokládat; umístit; položit" i="1674" m="put" t="v" />
+<w c="verbs" e="číst; přečíst" i="1675" m="read" t="v" />
+<w c="verbs" e="vzpomenout; vzpomenout si" i="1676" m="remember" t="v" />
+<w c="verbs" e="běžet" i="1677" m="run" t="v" />
+<w c="verbs" e="říci; říkat; povědět; povídat" i="1678" m="say" t="v" />
+<w c="verbs" e="prodávat; prodat" i="1679" m="sell" t="v" />
+<w c="verbs" e="zpívat" i="1680" m="sing" t="v" />
+<w c="verbs" e="sedět" i="1681" m="sit" t="v" />
+<w c="verbs" e="usmívat se; smát se; smát" i="1682" m="smile" t="v" />
+<w c="verbs" e="plavat" i="1683" m="swim" t="v" />
+<w c="verbs" e="vzít" i="1684" m="take" t="v" />
+<w c="verbs" e="hovořit; mluvit; říkat; promluvit" i="1685" m="talk" t="v" />
+<w c="verbs" e="nakreslit; malovat" i="1686" m="trace" t="v" />
+<w c="verbs" e="chápat; rozumět; porozumět; pochopit" i="1687" m="understand" t="v" />
+<w c="verbs" e="aplikovat; použít; používat" i="1688" m="use" t="v" />
+<w c="verbs" e="vyčkávat; počkat; čekat" i="1689" m="wait" t="v" />
+<w c="verbs" e="pracovat" i="1690" m="work" t="v" />
+<w c="verbs" e="napsat; psát" i="1691" m="write" t="v" />
+<w c="weather" e="oblak; mrak" i="1692" m="cloud" t="n" />
+<w c="weather" e="rosa" i="1693" m="dew" t="n" />
+<w c="weather" e="mlha" i="1694" m="fog" t="n" />
+<w c="weather" e="jinovatka; námraza" i="1695" m="frost" t="n" />
+<w c="weather" e="blesk" i="1696" m="lightning" t="n" />
+<w c="weather" e="déšť" i="1697" m="rain" t="n" />
+<w c="weather" e="duha" i="1698" m="rainbow" t="n" />
+<w c="weather" e="sníh" i="1699" m="snow" t="n" />
+<w c="weather" e="bouřka; bouře; vichřice" i="1700" m="storm" t="n" />
+<w c="weather" e="hrom" i="1701" m="thunder" t="n" />
+<w c="weather" e="vítr" i="1702" m="wind" t="n" />
+</vocb>

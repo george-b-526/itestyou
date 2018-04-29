@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vocb name="TOEFL 2000">
+<!--generated: Mon Dec 26 14:43:09 PST 2011-->
+<!--legend: e = expression, i = id, m = meaning, t = part of speech-->
+<w e="abandon" i="0" m="to give up something; desert; forsake" t="v"/>
+<w e="abase" i="1" m="to humiliate; degrade; lower" t="v"/>
+<w e="abate" i="2" m="to lessen subside; decrease" t="v"/>
+<w e="abdicate" i="3" m="to give up power; relinquish responsibility" t="v"/>
+<w e="abet" i="4" m="to encourage a crone; to incite" t="v"/>
+<w e="abhor" i="5" m="to hate; loathe; detest; shun" t="v"/>
+<w e="abhorrent" i="6" m="disgusting; repugnant; repellent" t="adj"/>
+<w e="ability" i="7" m="the capacity to do something; skill; competence" t="n"/>
+<w e="abject" i="8" m="wretched; miserable; base" t="adj"/>
+<w e="abridge" i="9" m="to condense; shorten" t="v"/>
+<w e="abrupt" i="10" m="unexpectedly sudden; discontinuous; curt; brusque" t="adj"/>
+<w e="absolute" i="11" m="unlimited; perfect; not to be doubted" t="adj"/>
+<w e="absolve" i="12" m="to pardon; release from an obligation" t="v"/>
+<w e="absorbed" i="13" m="preoccupied; engrossed; assimilated" t="adj"/>
+<w e="abstain" i="14" m="to refrain from doing something; hold back" t="v"/>
+<w e="abstract" i="15" m="theoretical; not concrete; non-representational" t="adj"/>
+<w e="absurd" i="16" m="contrary to common sense; ridiculous; foolish; farcical" t="adj"/>
+<w e="abundant" i="17" m="plentiful; more than sufficient; copious" t="adj"/>
+<w e="abysmal" i="18" m="immeasurably deep or bad; extreme" t="adj"/>
+<w e="abyss" i="19" m="a bottomless pit; immeasurable depth; chasm" t="n"/>
+<w e="accelerate" i="20" m="to speed up; cause to happen more quickly" t="v"/>
+<w e="accentuate" i="21" m="to emphasize; stress; accent" t="v"/>
+<w e="accessible" i="22" m="approachable; open to outsiders" t="adj"/>
+<w e="accessory" i="23" m="a supplement; added part; aider of a crime" t="n"/>
+<w e="accidental" i="24" m="occurring unexpectedly or by chance" t="adj"/>
+<w e="acclaim" i="25" m="to applaud; proclaim with app royal; praise" t="v"/>
+<w e="accommodation" i="26" m="an adaptation; compromise; lodging" t="n"/>
+<w e="accomplice" i="27" m="a partner in a crime; an accessory" t="n"/>
+<w e="accountable" i="28" m="answerable; responsible; liable" t="adj"/>
+<w e="accumulate" i="29" m="to coiled; amass; increase in amount" t="v"/>
+<w e="accurate" i="30" m="correct; true" t="adj"/>
+<w e="acknowledge" i="31" m="to admit the truth of; recognize; certify" t="v"/>
+<w e="acquaintance" i="32" m="someone known slightly; personal knowledge" t="n"/>
+<w e="acquiesce" i="33" m="to passively comply; consent; submit" t="v"/>
+<w e="acrobatics" i="34" m="gymnastics; tumbling; a show of agility~" t="n"/>
+<w e="acronym" i="35" m="a word formed from the initial letters of a name" t="n"/>
+<w e="activity" i="36" m="movement; an event or function~" t="n"/>
+<w e="acute" i="37" m="perceptive; sharp" t="adj"/>
+<w e="adamant" i="38" m="unyielding; inflexible; firm" t="adj"/>
+<w e="adaptation" i="39" m="an alteration; change; adjustment; modification" t="n"/>
+<w e="additional" i="40" m="added; extra; supplemental" t="adj"/>
+<w e="adept" i="41" m="highly skilled; proficient; capable" t="adj"/>
+<w e="adequate" i="42" m="sufficient; suitable; barely satisfactory" t="adj"/>
+<w e="adjacent" i="43" m="close to; next to; adjoining" t="adj"/>
+<w e="adjustable" i="44" m="adaptable; conformable; moveable" t="adj"/>
+<w e="administer" i="45" m="to direct; manage; be in charge of" t="v"/>
+<w e="admire" i="46" m="to esteem; respect; approve" t="v"/>
+<w e="admonish" i="47" m="to counsel against; wane; caution; reprove" t="v"/>
+<w e="adopt" i="48" m="to take in a child or idea as one’s own" t="v"/>
+<w e="adore" i="49" m="to revere; worship; love" t="v"/>
+<w e="adroit" i="50" m="skillful; dexterous; adept" t="adj"/>
+<w e="adulation" i="51" m="excessive praise" t="n"/>
+<w e="adventuresome" i="52" m="inclined to take risks; daring" t="adj"/>
+<w e="adversary" i="53" m="opponent; enemy" t="n"/>
+<w e="advisory" i="54" m="consultative; giving advice" t="adj"/>
+<w e="advocate" i="55" m="to recommend; support; plead in favor of" t="v"/>
+<w e="aesthetic/esthetic" i="56" m="concerning beauty or taste; artistic" t="adj"/>
+<w e="affinity" i="57" m="attraction; kinship" t="n"/>
+<w e="afflict" i="58" m="to torment; cause to suffer; distress" t="v"/>
+<w e="affliction" i="59" m="pain; suffering; a cause of suffering or distress" t="n"/>
+<w e="affluent" i="60" m="wealthy; rich; opulent; abundant" t="adj"/>
+<w e="affront" i="61" m="an insult" t="n"/>
+<w e="aggrandize" i="62" m="to enlarge" t="v"/>
+<w e="aggravate" i="63" m="to make worse; annoy; intensify" t="v"/>
+<w e="aggregate" i="64" m="an assemblage; total amount" t="n"/>
+<w e="agoressive" i="65" m="hostile; vigorous; assertive; militant" t="adj"/>
+<w e="agility" i="66" m="nimbleness; quickness" t="n"/>
+<w e="agitate" i="67" m="to excite; arouse interest in; upset" t="v"/>
+<w e="agrarian" i="68" m="pertaining to the land; agricultural; rural" t="adj"/>
+<w e="agreeable" i="69" m="pleasing; comfortable; consenting; amiable" t="adj"/>
+<w e="ailment" i="70" m="an illness; a physical or menial disorder" t="n"/>
+<w e="ajar" i="71" m="partly open; not harmonious" t="adj"/>
+<w e="akin" i="72" m="related; similar; analogous" t="adj"/>
+<w e="alert" i="73" m="attentive; watchful; mentally responsive" t="adj"/>
+<w e="alien" i="74" m="foreign; different; strange" t="adj"/>
+<w e="alienate" i="75" m="to turn away from, estrange; repel; make unfriendly" t="v"/>
+<w e="allay" i="76" m="to calm reduce the intensity of" t="v"/>
+<w e="alleviate" i="77" m="to relieve; lessen" t="v"/>
+<w e="allocate" i="78" m="to apportion; assign; set aside" t="v"/>
+<w e="allowance" i="79" m="an allotment or provision; margin; acceptance" t="n"/>
+<w e="allude" i="80" m="to refer to indirectly" t="v"/>
+<w e="alluring" i="81" m="enticing; tempting; charming" t="adj"/>
+<w e="aloof" i="82" m="reserved; indifferent; distant" t="adj"/>
+<w e="alter" i="83" m="to change; modify; adjust" t="v"/>
+<w e="altercation" i="84" m="noisy quarrel; vehement dispute" t="n"/>
+<w e="alternate" i="85" m="to take turns or switch off interchange regularly" t="v"/>
+<w e="alternative" i="86" m="a choice; another possibility" t="n"/>
+<w e="amass" i="87" m="to collect; gather; accumulate" t="v"/>
+<w e="amateur" i="88" m="a nonprofessiona1; unskilled person" t="n"/>
+<w e="amaze" i="89" m="to surprise; astonish; fill with wonder" t="v"/>
+<w e="ambience/ambiance" i="90" m="surrounding atmosphere" t="n"/>
+<w e="ambiguous" i="91" m="unclear; open to different interpretations; vague" t="adj"/>
+<w e="ambition" i="92" m="desire for power or distinction; aspiration" t="n"/>
+<w e="ambivalence" i="93" m="having mixed feelings; indecision" t="n"/>
+<w e="amble" i="94" m="to walk leisurely" t="v"/>
+<w e="amenable" i="95" m="tradable; submissive; obedient" t="adj"/>
+<w e="amicable" i="96" m="friendly" t="adj"/>
+<w e="amnesia" i="97" m="loss of memory from injury or illness" t="n"/>
+<w e="amorphous" i="98" m="shapeless~" t="adj"/>
+<w e="ample" i="99" m="abundant; large; sufficient; plenty" t="adj"/>
+<w e="amplify" i="100" m="to enlarge; make more important; exaggerate" t="v"/>
+<w e="amusing" i="101" m="entertaining; pleasing; humorous; facetious" t="adj"/>
+<w e="analogous" i="102" m="similar; corresponding; comparable" t="adj"/>
+<w e="anarchy" i="103" m="absence of government" t="n"/>
+<w e="ancestor" i="104" m="someone you are descended from, forefather" t="n"/>
+<w e="ancient" i="105" m="very old; existing long ago" t="adj"/>
+<w e="ancillary" i="106" m="subordinate; auxiliary" t="adj"/>
+<w e="anguish" i="107" m="extreme pain; torment; regret" t="n"/>
+<w e="animosity" i="108" m="hatred; enmity" t="n"/>
+<w e="annex" i="109" m="to take control of" t="v"/>
+<w e="announce" i="110" m="to proclaim, give notice of, declare" t="v"/>
+<w e="anomalous" i="111" m="irregular; abnormal" t="adj"/>
+<w e="antagonistic" i="112" m="hostile; adverse; opposed" t="adj"/>
+<w e="antecede" i="113" m="logo before; precede" t="v"/>
+<w e="anticipate" i="114" m="to expect; foresee; realize ahead of time" t="v"/>
+<w e="antiquated" i="115" m="old-fashioned; outmoded" t="adj"/>
+<w e="antithesis" i="116" m="direct opposite" t="n"/>
+<w e="anxious" i="117" m="worried; uneasy; eager" t="adj"/>
+<w e="apathy" i="118" m="indifference; lack of emotion" t="n"/>
+<w e="aperture" i="119" m="an opening; orifice" t="n"/>
+<w e="appalling" i="120" m="horrifying; frightful; shocking" t="adj"/>
+<w e="appeal" i="121" m="to request urgently; be attractive or interesting" t="v"/>
+<w e="appease" i="122" m="to placate; soothe; pacify" t="v"/>
+<w e="append" i="123" m="to add as a supplement; attach" t="v"/>
+<w e="applaud" i="124" m="to clap; express approval; praise" t="v"/>
+<w e="appointment" i="125" m="a position or assignment; arranged meeting; rendezvous" t="n"/>
+<w e="appraisal" i="126" m="an estimate of value; an evaluation, assessment" t="n"/>
+<w e="apprehension" i="127" m="dread; understanding" t="n"/>
+<w e="apprise" i="128" m="to inform" t="v"/>
+<w e="appropriate" i="129" m="suitable; proper; fitting" t="adj"/>
+<w e="approximately" i="130" m="nearly; almost; about" t="adv"/>
+<w e="aqueous" i="131" m="watery; formed by water" t="adj"/>
+<w e="arbitrary" i="132" m="determined by whim; despotic" t="adj"/>
+<w e="arbitrate" i="133" m="to judge; decide a dispute" t="v"/>
+<w e="archaic" i="134" m="no longer in use; antiquated" t="adj"/>
+<w e="archetype" i="135" m="original model; prototype" t="n"/>
+<w e="archives" i="136" m="repository for records; public records, historical documents" t="n"/>
+<w e="ardent" i="137" m="intense; fervent; zealous; passionate&amp;amp;" t="adj"/>
+<w e="arduous" i="138" m="strenuous; wearisome; difficult" t="adj"/>
+<w e="argumentative" i="139" m="disposed to agree; disputatious; contentious" t="adj"/>
+<w e="arid" i="140" m="dry; lacking moisture; lifeless; uninteresting" t="adj"/>
+<w e="aroma" i="141" m="a fragrance; agreeable odor" t="n"/>
+<w e="arouse" i="142" m="to excite; awaken; stimulate; provoke; kindle" t="v"/>
+<w e="arrange" i="143" m="to put in order; settle; plan" t="v"/>
+<w e="arrest" i="144" m="to take to jail; to seize; stop; prevent" t="v"/>
+<w e="arrogant" i="145" m="overly proud; haughty" t="adj"/>
+<w e="article" i="146" m="a separate item; a non-fictional literary piece" t="n"/>
+<w e="articulate" i="147" m="able to speak; dearly and distinctly expressed" t="adj"/>
+<w e="artist" i="148" m="someone who creates art or beautiful things" t="n"/>
+<w e="ascendant" i="149" m="rising; dominant" t="adj"/>
+<w e="ascribe" i="150" m="to attribute; assign" t="v"/>
+<w e="ashamed" i="151" m="feeling guilt or shame" t="adj"/>
+<w e="aspiration" i="152" m="ambition; desire; an ambitious goal; yearning" t="n"/>
+<w e="assault" i="153" m="to attack; abuse" t="v"/>
+<w e="assemble" i="154" m="bring together; congregate; gather; fit together" t="v"/>
+<w e="assent" i="155" m="to approve; concur; express agreement" t="v"/>
+<w e="assert" i="156" m="to declare; affirm; express oneself firmly" t="v"/>
+<w e="asset" i="157" m="something advantageous or valuable" t="n"/>
+<w e="assimilate" i="158" m="to absorb; take in; incorporate; adapt" t="v"/>
+<w e="assistant" i="159" m="one that assist; a helper; aide" t="n"/>
+<w e="associate" i="160" m="to link together; join in a relationship" t="v"/>
+<w e="assortment" i="161" m="a collection of varied things; diversified group" t="n"/>
+<w e="assuage" i="162" m="to ease; pacify; relieve; lessen; soothe" t="v"/>
+<w e="assure" i="163" m="to give confidence to; convince; to make certain" t="v"/>
+<w e="astound" i="164" m="to astonish; amaze; surprise" t="v"/>
+<w e="astray" i="165" m="away from the proper path; wrong" t="adv"/>
+<w e="astute" i="166" m="keen; shrewd" t="adj"/>
+<w e="atheism" i="167" m="denial of the existence of God" t="n"/>
+<w e="atmosphere" i="168" m="the air; the surrounding environment or mood" t="n"/>
+<w e="atrophy" i="169" m="to waste away" t="v"/>
+<w e="attempt" i="170" m="to make an effort; try; undertake" t="v"/>
+<w e="arrest" i="171" m="to affirm; to testify on behalf of" t="v"/>
+<w e="attraction" i="172" m="something that attracts; charm; allure" t="n"/>
+<w e="audacious" i="173" m="bold reckless" t="adj"/>
+<w e="audible" i="174" m="capable of being heard" t="adj"/>
+<w e="audience" i="175" m="spectators; those who rea4 see or hear a work" t="n"/>
+<w e="augment" i="176" m="to increase; make larger" t="v"/>
+<w e="august" i="177" m="awe inspiring; imposing" t="adj"/>
+<w e="austere" i="178" m="severe; morally strict; simple and unadorned" t="adj"/>
+<w e="authorize" i="179" m="to give legal power; to approve; sanction" t="v"/>
+<w e="autocrat" i="180" m="domineering person; despot" t="n"/>
+<w e="automatic" i="181" m="following naturally; habitual; self-moving" t="adj"/>
+<w e="autonomous" i="182" m="independent; self-contained; self-governing" t="adj"/>
+<w e="avarice" i="183" m="greed; cupidity" t="n"/>
+<w e="aversion" i="184" m="intense dislike; repulsion" t="n"/>
+<w e="avid" i="185" m="eager; enthusiastic" t="adj"/>
+<w e="avow" i="186" m="to confess; declare openly" t="v"/>
+<w e="awe" i="187" m="wonder or admiration mixed with fear" t="n"/>
+<w e="awful" i="188" m="extremely bad or unpleasant; terrible; appalling" t="adj"/>
+<w e="awkward" i="189" m="clumsy; ungraceful; embarrassing" t="adj"/>
+<w e="axiom" i="190" m="maxim; universal truth" t="n"/>
+<w e="backward" i="191" m="turned toward the back; reversed; out of date" t="adj"/>
+<w e="badger" i="192" m="to harass; pester; heckle" t="v"/>
+<w e="baffle" i="193" m="to frustrate; impede; confuse; perplex" t="v"/>
+<w e="ban" i="194" m="to forbid; prohibit, censure; disallow" t="v"/>
+<w e="baral" i="195" m="commonplace; drearily predictable" t="adj"/>
+<w e="banquet" i="196" m="a ceremonial dinner; elaborate feast" t="n"/>
+<w e="barbarity" i="197" m="cruelty; brutality; crudeness; coarseness" t="n"/>
+<w e="barricade" i="198" m="a barrier; obstruction; mock; bulwark" t="n"/>
+<w e="base" i="199" m="low an rank; inferior; mean" t="adj"/>
+<w e="bashful" i="200" m="shy; self-conscious; diffident" t="adj"/>
+<w e="beckon" i="201" m="to signal to come forward; attract; entice" t="v"/>
+<w e="befriend" i="202" m="to act as a friend; to assist; aid" t="v"/>
+<w e="beguile" i="203" m="to delude; amuse" t="v"/>
+<w e="behavior" i="204" m="how one acts; demeanor; deportment" t="n"/>
+<w e="belated" i="205" m="coming late; tardy" t="adj"/>
+<w e="belittle" i="206" m="to make lower or unimportant; demean" t="v"/>
+<w e="bellicose" i="207" m="warlike; pugnacious" t="adj"/>
+<w e="belligerent" i="208" m="quarrelsome; bellicose; at war" t="adj"/>
+<w e="bellow" i="209" m="loud utterance or noise; a roar; shout" t="n"/>
+<w e="belongings" i="210" m="personal possessions; things you own; effects" t="n"/>
+<w e="bemused" i="211" m="engrossed; lost in thought; confused" t="adj"/>
+<w e="beneficial" i="212" m="advantageous; profitable; helpful" t="adj"/>
+<w e="beneficiary" i="213" m="one who receives a benefit; a recipient" t="n"/>
+<w e="benevolent" i="214" m="kindly; generous; charitable" t="adj"/>
+<w e="benign" i="215" m="favorable; gentle; kind" t="adj"/>
+<w e="bequeath" i="216" m="to hand down; bestow in a will" t="v"/>
+<w e="berate" i="217" m="rebuke; scold" t="v"/>
+<w e="bestial" i="218" m="savage; brutal" t="adj"/>
+<w e="bestow" i="219" m="to give; confer upon" t="v"/>
+<w e="beverage" i="220" m="a drink; any drinkable liquid" t="n"/>
+<w e="bewilder" i="221" m="to confuse; perplex, puzzle" t="v"/>
+<w e="bicker" i="222" m="to squabble; argue; quarrel" t="v"/>
+<w e="biography" i="223" m="the life history of a person" t="n"/>
+<w e="bitter" i="224" m="unpleasant tasting; harsh; disagreeable; cruel; acrimonious" t="adj"/>
+<w e="blame" i="225" m="to charge with a fault; assign responsibility" t="v"/>
+<w e="blasphemy" i="226" m="a profanity; irreverent remark~" t="n"/>
+<w e="blatant" i="227" m="offensively loud; conspicuous; obvious" t="adj"/>
+<w e="bleak" i="228" m="desolate; barren; cold and harsh; dreary" t="adj"/>
+<w e="blend" i="229" m="to mix; combine together; unite" t="v"/>
+<w e="blizzard" i="230" m="a heavy and violent snowstorm" t="n"/>
+<w e="block" i="231" m="to obstruct; stop; impede" t="v"/>
+<w e="blunder" i="232" m="a stupid mistake; foolish act" t="n"/>
+<w e="blush" i="233" m="to turn red from embarrassment or modesty" t="v"/>
+<w e="bogus" i="234" m="fake; counterfeit" t="adj"/>
+<w e="bolster" i="235" m="to support; prop up; reinforce" t="v"/>
+<w e="border" i="236" m="a boundary; dividing line; edge" t="n"/>
+<w e="boulder" i="237" m="a large stone" t="n"/>
+<w e="boundary" i="238" m="a border; limit; dividing line" t="n"/>
+<w e="brawl" i="239" m="alight; noisy quarrel; fracas" t="n"/>
+<w e="breathtaking" i="240" m="inspiring awe; exciting; astonishing" t="adj"/>
+<w e="brevity" i="241" m="briefness; conciseness; shortness" t="n"/>
+<w e="bribe" i="242" m="something given illegally for a favor" t="n"/>
+<w e="brisk" i="243" m="quick; lively; energetic; invigorating" t="adj"/>
+<w e="brittle" i="244" m="fragile; easily broken; crisp" t="adj"/>
+<w e="brochure" i="245" m="a pamphlet; booklet" t="n"/>
+<w e="brusque" i="246" m="abrupt" t="adj"/>
+<w e="brutal" i="247" m="crud; harsh; crude; bestial" t="adj"/>
+<w e="budget" i="248" m="an assignment of expenses; a monetary plan" t="n"/>
+<w e="buffoon" i="249" m="clown; jester" t="n"/>
+<w e="bully" i="250" m="one who intimidates the less powerful" t="n"/>
+<w e="burly" i="251" m="big and muscular; husky; brawny; strong" t="adj"/>
+<w e="bustling" i="252" m="busy; energetic; full of commotion and activity" t="adj"/>
+<w e="cajole" i="253" m="to coax, persuade using flattery" t="v"/>
+<w e="calamity" i="254" m="a disaster; distress" t="n"/>
+<w e="callous" i="255" m="hardened; insensitive; unfeeling" t="adj"/>
+<w e="camouflage" i="256" m="a means of concealing; a disguise" t="n"/>
+<w e="cancel" i="257" m="to nullify; erase; annul; make invalid" t="v"/>
+<w e="capitulate" i="258" m="to surrender; give up" t="v"/>
+<w e="captivate" i="259" m="to fascinate; charm; enrapture" t="v"/>
+<w e="captive" i="260" m="a prisoner; one who is captured" t="n"/>
+<w e="carcass" i="261" m="the dead body of an animal; lifeless remains" t="n"/>
+<w e="carefree" i="262" m="without worry or responsibilities; untroubled" t="adj"/>
+<w e="careless" i="263" m="not careful; negligent; inattentive; reckless; heedless" t="adj"/>
+<w e="caress" i="264" m="to touch affectionately; stroke tenderly" t="v"/>
+<w e="caricature" i="265" m="an exaggerated representation; comic depiction" t="n"/>
+<w e="carnage" i="266" m="massacre; massive slaughter" t="n"/>
+<w e="carve" i="267" m="to cut; slice; divide" t="v"/>
+<w e="castigate" i="268" m="to punish; chastise; severely criticize" t="v"/>
+<w e="cataclysm" i="269" m="a violent upheaval; disaster; catastrophe" t="n"/>
+<w e="catastrophe" i="270" m="a disaster; calamity; cataclysm" t="n"/>
+<w e="cautious" i="271" m="careful; showing caution; wary" t="adj"/>
+<w e="cease" i="272" m="to stop; discontinue; come to an end" t="v"/>
+<w e="celebrate" i="273" m="to observe with a ceremony; rejoice; praise" t="v"/>
+<w e="censure" i="274" m="to criticize severely" t="v"/>
+<w e="century" i="275" m="a period of one hundred years" t="n"/>
+<w e="cessation" i="276" m="discontinuance; stopping" t="n"/>
+<w e="chagrin" i="277" m="embarrassment; disappointment" t="n"/>
+<w e="chance" i="278" m="an accident; risk; opportunity; unexpected event; hazard" t="n"/>
+<w e="chaos" i="279" m="complete confusion; disorder" t="n"/>
+<w e="charlatan" i="280" m="an impostor; quack" t="n"/>
+<w e="chart" i="281" m="to make a map of; plan in detail; record" t="v"/>
+<w e="chasm" i="282" m="a deep crack; gap; abyss; wide divergence; gorge" t="n"/>
+<w e="chaste" i="283" m="morally pure; decen4 virtuous; unadorned" t="adj"/>
+<w e="chastise" i="284" m="to punish; severely criticize" t="v"/>
+<w e="chilly" i="285" m="cold; shivering; distant; unfriendly" t="adj"/>
+<w e="chore" i="286" m="a minor job; unpleasant duty; routine task" t="n"/>
+<w e="chronic" i="287" m="continual; constant; prolonged" t="adj"/>
+<w e="chuckle" i="288" m="to laugh softly; cluck with amusement" t="v"/>
+<w e="circumspect" i="289" m="watchful; prudent; careful" t="adj"/>
+<w e="circumvent" i="290" m="to avoid; outwit" t="v"/>
+<w e="cite" i="291" m="to quote; refer to; mention; use as support" t="v"/>
+<w e="civility" i="292" m="politeness" t="n"/>
+<w e="clamorous" i="293" m="noisy; loud; boisterous" t="adj"/>
+<w e="clandestine" i="294" m="secret; covert" t="adj"/>
+<w e="clap" i="295" m="to strike hands together; to applaud" t="v"/>
+<w e="clarity" i="296" m="dearness; lucidity" t="n"/>
+<w e="clemency" i="297" m="leniency; mercy; mildness" t="n"/>
+<w e="clever" i="298" m="skillful; ingenious; mentally quick; shrewd; adroit" t="adj"/>
+<w e="clumsy" i="299" m="awkward; blundering; lacking grace; inept; unwieldy" t="adj"/>
+<w e="clutitered" i="300" m="messy; disorderly; confused" t="adj"/>
+<w e="coerce" i="301" m="to force; compel; threaten" t="v"/>
+<w e="cogent" i="302" m="convincing; persuasive" t="adj"/>
+<w e="cognizance" i="303" m="awareness" t="n"/>
+<w e="collapse" i="304" m="to fail apart; break down; fail; fold" t="v"/>
+<w e="colleague" i="305" m="a professional associate; co-worker" t="n"/>
+<w e="collide" i="306" m="to come together violently; dash; conflict" t="v"/>
+<w e="collision" i="307" m="a violent confrontation; crash; conflict" t="n"/>
+<w e="colloquium" i="308" m="an informal meeting; discussion; seminar" t="n"/>
+<w e="colossal" i="309" m="huge; gigantic; very large" t="adj"/>
+<w e="combination" i="310" m="a compound; mixture; aggregate" t="n"/>
+<w e="comical" i="311" m="funny; amusing" t="adj"/>
+<w e="commence" i="312" m="to begin; come into existence" t="v"/>
+<w e="commend" i="313" m="to praise; recommend; entrust" t="v"/>
+<w e="commensurate" i="314" m="corresponding; of equal size" t="adj"/>
+<w e="commitment" i="315" m="a pledge; obligation; contract; bond" t="n"/>
+<w e="commodity" i="316" m="an article of trade; product usefu1 thing" t="n"/>
+<w e="commotion" i="317" m="noisy confusion; agitation; unrest" t="n"/>
+<w e="compassion" i="318" m="a feeling of sympathy; mercy; pity" t="n"/>
+<w e="competent" i="319" m="capable; well-qualified; suitable" t="adj"/>
+<w e="competition" i="320" m="a rivalry; match; contest" t="n"/>
+<w e="complacent" i="321" m="self-satisfied; content" t="adj"/>
+<w e="compliant" i="322" m="yielding; obedient" t="adj"/>
+<w e="complicated" i="323" m="complex, intricate; confusing" t="adj"/>
+<w e="complicity" i="324" m="involved as an accomplice" t="n"/>
+<w e="compliment" i="325" m="an expression of praise or admiration" t="n"/>
+<w e="comprehensive" i="326" m="including everything; large in scope; inclusive" t="adj"/>
+<w e="compulsory" i="327" m="obligatory; required; compelling" t="adj"/>
+<w e="conceal" i="328" m="to hide; keep undercover or secret" t="v"/>
+<w e="concede" i="329" m="to acknowledge; admit; yield" t="v"/>
+<w e="conceited" i="330" m="vain; having too high of an opinion of oneself" t="adj"/>
+<w e="concentrate" i="331" m="to bring together; focus in on; condense" t="v"/>
+<w e="conciliate" i="332" m="to placate; soothe; pacify" t="v"/>
+<w e="concise" i="333" m="short and to the point; succinct; brief" t="adj"/>
+<w e="concoct" i="334" m="to make something; devise; contrive; cook up" t="v"/>
+<w e="concord" i="335" m="harmony; agreement" t="n"/>
+<w e="concrete" i="336" m="real; solid; particular; made of cement" t="adj"/>
+<w e="concur" i="337" m="to agree; coincide" t="v"/>
+<w e="condemn" i="338" m="to criticize; doom sentence; declare unfit; denounce" t="v"/>
+<w e="condense" i="339" m="to make compact; compress; reduce; abridge" t="v"/>
+<w e="condescend" i="340" m="to patronize; act with an air of superiority" t="v"/>
+<w e="condolence" i="341" m="expression of sympathy" t="n"/>
+<w e="condone" i="342" m="to forgive; overlook" t="v"/>
+<w e="confide" i="343" m="to entrust; reveal privately; tell secretly" t="v"/>
+<w e="confident" i="344" m="self-assured; bold; certain" t="n"/>
+<w e="confine" i="345" m="to restrict; imprison; keep indoors; fettered" t="v"/>
+<w e="confirm" i="346" m="to make firmer; corroborate; verify; strengthen; ratify" t="v"/>
+<w e="confiscate" i="347" m="to take away or seize something; to appropriate" t="v"/>
+<w e="conform" i="348" m="to adapt; harmonize; comply; make similar" t="v"/>
+<w e="confound" i="349" m="to confuse; to puzzle" t="v"/>
+<w e="confront" i="350" m="to bring face to face; challenge; meet head on" t="v"/>
+<w e="confusion" i="351" m="disorder; bewilderment; distraction; jumble; perplexity" t="n"/>
+<w e="congeal" i="352" m="to solidify coagulate; thicken" t="v"/>
+<w e="congenial" i="353" m="agreeable; friendly" t="adj"/>
+<w e="congested" i="354" m="overcrowded; overfilled; clogged" t="adj"/>
+<w e="congratulate" i="355" m="to acknowledge someone’s achievement" t="v"/>
+<w e="conjecture" i="356" m="to infer; guess" t="v"/>
+<w e="&lt;a onclick=&quot;_gaq.push(['_trackevent', 'outgoing', 'www.testmagic.com', '/grammar/explanations/conjunctions.htm']);&quot; href=&quot;http://www.testmagic.com/grammar/explanations/conjunctions.htm&quot; target=&quot;_blank&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;conjunction&lt;/font&gt;&lt;/a&gt;" i="357" m="a connection; union; the act of joining" t="n"/>
+<w e="connoisseur" i="358" m="a knowledgeable appreciator of the arts" t="n"/>
+<w e="conscientious" i="359" m="scrupulous; careful; thorough" t="adj"/>
+<w e="consecrate" i="360" m="to make sacred; dedicate to some service; sanctify" t="v"/>
+<w e="consecutive" i="361" m="following successively; in a sequence" t="adj"/>
+<w e="consensus" i="362" m="general agreement in opinion" t="n"/>
+<w e="consequential" i="363" m="important; following as a result" t="adj"/>
+<w e="considerable" i="364" m="important; notable; fairly large" t="adj"/>
+<w e="considerate" i="365" m="thoughtful of others’ heeds; respectful" t="adj"/>
+<w e="consign" i="366" m="to entrust; assign; set apart" t="v"/>
+<w e="console" i="367" m="to comfort or cheer up someone sorrowful" t="v"/>
+<w e="consolidate" i="368" m="to make firm; solidify; merge; strengthen, unite" t="v"/>
+<w e="conspiracy" i="369" m="an illegal plot; treacherous plan; collusion" t="n"/>
+<w e="constant" i="370" m="regularly occurring; persistent faithful; chronic" t="adj"/>
+<w e="constructive" i="371" m="beneficial to progress; helpful; building" t="adj"/>
+<w e="consume" i="372" m="to eat or drink; ingest; use up; destroy" t="v"/>
+<w e="consummate" i="373" m="complete; supremely accomplished" t="adj"/>
+<w e="contagious" i="374" m="able to spread; communicable; hard to resist" t="adj"/>
+<w e="contaminate" i="375" m="to make impure by mixing; to taint; po11ute" t="v"/>
+<w e="contemplate" i="376" m="to consider thoughtfully; ponder; meditate on; envisage" t="v"/>
+<w e="contemporary" i="377" m="from flee same tune or period; current; modern" t="adj"/>
+<w e="contend" i="378" m="to compete; strive; assert" t="v"/>
+<w e="contention" i="379" m="an assertion; a dispute; controversy; struggle" t="n"/>
+<w e="contentious" i="380" m="quarrelsome" t="adj"/>
+<w e="contingent" i="381" m="possible; conditional; accidental" t="adj"/>
+<w e="contract" i="382" m="a formal or legal agreement" t="n"/>
+<w e="contract" i="383" m="to make smaller; condense; shrink; acquire" t="v"/>
+<w e="contradict" i="384" m="to assert the opposite; be contrary to; deny; refute" t="v"/>
+<w e="contrary" i="385" m="opposed; different; conflicting; perverse" t="adj"/>
+<w e="contribute" i="386" m="to give; add to; supply; make a gift to charity" t="v"/>
+<w e="contrite" i="387" m="repentant; humbly penitent" t="adj"/>
+<w e="controversial" i="388" m="marked by differing opinions or debate" t="adj"/>
+<w e="convene" i="389" m="to assemble; gather for a meeting" t="v"/>
+<w e="convention" i="390" m="an assembly; formal meeting; custom" t="n"/>
+<w e="conventional" i="391" m="customary; ordinary; conforming to norms" t="adj"/>
+<w e="converge" i="392" m="to come together; intersect" t="v"/>
+<w e="conversion" i="393" m="a change; the act of converting; a turn around" t="n"/>
+<w e="convey" i="394" m="to transport; transmit; communicate; impart" t="v"/>
+<w e="convincing" i="395" m="persuasive; believable" t="adj"/>
+<w e="cooperate" i="396" m="to work together; proceed jointly" t="v"/>
+<w e="cope" i="397" m="to overcome; contend; struggle successfully" t="v"/>
+<w e="copious" i="398" m="abundant; plentiful" t="adj"/>
+<w e="cordial" i="399" m="friendly; gracious" t="adj"/>
+<w e="core" i="400" m="the center; innermost part; essence; heart" t="n"/>
+<w e="corpulent" i="401" m="fat" t="adj"/>
+<w e="correlation" i="402" m="statistical correspondence; interdependence" t="n"/>
+<w e="corroborate" i="403" m="to confirm; verify" t="v"/>
+<w e="countenance" i="404" m="appearance; approval; composure" t="n"/>
+<w e="covert" i="405" m="secret; hidden; concealed; covered" t="adj"/>
+<w e="covet" i="406" m="to desire something; wish for; crave" t="v"/>
+<w e="coward" i="407" m="one who lacks courage" t="n"/>
+<w e="cozy" i="408" m="comfortable; warm and inviting; snug" t="adj"/>
+<w e="cranky" i="409" m="irritable; grumpy; hard to please" t="adj"/>
+<w e="crave" i="410" m="to long for; desire; need; covet" t="v"/>
+<w e="credible" i="411" m="believable; reliable" t="adj"/>
+<w e="creditable" i="412" m="deserving praise; commendable" t="adj"/>
+<w e="credulity" i="413" m="gullibility; readiness to believe" t="n"/>
+<w e="creed" i="414" m="statement of principles or religious beliefs" t="n"/>
+<w e="criteria" i="415" m="standards for judging" t="n"/>
+<w e="critical" i="416" m="inclined to judge harshly; crucial; serious" t="adj"/>
+<w e="critique" i="417" m="a critical review; an evaluation" t="n"/>
+<w e="crony" i="418" m="an old friend" t="n"/>
+<w e="crucial" i="419" m="decisive; extremely important; critical" t="adj"/>
+<w e="crude" i="420" m="unrefined; raw; lacking tact; blunt" t="adj"/>
+<w e="cruel" i="421" m="vicious; pitiless; causing suffering or pain" t="adj"/>
+<w e="cruise" i="422" m="a recreational ocean trip" t="n"/>
+<w e="crumble" i="423" m="to break into small pieces; decay; disintegrate" t="v"/>
+<w e="crutch" i="424" m="a support for walking; anything used for support" t="n"/>
+<w e="cryptic" i="425" m="hidden; secret; concealed; ambiguous" t="adj"/>
+<w e="culminate" i="426" m="to reach the highest point; climax" t="v"/>
+<w e="culpable" i="427" m="responsible for an error; blameworthy" t="adj"/>
+<w e="cultivate" i="428" m="to prepare for crops; promote growth; nurture" t="v"/>
+<w e="cultured" i="429" m="refined; well bred; urbane" t="adj"/>
+<w e="cure" i="430" m="to heal; remedy; restore to health" t="v"/>
+<w e="curious" i="431" m="interested in information; inquisitive; strange" t="adj"/>
+<w e="curse" i="432" m="to damn; call evil upon; swear at" t="v"/>
+<w e="cursory" i="433" m="hasty; superficial" t="adj"/>
+<w e="curt" i="434" m="abrupt; concise; rudely brief; short" t="adj"/>
+<w e="curtail" i="435" m="to cut short; stop; deprive oft lessen" t="v"/>
+<w e="cynical" i="436" m="distrustful of human motives; mocking; sarcastic" t="adj"/>
+<w e="dangerous" i="437" m="not safe; hazardous; perilous" t="adj"/>
+<w e="dangle" i="438" m="to hang loosely; suspend" t="v"/>
+<w e="dank" i="439" m="damp and chilly; moist" t="adj"/>
+<w e="daunt" i="440" m="to intimidate; dishearten" t="v"/>
+<w e="dearth" i="441" m="scarcity; famine" t="n"/>
+<w e="debacle" i="442" m="disaster; sudden collapse; complete failure" t="n"/>
+<w e="debatable" i="443" m="questionable; subject to doubt; in dispute" t="adj"/>
+<w e="debtor" i="444" m="one who owes money or something else" t="n"/>
+<w e="decade" i="445" m="a period often years; a group of ten" t="n"/>
+<w e="decadence" i="446" m="decay; deterioration in art or morals; period of decline" t="n"/>
+<w e="deceased" i="447" m="no longer alive; deadly" t="adj"/>
+<w e="deceive" i="448" m="to mislead; delude; betray; cheat; beguile" t="v"/>
+<w e="decent" i="449" m="respectable; ethical; proper; modest" t="adj"/>
+<w e="decipher" i="450" m="to translate a code; find the meaning of" t="v"/>
+<w e="decisive" i="451" m="conclusive; firm unmistakable; determined; crucial" t="adj"/>
+<w e="decompose" i="452" m="to decay; break down into parts; disintegrate" t="v"/>
+<w e="decorate" i="453" m="to embellish; adorn; give a medal of honor to" t="v"/>
+<w e="decorative" i="454" m="ornamental; adding beauty" t="adj"/>
+<w e="decorous" i="455" m="proper; seemly" t="adj"/>
+<w e="decrepit" i="456" m="worn out by old age" t="adj"/>
+<w e="dedicate" i="457" m="to devote or set aside something; commit" t="v"/>
+<w e="dedicated" i="458" m="devoted; committed to something" t="adj"/>
+<w e="deduce" i="459" m="to arrive at by reasoning, slander" t="v"/>
+<w e="defame" i="460" m="to dishonor; malign; slander" t="v"/>
+<w e="defection" i="461" m="desertion; ad of leaving a group or cause" t="n"/>
+<w e="defective" i="462" m="imperfect; faulty; damaged" t="adj"/>
+<w e="deference" i="463" m="respect; courteous submission" t="n"/>
+<w e="defiant" i="464" m="resisting; challenging; not submissive" t="adj"/>
+<w e="deficient" i="465" m="inadequate; imperfect; incomplete; lacking" t="adj"/>
+<w e="defile" i="466" m="to corrupt; befoul" t="v"/>
+<w e="deflect" i="467" m="to turn aside" t="v"/>
+<w e="deform" i="468" m="to disfigure; distort; misshape" t="v"/>
+<w e="degenerate" i="469" m="to deteriorate; become worse" t="v"/>
+<w e="degrade" i="470" m="to reduce in rank or degree; lower; debase; disparage" t="v"/>
+<w e="delegate" i="471" m="to entrust with authority; send as a representative" t="v"/>
+<w e="delete" i="472" m="to erase; omit; take out" t="v"/>
+<w e="deliberately" i="473" m="intentionally; voluntarily" t="adv"/>
+<w e="delineate" i="474" m="to outline; portray" t="v"/>
+<w e="delinquent" i="475" m="falling in one’s obligations; overdue; an offender" t="adj"/>
+<w e="delude" i="476" m="to deceive; cheat" t="v"/>
+<w e="deluge" i="477" m="a flood; overflow" t="n"/>
+<w e="delusion" i="478" m="deception; false belief" t="n"/>
+<w e="demarcate" i="479" m="to set boundaries" t="v"/>
+<w e="demean" i="480" m="to degrade; lower" t="v"/>
+<w e="demeanor" i="481" m="bearing; behavior; manner" t="n"/>
+<w e="demented" i="482" m="insane" t="adj"/>
+<w e="demise" i="483" m="death" t="n"/>
+<w e="demolish" i="484" m="to destroy; pull down; ruin" t="v"/>
+<w e="demure" i="485" m="shy; reserved; modest" t="adj"/>
+<w e="denigrate" i="486" m="to defame; blacken" t="v"/>
+<w e="denote" i="487" m="to identify; designate; indicate" t="v"/>
+<w e="denounce" i="488" m="to condemn; criticize" t="v"/>
+<w e="depart" i="489" m="to go away; leave; deviate; die" t="v"/>
+<w e="dependent" i="490" m="relying on another; conditional" t="adj"/>
+<w e="depict" i="491" m="to portray; represent in a picture; describe" t="v"/>
+<w e="deplete" i="492" m="to use up; exhaust; drain" t="v"/>
+<w e="deplore" i="493" m="to regret; lament" t="v"/>
+<w e="depose" i="494" m="to remove from office or power" t="v"/>
+<w e="deposit" i="495" m="to put down; put in a safe spot; put in a bank" t="v"/>
+<w e="depravity" i="496" m="wickedness; perversity" t="n"/>
+<w e="depreciate" i="497" m="to lower in value" t="v"/>
+<w e="depressed" i="498" m="dejected; sad; low an spirit" t="adj"/>
+<w e="deprivation" i="499" m="poverty; want; privation" t="n"/>
+<w e="deride" i="500" m="to laugh at; ridicule; mock" t="v"/>
+<w e="derision" i="501" m="ridicule; mockery" t="n"/>
+<w e="desert" i="502" m="to abandon; forsake; leave" t="v"/>
+<w e="designate" i="503" m="to specify; point out; appoint; name; earmark" t="v"/>
+<w e="desire" i="504" m="to crave; long for; want" t="v"/>
+<w e="desolate" i="505" m="lonely; uninhabited; barren" t="adj"/>
+<w e="despicable" i="506" m="contemptible; looked down on; vile; hateful" t="adj"/>
+<w e="despise" i="507" m="to look down upon; regard with contempt; scorn" t="v"/>
+<w e="despot" i="508" m="autocratic ruler; tyrant" t="n"/>
+<w e="dessert" i="509" m="a sweet served at the end of a meal; a treat" t="n"/>
+<w e="destitute" i="510" m="devoid; impoverished" t="adj"/>
+<w e="destroy" i="511" m="to demolish; ruin; put an end to; annihilate; eradicate" t="v"/>
+<w e="detached" i="512" m="impartial; aloof, separate" t="adj"/>
+<w e="detain" i="513" m="to hold back; delay; confine" t="v"/>
+<w e="detect" i="514" m="to find out; discover; discern" t="v"/>
+<w e="deteriorate" i="515" m="to degenerate; lower in value; worsen; decay" t="v"/>
+<w e="determine" i="516" m="to find out; decide; resolve; ascertain" t="v"/>
+<w e="deterrent" i="517" m="something that prevents or discourages" t="n"/>
+<w e="detest" i="518" m="to strongly dislike; abhor; loathe" t="v"/>
+<w e="detract" i="519" m="to take away from; diminish; reduce" t="v"/>
+<w e="detrimental" i="520" m="harmful; injurious; causing damage" t="adj"/>
+<w e="devalue" i="521" m="to lower in value; lessen" t="v"/>
+<w e="devastate" i="522" m="to ruin; pillage" t="v"/>
+<w e="deviate" i="523" m="to turn away from; digress; stray" t="v"/>
+<w e="devious" i="524" m="deviating from the usual; erring; cunning" t="adj"/>
+<w e="devise" i="525" m="to think up; concoct; invent; contrive" t="v"/>
+<w e="devoid" i="526" m="lacking; destitute; empty; without" t="adj"/>
+<w e="devoted" i="527" m="dedicated; loyal; faithful; strongly attached" t="adj"/>
+<w e="devour" i="528" m="to eat greedily; consume; absorb; destroy" t="v"/>
+<w e="dexterity" i="529" m="adroitness; skillfulness; skill" t="n"/>
+<w e="diabolic" i="530" m="satanic; cruel" t="adj"/>
+<w e="diagnosis" i="531" m="a conclusion reached by analysis" t="n"/>
+<w e="diagram" i="532" m="a chart or plan; an explanatory drawing" t="n"/>
+<w e="dichotomy" i="533" m="division into two parts; schism" t="n"/>
+<w e="dictate" i="534" m="to command; prescribe; order" t="v"/>
+<w e="diffident" i="535" m="shy; timid" t="adj"/>
+<w e="diffuse" i="536" m="widely dispersed; verbose" t="adj"/>
+<w e="digest" i="537" m="to break down food in the body; think through" t="v"/>
+<w e="digression" i="538" m="straying from the subject; deviation" t="n"/>
+<w e="dilapidated" i="539" m="broken down; in disrepair" t="adj"/>
+<w e="dilate" i="540" m="to expand; enlarge; widen" t="v"/>
+<w e="diligent" i="541" m="industrious; assiduous; hard working" t="adj"/>
+<w e="dilute" i="542" m="to weaken by adding water; reduce in strength" t="v"/>
+<w e="diminish" i="543" m="to make smaller; reduce; lessen" t="v"/>
+<w e="diminutive" i="544" m="tiny; small" t="adj"/>
+<w e="diplomacy" i="545" m="tact; negotiating skill; skill in dealing with others" t="n"/>
+<w e="dire" i="546" m="disastrous; dreadful" t="adj"/>
+<w e="disappointing" i="547" m="falling to meet expectations; less than hoped for" t="adj"/>
+<w e="disaster" i="548" m="a catastrophe; calamity; total failure; cataclysm" t="n"/>
+<w e="disband" i="549" m="to dissolve a group; dismiss members; breakup" t="v"/>
+<w e="discard" i="550" m="to throw away; cast off get rid of" t="v"/>
+<w e="discern" i="551" m="to perceive; distinguish; see" t="v"/>
+<w e="disciple" i="552" m="a follower; a devotee of a movement" t="n"/>
+<w e="disclose" i="553" m="to reveal; make known" t="v"/>
+<w e="disconcert" i="554" m="to upset; ruffle" t="v"/>
+<w e="discordant" i="555" m="confiding; dissonant" t="adj"/>
+<w e="discover" i="556" m="to find something new; gain new knowledge" t="v"/>
+<w e="discretion" i="557" m="prudence; freedom of judgment" t="n"/>
+<w e="disdain" i="558" m="to despise; to consider unworthy" t="v"/>
+<w e="diseased" i="559" m="unhealthy; sick; ill; disordered" t="adj"/>
+<w e="disguise" i="560" m="to conceal the identity of; mask; misrepresent" t="v"/>
+<w e="dishonest" i="561" m="tending to lie~ cheat or deceive" t="adj"/>
+<w e="disintegrate" i="562" m="to fragment; decompose; break down into pails" t="v"/>
+<w e="dismal" i="563" m="gloomy; dreary; depressing; cheerless" t="adj"/>
+<w e="disorganized" i="564" m="full of disorder; unorganized; confused" t="adj"/>
+<w e="disorientation" i="565" m="confusion; loss of direction" t="n"/>
+<w e="disparage" i="566" m="to belittle, degrade" t="v"/>
+<w e="disparate" i="567" m="dissimilar; completely distinct" t="adj"/>
+<w e="disparity" i="568" m="condition of being unequal; dissimilarity" t="n"/>
+<w e="dispassionate" i="569" m="calm, impartial; unemotional" t="adj"/>
+<w e="dispense" i="570" m="to distribute; deal out; administer; do without" t="v"/>
+<w e="disperse" i="571" m="to scatter; distribute widely; cause to vanish" t="v"/>
+<w e="display" i="572" m="to show; exhibit; expose" t="v"/>
+<w e="dispute" i="573" m="an argument; disagreement; debate; quarrel" t="n"/>
+<w e="disrobe" i="574" m="to remove clothing; undress" t="v"/>
+<w e="dissect" i="575" m="to cut or separate into pieces; examine in detail" t="v"/>
+<w e="disseminate" i="576" m="to disperse widely; promulgate" t="v"/>
+<w e="dissent" i="577" m="to disagree; differ" t="v"/>
+<w e="dissolve" i="578" m="turn to liquid; melt; disunite; breakup" t="v"/>
+<w e="dissuade" i="579" m="to discourage; persuade against" t="v"/>
+<w e="distinctive" i="580" m="different; distinguishable; characteristic" t="adj"/>
+<w e="distinguishable" i="581" m="recognizable; identifiable; perceivable" t="adj"/>
+<w e="distort" i="582" m="to twist out of shape; contort; misrepresent" t="v"/>
+<w e="distract" i="583" m="to divert; cause to lose focus; confuse" t="v"/>
+<w e="distraught" i="584" m="worried; crazes" t="adj"/>
+<w e="distressing" i="585" m="painful; adverse; upsetting" t="adj"/>
+<w e="divergent" i="586" m="differing; drawing apart; deviating" t="adj"/>
+<w e="diverse" i="587" m="different; varied; not alike; dissimilar" t="adj"/>
+<w e="divide" i="588" m="to separate; disjoin; disunite; distribute" t="v"/>
+<w e="divulge" i="589" m="to make known; disclose; tell; reveal" t="v"/>
+<w e="docile" i="590" m="submissive; tradable; easily managed" t="adj"/>
+<w e="doctrinaire" i="591" m="inflexibly devoted to certain principles; dogmatic" t="adj"/>
+<w e="document" i="592" m="to support with written evidence or reference~" t="v"/>
+<w e="document" i="593" m="a written or official paper; written record" t="n"/>
+<w e="dogmatic" i="594" m="doctrinaire; over positive" t="adj"/>
+<w e="doleful" i="595" m="mournful; melancholy" t="adj"/>
+<w e="domestic" i="596" m="relating to home life or a country’s internal affair" t="adj"/>
+<w e="dominant" i="597" m="controlling; most powerful or important" t="adj"/>
+<w e="domineering" i="598" m="overbearing; tyrannical; arrogant" t="adj"/>
+<w e="donate" i="599" m="to give as a gift; contribute; bestow" t="v"/>
+<w e="dormant" i="600" m="inactive; temporarily quiescent; sleeping" t="adj"/>
+<w e="doubtful" i="601" m="questionable; unlikely; uncertain" t="adj"/>
+<w e="doze" i="602" m="to sleep lightly; nap; nod off" t="v"/>
+<w e="dramatic" i="603" m="intensely interesting; striking; eventful" t="adj"/>
+<w e="dreadful" i="604" m="horrible; frightfu1; terrible; shocking" t="adj"/>
+<w e="dreary" i="605" m="gloomy; dismal; tedious; boring" t="adj"/>
+<w e="drench" i="606" m="to soak; saturate; wet thoroughly" t="v"/>
+<w e="drought" i="607" m="a long period without rain; a scarcity" t="n"/>
+<w e="drowsy" i="608" m="sleepy" t="adj"/>
+<w e="dubious" i="609" m="doubtful; questionable; undecided" t="adj"/>
+<w e="dumbfound" i="610" m="to confuse; stun; surprise; amaze" t="v"/>
+<w e="dungeon" i="611" m="a dark underground cell; dark prison cell" t="n"/>
+<w e="duplicity" i="612" m="deception; hypocrisy" t="n"/>
+<w e="durable" i="613" m="long lasting; able to withstand wear" t="adj"/>
+<w e="duration" i="614" m="the time during which something continues" t="n"/>
+<w e="duress" i="615" m="constraint by force or threat; coercion" t="n"/>
+<w e="dusk" i="616" m="twilight; partial darkness" t="n"/>
+<w e="dwindle" i="617" m="to become less; decrease; diminish" t="v"/>
+<w e="eccentric" i="618" m="unconventional; odd; irregular" t="adj"/>
+<w e="economical" i="619" m="thrifty; prudent; sparing" t="adj"/>
+<w e="ecstatic" i="620" m="enraptured; blissful; extremely happy" t="adj"/>
+<w e="edible" i="621" m="fit to be eaten; nonpoisonous" t="adj"/>
+<w e="edify" i="622" m="to enlighten morally; instruct; impart knowledge" t="v"/>
+<w e="eerie" i="623" m="unsettling; mysterious" t="adj"/>
+<w e="efface" i="624" m="to erase; obliterate; rub out" t="v"/>
+<w e="epfect" i="625" m="a result; outcome; consequence" t="n"/>
+<w e="effective" i="626" m="productive; efficient; serving its purpose" t="adj"/>
+<w e="efficacy" i="627" m="effectiveness" t="n"/>
+<w e="efficient" i="628" m="capable; effective; causative" t="adj"/>
+<w e="effortless" i="629" m="requiring little effort or work; easy" t="adj"/>
+<w e="egregious" i="630" m="shockingly bad; blatant" t="adj"/>
+<w e="elaborate" i="631" m="to work out in detail" t="v"/>
+<w e="elderly" i="632" m="old" t="adj"/>
+<w e="elevated" i="633" m="raised; lifted up; lofty" t="adj"/>
+<w e="elicit" i="634" m="to bring out; evoke" t="v"/>
+<w e="eligible" i="635" m="qualified; fit to be chosen; available" t="adj"/>
+<w e="eliminate" i="636" m="to get rid of remove; omit; eradicate" t="v"/>
+<w e="elite" i="637" m="a superior or select group" t="n"/>
+<w e="elongate" i="638" m="to make longer; extend" t="v"/>
+<w e="eloquence" i="639" m="fluency and persuasiveness; expressiveness" t="n"/>
+<w e="elucidate" i="640" m="to clarify; explain" t="v"/>
+<w e="elude" i="641" m="to escape; evade; avoid" t="v"/>
+<w e="elusive" i="642" m="hard to grasp" t="adj"/>
+<w e="emanate" i="643" m="to come forth from; originate" t="v"/>
+<w e="emancipate" i="644" m="to set free; liberate" t="v"/>
+<w e="embarrass" i="645" m="to make self-conscious; disconcert; impede" t="v"/>
+<w e="embellish" i="646" m="to adorn; make more beautiful" t="v"/>
+<w e="emerge" i="647" m="to come into sight; rise up; become apparent" t="v"/>
+<w e="emergency" i="648" m="a critical situation; urgent need for action" t="n"/>
+<w e="emigrate" i="649" m="to leave a country and settle somewhere else" t="v"/>
+<w e="eminent" i="650" m="prominent; distinguished" t="adj"/>
+<w e="emit" i="651" m="to send forth; utter; release; discharge" t="v"/>
+<w e="emphasize" i="652" m="to stress; call attention to; highlight" t="v"/>
+<w e="emphatic" i="653" m="bold; accentuated; definite" t="adj"/>
+<w e="employ" i="654" m="to use; put to service; give a job to" t="v"/>
+<w e="empower" i="655" m="to authorize; permit; give power to" t="v"/>
+<w e="emulate" i="656" m="to imitate; compete with" t="v"/>
+<w e="enchant" i="657" m="to cast a spell on; charm; fascinate; delight" t="v"/>
+<w e="encompass" i="658" m="to surround; enclose; contain; encircle" t="v"/>
+<w e="encounter" i="659" m="a meeting; conflict" t="n"/>
+<w e="encourage" i="660" m="to give confidence to; incite; embolden; support" t="v"/>
+<w e="encroachment" i="661" m="a gradual intrusion" t="n"/>
+<w e="endanger" i="662" m="to expose to harm; put at risk; imperil" t="v"/>
+<w e="endeavor" i="663" m="to strive; attempt earnestly; make an effort" t="v"/>
+<w e="endorse" i="664" m="to approve; ratify; support" t="v"/>
+<w e="enduring" i="665" m="long lasting; chronic; durable" t="adj"/>
+<w e="enemy" i="666" m="a hostile person or country; opponent; foe" t="n"/>
+<w e="energetic" i="667" m="full of energy; vigorous; active" t="adj"/>
+<w e="engaged" i="668" m="pledged to be married; occupied; involved" t="adj"/>
+<w e="engaging" i="669" m="charming; pleasing; attractive" t="adj"/>
+<w e="engrossed" i="670" m="attentively occupied; abforbe4" t="adj"/>
+<w e="enhance" i="671" m="to improve; advance; augment; make greater" t="v"/>
+<w e="enormous" i="672" m="huge; immense; gigantic; vast" t="adj"/>
+<w e="entangle" i="673" m="to involve in difficulties; mix up; entrap; confuse; embroil" t="v"/>
+<w e="entertain" i="674" m="to amuse; provide hospitality; contemplate" t="v"/>
+<w e="enthrall" i="675" m="to charm, captivate; enslave" t="v"/>
+<w e="enthusiastic" i="676" m="eager; excited; ardent; zealous" t="adj"/>
+<w e="entice" i="677" m="to attract by arousing desire; lure" t="v"/>
+<w e="entrench" i="678" m="to establish securely; dig in; fix firmly" t="v"/>
+<w e="enunciate" i="679" m="to pronounce clearly; proclaim" t="v"/>
+<w e="envious" i="680" m="jealous; wanting what another has" t="adj"/>
+<w e="episode" i="681" m="an incident; segment from a series; occurrence" t="n"/>
+<w e="epitome" i="682" m="summary; embodiment; essence" t="n"/>
+<w e="equitable" i="683" m="fair; just" t="adj"/>
+<w e="equivalent" i="684" m="corresponding; equal in strength or meaning" t="adj"/>
+<w e="equivocal" i="685" m="ambiguous; uncertain; questionable" t="adj"/>
+<w e="eradicate" i="686" m="to annihilate; destroy; eliminate" t="v"/>
+<w e="erosion" i="687" m="a wearing away of soil; slow dissolution" t="n"/>
+<w e="erratic" i="688" m="unpredictable; wandering; eccentric" t="adj"/>
+<w e="erudite" i="689" m="deeply learned; scholarly" t="adj"/>
+<w e="eruption" i="690" m="volcanic discharge; violent outburst" t="n"/>
+<w e="escapade" i="691" m="reckless adventure" t="n"/>
+<w e="escort" i="692" m="to accompany; protect; serve as a companion" t="v"/>
+<w e="espionage" i="693" m="spying" t="n"/>
+<w e="espouse" i="694" m="to many; to give One’s support; adopt" t="v"/>
+<w e="essential" i="695" m="indispensable; fundamen1al; necessary" t="adj"/>
+<w e="established" i="696" m="firmly based; fixed; proven" t="adj"/>
+<w e="estate" i="697" m="property; one’s possessions; status" t="n"/>
+<w e="esteem" i="698" m="to raped; appreciate; judge" t="v"/>
+<w e="estimate" i="699" m="an approximate calculation; opinion" t="n"/>
+<w e="ethical" i="700" m="moral; conforming to accepted conduct" t="adj"/>
+<w e="eulogy" i="701" m="speech honoring a dead person; praise" t="n"/>
+<w e="euphoria" i="702" m="bliss; ecstasy" t="n"/>
+<w e="evaluate" i="703" m="to determine the value oft judge; examine" t="v"/>
+<w e="evaporate" i="704" m="to change into vapor; disappear; vanish" t="v"/>
+<w e="evasive" i="705" m="elusive; evading; not straight forward" t="adj"/>
+<w e="evict" i="706" m="to expel; force out; dispossess; oust" t="v"/>
+<w e="evidence" i="707" m="proof; supporting data; trial testimony" t="n"/>
+<w e="evident" i="708" m="apparent; obvious; dear; plainly seen" t="adj"/>
+<w e="evoke" i="709" m="to call forth; elicit" t="v"/>
+<w e="evolve" i="710" m="to develop gradually; unfold; emerge" t="v"/>
+<w e="exacerbate" i="711" m="to aggravate; embitter" t="v"/>
+<w e="exacting" i="712" m="demanding; strict; severe" t="adj"/>
+<w e="exaggerate" i="713" m="to overstate; enlarge the importance of; magnify; aggrandize" t="v"/>
+<w e="exasperate" i="714" m="to irritate; vex; provoke" t="v"/>
+<w e="exceed" i="715" m="logo beyond; surpass; be greater that" t="v"/>
+<w e="excel" i="716" m="to be superior; surpass; exceed" t="v"/>
+<w e="exception" i="717" m="something left out or non conforming; objection" t="n"/>
+<w e="exceptional" i="718" m="unusual; extraordinary; uncommon" t="adj"/>
+<w e="exchange" i="719" m="to trade one thing for another; substitute" t="v"/>
+<w e="exclusive" i="720" m="selective; accepting only a few; snobbish" t="adj"/>
+<w e="execute" i="721" m="to put into effect; carry out; perform" t="v"/>
+<w e="executive" i="722" m="a manager; administrator" t="n"/>
+<w e="exemplary" i="723" m="commendable; serving as a model or example" t="adj"/>
+<w e="exemplify" i="724" m="to explain by an example; embody" t="v"/>
+<w e="exempt" i="725" m="excused; excepted; not obliged; released" t="adj"/>
+<w e="exertion" i="726" m="a great or strenuous effort" t="n"/>
+<w e="exhale" i="727" m="to breathe out; emit; give off" t="v"/>
+<w e="exhausted" i="728" m="worn out; used up; depleted" t="adj"/>
+<w e="exhaustive" i="729" m="comprehensive; thorough" t="adj"/>
+<w e="exhilaration" i="730" m="extreme happiness; elation; joyousness" t="n"/>
+<w e="exiled" i="731" m="banished; expelled; removes" t="adj"/>
+<w e="exonerate" i="732" m="to free from blame: exculpate" t="v"/>
+<w e="exorbitant" i="733" m="excessive; inordinate; far beyond the usual" t="adj"/>
+<w e="expand" i="734" m="to increase in size; stretch out; widen; spread" t="v"/>
+<w e="expansion" i="735" m="an increase: extension" t="n"/>
+<w e="expedite" i="736" m="to speed up; hasten" t="v"/>
+<w e="expenditure" i="737" m="an expense; disbursement; outlay; cost" t="n"/>
+<w e="expenses" i="738" m="costs; charges; expenditures" t="n"/>
+<w e="expertise" i="739" m="knowledge; skill; expertness" t="n"/>
+<w e="expire" i="740" m="lo die; come to an end; exhale" t="v"/>
+<w e="explicit" i="741" m="dearly expressed; definite; outspoken" t="adj"/>
+<w e="explode" i="742" m="to burst open; break into activity; erupt" t="v"/>
+<w e="exploit" i="743" m="to take advantage of; utilize selfishly" t="v"/>
+<w e="exponent" i="744" m="ONE who represents or explains; an advocate" t="n"/>
+<w e="expose" i="745" m="to uncover; make visible; reveal; make known" t="v"/>
+<w e="expound" i="746" m="to explain; give d~1etailed account of; elucidate" t="v"/>
+<w e="expressive" i="747" m="revealing; demonstrative; easily understood" t="adj"/>
+<w e="exquisite" i="748" m="elegant; delicately; beautiful; intense" t="adj"/>
+<w e="extemporaneous" i="749" m="impromptu; without preparation" t="adj"/>
+<w e="extensive" i="750" m="wide in range or scope; thorough; vast" t="adj"/>
+<w e="extinct" i="751" m="no longer in existence or use" t="adj"/>
+<w e="extinguish" i="752" m="to put out; quench; destroy" t="v"/>
+<w e="extol" i="753" m="to praise; eulogize; speak highly of" t="v"/>
+<w e="extraneous" i="754" m="coming from without; not essential" t="adj"/>
+<w e="extraordinary" i="755" m="remarkable; beyond the ordinary; exceptional" t="adj"/>
+<w e="extravagant" i="756" m="excessive; wasteful of money; profuse" t="adj"/>
+<w e="extricate" i="757" m="liberate; differentiate; disentangle" t="v"/>
+<w e="extrinsic" i="758" m="extraneous; inessential; external" t="adj"/>
+<w e="exuberance" i="759" m="extreme happiness; abundance; lavishness" t="n"/>
+<w e="exude" i="760" m="to ooze out; emit" t="v"/>
+<w e="fabricate" i="761" m="to construct; make up; concoct" t="v"/>
+<w e="facade" i="762" m="front of a building; false front" t="n"/>
+<w e="facetious" i="763" m="humorous; flippant; amusing" t="adj"/>
+<w e="facile" i="764" m="easy; fluent; superficial" t="adj"/>
+<w e="facilitate" i="765" m="to make easier; assist" t="v"/>
+<w e="facsimile" i="766" m="an exact copy" t="n"/>
+<w e="factory" i="767" m="a manufacturing building or plant" t="n"/>
+<w e="fallacious" i="768" m="false; delusive" t="adj"/>
+<w e="fallible" i="769" m="capable of failing; subject to error; not perfect" t="adj"/>
+<w e="falsify" i="770" m="to misrepresent; after to deceive; forge" t="v"/>
+<w e="falter" i="771" m="to waver; be unsteady; stumble; hesitate" t="v"/>
+<w e="famine" i="772" m="starvation; widespread food shortage" t="n"/>
+<w e="famished" i="773" m="starving; very hungry" t="adj"/>
+<w e="fantasy" i="774" m="something unreal or imagined; an illusion" t="n"/>
+<w e="fascinating" i="775" m="extremely interesting; captivating" t="adj"/>
+<w e="fatigue" i="776" m="weariness; exhaustion; extreme" t="n"/>
+<w e="faulty" i="777" m="defective; imperfect; erroneous; amiss" t="adj"/>
+<w e="feat" i="778" m="an act of courage or skill; an accomplishment" t="n"/>
+<w e="feeble" i="779" m="lacking strength; weak; ineffective; frail" t="adj"/>
+<w e="feign" i="780" m="to pretend" t="v"/>
+<w e="ferry" i="781" m="to transport or deliver; cross on a ferryboat" t="v"/>
+<w e="fertilize" i="782" m="to make productive by enriching; impregnate" t="v"/>
+<w e="fervent" i="783" m="passionate; ardent; hot" t="adj"/>
+<w e="feud" i="784" m="a long lasting quarrel; vendetta; bitter dispute" t="n"/>
+<w e="fictitious" i="785" m="unreal; false; fictional" t="adj"/>
+<w e="fidelity" i="786" m="faithfulness; verity; loyalty" t="n"/>
+<w e="fiendish" i="787" m="cruel; diabolical" t="adj"/>
+<w e="fierce" i="788" m="savage; violent; intense" t="adj"/>
+<w e="figment" i="789" m="something imagined or fabricated; a fantasy" t="n"/>
+<w e="figurative" i="790" m="not literal; symbolic; metaphorical" t="adj"/>
+<w e="final" i="791" m="last; concluding; ultimate; decisive" t="adj"/>
+<w e="finances" i="792" m="monetary resources; funds; revenue" t="n"/>
+<w e="finite" i="793" m="limited; impermanent" t="adj"/>
+<w e="flagrant" i="794" m="conspicuous; notorious" t="adj"/>
+<w e="flamboyant" i="795" m="showy; ornate; highly elaborate" t="adj"/>
+<w e="flatter" i="796" m="to praise insincerely; portray favorably" t="v"/>
+<w e="flee" i="797" m="to escape; run away from" t="v"/>
+<w e="flicker" i="798" m="to burn unsteadily; quiver; flutter" t="v"/>
+<w e="flimsy" i="799" m="insubstantial; weak; unconvincing" t="adj"/>
+<w e="flinch" i="800" m="to shrink from pain; retreat; show cowardice; recoil" t="v"/>
+<w e="flippant" i="801" m="offensive levity; disrespectful" t="adj"/>
+<w e="flounder" i="802" m="to struggle helplessly; move clumsily" t="v"/>
+<w e="flourish" i="803" m="to thrive; grow lushly; prosper; wave vigorously" t="v"/>
+<w e="fluctuate" i="804" m="to continually change or vary; rise and fall" t="v"/>
+<w e="fluffy" i="805" m="soft and airy; puffy; downy" t="adj"/>
+<w e="flux" i="806" m="flow; change" t="n"/>
+<w e="foible" i="807" m="minor weakness" t="n"/>
+<w e="foment" i="808" m="to instigate; stir up" t="v"/>
+<w e="fondle" i="809" m="to caress; touch affectionately; stroke lovingly" t="v"/>
+<w e="foolish" i="810" m="silly; unwise; ridiculous; absurd" t="adj"/>
+<w e="forbearance" i="811" m="restraint; patience" t="n"/>
+<w e="forbid" i="812" m="order not to be done; prohibit; refuse to permit" t="v"/>
+<w e="foreboding" i="813" m="fear something evil is coming; apprehension" t="n"/>
+<w e="forecast" i="814" m="a prediction; weather report" t="n"/>
+<w e="forefather’s" i="815" m="ancestors; preceding generations" t="n"/>
+<w e="foreman" i="816" m="person in charge of work crew; jury spokesman" t="n"/>
+<w e="foresight" i="817" m="ability to foresee the future; prudence" t="n"/>
+<w e="forestall" i="818" m="to prevent" t="v"/>
+<w e="formality" i="819" m="conformity to custom or procedure" t="n"/>
+<w e="former" i="820" m="preceding; earlier; previous; coming before" t="adj"/>
+<w e="formidable" i="821" m="difficult to surmount; feared; admirable" t="adj"/>
+<w e="fort" i="822" m="a defensive stronghold; fortification" t="n"/>
+<w e="fossil" i="823" m="remains of prehistoric life; something outdated" t="n"/>
+<w e="foul" i="824" m="disgusting; offensive; spoiled; unfair" t="adj"/>
+<w e="fowl" i="825" m="an edible bird; a chicken" t="n"/>
+<w e="fraction" i="826" m="a fragment; part of a unit; small portion" t="n"/>
+<w e="fragment" i="827" m="a broken piece; unfinished part; fraction" t="n"/>
+<w e="fraud" i="828" m="a trick; deception; dishonest act or person" t="n"/>
+<w e="fret" i="829" m="to worry; be anxious or uneasy" t="v"/>
+<w e="frigid" i="830" m="extremely cold; emotionally unresponsive~" t="adj"/>
+<w e="frivolity" i="831" m="a lack of seriousness; silliness" t="n"/>
+<w e="frolic" i="832" m="to play joyfully; romp" t="v"/>
+<w e="frontier" i="833" m="border region of a country; undeveloped area" t="n"/>
+<w e="frugal" i="834" m="thrifty; inexpensive" t="adj"/>
+<w e="fruition" i="835" m="realization; fulfillment" t="n"/>
+<w e="fruitless" i="836" m="unproductive; barren; unprofitable" t="adj"/>
+<w e="frustrate" i="837" m="to defeat; prevent; thwart" t="v"/>
+<w e="fugitive" i="838" m="one who has fled the law or a duty" t="n"/>
+<w e="furious" i="839" m="violently angry; raging; fierce" t="adj"/>
+<w e="furtive" i="840" m="secret; stealthy; sly" t="adj"/>
+<w e="fuse" i="841" m="to melt together; combine; blend; weld" t="v"/>
+<w e="futile" i="842" m="useless; ineffectual; unproductive" t="adj"/>
+<w e="gall" i="843" m="bitterness; impudence; nerve" t="n"/>
+<w e="gamble" i="844" m="to risk something; bet; speculate" t="v"/>
+<w e="garb" i="845" m="clothes; attire; distinctive costume" t="n"/>
+<w e="garbled" i="846" m="distorted; scrambled; purposely mixed up" t="v"/>
+<w e="garish" i="847" m="gaudy; showy; over-decorated" t="adj"/>
+<w e="garrulous" i="848" m="talkative; loquacious; wordy" t="adj"/>
+<w e="gash" i="849" m="a deep cut; slash; wound" t="n"/>
+<w e="gasp" i="850" m="to breathe in suddenly or with difficulty" t="v"/>
+<w e="gauche" i="851" m="tactless; awkward" t="adj"/>
+<w e="gaudy" i="852" m="tastelessly showy or ornate; garish; flashy" t="adj"/>
+<w e="gem" i="853" m="a precious stone; something highly valued" t="n"/>
+<w e="generosity" i="854" m="unselfishness; willingness to give" t="n"/>
+<w e="genial" i="855" m="cordial; friendly; beneficial" t="adj"/>
+<w e="genuine" i="856" m="real; not artificial; authentic; sincere" t="adj"/>
+<w e="germinate" i="857" m="to begin to grow; sprout" t="v"/>
+<w e="gesture" i="858" m="a body movement used to communicate; a sign" t="n"/>
+<w e="ghastly" i="859" m="shocking; dreadful; very pale" t="adj"/>
+<w e="gifted" i="860" m="talented; having natural ability" t="adj"/>
+<w e="gigantic" i="861" m="very large; huge; enormous" t="adj"/>
+<w e="gingerly" i="862" m="delicately; carefully" t="adj"/>
+<w e="gist" i="863" m="the general meaning; essence; central idea" t="n"/>
+<w e="glamorize" i="864" m="to glorify; idealize; romanticize" t="v"/>
+<w e="glance" i="865" m="a quick or superficial look" t="n"/>
+<w e="glib" i="866" m="smooth; fluent; insincere" t="adj"/>
+<w e="glitter" i="867" m="to sparkle; glisten; shine" t="v"/>
+<w e="gloat" i="868" m="to show enjoyment at another’s misfortune" t="v"/>
+<w e="glossary" i="869" m="an explanatory list of terms" t="n"/>
+<w e="glow" i="870" m="to shine; emit a warm light; be flushed or radiant" t="v"/>
+<w e="glutton" i="871" m="one who eats excessively; a greedy person" t="n"/>
+<w e="goad" i="872" m="spur on: prowl" t="v"/>
+<w e="goal" i="873" m="an objective; finish line or scoring area" t="n"/>
+<w e="gorgeous" i="874" m="strikingly beautiful; dazzling; magnificent" t="adj"/>
+<w e="gory" i="875" m="bloody; bloodstained" t="adj"/>
+<w e="gossip" i="876" m="idle talk about other people" t="n"/>
+<w e="gracious" i="877" m="courteous; charming; elegant; kind" t="adj"/>
+<w e="gratuitous" i="878" m="given without charge; unwarranted" t="adj"/>
+<w e="gravity" i="879" m="seriousness~" t="n"/>
+<w e="greedy" i="880" m="overly desirous for money or things; avaricious; insatiable" t="adj"/>
+<w e="gregarious" i="881" m="sociable; outgoing; enjoying being with others" t="adj"/>
+<w e="grief" i="882" m="intense sorrow; anguish; regret; failure" t="n"/>
+<w e="grievance" i="883" m="a complaint; cause for protest; injustice" t="n"/>
+<w e="grope" i="884" m="to feel one’s way; seek aimlessly or blindly" t="v"/>
+<w e="grouchy" i="885" m="ill tempered; complaining; grumpy" t="adj"/>
+<w e="growl" i="886" m="to snarl deeply; speak angrily; grumble" t="n"/>
+<w e="grudge" i="887" m="a cause of hostility and resentment" t="n"/>
+<w e="gruesome" i="888" m="horrifying; ghastly; repugnant" t="adj"/>
+<w e="grumble" i="889" m="a discontented mumble; growl" t="n"/>
+<w e="grumpy" i="890" m="irritable; cranky; surly" t="adj"/>
+<w e="guarantee" i="891" m="to assume responsibility for; insure; promise" t="v"/>
+<w e="guide" i="892" m="to show the way; direct; lead; escort" t="v"/>
+<w e="guilty" i="893" m="responsible for a crime; culpable; blameworthy" t="adj"/>
+<w e="gullible" i="894" m="easily deceived; credulous" t="adj"/>
+<w e="gush" i="895" m="to flow out abundantly; be overly emotional" t="v"/>
+<w e="gust" i="896" m="a sudden rush of wind; an outburst" t="n"/>
+<w e="haggard" i="897" m="worn; emaciated" t="adj"/>
+<w e="hamlet" i="898" m="a small village" t="n"/>
+<w e="hamper" i="899" m="to hinder; impede; restrain; restrict; shackle" t="v"/>
+<w e="handy" i="900" m="close at hand; accessible; convenient" t="adj"/>
+<w e="haphazard" i="901" m="random; determined by chance" t="adj"/>
+<w e="harbnger" i="902" m="a forerunner; sign of the approach of something" t="n"/>
+<w e="hardened" i="903" m="firm; set; fixed; unyielding" t="adj"/>
+<w e="hardy" i="904" m="sturdy; capable of surviving harsh conditions" t="adj"/>
+<w e="harmless" i="905" m="unable to do harm; safe; inoffensive; innocuous" t="adj"/>
+<w e="hasty" i="906" m="rapid; recklessly quick; hurried; slapdash" t="adj"/>
+<w e="haughtiness" i="907" m="excessive pride; arrogance" t="n"/>
+<w e="hazardous" i="908" m="dangerous; perilous; risky" t="adj"/>
+<w e="hazy" i="909" m="missy; unclear; foggy; vague" t="adj"/>
+<w e="headlong" i="910" m="hastily; with uncontrollable force; headfirst" t="adv"/>
+<w e="headstrong" i="911" m="obstinate; willful; unruly" t="adj"/>
+<w e="hectic" i="912" m="confused; hasty; excited; feverish" t="adj"/>
+<w e="heed" i="913" m="to pay attention to; consider; listen to advice" t="v"/>
+<w e="heedless" i="914" m="neglectful; careless; not listening to advice" t="adj"/>
+<w e="heinous" i="915" m="wicked; atrocious; evil" t="adj"/>
+<w e="heir" i="916" m="one who will inherit property; a successor" t="n"/>
+<w e="henceforth" i="917" m="form this time onward; from now on" t="adv"/>
+<w e="heroine" i="918" m="a female hero; a principal female character" t="n"/>
+<w e="hesitate" i="919" m="to hold back; pause; be indecisive" t="v"/>
+<w e="hierarchy" i="920" m="a group arranged by rank" t="n"/>
+<w e="hilarious" i="921" m="extremely funny" t="adj"/>
+<w e="hinder" i="922" m="to hold hack; hamper; impede; delay; deter" t="v"/>
+<w e="hinge" i="923" m="joint which allows motion; controlling principal" t="n"/>
+<w e="hint" i="924" m="a subtle suggestion; clue; very small amount" t="n"/>
+<w e="hoarse" i="925" m="deep wad harsh sounding; husky" t="adj"/>
+<w e="hoax" i="926" m="a trick; deception; practical joke" t="n"/>
+<w e="holocaust" i="927" m="widespread destruction" t="n"/>
+<w e="homogeneous" i="928" m="alike; uniform" t="adj"/>
+<w e="hostile" i="929" m="aggressively unfriendly; antagonistic" t="adj"/>
+<w e="howl" i="930" m="to wail like a wolf; cry out in pain; laugh loudly" t="v"/>
+<w e="hubbub" i="931" m="a confusion of voices; noisy uproar" t="n"/>
+<w e="humane" i="932" m="kind; compassionate" t="adj"/>
+<w e="humanitarian" i="933" m="concerned with helping people; philanthropic" t="adj"/>
+<w e="humanities" i="934" m="areas of study dealing with people and culture" t="n"/>
+<w e="humble" i="935" m="lowly; unimportant; meek; modest" t="adj"/>
+<w e="humid" i="936" m="moist; damp; muggy" t="adj"/>
+<w e="humiliation" i="937" m="disgrace; shame; degradation" t="n"/>
+<w e="humility" i="938" m="humbleness; modesty" t="n"/>
+<w e="humorous" i="939" m="funny; comical; laughable; witty" t="adj"/>
+<w e="hybrid" i="940" m="something of mixed composition; a mongrel" t="n"/>
+<w e="hypocritical" i="941" m="pretending to believe what you don’t; insincere" t="adj"/>
+<w e="hypothetical" i="942" m="based on a hypothesis; conjectural; uncertain" t="adj"/>
+<w e="ideal" i="943" m="perfect; not real; imaginary" t="adj"/>
+<w e="identical" i="944" m="exactly alike; the same" t="adj"/>
+<w e="ideology" i="945" m="the ideas or doctrines of a group" t="n"/>
+<w e="idle" i="946" m="inactive; unemployed; useless" t="adj"/>
+<w e="idyllic" i="947" m="picturesque; pastoral; simple" t="adj"/>
+<w e="ignoble" i="948" m="dishonorable lowly" t="adj"/>
+<w e="ignorant" i="949" m="lacking knowledge; unlearned; uninformed" t="adj"/>
+<w e="ignore" i="950" m="to refuse to acknowledge or pay attention to" t="v"/>
+<w e="illegal" i="951" m="unlawful; not permitted by the law; illicit" t="adj"/>
+<w e="illicit" i="952" m="unlawful; illegal" t="adj"/>
+<w e="illusory" i="953" m="deceptive; unreal" t="adj"/>
+<w e="illustrious" i="954" m="famous; celebrated; distinguished" t="adj"/>
+<w e="imaginary" i="955" m="not real; existing in the imagination" t="adj"/>
+<w e="imaginative" i="956" m="creative; having a lively imagination; inventive" t="adj"/>
+<w e="imitate" i="957" m="to copy; mimic; act like; simulate; emulate" t="v"/>
+<w e="immaculate" i="958" m="pure; unblemished; dean" t="adj"/>
+<w e="immature" i="959" m="not fully grown or developed; unripe" t="adj"/>
+<w e="immense" i="960" m="very large; huge; boundless; vast" t="adj"/>
+<w e="immigrant" i="961" m="one who comes to settle in a new country" t="n"/>
+<w e="imminent" i="962" m="impending; soon to occur; approaching" t="adj"/>
+<w e="immoral" i="963" m="not conforming to moral standards; indecent" t="adj"/>
+<w e="immortal" i="964" m="not subject to death; eternal; imperishable" t="adj"/>
+<w e="immune" i="965" m="exempt; not able to catch a disease" t="adj"/>
+<w e="immutable" i="966" m="unchangeable" t="adj"/>
+<w e="impact" i="967" m="a collision; striking together; effect" t="n"/>
+<w e="impair" i="968" m="to worsen; injure" t="v"/>
+<w e="impartial" i="969" m="unprejudiced; not biased; fair" t="adj"/>
+<w e="impassive" i="970" m="unfeeling; expressionless; motionless" t="adj"/>
+<w e="impatient" i="971" m="eager; anxious; not willing to wait; restless" t="adj"/>
+<w e="impeccable" i="972" m="faultless; irreproachable" t="adj"/>
+<w e="impede" i="973" m="to hinder; obstruct" t="v"/>
+<w e="impending" i="974" m="approaching; imminent" t="adj"/>
+<w e="imperative" i="975" m="expressing a command; mandatory; urgent" t="adj"/>
+<w e="impereect" i="976" m="faulty; defective; not perfect" t="adj"/>
+<w e="impertinent" i="977" m="presumptuous; rude; insolent" t="adj"/>
+<w e="impervious" i="978" m="impenetrable; unable to be affected" t="adj"/>
+<w e="impetuous" i="979" m="impulsive; brash" t="adj"/>
+<w e="impetus" i="980" m="stimulus; impulse; the encouragement needed to do something" t="n"/>
+<w e="implacable" i="981" m="not able to be satisfied or changed; relentless; unyielding" t="adj"/>
+<w e="implant" i="982" m="to insert or place in something usually a living body" t="v"/>
+<w e="implausible" i="983" m="not likely to be true; unbelievable" t="adj"/>
+<w e="implement" i="984" m="to enact; put into effect; provide with means" t="v"/>
+<w e="implicate" i="985" m="to show that someone participated or was involved especially in a crime; involve" t="v"/>
+<w e="implication" i="986" m="something implied or hinted of; an inference" t="n"/>
+<w e="implicit" i="987" m="implied; inherent" t="adj"/>
+<w e="implore" i="988" m="to beg; to beseech" t="v"/>
+<w e="imply" i="989" m="to suggest; indicate in directly; hint" t="v"/>
+<w e="impolite" i="990" m="discourteous; rude; not polite" t="adj"/>
+<w e="import" i="991" m="to bring products into one country from another" t="v"/>
+<w e="impose" i="992" m="to force on; inflict; be a burden on; inflict" t="v"/>
+<w e="imposing" i="993" m="impressive; grind; stately" t="adj"/>
+<w e="imposition" i="994" m="placement of something usually a burden or difficulty" t="n"/>
+<w e="impostor" i="995" m="a person who pretends to him someone else" t="n"/>
+<w e="impotent" i="996" m="weak; powerless; sterile" t="adj"/>
+<w e="impound" i="997" m="to seize and keep by law; to confiscate" t="v"/>
+<w e="impoverish" i="998" m="to make poor" t="v"/>
+<w e="impractical" i="999" m="not realistic; not sensible" t="adj"/>
+<w e="imprecise" i="1000" m="not exact; vague" t="adj"/>
+<w e="impressive" i="1001" m="causing admiration; awesome; grand" t="adj"/>
+<w e="imprison" i="1002" m="to send to jail; to incarcerate" t="v"/>
+<w e="improbable" i="1003" m="unlikely; farfetched" t="adj"/>
+<w e="impromptu" i="1004" m="without preparation; extemporaneous" t="adj"/>
+<w e="improper" i="1005" m="not suitable; unseemly; indecent; incorrect" t="adj"/>
+<w e="impropriety" i="1006" m="something that lacks proper behavior or standards" t="n"/>
+<w e="improve" i="1007" m="to make heifer; enhance" t="v"/>
+<w e="improvise" i="1008" m="perform without preparation; create on the spot" t="v"/>
+<w e="imprudent" i="1009" m="unwise; thoughtless; rash" t="adj"/>
+<w e="impudent" i="1010" m="impertinent; disrespectful" t="adj"/>
+<w e="impulsive" i="1011" m="spontaneous; acting on impulse; impetuous; madcap" t="adj"/>
+<w e="impunity" i="1012" m="without risk or fear of punishment" t="n"/>
+<w e="inaccessible" i="1013" m="impossible or difficult to reach" t="adj"/>
+<w e="inactive" i="1014" m="idle; not being used; dormant; inert" t="adj"/>
+<w e="inadvertently" i="1015" m="unintentionally; accidentally; carelessly" t="adv"/>
+<w e="inalienable" i="1016" m="not transferable; not able to be taken way" t="adj"/>
+<w e="inarticulate" i="1017" m="lacking facility in speech; incomprehensible" t="adj"/>
+<w e="incessant" i="1018" m="uninterrupted; unceasing; continuous" t="adj"/>
+<w e="incidental" i="1019" m="accidental; minor; nonessential" t="adj"/>
+<w e="incisive" i="1020" m="penetrating; sharp; trenchant" t="adj"/>
+<w e="incite" i="1021" m="to provoke to action; stimulate; instigate" t="v"/>
+<w e="inclusive" i="1022" m="including everything; comprehensive" t="adj"/>
+<w e="incompatible" i="1023" m="not able to get along together; inharmonious" t="adj"/>
+<w e="incompetent" i="1024" m="not capable; unfit; inept" t="adj"/>
+<w e="incongruous" i="1025" m="inconsistent; inharmonious; inappropriate" t="adj"/>
+<w e="inconsequential" i="1026" m="insignificant; lacking importance; trivial" t="adj"/>
+<w e="inconsistent" i="1027" m="erratic; lacking uniformity; contradictory" t="adj"/>
+<w e="incorporate" i="1028" m="to combine together; unite with; add" t="v"/>
+<w e="incredible" i="1029" m="unbelievable; extraordinary" t="adj"/>
+<w e="indecisive" i="1030" m="unable to decide; hesitant; inconclusive" t="adj"/>
+<w e="indifferent" i="1031" m="lacking concern; apathetic; unbiased" t="adj"/>
+<w e="indigenous" i="1032" m="native; intrinsic" t="adj"/>
+<w e="indigent" i="1033" m="impoverished; poor; penniless" t="adj"/>
+<w e="indiscriminate" i="1034" m="not selective; random; confused" t="adj"/>
+<w e="indolent" i="1035" m="lazy" t="adj"/>
+<w e="induce" i="1036" m="to persuade; incite; cause" t="v"/>
+<w e="indulge" i="1037" m="to give in to desire; gratify a craving; pamper; spoil" t="v"/>
+<w e="industrious" i="1038" m="hardworking; diligent; busy" t="adj"/>
+<w e="inept" i="1039" m="inappropriate; unfit; incompetent; awkward" t="adj"/>
+<w e="inert" i="1040" m="unable to move" t="adj"/>
+<w e="inevitable" i="1041" m="certain to occur; unavoidable" t="adj"/>
+<w e="inexperienced" i="1042" m="lacking experience; unskilled" t="adj"/>
+<w e="infamous" i="1043" m="notoriously bad or evil" t="adj"/>
+<w e="infectious" i="1044" m="capable of spreading; contagious" t="adj"/>
+<w e="inference" i="1045" m="conclusion from evidence; presumption" t="n"/>
+<w e="inferior" i="1046" m="lower in rank or quality; lesser" t="adj"/>
+<w e="infest" i="1047" m="to invade; pervade; overrun" t="v"/>
+<w e="infinitesimal" i="1048" m="immeasurably small; minute" t="adj"/>
+<w e="inflict" i="1049" m="to impose; harmfully cause" t="v"/>
+<w e="influential" i="1050" m="able to influence or affect things; powerful" t="adj"/>
+<w e="informal" i="1051" m="casual; not fancy; unofficial; relaxed" t="adj"/>
+<w e="informative" i="1052" m="instructive; providing information or news" t="adj"/>
+<w e="ingenious" i="1053" m="clever; inventive; imaginative" t="adj"/>
+<w e="ingredients" i="1054" m="components of a mixture; constituents" t="n"/>
+<w e="inhabit" i="1055" m="to live, dwell or reside in" t="v"/>
+<w e="inherent" i="1056" m="intrinsic; essential; inborn" t="adj"/>
+<w e="inhospitable" i="1057" m="unfriendly; barren; not able to support" t="adj"/>
+<w e="inimitable" i="1058" m="unique; matchless" t="adj"/>
+<w e="initial" i="1059" m="placed at the beginning; first" t="adj"/>
+<w e="initiate" i="1060" m="to begin; start; originate; instruct; admit in" t="v"/>
+<w e="initiative" i="1061" m="ability to start something; leadership; first step" t="n"/>
+<w e="injury" i="1062" m="a wound; damage; injustice" t="n"/>
+<w e="innate" i="1063" m="inherent; inborn" t="adj"/>
+<w e="innocuous" i="1064" m="harmless" t="adj"/>
+<w e="innovation" i="1065" m="something newly introduced; a change" t="n"/>
+<w e="innovative" i="1066" m="creative; novel; inventive" t="adj"/>
+<w e="innuendo" i="1067" m="an insinuation or hint; derogatory implication" t="n"/>
+<w e="inordinate" i="1068" m="unrestricted; excessive" t="adj"/>
+<w e="inquiry" i="1069" m="an investigation; question; dose examination" t="n"/>
+<w e="inquisitive" i="1070" m="curious; prying" t="adj"/>
+<w e="insatiable" i="1071" m="not capable of being satisfied; greedy" t="adj"/>
+<w e="insensitive" i="1072" m="unfeeling; not sensitive; harsh; callous" t="adj"/>
+<w e="insight" i="1073" m="sudden understanding; discernment; intuition" t="n"/>
+<w e="insignificant" i="1074" m="trivial; unimportant, not significant" t="adj"/>
+<w e="insincere" i="1075" m="hypocritical; deceitful; not sincere" t="adj"/>
+<w e="insinuate" i="1076" m="to suggest indirectly; imply deviously; hint at" t="v"/>
+<w e="insolent" i="1077" m="arrogant; impertinent" t="adj"/>
+<w e="inspect" i="1078" m="to examine for flaws; look at carefully; review" t="v"/>
+<w e="inspiration" i="1079" m="an insight; stimulation; divine instigation" t="n"/>
+<w e="install" i="1080" m="to put in office; set up far use; conned up" t="v"/>
+<w e="instantly" i="1081" m="at once; immediately; without delay" t="adv"/>
+<w e="instigate" i="1082" m="to provoke; incite; foment" t="v"/>
+<w e="instinctive" i="1083" m="spontaneous; inborn; natural; deep-seated" t="adj"/>
+<w e="institute" i="1084" m="to establish; organize; begin; initiate" t="v"/>
+<w e="insurmountable" i="1085" m="not capable of being overcome" t="adj"/>
+<w e="integrate" i="1086" m="to combine separate things; bring together" t="v"/>
+<w e="integrity" i="1087" m="completeness; uprightness; honesty" t="n"/>
+<w e="intellectual" i="1088" m="a smart and informed person; deep thinker" t="n"/>
+<w e="intelligible" i="1089" m="comprehensible; understandable" t="adj"/>
+<w e="intense" i="1090" m="strong; acute; extreme; deeply felt" t="adj"/>
+<w e="intensive" i="1091" m="concentrated extreme; exhaustive" t="adj"/>
+<w e="interminable" i="1092" m="endless; continual" t="adj"/>
+<w e="intermittent" i="1093" m="stopping and starting again at intervals; periodic" t="adj"/>
+<w e="internal" i="1094" m="located within; inherent; domestic; subjective" t="adj"/>
+<w e="interrupt" i="1095" m="to stop; make a gap in; intrude upon" t="v"/>
+<w e="intersect" i="1096" m="to cut across or through; overlap" t="v"/>
+<w e="interval" i="1097" m="a gap in time or distance between things" t="n"/>
+<w e="intimidate" i="1098" m="to make timid; frighten; overawe; threaten" t="v"/>
+<w e="intoxicate" i="1099" m="to become drunk; stimulate; excite" t="v"/>
+<w e="intransigent" i="1100" m="uncompromising" t="adj"/>
+<w e="intrepid" i="1101" m="fearless" t="adj"/>
+<w e="intricate" i="1102" m="complex difficult to comprehend; complicated" t="adj"/>
+<w e="intriguing" i="1103" m="interesting; mysterious; exciting curiously" t="adj"/>
+<w e="intrinsic" i="1104" m="essential; inherent" t="adj"/>
+<w e="introductory" i="1105" m="serving to introduce; prefatory" t="adj"/>
+<w e="introspective" i="1106" m="contemplative" t="adj"/>
+<w e="intrude" i="1107" m="to thrust in without being welcome or invited" t="v"/>
+<w e="intuition" i="1108" m="the act of knowing instinctively; insight" t="n"/>
+<w e="inundate" i="1109" m="to overwhelm; flood" t="v"/>
+<w e="invalid" i="1110" m="a chronically sick or disabled person" t="n"/>
+<w e="invalid" i="1111" m="not valid; unjustifiable; without legality" t="adj"/>
+<w e="invaluable" i="1112" m="of immeasurably high value; priceless" t="adj"/>
+<w e="invariable" i="1113" m="unchanging; constant" t="adj"/>
+<w e="invasion" i="1114" m="a forced entry; infringement; attack" t="n"/>
+<w e="invert" i="1115" m="to turn inside out or upside down; reverse" t="v"/>
+<w e="investigate" i="1116" m="to examine or inquire into in detail" t="v"/>
+<w e="invigorate" i="1117" m="to give strength or vitality to; animate" t="v"/>
+<w e="invincible" i="1118" m="unconquerable; not able to be defeated" t="adj"/>
+<w e="inviting" i="1119" m="attractive; tempting; alluring" t="adj"/>
+<w e="involved" i="1120" m="complicated; complex; intricate; incriminated" t="adj"/>
+<w e="invulnerable" i="1121" m="incapable of being attacked; impregnable" t="adj"/>
+<w e="irate" i="1122" m="angry; enraged" t="adj"/>
+<w e="ironic" i="1123" m="contrary to what is expected; sarcastic" t="adj"/>
+<w e="irrelevant" i="1124" m="not applicable; not pertinent" t="adj"/>
+<w e="irreparable" i="1125" m="incapable of being repaired or amended" t="adj"/>
+<w e="irresolute" i="1126" m="uncertain hew to ad; vacillating; indecisive" t="adj"/>
+<w e="irritable" i="1127" m="having a bad temper; testy; easily annoyed" t="adj"/>
+<w e="isolate" i="1128" m="to set apart; separate; single-out" t="v"/>
+<w e="jargon" i="1129" m="gibberish; specialized language" t="n"/>
+<w e="jeopardy" i="1130" m="vulnerability; danger" t="n"/>
+<w e="jerk" i="1131" m="an abrupt movement; a jolt; stupid person" t="n"/>
+<w e="jest" i="1132" m="to speak playfully or jokingly" t="v"/>
+<w e="jocular" i="1133" m="playful; joking" t="adj"/>
+<w e="jostle" i="1134" m="to bump against; make unsteady; shove" t="v"/>
+<w e="jovial" i="1135" m="Jolly; cheerful" t="adj"/>
+<w e="jubilant" i="1136" m="joyful; extremely happy" t="adj"/>
+<w e="juggle" i="1137" m="to balance many activities or balls; manipulate" t="v"/>
+<w e="jumbo" i="1138" m="very large; extra big" t="adj"/>
+<w e="junction" i="1139" m="where things join or meet; the ad of uniting" t="n"/>
+<w e="jungle" i="1140" m="dense tropical forest; competitive environment" t="n"/>
+<w e="just" i="1141" m="fair; equitable; upright" t="adj"/>
+<w e="juvenile" i="1142" m="young; youthful; immature" t="adj"/>
+<w e="keen" i="1143" m="sharp; perceptive; intense; eager" t="adj"/>
+<w e="knowledgeable" i="1144" m="well-informed; wise" t="adj"/>
+<w e="laboratory" i="1145" m="a building for scientific research" t="n"/>
+<w e="lame" i="1146" m="crippled; limping; ineffectual; unsatisfactory" t="adj"/>
+<w e="lament" i="1147" m="to mourn; to express sorrow; regret" t="v"/>
+<w e="lanky" i="1148" m="slim and toil; lean and ungainly" t="adj"/>
+<w e="latent" i="1149" m="dormant; hidden; undeveloped" t="adj"/>
+<w e="latter" i="1150" m="else second of two; more recent" t="adj"/>
+<w e="laud" i="1151" m="to praise; glorify" t="v"/>
+<w e="lavish" i="1152" m="extravagant; ornate; profuse" t="adj"/>
+<w e="leak" i="1153" m="a crack or gap where something escapes" t="n"/>
+<w e="lease" i="1154" m="a rental agreement for property or equipment" t="n"/>
+<w e="lecture" i="1155" m="an instructive talk; discourse; long reprimand" t="n"/>
+<w e="leisurely" i="1156" m="unhurried; at a slow pace; relaxed" t="adj"/>
+<w e="liable" i="1157" m="legally responsible; susceptible; likely" t="adj"/>
+<w e="liberal" i="1158" m="favoring reform and freedom; tolerant; generous" t="adj"/>
+<w e="liberate" i="1159" m="to set free; give liberty to; release" t="v"/>
+<w e="lid" i="1160" m="a removable cap or cover; top; eyelid" t="n"/>
+<w e="lift" i="1161" m="to raise up; elevate; remove" t="v"/>
+<w e="limb" i="1162" m="a large branch of a tree; an arm or leg" t="n"/>
+<w e="limelight" i="1163" m="a stage light; publicity; focus of attention" t="n"/>
+<w e="limit" i="1164" m="a boundary; edge; furthest confine or restriction" t="n"/>
+<w e="limp" i="1165" m="to walk lamely; proceed haltingly" t="v"/>
+<w e="limpid" i="1166" m="transparent; clear; lucid; calm" t="adj"/>
+<w e="liquefy" i="1167" m="to turn to liquid; melt" t="v"/>
+<w e="liquidate" i="1168" m="to pay debts; convert to cash; close; kill" t="v"/>
+<w e="literal" i="1169" m="word for word; true to meaning; not figurative" t="adj"/>
+<w e="litter" i="1170" m="an animal’s newborns; scattered garbage" t="n"/>
+<w e="loafer" i="1171" m="an idle person; one who does nothing" t="n"/>
+<w e="loathe" i="1172" m="to hate; detest" t="v"/>
+<w e="location" i="1173" m="a particular place; site; position" t="n"/>
+<w e="lofty" i="1174" m="exalted; very high; arrogant" t="adj"/>
+<w e="logical" i="1175" m="dearly reasoned; rational; expected" t="adj"/>
+<w e="loiter" i="1176" m="to loaf; anger aimlessly; waste time; lag" t="v"/>
+<w e="longing" i="1177" m="a prolonged desire; yearning" t="n"/>
+<w e="loot" i="1178" m="stolen goads; booty; spoils" t="n"/>
+<w e="loquacious" i="1179" m="talkative" t="adj"/>
+<w e="lucid" i="1180" m="clear; rational" t="adj"/>
+<w e="lullaby" i="1181" m="a soothing song sung to put a child to sleep" t="n"/>
+<w e="lumnous" i="1182" m="emitting light; bright; clear; lucid; brilliant" t="adj"/>
+<w e="lush" i="1183" m="luxuriant; thickly grown; opulent" t="adj"/>
+<w e="lyrical" i="1184" m="romantic; poetic" t="adj"/>
+<w e="magnificent" i="1185" m="splendid; grand; lavish; outstanding" t="adj"/>
+<w e="magnify" i="1186" m="to enlarge; amplify; glorify; intensify" t="v"/>
+<w e="maim" i="1187" m="to disable by wounding; mutilate; impair" t="v"/>
+<w e="malevolent" i="1188" m="wishing harm to others; malicious" t="adj"/>
+<w e="malicious" i="1189" m="intending harm; spiteful" t="adj"/>
+<w e="malign" i="1190" m="to speak ill of; defame" t="v"/>
+<w e="manifestation" i="1191" m="a demonstration; revealed form; display" t="n"/>
+<w e="mansion" i="1192" m="a large stately house" t="n"/>
+<w e="manuscript" i="1193" m="a handwritten or unpublished work" t="n"/>
+<w e="mare" i="1194" m="a female horse" t="n"/>
+<w e="margin" i="1195" m="a bordering space or edge; limit; allowance" t="n"/>
+<w e="maritime" i="1196" m="located near the sea; concerned with shipping" t="adj"/>
+<w e="martyr" i="1197" m="one who sacrifices himself for a cause" t="n"/>
+<w e="massacre" i="1198" m="indiscriminate and large scale killing" t="n"/>
+<w e="massive" i="1199" m="very large; heavy; substantial" t="adj"/>
+<w e="mature" i="1200" m="fully grown or developed; ripe; complete" t="adj"/>
+<w e="meager" i="1201" m="scanty; lean; inadequate" t="adj"/>
+<w e="meddle" i="1202" m="interfere; intrude" t="v"/>
+<w e="mediate" i="1203" m="to help settle differences; intervene" t="v"/>
+<w e="medication" i="1204" m="a medicine; treatment; remedy" t="n"/>
+<w e="mediocre" i="1205" m="average; ordinary; commonplace" t="adj"/>
+<w e="meek" i="1206" m="submissive; humble; not aggressive" t="adj"/>
+<w e="melancholic" i="1207" m="gloomy; depressed" t="adj"/>
+<w e="melancholy" i="1208" m="depression; gloominess; sadness" t="n"/>
+<w e="mellow" i="1209" m="mature; soft and ripe; gentle; relaxed" t="adj"/>
+<w e="melodious" i="1210" m="pleasing to the ear; musical; tuneful" t="adj"/>
+<w e="memo" i="1211" m="a note; memorandum; written communication" t="n"/>
+<w e="menace" i="1212" m="a threat; a harmful thing or person" t="n"/>
+<w e="mend" i="1213" m="to fix; repair; improve" t="v"/>
+<w e="menial" i="1214" m="servile; lowly" t="adj"/>
+<w e="mentor" i="1215" m="wise counselor; teacher" t="n"/>
+<w e="merchant" i="1216" m="one who buys and sells goods; a shopkeeper" t="n"/>
+<w e="mercy" i="1217" m="compassion; leniency; forgiveness" t="n"/>
+<w e="merge" i="1218" m="to blend together; unite; be absorbed" t="v"/>
+<w e="merit" i="1219" m="worthiness; value" t="n"/>
+<w e="metaphorical" i="1220" m="figuratively; not literal" t="adj"/>
+<w e="meteoric" i="1221" m="swift and brilliant; like a shooting star" t="adj"/>
+<w e="meticulous" i="1222" m="extremely careful; fastidious" t="adj"/>
+<w e="midget" i="1223" m="a very small person; miniature version" t="n"/>
+<w e="migrant" i="1224" m="person or animal which moves to other areas" t="n"/>
+<w e="mileage" i="1225" m="distance in miles; traveling allowance" t="n"/>
+<w e="mingle" i="1226" m="to mix; blend; combine; associate" t="v"/>
+<w e="minimize" i="1227" m="to belittle; reduce; lessen; depreciate" t="v"/>
+<w e="minute" i="1228" m="vet small; tiny; insignificant" t="adj"/>
+<w e="mirth" i="1229" m="gladness; lightheartedness; gaiety; hilarity" t="n"/>
+<w e="miscellaneous" i="1230" m="mixed; diversified; varied; heterogeneous" t="adj"/>
+<w e="mischievous" i="1231" m="causing trouble; annoying; teasing; playful" t="adj"/>
+<w e="miserly" i="1232" m="stingy; tending to hoard wealth" t="adj"/>
+<w e="misplace" i="1233" m="to put in the wrong place; lose; bestow wrongly" t="v"/>
+<w e="missile" i="1234" m="a weapon or object hurled through the air" t="n"/>
+<w e="mission" i="1235" m="a duty; charge or special service; function" t="n"/>
+<w e="modulate" i="1236" m="to adjust; regulate; temper; vary" t="v"/>
+<w e="molest" i="1237" m="to disturb; interfere; attack sexually" t="v"/>
+<w e="monarchy" i="1238" m="a government with a hereditary ruler" t="n"/>
+<w e="monotonous" i="1239" m="unvarying; boring; tediously uniform; dull" t="adj"/>
+<w e="monstrous" i="1240" m="grotesquely abnormal; outrageous; huge" t="adj"/>
+<w e="monumental" i="1241" m="imposing; enormous; notable" t="adj"/>
+<w e="moody" i="1242" m="gloomy; uneasy; sullen; emotionally inconstant" t="adj"/>
+<w e="moot" i="1243" m="debatable; unresolved" t="adj"/>
+<w e="morale" i="1244" m="level of confidence, courage and discipline" t="n"/>
+<w e="morality" i="1245" m="a virtue; concept of right and wrong; ethics" t="n"/>
+<w e="morose" i="1246" m="sullen; gloomy" t="adj"/>
+<w e="morsel" i="1247" m="a small piece of something; a bite of food" t="n"/>
+<w e="mortal" i="1248" m="subject to death; human; deadly; fatal" t="adj"/>
+<w e="motif" i="1249" m="recurrent thematic element" t="n"/>
+<w e="muggy" i="1250" m="hot and humid" t="adj"/>
+<w e="mumble" i="1251" m="to speak indistinctly; mutter" t="v"/>
+<w e="mural" i="1252" m="a large painting done on a wall" t="n"/>
+<w e="museum" i="1253" m="an exhibition building" t="n"/>
+<w e="muster" i="1254" m="to assemble; gather" t="v"/>
+<w e="mute" i="1255" m="unable to talk or vocalize; silent; not speaking" t="adj"/>
+<w e="mutilate" i="1256" m="to disfigure; maim; damage" t="v"/>
+<w e="mutual" i="1257" m="reciprocal; shared" t="adj"/>
+<w e="mysterious" i="1258" m="unexplainable; obscure; enigmatic; puzzling; occult" t="adj"/>
+<w e="mythical" i="1259" m="imaginary; fictitious; legendary" t="adj"/>
+<w e="nadir" i="1260" m="lowest point; time of deepest depression" t="n"/>
+<w e="naked" i="1261" m="without clothing; nude; exposed; unprotected" t="adj"/>
+<w e="narrative" i="1262" m="a story; an account or description" t="n"/>
+<w e="nasty" i="1263" m="disgusting; filthy; indecent; mean; unpleasant" t="adj"/>
+<w e="navigate" i="1264" m="to plan a course; maneuver through something" t="v"/>
+<w e="neglect" i="1265" m="to ignore; disregard; fail to care for properly" t="v"/>
+<w e="negligent" i="1266" m="neglectful; careless in performing duties" t="adj"/>
+<w e="negligible" i="1267" m="insignificant; of little importance; trifling" t="adj"/>
+<w e="negotiate" i="1268" m="to arrange or settle through discussions" t="v"/>
+<w e="nestle" i="1269" m="to lie close by; settle comfortably; snuggle" t="v"/>
+<w e="nocturnal" i="1270" m="occurring at night" t="adj"/>
+<w e="noisy" i="1271" m="loud; clamorous; vociferous" t="adj"/>
+<w e="notable" i="1272" m="remarkable; striking; prominent" t="adj"/>
+<w e="notice" i="1273" m="to acknowledge; observe; see" t="v"/>
+<w e="notify" i="1274" m="to inform give notice to" t="v"/>
+<w e="notorious" i="1275" m="widely and unfavorably known" t="adj"/>
+<w e="novelty" i="1276" m="something new and different" t="n"/>
+<w e="novice" i="1277" m="beginner" t="n"/>
+<w e="nuance" i="1278" m="subtle variation in meaning or quality" t="n"/>
+<w e="nullify" i="1279" m="to make invalid; neutralize" t="v"/>
+<w e="numb" i="1280" m="without sensation; stunned unable to feel or act" t="adj"/>
+<w e="numerous" i="1281" m="many" t="adj"/>
+<w e="nurture" i="1282" m="to feed; rear; educate" t="v"/>
+<w e="oasis" i="1283" m="fertile spot in a desert; place go relax in" t="n"/>
+<w e="obese" i="1284" m="very fat; extremely overweight" t="adj"/>
+<w e="obey" i="1285" m="to follow orders; comply" t="v"/>
+<w e="obligation" i="1286" m="a duty; responsibility; debt" t="n"/>
+<w e="obliterate" i="1287" m="to completely destroy; wipe out" t="v"/>
+<w e="oblivion" i="1288" m="state of being completely forgotten" t="n"/>
+<w e="oblivious" i="1289" m="forgetful; unaware; unmindful" t="adj"/>
+<w e="obscene" i="1290" m="offensive; indecent; lewd; coarse" t="adj"/>
+<w e="obscure" i="1291" m="unclear; vague; indistinct; dark; remote" t="adj"/>
+<w e="obsequious" i="1292" m="servile; fawning; overly compliant" t="adj"/>
+<w e="observant" i="1293" m="quick to perceive or see things; alert" t="adj"/>
+<w e="obsolete" i="1294" m="outmoded; no longer in use" t="adj"/>
+<w e="obstinate" i="1295" m="stubborn; refractory; obdurate" t="adj"/>
+<w e="obstruct" i="1296" m="to block; prevent passage; Impede; hinder" t="v"/>
+<w e="obtain" i="1297" m="to gain possession; acquire" t="v"/>
+<w e="obvious" i="1298" m="plainly apparent; evident; easily understood" t="adj"/>
+<w e="occasionally" i="1299" m="now and then; sometimes" t="adv"/>
+<w e="occurrence" i="1300" m="that which fakes place; an incident; happening" t="n"/>
+<w e="offensive" i="1301" m="disagreeable; unpleasant; aggressive" t="adj"/>
+<w e="offspring" i="1302" m="children; descendants; outcome; product" t="n"/>
+<w e="ominous" i="1303" m="foreboding; threatening" t="adj"/>
+<w e="omit" i="1304" m="to leave out; neglect" t="v"/>
+<w e="omnipotent" i="1305" m="all-powerful" t="adj"/>
+<w e="operate" i="1306" m="to function; work; perform surgery" t="v"/>
+<w e="opponent" i="1307" m="an adversary; rival; antagonist" t="n"/>
+<w e="optimist" i="1308" m="one who expects good things to happen" t="n"/>
+<w e="opulence" i="1309" m="affluence; luxuriant abundance" t="n"/>
+<w e="orbit" i="1310" m="path; range of activity" t="n"/>
+<w e="orchard" i="1311" m="a grove of fruit or nut trees" t="n"/>
+<w e="orchestrate" i="1312" m="to compose; arrange" t="v"/>
+<w e="ordeal" i="1313" m="a difficult or painful experience; severe trial" t="n"/>
+<w e="ordinary" i="1314" m="common; usual; average; normal" t="adj"/>
+<w e="organize" i="1315" m="to make orderly; arrange; systematize" t="v"/>
+<w e="origin" i="1316" m="the beginning; source; root; ancestry" t="n"/>
+<w e="ornate" i="1317" m="heavily decorated; elaborately adorned; showy" t="adj"/>
+<w e="oscillate" i="1318" m="to swing back and forth; vacillate" t="v"/>
+<w e="ostentatious" i="1319" m="showy; pretentious" t="adj"/>
+<w e="ostracize" i="1320" m="to banish; exclude" t="v"/>
+<w e="outline" i="1321" m="an outer contour; rough plan or summary" t="n"/>
+<w e="output" i="1322" m="production; yield; amount produced" t="n"/>
+<w e="outrageous" i="1323" m="extremely offensive; disgraceful; extravagant" t="adj"/>
+<w e="outskirts" i="1324" m="an outer region or area; bordering districts" t="n"/>
+<w e="outstanding" i="1325" m="prominent; standing out; excellent; not resolve~" t="adj"/>
+<w e="overall" i="1326" m="including everything; comprehensive" t="adj"/>
+<w e="overlook" i="1327" m="to view from above; fail to notice; supervise" t="v"/>
+<w e="oversee" i="1328" m="to supervise; direct; watch over; observe" t="v"/>
+<w e="overt" i="1329" m="open; not concealed" t="adj"/>
+<w e="pacify" i="1330" m="to appease; restore calm make peaceful" t="v"/>
+<w e="package" i="1331" m="small wrapped bundle or box; container; parcel" t="n"/>
+<w e="pact" i="1332" m="an agreement; treaty; compact" t="n"/>
+<w e="palatable" i="1333" m="acceptable; agreeable; sufficiently tasty; appetizing" t="adj"/>
+<w e="paltry" i="1334" m="petty; trifling; insignificant" t="adj"/>
+<w e="pamphlet" i="1335" m="a booklet; brochure" t="n"/>
+<w e="panic" i="1336" m="a sudden attack of fear or terror" t="n"/>
+<w e="paradigm" i="1337" m="example; model" t="n"/>
+<w e="paradise" i="1338" m="heaven; an ideal place of great beauty" t="n"/>
+<w e="paradox" i="1339" m="inexplicable problem; self-contradictory thing" t="n"/>
+<w e="paralyze" i="1340" m="to make unable to move; make inoperative" t="v"/>
+<w e="paramount" i="1341" m="of foremost importance" t="adj"/>
+<w e="paraphrase" i="1342" m="to restate or summarize using other words" t="v"/>
+<w e="parasite" i="1343" m="something that lives or feeds off another" t="n"/>
+<w e="pardon" i="1344" m="to excuse; forgive; absolve" t="v"/>
+<w e="participate" i="1345" m="to rake an active part; share or join an" t="v"/>
+<w e="partition" i="1346" m="to divide" t="v"/>
+<w e="passage" i="1347" m="a means or ad of traveling; excerpt or segment" t="n"/>
+<w e="passive" i="1348" m="unresisting; not active; submissive" t="adj"/>
+<w e="pastoral" i="1349" m="pertaining to shepherds; rural" t="adj"/>
+<w e="pathetic" i="1350" m="lamentable; sad; inadequate" t="adj"/>
+<w e="patience" i="1351" m="the capacity to calmly wait or endure" t="n"/>
+<w e="patriot" i="1352" m="one who loves and defends his or her country" t="n"/>
+<w e="patron" i="1353" m="a benefactor; Supporter; regular customer" t="n"/>
+<w e="paucity" i="1354" m="scarcity; fewness" t="n"/>
+<w e="pauper" i="1355" m="an extremely poor person; recipient of charity" t="n"/>
+<w e="pedestrian" i="1356" m="ordinary; commonplace; on foot" t="adj"/>
+<w e="peek" i="1357" m="to sneak a look at; glance quickly" t="v"/>
+<w e="peerless" i="1358" m="unmatched" t="adj"/>
+<w e="penchant" i="1359" m="inclination" t="n"/>
+<w e="penetrate" i="1360" m="to pierce; permeate; enter; understand" t="v"/>
+<w e="pensive" i="1361" m="thoughtful; reflective; melancholy" t="adj"/>
+<w e="perch" i="1362" m="a place for sitting or resting; a roost for bird" t="n"/>
+<w e="perforated" i="1363" m="having a series of punched holes; penetrated" t="adj"/>
+<w e="perilous" i="1364" m="dangerous; risky" t="adj"/>
+<w e="periodic" i="1365" m="recurring at intervals; intermittent" t="adj"/>
+<w e="peripiwry" i="1366" m="outermost area; fringe" t="n"/>
+<w e="permanent" i="1367" m="lasting; unchanging; fixed" t="adj"/>
+<w e="permeate" i="1368" m="to pervade penetrate; infiltrate" t="v"/>
+<w e="permissible" i="1369" m="allowable; permitted" t="adj"/>
+<w e="perpetual" i="1370" m="continuous; ceaseless; everlasting" t="adj"/>
+<w e="perpetuate" i="1371" m="to continue indefinitely; prolong" t="v"/>
+<w e="perplex" i="1372" m="to confuse; puzzle; bewilder" t="v"/>
+<w e="persecute" i="1373" m="to oppress; persistently harass; cause to suffer" t="v"/>
+<w e="persevere" i="1374" m="to slick with something; persist be steadfast" t="v"/>
+<w e="persistent" i="1375" m="enduring; persevering; continuous" t="adj"/>
+<w e="perspective" i="1376" m="point of view; relative position; illusion of depth" t="n"/>
+<w e="perspire" i="1377" m="to sweat; excrete through the pores" t="v"/>
+<w e="persuade" i="1378" m="to convince; win over; prevail upon" t="v"/>
+<w e="pertinent" i="1379" m="relevant; appropriate; related" t="adj"/>
+<w e="perturb" i="1380" m="to upset; greatly disturb; agitate" t="v"/>
+<w e="peruse" i="1381" m="to read attentively; examine" t="v"/>
+<w e="pervade" i="1382" m="to permeate; spread throughout" t="v"/>
+<w e="pervasive" i="1383" m="present throughout; widespread" t="adj"/>
+<w e="pessimism" i="1384" m="tendency to expect the worst; gloominess" t="n"/>
+<w e="petition" i="1385" m="a formal written request" t="n"/>
+<w e="petty" i="1386" m="trivial; small; insignificant; mean" t="adj"/>
+<w e="phenomenon" i="1387" m="observable occurrence; notable thing; marvel" t="n"/>
+<w e="phonetics" i="1388" m="the study of the sounds of speech" t="n"/>
+<w e="physician" i="1389" m="a medical doctor; one who heals" t="n"/>
+<w e="piety" i="1390" m="religious or familial reverence; devoutness" t="n"/>
+<w e="pigment" i="1391" m="coloring matter; dye" t="n"/>
+<w e="pilfer" i="1392" m="to steal a small amount; rob" t="v"/>
+<w e="pillage" i="1393" m="to rob; plunder" t="v"/>
+<w e="pillar" i="1394" m="supporting column; holder of a central position" t="n"/>
+<w e="pious" i="1395" m="devout; high minded" t="adj"/>
+<w e="pity" i="1396" m="compassion; sympathy; something unfortunate" t="n"/>
+<w e="pivotal" i="1397" m="crucial; essential; vital" t="adj"/>
+<w e="plateau" i="1398" m="flat elevated land; stable period; leveling off" t="n"/>
+<w e="plausible" i="1399" m="seemingly true or valid; apparently acceptable; reasonable" t="adj"/>
+<w e="plead" i="1400" m="to earnestly appeal; beg; urge" t="v"/>
+<w e="pledge" i="1401" m="a promise; vow; guarantee" t="n"/>
+<w e="plentiful" i="1402" m="abundant; of great quantity; copious" t="adj"/>
+<w e="plot" i="1403" m="piece of land; plan; conspiracy; story outline" t="n"/>
+<w e="plump" i="1404" m="chubby; fat; well-rounded; ample" t="adj"/>
+<w e="poignant" i="1405" m="piercing; relevant; pungent" t="adj"/>
+<w e="polluted" i="1406" m="impure; dirty; contaminated; corrupt" t="adj"/>
+<w e="pompous" i="1407" m="pretentious; bombastic" t="adj"/>
+<w e="ponder" i="1408" m="to meditate on; weigh mentally; reflect" t="v"/>
+<w e="portable" i="1409" m="easily moved or carried" t="adj"/>
+<w e="portly" i="1410" m="staid; corpulent; stately" t="adj"/>
+<w e="portray" i="1411" m="to represent pictorially; depict; describe; enact" t="v"/>
+<w e="positive" i="1412" m="definite; confident; affirmative; greater than zero" t="adj"/>
+<w e="possession" i="1413" m="something owned; a belonging; ownership" t="n"/>
+<w e="possessive" i="1414" m="jealous ownership; wanting to control" t="adj"/>
+<w e="posterior" i="1415" m="located behind; coming after" t="adj"/>
+<w e="posterity" i="1416" m="future generations" t="n"/>
+<w e="postpone" i="1417" m="to delay; put off until later" t="v"/>
+<w e="potent" i="1418" m="powerful; strong; effective" t="adj"/>
+<w e="practical" i="1419" m="useful; usable; acquired through practice" t="adj"/>
+<w e="practically" i="1420" m="virtually; almost; in a way that is useful" t="adj"/>
+<w e="pragmatic" i="1421" m="practical; dealing with actual occurrences" t="adj"/>
+<w e="prank" i="1422" m="a playful trick; mischievous act; practical joke" t="n"/>
+<w e="precarious" i="1423" m="unstable; uncertain" t="adj"/>
+<w e="precaution" i="1424" m="a safeguard; forethought; protection in advance" t="n"/>
+<w e="precede" i="1425" m="to come before; be in front of" t="v"/>
+<w e="precedent" i="1426" m="previous instance used as an example; custom; standard" t="n"/>
+<w e="precious" i="1427" m="of great value; costly; cherished; beloved" t="adj"/>
+<w e="precipitatiqn" i="1428" m="rain or snow; a headlong fall; haste" t="n"/>
+<w e="precise" i="1429" m="exact; definite; dearly expressed; distinct" t="adj"/>
+<w e="precocious" i="1430" m="maturing earlier than usual; intellectually advanced" t="adj"/>
+<w e="precursor" i="1431" m="forerunner; harbinger" t="n"/>
+<w e="predecessor" i="1432" m="one who preceded another in a position; ancestor" t="n"/>
+<w e="predicament" i="1433" m="a dilemma; difficult or embarrassing situation" t="n"/>
+<w e="predict" i="1434" m="to foretell; prophesy; reveal the future" t="v"/>
+<w e="predilection" i="1435" m="preference; partiality" t="n"/>
+<w e="prejudice" i="1436" m="bias; prejudgment; preconceived opinion" t="n"/>
+<w e="preliminary" i="1437" m="prior; introductory; preceding" t="adj"/>
+<w e="premise" i="1438" m="proposition on which an argument is based; assumption" t="n"/>
+<w e="preoccupied" i="1439" m="engrossed; absorbed; distracted" t="adj"/>
+<w e="prepare" i="1440" m="to make ready ahead of time; put together" t="v"/>
+<w e="preposterous" i="1441" m="absurd; foolish; contrary to common sense" t="adj"/>
+<w e="prerequisite" i="1442" m="required; necessary" t="adj"/>
+<w e="preserve" i="1443" m="to protect; maintain; keep safe" t="v"/>
+<w e="prestige" i="1444" m="prominence; high status" t="n"/>
+<w e="presumptuous" i="1445" m="arrogant" t="adj"/>
+<w e="pretentious" i="1446" m="claiming importance; ostentatious" t="adj"/>
+<w e="pretext" i="1447" m="an excuse; pretense" t="n"/>
+<w e="prevail" i="1448" m="to be victorious; be most common; persuade; triump" t="v"/>
+<w e="prevalent" i="1449" m="widely used or accepted; prevailing" t="adj"/>
+<w e="prevent" i="1450" m="to keep from happening; hinder; impede; forestall" t="v"/>
+<w e="priest" i="1451" m="one who performs religious rites; a minister" t="n"/>
+<w e="primarily" i="1452" m="chiefly; principally; originally" t="adj"/>
+<w e="primary" i="1453" m="coming first or earliest; chief, fundamental" t="adj"/>
+<w e="primitive" i="1454" m="pertaining to earliest times; crude; simple" t="adj"/>
+<w e="principal" i="1455" m="first in importance; chief, foremost" t="adj"/>
+<w e="principle" i="1456" m="a basic truth or doctrine; a rule or standard" t="n"/>
+<w e="prior" i="1457" m="preceding; coming before" t="adj"/>
+<w e="priority" i="1458" m="the right to precede or come earlier" t="n"/>
+<w e="prisoner" i="1459" m="a captive; one forcibly restrained" t="n"/>
+<w e="pristine" i="1460" m="pertaining to the earliest time; unspoiled; pure" t="adj"/>
+<w e="privacy" i="1461" m="seclusion; isolation; secrecy" t="n"/>
+<w e="privilege" i="1462" m="an advantage; special right" t="n"/>
+<w e="probe" i="1463" m="to search; investigate; explore" t="v"/>
+<w e="procrastinate" i="1464" m="to put off doing something; postpone needlessly" t="v"/>
+<w e="professional" i="1465" m="engaged in a profession; skillful; not an amateur" t="adj"/>
+<w e="proficient" i="1466" m="skilled; adept" t="adj"/>
+<w e="profound" i="1467" m="deeply meaningful; thoroughgoing; complete" t="adj"/>
+<w e="profuse" i="1468" m="copious; overabundant; lavish" t="adj"/>
+<w e="project" i="1469" m="a plan; undertaking; piece of research" t="n"/>
+<w e="project" i="1470" m="to jut out; protrude; direct out a sound or image" t="v"/>
+<w e="proliferate" i="1471" m="to reproduce; increase rapidly" t="v"/>
+<w e="prolific" i="1472" m="abundantly fertile; productive" t="adj"/>
+<w e="prolong" i="1473" m="to make longer; extend" t="v"/>
+<w e="promiscuous" i="1474" m="sexually indiscriminate; lacking selection standards" t="adj"/>
+<w e="prone" i="1475" m="lying face downward; inclined or tending toward" t="adj"/>
+<w e="prop" i="1476" m="a support; part of a stage scene" t="n"/>
+<w e="propensity" i="1477" m="inclination; proclivity" t="n"/>
+<w e="proponent" i="1478" m="one who supports or proposes something" t="n"/>
+<w e="proportionate" i="1479" m="having balanced parts, harmonized" t="adj"/>
+<w e="proposal" i="1480" m="a suggestion; plan; offer of marriage" t="n"/>
+<w e="proprietor" i="1481" m="an owner" t="n"/>
+<w e="propriety" i="1482" m="appropriateness; rightness; correct behavior; suitability" t="n"/>
+<w e="prosaic" i="1483" m="commonplace; straightforward; unpoetic" t="adj"/>
+<w e="prosecute" i="1484" m="to proceed against in court; pursue; carry on" t="v"/>
+<w e="prospect" i="1485" m="possibility; outlook; expectation" t="n"/>
+<w e="prosperous" i="1486" m="successful; thriving; well-off" t="adj"/>
+<w e="protagonist" i="1487" m="principal figure" t="n"/>
+<w e="protect" i="1488" m="to keep safe; shield from harm" t="v"/>
+<w e="protest" i="1489" m="to object; demonstrate against; solemnly declare" t="v"/>
+<w e="prototype" i="1490" m="original type; model" t="n"/>
+<w e="protrude" i="1491" m="to stick out; project" t="v"/>
+<w e="provisional" i="1492" m="tentative; conditional; temporary" t="adj"/>
+<w e="provoke" i="1493" m="to incite to anger; arouse; annoy; stir up" t="v"/>
+<w e="prowess" i="1494" m="superior skill or daring" t="n"/>
+<w e="proximity" i="1495" m="nearness; propinquity" t="n"/>
+<w e="prudence" i="1496" m="discretion; careful judgment" t="n"/>
+<w e="publicize" i="1497" m="bring to public attention; advertise; make known" t="v"/>
+<w e="punctual" i="1498" m="prowl; on time; precise" t="adj"/>
+<w e="purchase" i="1499" m="to buy; to earn" t="v"/>
+<w e="purify" i="1500" m="to make pure; cleanse; free from sin" t="v"/>
+<w e="pursue" i="1501" m="to chase after; follow; strive for; engage in" t="v"/>
+<w e="puzzling" i="1502" m="perplexing; confusing; bewildering" t="adj"/>
+<w e="quantify" i="1503" m="to express in numbers; specify amount" t="v"/>
+<w e="quarrelsome" i="1504" m="tending to quarrel or argue; belligerent" t="adj"/>
+<w e="quarterly" i="1505" m="occurring every three months; having four parts" t="adj"/>
+<w e="quench" i="1506" m="to satisfy; put out; cool down; repress" t="v"/>
+<w e="quest" i="1507" m="a pursuit; search" t="n"/>
+<w e="quirk" i="1508" m="a sudden twist; peculiarity; unpredictable event" t="n"/>
+<w e="quiz" i="1509" m="to question; examine; test; interrogate" t="v"/>
+<w e="quota" i="1510" m="an assigned share; allotment; production goal" t="n"/>
+<w e="radiant" i="1511" m="shining; glowing; beaming; emitting; radiation" t="adj"/>
+<w e="rage" i="1512" m="to speak angrily; move or spread violently" t="v"/>
+<w e="raid" i="1513" m="a surprise attack or incursion; sudden invasion" t="n"/>
+<w e="ramble" i="1514" m="to wander aimlessly; roam; grow irregularly" t="v"/>
+<w e="ramification" i="1515" m="an outgrowth; consequence" t="n"/>
+<w e="rampant" i="1516" m="unchecked; unrestrained" t="adj"/>
+<w e="rancor" i="1517" m="bitterness; hatred; enmity" t="n"/>
+<w e="random" i="1518" m="haphazard; casual" t="adj"/>
+<w e="range" i="1519" m="extent; scope; grazing land; a stove" t="n"/>
+<w e="rash" i="1520" m="acting without caution; reckless; hasty" t="adj"/>
+<w e="ratify" i="1521" m="to formally approve; sanction; confirm" t="v"/>
+<w e="rational" i="1522" m="having or displaying reason; sane; logical" t="adj"/>
+<w e="raze" i="1523" m="to demolish" t="v"/>
+<w e="rebellious" i="1524" m="defiant; resisting control; unruly; insubordinate; mutinous" t="adj"/>
+<w e="recant" i="1525" m="retract; disavow" t="v"/>
+<w e="recapitulate" i="1526" m="to summarize; repeat in a concise form" t="v"/>
+<w e="recipient" i="1527" m="one who receives or accepts something" t="adj"/>
+<w e="recite" i="1528" m="to orally repent something memorized; tell; list" t="v"/>
+<w e="reckless" i="1529" m="daring; careless; rash; uncontrolled" t="adj"/>
+<w e="recluse" i="1530" m="one who withdraws from the world; a hermit" t="n"/>
+<w e="recognize" i="1531" m="to identify from memory;; know; acknowledge" t="v"/>
+<w e="recollection" i="1532" m="something recalled or remembered" t="n"/>
+<w e="reconcile" i="1533" m="to reestablish a relationship; resolve; accept; mediate" t="v"/>
+<w e="recount" i="1534" m="to tell; narrate; relate" t="v"/>
+<w e="recoup" i="1535" m="to recover or make up for ones losses" t="v"/>
+<w e="rectify" i="1536" m="to make right; correct" t="v"/>
+<w e="recuperate" i="1537" m="to return to health; recover" t="v"/>
+<w e="recurrent" i="1538" m="appearing again; returning repeatedly" t="adj"/>
+<w e="redundant" i="1539" m="more than is needed; superfluous; repetitive" t="adj"/>
+<w e="refined" i="1540" m="cultivated; polished; pure; sub1le~" t="adj"/>
+<w e="reflection" i="1541" m="a mirror image; careful consideration; comment" t="n"/>
+<w e="reform" i="1542" m="to change; improve; make over" t="v"/>
+<w e="refrain" i="1543" m="to hold ones elf back; abstain" t="v"/>
+<w e="refurbish" i="1544" m="to renovate; make fresh or clean again" t="v"/>
+<w e="refute" i="1545" m="to show to be false; disprove; deny; contradict" t="v"/>
+<w e="regiment" i="1546" m="governmental rule; regulated system" t="n"/>
+<w e="regress" i="1547" m="to revert; go back; relapse" t="v"/>
+<w e="regulate" i="1548" m="to direct or control; keep in order; adjust" t="v"/>
+<w e="rehearse" i="1549" m="to practice for a performance; recite" t="v"/>
+<w e="reimburse" i="1550" m="to repay; refund; compensate" t="v"/>
+<w e="reiterate" i="1551" m="to repeat" t="v"/>
+<w e="rejuvenate" i="1552" m="to make youthful; restore vigor; renew; refresh" t="v"/>
+<w e="relapse" i="1553" m="to revert; slip back; regress; backslide" t="v"/>
+<w e="release" i="1554" m="to set free; liberate; relinquish; unfasten" t="v"/>
+<w e="relentless" i="1555" m="persistent; unyielding; pitiless" t="adj"/>
+<w e="relevant" i="1556" m="pertinent; related; applicable" t="adj"/>
+<w e="reliable" i="1557" m="dependable; trustworthy" t="adj"/>
+<w e="relic" i="1558" m="a very old object or custom; memento" t="n"/>
+<w e="religiously" i="1559" m="conscientiously; diligently; devoutly" t="adv"/>
+<w e="relinquish" i="1560" m="go give up; surrender; renounce" t="v"/>
+<w e="relish" i="1561" m="to enjoy; like; take pleasure in" t="v"/>
+<w e="reluctant" i="1562" m="unwilling; resisting; disinclined" t="adj"/>
+<w e="remainder" i="1563" m="something left over; a surplus; remains; residue" t="n"/>
+<w e="remedy" i="1564" m="cure; treatment; medicine" t="n"/>
+<w e="remiss" i="1565" m="tax, negligent; careless; sluggish" t="adj"/>
+<w e="remnant" i="1566" m="left over piece; small remainder" t="n"/>
+<w e="remorse" i="1567" m="guilt; anguished regret" t="n"/>
+<w e="render" i="1568" m="to give; relinquish; represent; perform" t="v"/>
+<w e="renounce" i="1569" m="to disown; repudiate; abandon, give up" t="v"/>
+<w e="renowned" i="1570" m="famous; acclaimed" t="adj"/>
+<w e="repellent" i="1571" m="resistant; repulsive; distasteful" t="adj"/>
+<w e="replenish" i="1572" m="to make full again; restock" t="v"/>
+<w e="replicate" i="1573" m="to duplicate; repeat; copy" t="v"/>
+<w e="report" i="1574" m="to present; relate; write an account of" t="v"/>
+<w e="reprieve" i="1575" m="postponement; temporary relief" t="n"/>
+<w e="reproduction" i="1576" m="a copy of something" t="n"/>
+<w e="repudiate" i="1577" m="to reject; disown; renounce" t="v"/>
+<w e="repugnant" i="1578" m="distasteful; repulsive; offensive" t="adj"/>
+<w e="repulsive" i="1579" m="disgusting; repugnant; tending to repel" t="adj"/>
+<w e="request" i="1580" m="to ask for; demand" t="v"/>
+<w e="required" i="1581" m="necessary; needed; essential" t="adj"/>
+<w e="requisite" i="1582" m="required; essential; necessary" t="adj"/>
+<w e="resemble" i="1583" m="to look like; be similar to" t="v"/>
+<w e="residence" i="1584" m="dwelling; place where one lives; house" t="n"/>
+<w e="residue" i="1585" m="the remainder of something; something leftover" t="n"/>
+<w e="resigned" i="1586" m="reconciled; acquiescent; passively submitting" t="adj"/>
+<w e="resist" i="1587" m="to oppose; withstand; abstain from" t="v"/>
+<w e="resolute" i="1588" m="firm unwavering; fixed; resolved; determined" t="adj"/>
+<w e="resolve" i="1589" m="determination; firmness; a resolution" t="n"/>
+<w e="resourceful" i="1590" m="able to effectively use what is available" t="adj"/>
+<w e="respected" i="1591" m="highly regarded; esteemed; honored" t="adj"/>
+<w e="respond" i="1592" m="to answer; make a reply; react" t="v"/>
+<w e="responsible" i="1593" m="trustworthy; accountable; capable; answerable" t="adj"/>
+<w e="restless" i="1594" m="not related; uneasy; unable to sleep" t="adj"/>
+<w e="restore" i="1595" m="to return to former condition; renew; reestablish" t="v"/>
+<w e="restrain" i="1596" m="to hold back; confine; restrict; control; hamper" t="v"/>
+<w e="restrict" i="1597" m="to limit; restrain; inhibit; hamper" t="v"/>
+<w e="resume" i="1598" m="to begin again; fake up again; continue" t="v"/>
+<w e="resume" i="1599" m="summary; brief account of working experiences" t="n"/>
+<w e="retain" i="1600" m="lo keep; hold on to; remember; hire" t="v"/>
+<w e="retard" i="1601" m="to impede; delay; hinder" t="v"/>
+<w e="reticent" i="1602" m="silent; restrained; reserved" t="adj"/>
+<w e="retort" i="1603" m="to reply; answer sharply; return" t="v"/>
+<w e="retract" i="1604" m="to withdraw; recant; take back" t="v"/>
+<w e="retribution" i="1605" m="punishment; revenge" t="n"/>
+<w e="reveal" i="1606" m="to make known; expose; show; disclose" t="v"/>
+<w e="revenue" i="1607" m="income; public funds" t="n"/>
+<w e="reverse" i="1608" m="opposite; contrary; turned backward; inverted" t="adj"/>
+<w e="revert" i="1609" m="Logo back; return to former condition" t="v"/>
+<w e="revise" i="1610" m="to correct; change; modify; revamp" t="v"/>
+<w e="revive" i="1611" m="to bring back to life; restore; renew; resurrect" t="v"/>
+<w e="revoke" i="1612" m="to repeal; ctmce4 take back" t="v"/>
+<w e="revulsion" i="1613" m="a violent change of feeling; disgust; loathing" t="n"/>
+<w e="rhythm" i="1614" m="a regular variation or pattern; beat; meter" t="n"/>
+<w e="ridicule" i="1615" m="to make fun of, mock; deride" t="v"/>
+<w e="ridiculous" i="1616" m="foolish; absurd; silly; laughable" t="adj"/>
+<w e="ritual" i="1617" m="a ceremony; sacred rite; formalized procedure" t="n"/>
+<w e="rival" i="1618" m="a competitor; opponent" t="n"/>
+<w e="roam" i="1619" m="to wander; travel without purpose" t="v"/>
+<w e="robust" i="1620" m="strong; sturdy; vigorous; healthy" t="adj"/>
+<w e="role" i="1621" m="actor’s part; expected behavior; position; function" t="n"/>
+<w e="rotate" i="1622" m="to spin; turn; alternate" t="v"/>
+<w e="rough" i="1623" m="not smooth; crude; approximate; harsh" t="adj"/>
+<w e="routine" i="1624" m="an often repeated procedure; regular activity" t="n"/>
+<w e="rumor" i="1625" m="an unconfirmed story; hearsay; gossip" t="n"/>
+<w e="rural" i="1626" m="in the countryside; rustic; pastoral; agricultural" t="adj"/>
+<w e="rustic" i="1627" m="pertaining to the country; rural; simplex" t="adj"/>
+<w e="rusty" i="1628" m="corroded; out of practice; reddish brown" t="adj"/>
+<w e="ruthless" i="1629" m="merciless; crud; having no pity" t="adj"/>
+<w e="sacred" i="1630" m="holy; venerable; dedicated to a deity, hallowed" t="adj"/>
+<w e="sagacious" i="1631" m="wise; shrewd" t="adj"/>
+<w e="salvage" i="1632" m="to save from destruction; rescue" t="v"/>
+<w e="sanction" i="1633" m="to authorize; approve; legitimize" t="v"/>
+<w e="sarcasm" i="1634" m="a taunting comment; witty mockery" t="n"/>
+<w e="sarcastic" i="1635" m="taunting; sharply witty; ironic; satirical" t="adj"/>
+<w e="satirical" i="1636" m="ridiculing; sarcastic; ironic" t="adj"/>
+<w e="saturate" i="1637" m="to soak; surfeit; fill to capacity" t="v"/>
+<w e="savage" i="1638" m="uncivilized; barbarous; uncultivated" t="adj"/>
+<w e="saying" i="1639" m="a familiar expression; word of wisdom; proverb" t="n"/>
+<w e="scandal" i="1640" m="a public disgrace; outrage" t="n"/>
+<w e="scanty" i="1641" m="meager; deficient; limited" t="adj"/>
+<w e="scarcity" i="1642" m="a shortage; insufficiency; dearth" t="n"/>
+<w e="scatter" i="1643" m="to separate; disperse; distribute haphazardly, diffuse" t="v"/>
+<w e="schedule" i="1644" m="a program of events; written list; agenda" t="n"/>
+<w e="scheme" i="1645" m="a plan; system; plot; intrigue" t="n"/>
+<w e="scientific" i="1646" m="objective and factual; systematic" t="adj"/>
+<w e="scold" i="1647" m="to find fault; reprimand; criticize harshly" t="v"/>
+<w e="scope" i="1648" m="outlook; extent; intellectual range" t="n"/>
+<w e="scorch" i="1649" m="to burn; char; singe; criticize severely" t="v"/>
+<w e="scorn" i="1650" m="to treat as inferior; despise; reject" t="v"/>
+<w e="scoundrel" i="1651" m="a villain; undisciplined or wicked person" t="n"/>
+<w e="scramble" i="1652" m="to climb hurriedly; struggle or strive for;" t="v"/>
+<w e="scrap" i="1653" m="a small piece; fragment; discarded, metal" t="n"/>
+<w e="screech" i="1654" m="a high-pitched cry; shriek; scream" t="n"/>
+<w e="screen" i="1655" m="to conceal; protect; shield; hide; separate; sift" t="v"/>
+<w e="scrub" i="1656" m="to dean by rubbing; to wash" t="v"/>
+<w e="scrupulous" i="1657" m="principled; conscientious" t="adj"/>
+<w e="scrutinize" i="1658" m="go examine closely; inspect critically; investigate" t="v"/>
+<w e="secluded" i="1659" m="remote; removed from others; hidden" t="adj"/>
+<w e="secular" i="1660" m="temporal; worldly" t="adj"/>
+<w e="security" i="1661" m="safety; freedom from risk; confidence" t="n"/>
+<w e="sedate" i="1662" m="composed; serious" t="adj"/>
+<w e="sedentary" i="1663" m="inactive" t="adj"/>
+<w e="segment" i="1664" m="a portion; part; section" t="n"/>
+<w e="seize" i="1665" m="to take hold of; grasp; comprehend; capture; apprehend" t="v"/>
+<w e="selective" i="1666" m="careful in choosing; discriminating; particular" t="adj"/>
+<w e="sensible" i="1667" m="reasonable; perceptible by the senses; aware" t="adj"/>
+<w e="sensitive" i="1668" m="responsive to stimulation; easily hurt or affected" t="adj"/>
+<w e="sentimental" i="1669" m="emotional; romantic; appealing to feelings" t="adj"/>
+<w e="sentry" i="1670" m="a guard; one who keeps watch; sentinel" t="n"/>
+<w e="serenity" i="1671" m="calmness; tranquility" t="n"/>
+<w e="sever" i="1672" m="to divide or cut into parts; separate; break off" t="v"/>
+<w e="severe" i="1673" m="harsh; strict; stein; serious; extreme" t="adj"/>
+<w e="shabby" i="1674" m="worn out; seedy; deteriorated; mean" t="adj"/>
+<w e="shaky" i="1675" m="trembling; unsteady; wavering; insecure" t="adj"/>
+<w e="shallow" i="1676" m="not deep; superficial; lacking depth" t="adj"/>
+<w e="shatter" i="1677" m="to break into pieces; ruin; seriously impair" t="v"/>
+<w e="shelter" i="1678" m="a protected or covered place; refuge; asylum" t="n"/>
+<w e="shimmer" i="1679" m="to shine; flash; glimmer; flicker" t="v"/>
+<w e="shrewd" i="1680" m="keen; quick-witted clever; tricky; astute" t="adj"/>
+<w e="shriek" i="1681" m="a shrill outcry; screech; scream" t="n"/>
+<w e="shrivel" i="1682" m="to shrink up wad wrinkle; lose vitality" t="v"/>
+<w e="shun" i="1683" m="to deliberately avoid; keep away from" t="v"/>
+<w e="significant" i="1684" m="meaningful; important; suggestive" t="adj"/>
+<w e="simplicity" i="1685" m="a lack of complexity; condition of being simple" t="n"/>
+<w e="simulate" i="1686" m="to imitate; pretend" t="v"/>
+<w e="sinister" i="1687" m="harmful; evil; ominous" t="adj"/>
+<w e="sinuous" i="1688" m="having many turns or curves; winding; devious" t="adj"/>
+<w e="skeptic" i="1689" m="a doubter; one inclined to skepticism" t="n"/>
+<w e="skeptical" i="1690" m="doubting; disbelieving; questioning" t="adj"/>
+<w e="sketchy" i="1691" m="not detailed; incomplete" t="adj"/>
+<w e="skim" i="1692" m="to remove top layer; glide over; read superficially" t="v"/>
+<w e="skirmish" i="1693" m="a minor battle or dispute" t="n"/>
+<w e="slander" i="1694" m="to defame; malign; spread damaging things" t="v"/>
+<w e="slap" i="1695" m="to strike with the palm of the hand; criticize" t="v"/>
+<w e="slaughter" i="1696" m="to butcher animals; kill many; massacre" t="v"/>
+<w e="slay" i="1697" m="to kill by violence" t="v"/>
+<w e="sleazy" i="1698" m="funny; cheap; shoddy; insubstantial" t="adj"/>
+<w e="sleek" i="1699" m="smooth and polished; glossy; well-groomed" t="adj"/>
+<w e="slight" i="1700" m="small; meager; of tilde importance; slender; frail" t="adj"/>
+<w e="slit" i="1701" m="a long, narrow cut; a tear; slash" t="n"/>
+<w e="sluggish" i="1702" m="lazy; slow; inactive; lacking vigor; lethargic" t="adj"/>
+<w e="sly" i="1703" m="clever; cunning; crafty; deceitful" t="adj"/>
+<w e="snatch" i="1704" m="to grab hastily; seize; grasp; take violently" t="v"/>
+<w e="soar" i="1705" m="to fly; glide through the air; rise up" t="v"/>
+<w e="solar" i="1706" m="pertaining to the sun" t="adj"/>
+<w e="solely" i="1707" m="alone; singly; exclusively" t="adv"/>
+<w e="solicit" i="1708" m="to seek; request; entreat" t="v"/>
+<w e="solitude" i="1709" m="isolation; seclusion; state of being alone" t="n"/>
+<w e="somber" i="1710" m="dark; gloomy" t="adj"/>
+<w e="sonorous" i="1711" m="full of sound; resonant; impressive" t="adj"/>
+<w e="soothe" i="1712" m="to calm, ease the pain of; relieve; assuage, mollify" t="v"/>
+<w e="sorrowful" i="1713" m="sad; mournful; full of grief" t="adj"/>
+<w e="spacious" i="1714" m="roomy; extensive; vast" t="adj"/>
+<w e="span" i="1715" m="extent or measure of something; breadth; time" t="n"/>
+<w e="sparse" i="1716" m="not dense; thinly distribute" t="adj"/>
+<w e="species" i="1717" m="a biological classification; distinct category" t="n"/>
+<w e="specific" i="1718" m="definite; explicit; particular; distinctive" t="adj"/>
+<w e="specimen" i="1719" m="a representative example; sample" t="n"/>
+<w e="speck" i="1720" m="a small spot; dot of color; any particle" t="n"/>
+<w e="spectacle" i="1721" m="public performance; striking sight or display" t="n"/>
+<w e="speculate" i="1722" m="to conjecture; theorize; think about; risk money" t="v"/>
+<w e="spirited" i="1723" m="vigorous; animated; full of courage" t="adj"/>
+<w e="splendid" i="1724" m="excellent; grand; magnificent; admirable" t="adj"/>
+<w e="splurge" i="1725" m="an extravagant expense or display" t="n"/>
+<w e="spoil" i="1726" m="to damage; decay; disrupt; overindulge" t="v"/>
+<w e="spontaneous" i="1727" m="arising naturally or impulsively; without planning" t="adj"/>
+<w e="sporadic" i="1728" m="infrequent; occurring irregularly" t="adj"/>
+<w e="sprawl" i="1729" m="to spread or stretch out awkwardly" t="v"/>
+<w e="spurt" i="1730" m="a sudden gush of liquid; sudden effort" t="n"/>
+<w e="squabble" i="1731" m="to quarrel over something minor; bicker; argue" t="v"/>
+<w e="squalor" i="1732" m="misery; filth; poverty" t="n"/>
+<w e="squander" i="1733" m="to waste; use up; spend extravagantly" t="v"/>
+<w e="squash" i="1734" m="to crush; flatten; suppress" t="v"/>
+<w e="stability" i="1735" m="firmness; permanence; resistance to change" t="n"/>
+<w e="stack" i="1736" m="an orderly pile; heap; bookcase" t="n"/>
+<w e="stagger" i="1737" m="to move unsteadily; arrange in a zigzag pattern; lurch" t="v"/>
+<w e="stagnant" i="1738" m="not moving; foul from inactivity" t="adj"/>
+<w e="stale" i="1739" m="not fresh; trite" t="adj"/>
+<w e="stall" i="1740" m="to delay; cause to stop; evade" t="v"/>
+<w e="stalwart" i="1741" m="robust; resolute; strong; uncompromising" t="adj"/>
+<w e="staple" i="1742" m="a major commodity; major part; wire fastener" t="n"/>
+<w e="stark" i="1743" m="barren; desolate; complete; extreme; blunt" t="adj"/>
+<w e="startle" i="1744" m="to surprise; frighten; alarm; shock" t="v"/>
+<w e="starve" i="1745" m="to suffer or die from lack of food; be in need" t="v"/>
+<w e="static" i="1746" m="stationary; quiescent; unchanging" t="adj"/>
+<w e="stationary" i="1747" m="not moving; fixed in position; unchanging" t="adj"/>
+<w e="steadfast" i="1748" m="firm; loyal; resolute" t="adj"/>
+<w e="stellar" i="1749" m="star-like; outstanding; principal" t="adj"/>
+<w e="stern" i="1750" m="harsh; severe; inflexible; austere; strict" t="adj"/>
+<w e="stifle" i="1751" m="to suppress; smother; suffocate" t="v"/>
+<w e="stigma" i="1752" m="mark of infamy or grace" t="n"/>
+<w e="stimulate" i="1753" m="to excite; spur to action; invigorate; provoke; whet" t="v"/>
+<w e="stingy" i="1754" m="reluctant to spend; tightfisted; miserly; scanty" t="adj"/>
+<w e="stipend" i="1755" m="payment; allowance" t="n"/>
+<w e="stipulation" i="1756" m="a condition; provision" t="n"/>
+<w e="store" i="1757" m="to put away for future use; stock" t="v"/>
+<w e="straggle" i="1758" m="to wander; lag behind; stray; spread irregularly" t="v"/>
+<w e="strain" i="1759" m="to stretch too far; injure by overuse; filter" t="v"/>
+<w e="strategic" i="1760" m="of vital importance; essential" t="adj"/>
+<w e="stray" i="1761" m="to wander; become lost; deviate; digress" t="v"/>
+<w e="streamlined" i="1762" m="designed to flow efficiently; modernized" t="adj"/>
+<w e="strict" i="1763" m="severe; not permissive; precise; exact; absolute" t="adj"/>
+<w e="striking" i="1764" m="impressive; prominent" t="adj"/>
+<w e="strive" i="1765" m="to make a strenuous effort; struggle; endeavor" t="v"/>
+<w e="stroll" i="1766" m="to walk leisurely" t="v"/>
+<w e="stubborn" i="1767" m="not easily persuaded; obstinate; resistant" t="adj"/>
+<w e="stumble" i="1768" m="to trip; stagger; blunder; discover accidentally" t="v"/>
+<w e="stunt" i="1769" m="to hinder growth or development" t="v"/>
+<w e="stupefy" i="1770" m="to amaze; astonish; shock; deprive of sensibility" t="v"/>
+<w e="sturdy" i="1771" m="strong; robust; vigorous; durable" t="adj"/>
+<w e="subdue" i="1772" m="to conquer; bring under control; repress" t="v"/>
+<w e="submerge" i="1773" m="to cover with water; inundate; obscure" t="v"/>
+<w e="submissive" i="1774" m="yielding; obedient; docile" t="adj"/>
+<w e="subordinate" i="1775" m="secondary; of a lower rank; inferior" t="n"/>
+<w e="subsequent" i="1776" m="following in time; succeeding; later" t="adj"/>
+<w e="subservient" i="1777" m="servile; subordinate; humble" t="adj"/>
+<w e="subside" i="1778" m="to sink lower; abate; become quiet" t="v"/>
+<w e="substantial" i="1779" m="solidly built; considerable; real; ample" t="adj"/>
+<w e="substantiate" i="1780" m="to support with evidence; verify; confirm" t="v"/>
+<w e="substitute" i="1781" m="replacement; one taking the place of another" t="n"/>
+<w e="subterranean" i="1782" m="underground; hidden; secret" t="adj"/>
+<w e="subtlety" i="1783" m="delicacy tact; nicety; cunning" t="n"/>
+<w e="subvert" i="1784" m="to undermine; overthrow" t="v"/>
+<w e="succeed" i="1785" m="to come after; accomplish something; do well" t="v"/>
+<w e="successive" i="1786" m="following in order or sequence; consecutive" t="adj"/>
+<w e="succinct" i="1787" m="concise; terse; brief and clear" t="adj"/>
+<w e="succumb" i="1788" m="to submit under pressure; yield; give up; die" t="v"/>
+<w e="suffice" i="1789" m="to meet requirements; satisfy needs" t="v"/>
+<w e="sufficient" i="1790" m="adequate; as much as needed; enough" t="adj"/>
+<w e="suffocate" i="1791" m="to smother; stifle; keep from breathing; choke" t="v"/>
+<w e="suitable" i="1792" m="appropriate; fit; satisfactory; applicable" t="adj"/>
+<w e="sulk" i="1793" m="to be silently resentful or unhappy" t="v"/>
+<w e="sullen" i="1794" m="gloomy; morose; somber; resentful" t="adj"/>
+<w e="sully" i="1795" m="to soil; defile; tarnish" t="v"/>
+<w e="sultry" i="1796" m="hot and humid; passionate" t="adj"/>
+<w e="summarize" i="1797" m="to restate briefly; condense; make a summary of; recapitulate" t="v"/>
+<w e="summon" i="1798" m="to send for; request to appear; call together" t="v"/>
+<w e="superfluous" i="1799" m="beyond what is necessary; extra; nonessential" t="adj"/>
+<w e="superior" i="1800" m="higher in rank; of greater value; overly proud" t="adj"/>
+<w e="supersede" i="1801" m="to replace; supplant; succeed" t="v"/>
+<w e="supplant" i="1802" m="to take the place of displace; supersede" t="v"/>
+<w e="supplement" i="1803" m="an added section or part" t="n"/>
+<w e="supplies" i="1804" m="provisions; necessary equipment" t="n"/>
+<w e="support" i="1805" m="to holdup; sustain; aid; provide for" t="v"/>
+<w e="suppress" i="1806" m="to restrain; subdue; withhold from publication; quash" t="v"/>
+<w e="supreme" i="1807" m="greatest in power or importance; dominant" t="adj"/>
+<w e="surly" i="1808" m="ill-tempered; not civil" t="adj"/>
+<w e="surmise" i="1809" m="an inference; conjecture; guess" t="n"/>
+<w e="surpass" i="1810" m="to exceed; transcend; excel" t="v"/>
+<w e="surplus" i="1811" m="an excess; what is left over" t="n"/>
+<w e="surrender" i="1812" m="to give up; submit; capitulate; relinquish" t="v"/>
+<w e="surveillance" i="1813" m="observation of a person or group; supervision" t="n"/>
+<w e="susceptible" i="1814" m="capable of being affected or influenced; liable" t="adj"/>
+<w e="suspect" i="1815" m="to believe to be guilty; distrust, doubt; surmise" t="v"/>
+<w e="suspend" i="1816" m="to hang from above delay; postpone; interrupt" t="v"/>
+<w e="sustain" i="1817" m="to maintain; prolong; keep alive; provide for; buoy" t="v"/>
+<w e="swamp" i="1818" m="to flood; overwhelm, burden" t="v"/>
+<w e="swap" i="1819" m="to exchange; trade; barter" t="v"/>
+<w e="swarm" i="1820" m="a group of bees; a mob; throng; flock" t="n"/>
+<w e="swerve" i="1821" m="to turn suddenly; veer" t="v"/>
+<w e="symmetrical" i="1822" m="balanced; proportionate; equivalent" t="adj"/>
+<w e="sympathetic" i="1823" m="compassionate; sharing a feeling; agreeable" t="adj"/>
+<w e="synchronize" i="1824" m="to operate in unison; be simultaneous; coincide" t="v"/>
+<w e="synopsis" i="1825" m="a summary; outline; abstract; brief overview" t="n"/>
+<w e="synthesis" i="1826" m="combination of separate things; product" t="n"/>
+<w e="synthetic" i="1827" m="artificial; man-made; devised" t="adj"/>
+<w e="systematic" i="1828" m="methodical; orderly" t="adj"/>
+<w e="tacit" i="1829" m="silent; unspoken" t="adj"/>
+<w e="taciturn" i="1830" m="quiet; saying little; uncommunicative" t="adj"/>
+<w e="tact" i="1831" m="ability to say the right thing; diplomacy; subtlety; discretion" t="n"/>
+<w e="taint" i="1832" m="to stain; corrupt; spoil" t="v"/>
+<w e="tally" i="1833" m="an account; record; score; count" t="n"/>
+<w e="tamper" i="1834" m="to interfere; meddle; touch improperly" t="v"/>
+<w e="tangible" i="1835" m="capable of being touched; concrete; real" t="adj"/>
+<w e="tantalize" i="1836" m="to lease by arousing expectation" t="v"/>
+<w e="tardy" i="1837" m="late; delayed overdue; sluggish" t="adj"/>
+<w e="tarnish" i="1838" m="to discolor; sully; detract from; taint" t="v"/>
+<w e="taunt" i="1839" m="to ridicule; deride; jeer at; provoke" t="v"/>
+<w e="taut" i="1840" m="stretched tight; tense; stiff; trim; tidy" t="adj"/>
+<w e="tease" i="1841" m="to make fun of annoy; pester; mock playfully; tantalize" t="v"/>
+<w e="tedious" i="1842" m="boring; tiresome" t="adj"/>
+<w e="temper" i="1843" m="mood; disposition; composure; irritability" t="n"/>
+<w e="tempt" i="1844" m="to entice lure; invite; provoke" t="v"/>
+<w e="tenacious" i="1845" m="persistent; stubborn; holding fast" t="adj"/>
+<w e="tendency" i="1846" m="an inclination; propensity; disposition" t="n"/>
+<w e="tentative" i="1847" m="provisional; uncertain; experimental; temporary" t="adj"/>
+<w e="tenuous" i="1848" m="slender; weak" t="adj"/>
+<w e="tepid" i="1849" m="lukewarm; not very enthusiastic" t="adj"/>
+<w e="terminate" i="1850" m="to end; finish; conclude; cease; halt" t="v"/>
+<w e="terrify" i="1851" m="to frighten; scare intimidate; make afraid" t="v"/>
+<w e="testify" i="1852" m="to declare; under oath; attest to the facts" t="v"/>
+<w e="thorough" i="1853" m="complete; exhaustive; careful" t="adj"/>
+<w e="thoughtful" i="1854" m="considerate; concerned; contemplative" t="adj"/>
+<w e="threaten" i="1855" m="to menace; intimidate; endanger" t="v"/>
+<w e="thrifty" i="1856" m="economical; frugal; industrious" t="adj"/>
+<w e="thrill" i="1857" m="to greatly excite; delight; tremble or quiver" t="v"/>
+<w e="throng" i="1858" m="a large crowd or group; multitude" t="n"/>
+<w e="thump" i="1859" m="a heavy blow; dull sound made by a blow; thud" t="n"/>
+<w e="thwart" i="1860" m="to prevent; frustrate; block" t="v"/>
+<w e="tilted" i="1861" m="tipped; leaning; slanted" t="adj"/>
+<w e="tiptoe" i="1862" m="to walk on the toes; walk quietly" t="v"/>
+<w e="tolerate" i="1863" m="to allow; permit; put up with; bear; endures" t="v"/>
+<w e="torment" i="1864" m="to cause to suffer; annoy; distress; harass; anguish" t="v"/>
+<w e="torrential" i="1865" m="flowing wildly and abundantly; overwhelming" t="adj"/>
+<w e="torture" i="1866" m="to inflict mental or physical pain torment; distort" t="v"/>
+<w e="touchy" i="1867" m="overly sensitive irritable; risky; delicate" t="adj"/>
+<w e="tournament" i="1868" m="a contest; formal competition" t="n"/>
+<w e="tragic" i="1869" m="disastrous; lamentable; extremely unfortunate" t="adj"/>
+<w e="traitor" i="1870" m="one who betrays; one who commits treason; renegade" t="n"/>
+<w e="tranquillity" i="1871" m="serenity; calmness peacefulness" t="n"/>
+<w e="transact" i="1872" m="to carry out; conduct business; perform" t="v"/>
+<w e="transcend" i="1873" m="to go beyond; surpass; exceed" t="v"/>
+<w e="transfer" i="1874" m="to move to another place; copy onto something" t="v"/>
+<w e="transform" i="1875" m="to change the form or appearance of; convert" t="v"/>
+<w e="transient" i="1876" m="fleeting; transitory; temporary" t="adj"/>
+<w e="transparent" i="1877" m="dear; obvious; easily understood or seen through" t="adj"/>
+<w e="transpire" i="1878" m="to occur; become known" t="v"/>
+<w e="transport" i="1879" m="to carry to another place; move emotionally" t="v"/>
+<w e="traverse" i="1880" m="to travel across; examine; go counter to" t="v"/>
+<w e="treacherous" i="1881" m="betraying a mat; disloyal; dangerous; deceptive" t="adj"/>
+<w e="treatment" i="1882" m="a remedy; care; therapy" t="n"/>
+<w e="treaty" i="1883" m="a formal agreement between nations; pact" t="n"/>
+<w e="tremble" i="1884" m="to shake involuntarily; shiver with fear; quaver" t="v"/>
+<w e="tremendous" i="1885" m="very large; enormous; gigantic; wonderful" t="adj"/>
+<w e="trend" i="1886" m="direction of movement; inclination; tendency" t="n"/>
+<w e="tributary" i="1887" m="river or stream that flows into a larger body of water" t="n"/>
+<w e="trickery" i="1888" m="deception; artifice; use of tricks" t="n"/>
+<w e="trite" i="1889" m="commonplace; overused; hackneyed; cliche" t="adj"/>
+<w e="trivia" i="1890" m="unimportant matters or facts; trifles" t="n"/>
+<w e="trivial" i="1891" m="unimportant; trifling; commonplace; ordinary; paltry" t="adj"/>
+<w e="trophy" i="1892" m="a prize; symbol of victory" t="n"/>
+<w e="tug" i="1893" m="to pull; haul; drag" t="v"/>
+<w e="tumble" i="1894" m="to fall over; stumble; collapse; do acrobatics" t="v"/>
+<w e="tumult" i="1895" m="disorderly commotion; disturbance; excitement" t="n"/>
+<w e="turbulent" i="1896" m="tumultuous; violently agitated; unruly" t="adj"/>
+<w e="turmoil" i="1897" m="confusion; commotion; agitation; tumult" t="n"/>
+<w e="twilight" i="1898" m="dim light at the end of a day; period of decline" t="n"/>
+<w e="twofold" i="1899" m="having two parts; double" t="adj"/>
+<w e="tyrannical" i="1900" m="despotic; oppressive" t="adj"/>
+<w e="ubiquitous" i="1901" m="omnipresent; en sting everywhere" t="adj"/>
+<w e="ultimate" i="1902" m="final; conclusive; maximum, decisive; last" t="adj"/>
+<w e="unanimous" i="1903" m="all agreeing or of the same opinion" t="adj"/>
+<w e="unaware" i="1904" m="not knowing or realizing; not conscious of" t="adj"/>
+<w e="unbearable" i="1905" m="intolerable; unendurable" t="adj"/>
+<w e="uncivilized" i="1906" m="barbarous; lacking culture; primitive" t="adj"/>
+<w e="uncompromising" i="1907" m="inflexible; not willing to make concessions; rigid" t="adj"/>
+<w e="uncouth" i="1908" m="rude; ill-mannered; crude; clumsy; awkward" t="adj"/>
+<w e="underlying" i="1909" m="basic; fundamental; implicit" t="adj"/>
+<w e="unfortunate" i="1910" m="unlucky; regrettable; disastrous; hapless" t="adj"/>
+<w e="ungainly" i="1911" m="awkward; clumsy; not graceful; uncouth" t="adj"/>
+<w e="uniformity" i="1912" m="sameness; lack of variation; homogeneity" t="n"/>
+<w e="unilateral" i="1913" m="involving only one side" t="adj"/>
+<w e="universal" i="1914" m="worldwide; applicable to all; comprehensive" t="adj"/>
+<w e="unkempt" i="1915" m="untidy; messy; disheveled" t="adj"/>
+<w e="unmitigated" i="1916" m="unrelieved; absolute" t="adj"/>
+<w e="unobtrusive" i="1917" m="inconspicuous; not noticeable" t="adj"/>
+<w e="unorganized" i="1918" m="lacking order; confused; not systematic" t="adj"/>
+<w e="unprecedented" i="1919" m="never been done before; novel" t="adj"/>
+<w e="unruly" i="1920" m="ungovernable; not submissive; headstrong; recalcitrant" t="adj"/>
+<w e="unseemly" i="1921" m="improper; not in good taste; indecorous" t="adj"/>
+<w e="unsophisticated" i="1922" m="naive; unworldly; inexperienced" t="adj"/>
+<w e="unstable" i="1923" m="changeable; fluctuating; unsteady; not secure" t="adj"/>
+<w e="unwarranted" i="1924" m="without justification; undeserved; groundless" t="adj"/>
+<w e="unwieldy" i="1925" m="awkward; ungainly; difficult to handle; clumsy" t="adj"/>
+<w e="upheaval" i="1926" m="a violent bursting up; uprising; revolt" t="n"/>
+<w e="uproarious" i="1927" m="hilarious; boisterous; noisy; clamorous" t="adj"/>
+<w e="usurp" i="1928" m="to seize power without right" t="v"/>
+<w e="utilize" i="1929" m="to make use of, put into service" t="v"/>
+<w e="utopia" i="1930" m="ideal but nonexistent place" t="n"/>
+<w e="utter" i="1931" m="complete; absolute" t="adj"/>
+<w e="vacant" i="1932" m="empty; unoccupied; expressionless; stupid" t="adj"/>
+<w e="vacillate" i="1933" m="to waver; fluctuate; swing from side to side" t="v"/>
+<w e="vagabond" i="1934" m="a wanderer; tramp; vagrant; drifter" t="n"/>
+<w e="vague" i="1935" m="unclear; imprecise; indistinct; ambiguous" t="adj"/>
+<w e="valid" i="1936" m="legally sound; just; well supported; effective" t="adj"/>
+<w e="valuable" i="1937" m="highly prized; of great worth; costly" t="adj"/>
+<w e="vanish" i="1938" m="to disappear; fade away; cease to exist" t="v"/>
+<w e="vanity" i="1939" m="excessive pride; conceit; worthlessness" t="n"/>
+<w e="vanquished" i="1940" m="defeated; conquered; suppressed" t="adj"/>
+<w e="variable" i="1941" m="changeable; not constant" t="adj"/>
+<w e="varied" i="1942" m="having many forms; assorted; differing; diversified" t="adj"/>
+<w e="veer" i="1943" m="to turn aside; swerve; change direction" t="v"/>
+<w e="vehement" i="1944" m="ardent; emphatic; vigorous; violent; forceful" t="adj"/>
+<w e="vendor" i="1945" m="a salesman; peddler; seller of goods" t="n"/>
+<w e="venerable" i="1946" m="worthy of respect; honorable" t="adj"/>
+<w e="venture" i="1947" m="a daring undertaking; risky enterprise" t="n"/>
+<w e="verbatim" i="1948" m="word for word" t="adj"/>
+<w e="verbose" i="1949" m="wordy; having more words than are necessary" t="adj"/>
+<w e="verdict" i="1950" m="the decision of jury; judgment; conclusion" t="n"/>
+<w e="verify" i="1951" m="to prove to be true; substantiate; ascertain" t="v"/>
+<w e="versatile" i="1952" m="able to do many tasks; having many uses" t="adj"/>
+<w e="vestige" i="1953" m="a trace; remainder; something left over" t="n"/>
+<w e="veteran" i="1954" m="a former soldier; one with a lot of experience" t="n"/>
+<w e="viable" i="1955" m="capable of surviving; practicable; workable" t="adj"/>
+<w e="vibrant" i="1956" m="full of energy; vigorous" t="adj"/>
+<w e="vibrate" i="1957" m="to move back and forth rapidly; quiver" t="v"/>
+<w e="vicarious" i="1958" m="experienced indirectly; substituted" t="adj"/>
+<w e="vicinity" i="1959" m="the region near a place; proximity" t="n"/>
+<w e="vicious" i="1960" m="malicious; evil; cruel; wicked" t="adj"/>
+<w e="vigilance" i="1961" m="watchfulness" t="n"/>
+<w e="vigorous" i="1962" m="lively; robust; energetic; healthy" t="adj"/>
+<w e="vilify" i="1963" m="to defame; slander; malign" t="v"/>
+<w e="villain" i="1964" m="a scoundrel; wicked person; evil character" t="n"/>
+<w e="vindicate" i="1965" m="to clear from accusation; justify" t="v"/>
+<w e="vindictive" i="1966" m="vengeful" t="adj"/>
+<w e="violate" i="1967" m="to break a trust or rule; injure; harm, profane; infringe" t="v"/>
+<w e="virtuous" i="1968" m="morally upright; righteous; pure" t="adj"/>
+<w e="vitality" i="1969" m="energy; liveliness; exuberance; vigor" t="n"/>
+<w e="vivacious" i="1970" m="animated; vibrant" t="adj"/>
+<w e="vivid" i="1971" m="intense1y bright; animated; life-like; vigorous" t="adj"/>
+<w e="vociferous" i="1972" m="clamorous; loud; noisy" t="adj"/>
+<w e="void" i="1973" m="empty; unfilled; invalid; ineffectual; null" t="adj"/>
+<w e="volatile" i="1974" m="evaporating quickly; fickle; unstable" t="adj"/>
+<w e="voluptuous" i="1975" m="pleasing to the senses; full inform; sensuous" t="adj"/>
+<w e="voracious" i="1976" m="greedy; ravenous" t="adj"/>
+<w e="vulnerable" i="1977" m="susceptible to attack; insufficiently defended" t="adj"/>
+<w e="wander" i="1978" m="to roam; travel aimlessly; stroll; go astray" t="v"/>
+<w e="warrant" i="1979" m="to justify; deserve; guarantee; authorize" t="v"/>
+<w e="wary" i="1980" m="cautious; careful" t="adj"/>
+<w e="waver" i="1981" m="to vacillate; falter; show indecision" t="v"/>
+<w e="weary" i="1982" m="tired; exhausted; fatigued" t="adj"/>
+<w e="weird" i="1983" m="unusual; strange; unearthly" t="adj"/>
+<w e="whimsical" i="1984" m="quaintly humorous; capricious; unusual" t="adj"/>
+<w e="widespread" i="1985" m="covering a large area; widely occurring" t="adj"/>
+<w e="wilderness" i="1986" m="an uninhabited area; area with wild animals" t="n"/>
+<w e="wilt" i="1987" m="to become limp; droop; weaken" t="v"/>
+<w e="wily" i="1988" m="cunning; sly; calculating" t="adj"/>
+<w e="wince" i="1989" m="to flinch; show pain or distress; shrink back" t="v"/>
+<w e="wither" i="1990" m="to dry up and shrivel; droop; fade" t="v"/>
+<w e="witty" i="1991" m="clever wad humorous" t="adj"/>
+<w e="wrath" i="1992" m="rage; fury; fierce anger; vengeance" t="n"/>
+<w e="wreck" i="1993" m="to destroy; ruin; dismantle" t="v"/>
+<w e="wretched" i="1994" m="miserable; lowly; despicable" t="adj"/>
+<w e="wriggle" i="1995" m="to twist and turn; squirm; escape by shrewdness" t="v"/>
+<w e="yield" i="1996" m="amount produced; return on an investment" t="n"/>
+</vocb>

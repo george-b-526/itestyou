@@ -1,0 +1,6294 @@
+a little	조금
+a lot	많이
+a minute ago	일분전
+a month ago	한달전
+a week ago	일주일전
+a year ago	일년전
+abandon	단념하다
+aberrant	정도에서 벗어난
+ability	능력
+about	대하여
+abuse	학대하다, 남용하다
+abusive	욕설을 퍼붓는
+abysmal	지독히 나쁜
+academic subjects	과목
+acceptance	수락
+accidentally	사고로
+accompany	함께가다
+accountant	회계사
+accumulate	축적하다
+accuse	고발하다
+accustom	익숙해지다
+achieve	이루다
+acid rain	산성비
+acquire	획득하다
+acquittal	석방
+act	행동하다
+actor	배우
+acupuncture	침술
+adam’s apple	결후
+add	더하다
+address	주소
+address	말을걸다
+administrative assistant	행정보조원
+admire	동경하다
+admit	인정하다
+adopt	받아들이다
+adorn	꾸미다
+adult	어른
+advance	전진시키다
+advantage	잇점
+advertiser	광고주
+afraid	두려운
+after	후
+after a minute	일분후
+after a month	한달후
+after a week	일주일후
+after a year	일년후
+after two minutes	이분후
+after two months	두달후
+after two weeks	이주일후
+after two years	이년후
+afternoon	오후
+afterwards	나중에
+again	다시
+age	나이
+ago	전
+agree	동의하다
+agriculture	농업
+air force	공군
+air pollution	공기오염
+air sickness bag	위생봉투
+air terminal	공항터미널
+aircraft carrier	항공모함
+airplane	비행기
+airport	공항
+aisle	통로
+aisle seat	통로쪽 좌석
+alarm clock	자명종시계
+all	전부
+all right	괜찮은
+all the best	최선을다해
+all together	다 같이
+allot	제비뽑기로 분배하다
+allow	허락하다
+almost	거의
+alone	혼자
+already	이미
+also, too	역시
+although	그럴지라도
+aluminum foil	은박지
+always	항상
+always late	항상늦은
+amazingly	굉장히
+Amazon River	아마존강
+ambiguous	모호한
+ambition	야망
+ambitious	야심찬
+America	미국
+American person	미국사람
+amulet	부적
+an hour ago	한시간전
+ancient	고대의
+and	그리고
+angel	천사
+angrily	노하여
+angry	화난
+angry young man	반체제 젊은이
+animate	만화를 그리다
+ankle	발목
+announce	알리다
+annoyed	귀찮은
+annually	매년
+anoint	머리에 기름을 부어 신성케하다
+answering machine	자동 응답기
+ant	개미
+antacid tablets	재산정
+Antarctica	남극대륙
+anthropology	인류학
+antibiotic	항생제
+anticipate	예상하다
+anxiously	근심하여
+anyway	어쨋든
+apartment	아파트
+apartment number	호수
+apathetic	냉담한
+appear	나타나다
+apple	사과
+appliance store	가전제품가게
+apply	신청하다
+appoint	임명하다
+appointment	약속
+approve	입증하다
+approximately	대략
+apricot	살구
+April	사월
+aptitude	적성
+architect	건축가
+architecture	건축학
+arm	팔
+arm v.	무장하다
+arm rest	팔걸이
+armchair	안락의자
+armpit	겨드랑이
+army	육군
+around	대충
+arrange	배치하다
+arrest	체포
+arrival gate	도착탑승구
+arrival time	도착시간
+arrive	도착하다
+arson	방화
+art	예술
+art exhibit	미술전시회
+art history	미술역사
+artery	동맥
+artificial	인공의
+artist	예술가
+artistic	예술적인
+as	처럼
+as early as	일찍
+as soon as	곧
+as you know	알다시피
+ashamed	부끄러운
+ask	묻다
+aspirin	아스피린
+assault	급습하다
+assemble	조립하다
+assembler	조립공
+assembly line	조립 라인
+assess	할당하다
+assign	할당하다
+astronomer	천문학자
+at home	집에서
+at least	적어도
+at most	거의
+athletic socks	운동양말
+athletics	운동선수
+Atlantic Ocean	대서양
+attach	붙히다
+attack	공격하다
+attorney	변호사
+attraction	매력
+August	팔월
+aunt	이모
+auto mechanic	정비사
+auto repair shop	자동차정비소
+automation	자동 조작
+avenge	복수를 하다
+avert	피하다
+award	상을주다
+awkward	어색한
+baby	자기
+baby formula	분유
+baby powder	아기분
+bachelor	미혼 남자
+back	등
+back	뒤
+back door	뒷문
+backache	허리통증
+backpack	책가방
+backup copy	백업카피
+bacon	베이컨
+bad	나쁜
+badly	몹시
+baggage claim	수하물찾는곳
+bail	보석금
+bail bondsman	보석금 보증인
+bake	굽다
+baked chicken	구운닭
+baked potato	구운감자
+baker	제빵사
+bakery	제과점
+banana	바나나
+band aid	일회용밴드
+bandage	붕대
+bank	은행
+banker	은행원
+banshee	아일랜드 여자요정
+bar	술집
+barbeque	바베큐
+barber	이발사
+barber shop	이발소
+barn	헛간
+baseball	야구
+baseball cap	야구모자
+bat	박쥐
+bath towel	목욕수건
+bathrobe	목욕가운
+bathroom	화장실
+bay	만
+be	이다,있다
+be blocked, congested	막히다
+be born	태어나다
+be excused	실례하다
+be late	늦다
+be out, be away	부재중이다
+be seen	보이다
+be visible	눈에보이다
+beach	해변
+beach ball	비치볼
+beach umbrella	파라솔
+bear	곰
+beard	턱수염
+beat	때리다
+beautiful	아름다운
+beauty shop	미장원
+because of	때문에
+become	되다
+bed	침대
+bed pillow	베개
+bedroom	침실
+bee	벌
+beef	소고기
+beer	맥주
+before	전
+beg	구걸하다
+begin	시작하다
+believe	믿다
+bell pepper	피망
+below	아래,밑
+belt	허리띠
+bend	구부리다
+benevolence	선행
+beret	베레모
+beside, next to	옆
+besides	게다가 또
+besiege	포위공격 하다
+best man	신랑 들러리
+betray	배반하다
+beverage	음료수
+beware	조심하다
+bicycle	자전거
+big	큰
+bind	묶다
+biology	생물학
+bird	새
+birthday	생일
+bitter	떫은
+black	검정색
+black bean	검정콩
+black socks	검정양말
+bladder	방광
+blame	비난하다
+bland	밋밋한
+blanket	이불
+blarney	감언
+blazer	블래이져
+bleach	표백제
+blender	믹서기
+bless	신성케 하다
+blessing	은혜
+blindly	맹목적으로
+blinds	블라인드
+bloated	부운
+block	막다
+blood	출혈
+blood work	혈액검사
+bloody nose	코피
+bloom	꽃이 피다
+blouse	블라우스
+blow	불다
+blue	파랑
+blue jay	큰어치
+boarding pass	탑승권
+boast	자랑하다
+boastful	허풍떠는
+boastfully	허풍스럽게
+boat	배
+bodi tree	보리수
+body	몸
+bogus	가짜의
+boil	끓다
+boldly	대담하게
+bomber jacket	가죽 점퍼
+bonds	보석금
+bonus	보너스
+book	책
+bookkeeper	회계원
+bookshelf	책꽃이
+bookstore	책방
+boots	부츠
+bored	지루한
+boredom	권태
+borrow	빌리다
+boss	사장
+bottle	젖병
+bottle opener	병따개
+bow tie	나비 넥타이
+bowl	그릇
+box	상자
+box spring	박스스프링
+boxer shorts	사각팬티
+boycott	불매운동
+boyfriend	남자친구
+bra	브라자
+braid	머리를 땋다
+brain	뇌
+brandish	칼, 창을 휘두르다
+brave	용감한
+bravely	용감하게
+bravery	용감
+break	부수다
+breakfast	아침밥
+breast	가슴
+breathe	숨쉬다
+brick layer	벽돌공
+bride	신부
+bride’s bouquet	신부의 부케
+bridge	다리
+brief	간결한
+briefly	간결히
+bright	밝은
+brightly	밝게
+brilliant	훌륭한
+bring	가지고오다
+British person	영국사람
+broadcast	방송하다
+broadsword	칼날이 넓은 칼
+brogue	아일랜드 사투리
+broken	부서진
+broom	빗자루
+brother	형
+brown	갈색
+bruise	멍
+bruise	멍들게 하다
+brush	빗다
+brush teeth	이를닦다
+Brussels sprouts	브뤼셀 순
+bucket	물통
+Buddha	부처
+Buddha’s Birthday	부처님탄생일
+buffet	때려눕히다
+build	세우다
+building	건물
+bullet	총알
+bunk bed	이층침대
+burden	부담을 주다
+burglary	도둑질
+burn	화상
+burn	타다
+burst	폭발하다
+bury	매장하다
+bus driver	버스운전사
+bus pass	버스승차권
+bus stop	버스 정류장
+busily	바쁘게
+business	사업
+business class	비즈니스석
+busy	바쁜
+butcher	정육점주인
+butt	엉덩이
+butter knife	버터나이프
+butterfly	나비
+buy	사다
+cabbage	양배추
+cabin	객실
+calf	종아리
+call	부르다
+call button	호출버튼
+calm	침착하다
+calm	침착한
+calmly	침착하게
+campus	교정
+can opener	깡통따개
+candle	양초
+candlestick	촛대
+candy	사탕
+cannot	못
+cantaloupe	캔드롭
+canyon	협곡
+cap	의치
+capable	유능한
+capital	수도
+capital punishment	사형
+capsule	캡슐
+car	자동차
+car dealer	자동차딜러
+cardiologist	심장 전문의
+care	돌보다
+careful	신중한
+carefully	조심스럽게
+careless	부주의한
+carelessly	부주의하게
+cargo hold	화물칸
+carpenter	목수
+carrot	당근
+carry	운반하다
+carry on luggage	기내휴대 수화물
+carve	조각하다
+cashier	계산원
+casket	관
+cast	깁스붕대
+casualty	부상자
+cat	고양이
+cat food	고양이먹이
+catch	잡다
+cause	원인이되다
+caustic	신랄한
+cautiously	조심성있게
+cavity	충치
+CD player	씨디플레이어
+cease fire	휴전
+ceiling	천장
+cemetery	묘지
+center lane	중앙선
+cereal	시리얼
+chair	의자
+chalk	분필
+chalkboard	칠판
+challenge	도전하다
+change	거스름 돈
+change	바꾸다
+changing table	기저귀가는 테이블
+chanting	주술
+charm	매력이 있다
+cheat	속이다
+cheater	사기꾼
+check in	탑승수속
+check up	건강 진단
+check, bill	계산서
+cheek	볼
+cheerful	기운찬
+cheerfully	쾌활하게
+cheese	치즈
+cheese grater	치즈강판
+chef	요리사
+cherish	고이 간직하다
+cherry	체리
+chest	가슴
+chest of drawers	서랍장
+chest pain	흉부통
+chewing gum	껌
+chicanery	속임수
+chicken	닭고기
+chicken wing	닭날개
+child	아이
+childish	유치한
+children	자녀
+Children’s Day	어린이날
+chimney	굴뚝
+chin	턱
+China	중국
+Chinese person	중국사람
+chocolate bar	초콜릿
+chocolate milk	초코우유
+choice	선택
+choke	질식시키다
+choose	고르다
+chopsticks	젖가락
+chorus	합창
+Christmas	크리스마스
+church	교회
+cigarette	담배
+circle	원
+citizenship	시민권
+city	도시
+city hall	시청
+civilian	국민
+claim	청구하다
+clairvoyant	투시력
+clam	대합
+clandestine	은밀한
+clap	박수치다
+class	수업
+classical music	클래식음악
+classroom	교실
+clean	깨끗하다
+clean	깨끗한
+clean air	맑은공기
+clean the apartment	아파트를 청소하다
+clean the house	집을 청소하다
+clean water	깨끗한물
+clearly	뚜렷하게
+clerk	점원
+clever	영리한
+cliff	절벽
+climb	기어오르다
+cling	착 달라붙다
+clinic	클리닉
+clock	시계
+clock radio	시계 라디오
+close	닫다
+close	가까운
+closed	닫힌
+closing statement	최종변론
+clothes	옷
+clothes pin	빨래집게
+clothesline	빨래줄
+clothing store	옷가게
+cloud	구름
+cloudy	흐린
+co-pilot	부조종사
+coal	석탄
+coast guard	해상보안대
+coat closet	옷장
+cockpit	조종실
+cockroach	바퀴벌레
+cod	대구
+coffee	커피
+coffee pot	커피주전자
+coffee shop	다방
+coffee table	응접실용탁자
+coincide	일치하다
+cola	콜라
+cold	추운
+cold beer	찬 맥주
+cold noodles	냉면
+cold tablet	정제감기약
+cold water	찬물
+collaboration	합작
+collapse	붕괴되다
+collect	모으다
+college	단과대학
+colors	색
+comb	빗질하다
+comb hair	머리빗다
+come	오다
+come home	집에 오다
+come in	들어오다
+come out	나오다
+comfort	위로하다
+comfortable	편안한
+comforter	이불
+command	명령하다
+commission	커미션
+commodities	필수품
+compass	나침판
+compassion	연민
+compel	강요하다
+compete	경쟁하다
+complain	불평불만을하다
+complete	완성하다
+comply	응하다
+composer	작곡가
+computer literate	컴퓨터 사용 능력이 있는
+computer programmer	컴퓨터프로그래머
+computer store	컴퓨터가게
+computer virus	컴퓨터바이러스
+con man	사기꾼
+concert hall	콘서트 홀
+concession	양보
+condemn	비난하다
+condo	콘도
+conductor	지휘자
+conference room	회실
+confess	자백하다
+confirm	확실하게하다
+confiscate	압수하다
+conflict	전투
+conform	따르게 하다
+confused	헷갈린
+confusion	혼동
+congeal	응결시키다
+congested	충혈
+congratulate	축하하다
+congress	국회
+congressman	국회의원
+connect	연결하다
+conquer	정복하다
+conquest	정복
+conscience	양심
+consecrate	신성하게 하다
+consequently	그결과로서
+conservative	보수주의
+consider	숙고하다
+considerate	신중한
+constipation	변비
+constitution	헌법
+construction worker	공사장인부
+consume	소비하다
+consumer	소비자
+contact	접촉
+contain	담고있다
+contemplate	깊이 생각하다
+continue	계속하다
+contrive	꾸미다
+control	조절하다
+control tower	중앙관제탑
+convenience store	편의점
+convenient	편리한
+converse	담화를 나누다
+convertible bed	소파 침대
+conviction	유죄판결
+cook	주방장
+cook	요리하다
+cooked rice	밥
+cookies	과자
+cool	차가운
+cooperation	협력
+copy center	복사 가게
+copy machine	복사기
+corkscrew	코르크따개
+corn	옥수수
+corn chips	옥수수칩
+corner	코너
+correct	고치다
+correctly	정확히
+corruption	부패
+cosmetic dentistry	미용치과
+cost money	비용이들다
+cost of living	생활비
+cost projection	추정비용
+cot	간이침대
+couch	쇼파
+cough	기침
+cough syrup	시럽감기약
+count	세다
+country	나라
+country bumpkin	시골뜨기
+countryside	시골
+courageously	용기있게
+course, subject	과목
+court	법정
+court jester	광대
+courthouse	법원
+cousin	사촌
+coven	마녀의 집회
+cover	덮다
+cow	소
+cowboy boots	카우보이부츠
+cowboy hat	카우보이모자
+crab	게
+cramps	근육경련,생리통
+crave	열망하다
+crawl	기다
+cream	크림
+creamer	크림
+create	창조하다
+creative	독창적인
+creativity	창조성
+credit	신용하다
+creek	호수에 작은 만
+creep	살금살금 걷다
+creepy	소름 끼치는
+crib	애기침대
+crime	범죄
+crime scene	범죄장면
+crocodile	악어
+crooked	구불어진
+crops	농작물
+cross	십자가
+cross	건너다
+cross examination	반대 심문
+crossly	토라져서
+crosswalk	횡단보도
+crow	까마귀
+crowd	붐비다
+crowded	복잡한
+crown	크라운
+crown	왕위에 올리다
+crucifix	그리스도 수난상
+crude	천연그대로의
+cruelly	잔인하게
+crush	눌러부수다
+crutches	목발
+crystal ball	점 칠 때 쓰는 수정구슬
+cube	정육면체
+cubicle	칸막이한 사무실
+cuddle	껴안고 예뻐하다
+culture	문화
+cup	잔
+cure NOUN	치료
+cure VERB	치료하다
+curtains	커튼
+customs	세관
+customs officer	세관원
+cut NOUN	베인 상처
+cut	자르다
+cutie pie	예쁜이
+cutting board	도마
+cycling	사이클링
+cyst	포낭
+daily	매일
+dam	댐
+dance	춤추다
+dangerous	위험한
+dare	뱃심좋게 하다
+dark	어두운
+dark green	짙은초록색
+darling	여보
+data base	데이타베이스
+data processor	정보처리기사
+dates	대추
+daughter	딸
+day	날
+day bed	소파 겸용 침대
+day care center	탁아소
+days of the week	요일
+dazzling	눈부신
+deadly	치명적인
+death	죽음
+death penalty	사형
+deceive	속이다
+December	십이월
+decide	결정하다
+declaration form	세관신고서
+declare	선언하다
+decline	거절하다
+decongestant	코막힘
+decoration	장식
+dedication	봉헌
+deeply	심각하게
+defeat	패배
+defeat	쳐부수다
+defend	방어하다
+defendant	피고인
+defense	방어
+defense attorney	피고측 변호인
+defiantly	도전적으로
+deflect	빗나가다
+delay	미루다
+deliberate	숙고하다
+deliberately	신중히
+delicious	맛있는
+deliver	배달하다
+delivery man	배달원
+demand	요구하다
+demolish	건물을 헐다
+dentist	치과의사
+deny	부인하다
+depart	출발 하다
+department store	백화점
+departure gate	출발탑승구
+departure time	출발시간
+dependable	믿을수있는
+depict	묘사하다
+deposit	예금하다
+deprive	빼앗다
+depth	깊이
+derisive	조롱하는
+descend	내려가다
+desecrate	신성을 더럽히다
+desert	사막
+design	디자인하다
+desire	몹시바라다
+desk	책상
+despise	경멸하다
+dessert	후식
+destroy	파괴하다
+detain	감금하다
+detective	형사
+detour	우회로
+devil	악마
+devise	궁리하다
+devour	게걸스럽게 먹다
+diaper pail	기저귀통
+diapers	기저귀
+diarrhea	설사
+dictionary	사전
+die	죽다
+different	다른
+difficult	어려운
+diffuse	흐트러 뜨리다
+dig	파다
+dignity	위엄
+diligently	열심히
+dim	침침한
+dining room	식당
+dining room table	식탁
+dinner	저녁
+dinner fork	식사용포크
+dinner plate	디너 접시
+dip	담그다
+diplomatic	외교상의
+direct	감독하다
+direction	방위
+dirty	더러운
+dirty clothes	빨랫감
+disadvantage	불이익
+disagree	반대하다
+disappointed	실망한
+disappointment	실망
+discern	식별하다
+disciple	문화생
+discount	할인
+discount store	할인점
+discretion	재량
+disdain	경멸감
+disfigure	볼꼴사납게 하다
+disgrace	수치스러움을 느끼다
+disguise	변장하다
+disgusted	역겨운
+dish rack	식기건조대
+dish towel	행주
+dishonest	부정한
+dishwasher	식기세척기
+dishwashing liquid	주방용세제
+dislocated shoulder	빠진어깨
+dismiss	해산하다
+disperse	흩뜨리다
+display	표시하다
+displease	불괘하게하다
+distinguish	식별하다
+distress	괴롭히다
+distribute	분배하다
+distribution	분배
+distrust	신용하지 않다
+ditsy	어리석은
+divide	나누다
+dividend	배당금
+diving	다이빙
+divorced	이혼
+DNA	유전자
+do	하다
+do not enter	진입금지
+do the laundry	빨래를 하다
+doctor	의사
+dog	개
+dog bite	개에물림
+dog food	개의먹이
+doll	인형
+dolphin	돌고래
+domestic flight	국내선
+domination	통치
+donkey	당나귀
+donor	기증자
+donut shop	도우넛 가게
+doorknob	문 손잡이
+dorky	천치의
+dormitory	기숙사
+double	두배로하다
+doubtfully	의심스럽게
+down jacket	오리털잠바
+downbeat	비관적인
+downsized	소형
+downward	아래쪽으로
+drag	질질끌다
+dragon	용
+drainpipe	배수관
+draw	끌다
+dream	 꿈꾸다
+drench	훔뻑 물에 적시다
+dress	드레스
+dress shirt	와이셔츠
+dress shoes	구두
+dresser	화장대
+drill	드릴
+drink	마시다
+drive	운전하다
+drizzle	이슬비
+droop	시들다
+drug store	약국
+drunk	술취한
+dry	말리다
+dry	마른
+dryer	건조기
+duck	오리
+duke	공작
+dull	침침한
+dull	둔한
+duplex 2	세대형주택
+dust	먼지를 털다
+dustpan	쓰레받기
+duty free shop	면세점
+DVD player	디비디플레이어
+dwell	살다
+eager	열망하는
+eagle	독수리
+ear	귀
+earmuffs	귀마개
+earn money	돈을 벌다
+Earth	지구
+earthquake	지진
+easily	쉽게
+east	동쪽
+Easter	부활절
+easy	쉬운
+easygoing	활달한
+eat	먹다
+eat breakfast	아침을 먹다
+eat dinner	저녁을 먹다
+eat lunch	점심을 먹다
+ecology	생태학
+economic stability	경제적 안정
+economic trend	경제추세
+economics	경제학
+economy class	일반석
+ecstatic	희열에 넘친
+educate	교육하다
+education	교육학
+efficient	능률적인
+eggplant	가지
+eggs	달걀
+egotist	자기중심주의
+eight	팔,여덟
+eighteen	십팔,열여덟
+eighty	팔십,여든
+elbow	팔꿈치
+electric blanket	전기담요
+electric pencil sharpener	자동연필깍기
+electrician	전기공
+elegantly	우아하게
+elementary school	초등학교
+elementary student	초등학생
+elephant	코끼리
+eleven	십일,열하나
+embarrassed	챙피한
+embrace	포옹하다
+emerge	드러나다
+emergency exit	비상출구
+emergency room	 응급실
+empathy	공감
+empty	빈
+enchantment	 마법
+encircle	에워싸다
+enclose	동봉하다
+encourage	용기를 북돋우다
+encyclopedia	백과사전
+end	끝나다
+end table	작은 테이블
+endure	인내하다
+enemy	 적
+energetic	원기왕성한
+energizing	힘이 넘치는
+energy	에너지
+enfold	접다
+engine	엔진
+engineer	기술자
+engineering	 공학
+English language	영어
+enigma	불가사의한 사람
+enjoy	즐기다
+enlightenment	교화
+enlist	입대하다
+enormously	엄청나게
+enough	충분한
+enrich	부자가 되게 하다
+enter	들어가다
+enterprise	기업체
+enthusiasm	열광
+enthusiastic	열광적인
+enthusiastically	열광적으로
+entice	부추기다
+entrance ramp	진입로
+entrust	위탁하다
+envelope	봉투로 싸다
+envy	선망
+equality	동등
+equally	동등하게
+Equator	적도
+equip	장비를 갖추다
+eraser	지우개
+erect	세우다
+err	틀리다
+escape	탈출하다
+especially	특별히
+establish	설립하다
+eulogy	송덕문
+evanescent	곧 사라져가는
+even	조차
+evening	저녁
+evening gown	이브닝드레스
+eventually	결국에
+every day	매일
+everywhere	어디에나
+evidence	증거
+evil	사악한
+exactly	정확하게
+examine	검사하다
+excel	탁월하다
+excellence	우수
+excite	흥분하다
+exciting	흥미로운
+excuse	변명하다
+execute	실행하다, 사형을 집행하다
+exercise	운동하다
+exert	발휘하다
+exhausted	 기진맥진한
+exist	있다
+exist, stay	계시다
+exit	비상구
+exit sign	출구표시
+expansion	확장
+expel	내◎⃝다
+expend	소비하다
+expenditure	지출
+expensive	비싼
+experience	경험하다
+experienced	경험있는
+explain	설명하다
+explosives	폭발물
+express bus	고속버스
+extend	연장하다
+extinguish	불을 끄다
+extremely	 굉장히
+eye	눈
+eye drops	안약
+eyebrow	눈섶
+eyelash	속눈섶
+eyelid	 눈꺼풀
+fabulous	굉장한
+face	얼굴
+facetious	익살맞은
+factory	공장
+fail	실패하다
+failure	실패
+faint	기절
+fairly	꽤
+fairly often	꽤 자주
+fairness	공평
+faithfully	성실하게
+fake	허풍쟁이
+fall	가을
+fall	떨어지다
+family	가족
+famine	기근
+fancy	장식적인
+fantastic	환상적인
+far	먼
+far away	멀리떨어진
+farmer	농부
+farmhouse	농가
+fast	빠른
+fast lane	월 차선
+fat	뚱뚱한
+fatally	숙명적으로
+father	아버지
+fauna	동물군
+fear	무서워하다
+February	이월
+feed	먹이를 주다
+feed the baby	아기에게 음식을 주다
+feed the cat	고양이에게 먹이를 주다
+feel	느끼다
+feel bad	기분 나쁜
+feel good	기분 좋은
+feeling	느낌
+feisty	활기찬
+feminine	여성적인
+fever	열
+few	거의 없는
+fiction	픽션
+fictitious	허구의
+fidget	안절부절하다
+field	들판
+fiercely	사납게
+fifteen	십오,열다섯
+fifty	오십,쉰
+fig	무화과열매
+fight	싸움
+fight	싸우다
+file	철하다
+file cabinet	서류캐비넷
+file clerk	문서정리원
+fill	채우다
+filling	충전재
+finally	결국
+finance	재정
+find	찾다
+find out	찾아내다
+fine	벌금
+finger	손가락
+fingernail	손톱
+fingerprint	지문
+finish	끝나다
+fire	화재
+fire station	소방소
+firefighter	소방수
+fireplace	벽난로
+firing squad	총살형 집행대
+first	첫번째로
+first class	일등석
+first of all	첫번째로
+fish	생선
+fisherman	어부
+fit	맞다
+five	오,다섯
+fixed	수리된
+flamingo	홍학
+flannel shirt	플란넬셔츠
+flash	번쩍이다
+flavor	맛을내다
+flee	달아나다
+flexible	융통성있는
+flight attendant	승무원
+flood	홍수
+floor	마루
+floor wax	마루 왁스
+flora	식물군
+floss	치실을하다
+flounder	가자미
+flour	밀가루
+flow	넘쳐흐르다
+flower	꽃
+flower shop	꽃집
+fly	파리
+fly	날다
+fog	안개
+follow	따라가다
+fondly	다정하게
+food	음식
+fool	바보
+foolishly	어리석게
+foot	발
+football	 미식축구
+footwear, shoes	신발
+for	위하여
+for a long time	오랫동안
+for a short time	잠시동안
+for five minutes	오분 동안
+for one hour	한시간 동안
+for one minute	일분 동안
+for one month	한달 동안
+for one week	일주일간
+for one year	일년간
+for ten minutes	십분 동안
+for the first time	처음에
+for two hours	두시간 동안
+for two months	두달 동안
+for two weeks	이주일간
+for two year	이년간
+forbid	금하다
+force	억지로 시키다
+forearm	팔뚝
+forehead	이마
+foreign country	외국
+foreman	공사장현장감독
+foresee	예견하다
+forest	숲
+forget	잊다
+forgiveness	용서
+fork	포크
+formal dress	정장
+formula	분유
+forsake	버리다
+fortify	요새화하다
+fortunately	운이 좋게
+fortune teller	점쟁이
+forty	사십,마흔
+four	사,넷
+four hours ago	네시간전
+four minutes ago	사분전
+four months ago	넉달전
+four weeks ago	사주일전
+four years ago	사년전
+fourteen	십사,열넷
+France	프랑스
+frank	솔직한
+frantically	극도로 흥분하여
+fraud	사기
+freak	별난사람
+freedom	자유
+freezer	냉동고
+freezing	몹시추운
+French person	프랑스사람
+fresh	싱싱한
+freshman	신입생
+Friday	금요일
+fried chicken	통닭
+friend	친구
+friendly	다정다감한
+frolic	장난치며 놀다
+from here	여기부터
+from next time	다음부터
+from now on	지금부터
+from there	저기부터
+front	앞
+front door	현관문
+front walk	현관앞길
+frustrated	좌절한
+full	꽉찬
+full	배부른
+full-size bed	풀사이즈침대
+full-time job	전업
+fun	재미있는
+funeral	장례식
+furious	노하여 펄펄뛰는
+furniture store	가구점
+furthermore	더군다나
+fussy	까다로운
+gangster	폭력단원
+garage	차고
+garage door	차고문
+garbage disposal	 오물분쇄기
+garbage man	환경미화원
+garden	정원
+gardener	정원사
+garment bag	옷가방
+gas station	 주유소
+gate	탑승구
+gather	모으다
+gazelle	가젤영양
+generally	일반적으로
+generous	관대한
+gentle	 점쟎은
+gently	점잖게
+geometry	기하학
+German person	독일사람
+Germany	독일
+get	얻다
+get dressed	옷을입다
+get in, ride	타다
+get married	결혼하다
+get off	내리다
+get undressed	옷을 벗다
+get up	일어나다
+ghost	귀신
+gift shop	선물가게
+gin and tonic	진토닉
+ginseng tea	인삼차
+girlfriend	여자친구
+give	주다
+give birth	애를 낳다
+gladly	기쁘게
+glass	유리잔
+glasses	안경
+globe	지구본
+gloves	장갑
+glutton	대식가
+gnaw	앞니로 갈다
+go	가다
+go down	내려가다
+go grocery shopping	시장을가다
+go hiking	하이킹을 가다
+go to sleep	잠자리에 들다
+go to work	출근하다
+goad	막대기로 찌르다
+goal	 목표
+God	하나님
+gold	금색
+golden	귀중한
+golf club	골프클럽
+golf course	 골프 코스
+good	좋은
+good hearted	착한
+good-humored	상냥한
+good-natured	마음씩고운
+goodbye	안녕히 계세요
+goodness	착함
+goofball	괴짜
+gorilla	고릴라
+government	 정부
+grab	잡다
+gracefully	우아하게
+graduate	졸업하다
+graduate school	대학원
+graduate student	대학원생
+grandfather	할아버지
+grandmother	할머니
+grandparents	조부모
+grapefruit	자몽
+grapes	포도
+graphics	그래픽
+grasp	붙잡다
+grasshopper	메뚜기
+gratitude	감사하는 마음
+grave	묘지
+gray	회색
+great	훌륭한
+Great Britain	영국
+greedily	탐욕스럽게
+green	초록
+green	그린
+green beans	깍지콩
+green onion	파
+green thumb	원예의 재능
+greet	인사하다
+greeting	인사
+grilled fish	구운생선
+grind	잘게 부수다
+gripping	흥미를끄는
+groan	끙끙거리다
+grocery store	식료품가게
+groom	신랑
+grow	자라다
+grow up	자라다
+guard	지키다
+guest	손님
+guide	 안내하다
+guilt	유죄
+gun	 총
+gynecologist	부인과 의사
+hack	잘게 썰다
+hacker	해커
+haggle	끈질기게 값을 깎다
+hail	우박
+hair	머리카락
+hair salon	미용실
+hairdresser	미용사
+half	반절
+halibut	넙치
+ham	햄
+ham and cheese sandwich	햄,치즈 샌드위치
+hand	손
+handcuffs	수갑
+handle	다루다
+handsome	잘생긴
+hang	걸다
+hanger	옷걸이
+happen	일어나다
+happily	행복하게
+happy	행복한
+harass	괴롭히다
+hard	딱딱한
+hard-hearted	무정한
+harden	딱딱하게 하다
+hardly ever	좀처럼
+hardworking	근면한
+harm	해치다
+harmonize	일치하다
+harvest	추수
+hastily	성급하게
+hat	모자
+hate	증오
+hate	싫다
+hateful	미운
+have a cold	감기걸리다
+have a headache	머리가 아프다
+have, possess	가지다
+hawk	매
+haze	연무
+head	머리
+headache	두통
+headboard	(침대) 머리판
+headset	헤드폰
+heal	병이 낫다
+health	건강
+health club	헬스클럽
+healthy	건강한
+hear	듣다
+hearse	영구차
+heart	심장
+heart attack	심장마비
+heart murmur	심장 잡음
+heart-to-heart	진심어린
+heartache	상심
+heartbeat	심장박동
+heartbreaker	애끓게 하는 사람
+heartburn	속쓰림
+hearth	가정의 단란
+heartland	핵심지역
+heartstopper	무서운 것
+heartstrings	심금
+heartthrob	애인
+heat wave	폭서
+heating pad	찜질패드
+heaven	천당
+heavy	무거운
+hedge fund	헤지 펀드
+heel	발꿈치
+height	높이
+heinous	가증스러운
+hell	지옥
+hello	안녕하세요?
+help	도움
+help	돕다
+helpful	유익한
+here	여기
+hesitate	망설이다
+hide	숨기다
+high	높은
+high chair	애기의자
+high heels	하이힐
+high inflation	고물가
+high school	고등학교
+high school student	고등학생
+highway	고속도로
+hill	언덕
+hinder	저지하다
+hip	골반
+historical site	유적지
+hit	치다
+hockey	 하키
+hodge podge	잡동사니
+hold	잡다
+holiday	공휴일
+hometown	고향
+homework assignment	숙제
+honest	정직한
+honestly	정직하게
+honesty	정직
+honey	당신
+honeybunch	애인
+honeymoon	신혼 여행
+honor	존경하다
+hope	희망하다
+horrible	끔찍한
+horse	말
+horse racing	승마
+hospital bed	병원침대
+hospital gown	환자복
+hostess	안주인
+hot	더운
+hot chocolate	핫 초콜릿
+hot spring	온천
+hot tea	핫티
+hotel	호텔
+hourly	시간마다
+house	집
+how long	얼마나
+how many?	얼마나?
+how much?	얼만큼?
+how often?	얼마나자주?
+how?	어떻게?
+however	그러나
+howl	소리를 길게 뽑으며 짖다
+hug	포웅하다
+human population	인구통계
+humanitarian	인도주의
+humid	눅눅한
+humidity	습기
+humorous	유머스러운
+hungrily	굶주린 듯이
+hungry	배고픈
+hunt	사냥하다
+hurricane	허리케인
+hurry	서둘다
+hurry up	서둘다
+husband	남편
+hybrid car	하이브리드자동차
+hydroelectric power	수력
+hydrogen	수소
+hyena	하이에나
+hypnotist	최면술사
+hypocrite	위선자
+ice cream parlor	아이스크림가게
+ice pack	얼음주머니
+ice storm	서리
+iced tea	아이스티
+icy	얼음이언
+idiot	멍청이
+illuminate	조명하다
+imagination	상상
+imaginative	상상력이풍부한
+immature	미숙한
+immediately	즉시
+immigrate	이민가다
+immigration	입국심사
+immigration officer	이민국직원
+impeccable	완벽한
+impede	방해하다
+implant	이식하다
+impolite	버릇없는
+impose	부과하다
+impractical	실용적이지 않은
+in a while	잠시
+in addition	덧붙여서
+in case -	경우에
+in particular	특히
+in spite of -	임에도 불구하고
+in the future	미래에
+inauspicious	불길한
+incense	향
+incite	자극하다
+income	수입
+inconvenient	편리하지않은
+increase	증가하다
+incredibly	대단히
+indeed	정말
+independence	독립
+indicate	가리키다
+indigenous	원산의
+indigestion	소화불량
+indigo	남색
+indulgence	관대
+inexpensive	싼
+inexperienced	무경험의
+infection	감염
+inferior	열등한
+infinite	무한대
+inflate	물가가 오르다
+inflight movie	기내영화
+influence	영향을 끼치다
+injure	상처를 입다
+innocence	무죄
+innocently	순진하게
+inquire	문의하다
+insect	곤충
+insect bite	벌레물림
+insensitive	둔한
+inside	안
+inspiration	영감
+intelligent	똑똑한
+intercept	차단하다
+interception	가로챔
+interest	이자
+interest rate	이자율
+interesting	흥미있는
+interference	참견
+intern	인턴
+intern	실습생
+international flight	국제선
+interpret	통역하다
+interrupt	끼어들다
+interruption	중단
+intersection	 사거리
+intervene	개입하다
+interview	인터뷰
+intestines	내장
+intoxicate	취하게 하다
+introduce	소개하다
+introverted	내성적인
+inventor	발명가
+investigate	수사하다
+investment	투자
+invite	초대하다
+IRA	개인연금구좌
+iron	다리미
+ironing board	다리미 판
+irrational	불합리한
+island	섬
+isolation	고립
+itch	가려운
+jacket	잠바
+janitor	청소원
+January	일월
+Japan	일본
+Japanese person	일본사람
+jaw	턱
+jealous	질투하는
+jealousy	질투
+jeans	청바지
+jelly	잼
+jellyfish	해파리
+Jesus Christ	예수
+jewelry box	 보석상자
+job	직업
+job	일
+jockey	기수
+join	합치다
+joke	농담을하다
+journalist	언론인
+joust	마상 창시합대화
+joyfully	기쁘게
+joyously	유쾌하게
+judge	판사
+judge	재판하다
+judgmental	남을 판단하는
+July	칠월
+jump	높이뛰다
+jumpsuit	우주복
+June	유월
+jungle	밀림
+junior	삼학년
+Jupiter	목성
+jury	배심원
+jury room	배심원방
+just	그냥
+justice	정의
+justly	정당하게
+juvenile	청소년의
+kaput	폐허화된
+karaoke room	노래방
+keep	유지하다
+keep in touch with	계속 연락하다
+ketchup	케찹
+key	열쇠
+keyboard	키보드
+kidney	신장
+kidney bean	 강낭콩
+kill	죽이다
+killer	살인자
+kind	친절한
+kind of	종류
+kindly	친절하게
+king	왕
+king-size bed	킹사이즈침대
+kiss	키스하다
+kitchen	부엌
+kitchen cabinet	부엌찬장
+kitchen sink	부엌싱크
+kitchen table	식탁
+kitchen towel	부엌수건
+kitten	새끼고양이
+kiwi	키위
+knead	반죽하다
+knee	무릎
+knife	칼
+knight	기사
+knock	노크하다
+know	알다
+knuckle	손가락관절
+Korea	한국
+Korean language	한국어
+Korean person	한국사람
+labor	노동력
+Labor Day	노동절
+lack	결핍되다
+lake	호수
+lamp	전등
+lampshade	전등갖
+language	언어
+last	계속하다
+last	마지막
+last name	성
+last night	어젯밤
+later	나중
+laugh	웃다
+laundry	세탁물
+laundry basket	빨래 바구니
+laundry detergent	 세제
+lawn	잔디
+lawnmower	잔디 깎는 기계
+lawyer	변호사
+lazily	게으르게
+lazy	게으른
+lead	이끌다
+lean on	기대다
+learn	배우다
+leave	떠나다
+left lane	왼쪽 차선
+left side	왼쪽
+leg	다리
+lemur	여우원숭이
+lend	빌려주다
+leotard	에어로빅복
+less	덜
+lessen	작아지다
+lesson one	제일과
+let	하게하다
+letter	편지
+lettuce	양상추
+leveraged buyout	차입금에 의한 회사 매수
+liar	거짓말쟁이
+liberal	자유주의
+library	도서관
+lie	거짓말하다
+lie down	눕다
+life vest	구명조끼
+lift	올리다
+light	불을 붙이다
+light	가벼운
+light blue	하늘색
+light green	연두색
+lightening	번개
+like	같이
+like, be fond of	좋아하다
+lima bean	리마콩
+limerick	오행 속요
+lion	사자
+lip	입술
+liquor	술
+listen	듣다
+listen to music	음악을 듣다
+listen to the radio	라디오를 듣다
+listener	청취자
+literature	문학
+live	살다
+liver	간
+living room	거실
+loafers	단화
+lobster	바닷가제
+loiter	빈둥거리다
+long	긴
+long ago	오래전
+long johns	긴내의
+long sleeved shirt	 긴팔셔츠
+long time	긴시간
+look	보다
+loose	헐거운
+loosely	느슨하게
+lose	지다
+loss	실패
+loss	손실
+lotion	로션
+lotus position	연화좌
+loudly	시끄럽게
+love	사랑하다
+loveseat	 이인용 소파
+loving	사랑스러운
+low	낮은
+low inflation	저물가
+loyal	충성스러운
+luggage	짐가방
+lukewarm	미적지근한
+lunch	점심
+lung	폐
+madly	미치게
+magazine	잡지
+magic wand	마술지팡이
+magpie	까치
+maid	가정부
+maid of honor	신부 들러리
+major in	전공하다
+make	만들다
+make a copy	복사하다
+make a phone call	전화를 걸다
+make a plan	계획을 짜다
+make breakfast	아침을 만들다
+make dinner	저녁을 만들다
+make friends with	친구를 사귀다
+make lunch	점심을 만들다
+make the bed	잠자리을 정리하다
+mall	상가
+man	남자
+manage	다루다
+maneuver	책략을 쓰다
+mangle	난도질하다
+mango	망고
+manners	예절
+manslaughter	과실치사
+mantle	벽난로 선반
+manufacturer	제조업자
+many	많이
+map	지도
+marathon	마라톤
+March	삼월
+march	행진하다
+margarita	마가리타
+marines	해병대
+market leader	시장선도 상품
+market research	시장 조사
+market share	시장 점유율
+marketing	마케팅
+marketing manager	마케팅 매니저
+married	결혼한
+Mars	화성
+martial arts	무술
+marvelous	굉장한
+masculine	남성적인
+mashed potato	으깬감자
+mattress	메트리스
+mature	성숙한
+May	오월
+maybe	아마도
+mayonnaise	마요네즈
+meadow	초원
+meal	식사
+mean	못된
+measure	측정하다
+measuring spoon	계량스푼
+meat	고기
+medicine	약
+mediocre	평범한
+meditation	명상
+medium	무당
+meet	만나다
+melt	녹다
+memory	기억장치
+mend	수선하다
+mention	언급하다
+menu	식단
+Mercury	수성
+mercy	자비
+merit	공로
+merrily	즐겁게
+message board	게시판
+messenger	배달부
+messy	지저분한
+metal detector	금속탐지기
+microcassette recorder	소형녹음기
+microwave	전자렌지
+Middle Ages	중세
+middle school	중학교
+middle seat	중간 좌석
+middle, center	가운데
+milk	우유
+milk the cow	소젖을 짜다
+mineral water	생수
+mingle	교제하다
+miracle	기적
+mirror	거울
+misdemeanor	경범죄
+miser	구두쇠
+miserable	비참한
+mistrust	의심을 품다
+mittens	벙어리 장갑
+mix	섞다
+mixed vegetables	섞은야채
+mixing bowl	믹싱볼
+model	모델
+moderate	온건주의
+moderate	절제하다
+modern	현대의
+moisten	젖다
+mole	점
+Monday	월요일
+money	돈
+money market	금융시장
+monkey	원숭이
+monologue	독백극
+monster	괴물
+month	달
+monthly	매달
+monument	기념비
+moody	우울한
+moon	달
+moonstruck	발광한
+mop	대걸래
+more	더
+morning	오전
+mortally	치명적으로
+mortgage	모기지
+mosquito	모기
+most	제일
+mother	어머니
+mountain	산
+mountain climbing	등산
+mourn	조의를 표하다
+mouth	입
+move	움직이다
+move	이사하다
+movie	영화
+movie theater	극장
+moving	감동적인
+much, many	많이
+multiply	곱셈하다
+mummy	 미이라
+murder	살인
+murmur	중얼거리다
+muscle	근육
+museum	박물관
+mushroom	버섯
+music	음악
+music store	레코드가게
+musical	음악의
+must	해야만한다
+mustache	콧수염
+mustard	겨자
+mysteriously	 신비하게
+name	이름
+name	이름을 짓다
+napkin	냅킨
+narrow	좁은
+national park	국립공원
+natural disaster	자연재해
+natural gas	천연가스
+nauseous	메스꺼움
+navy	해군
+navy blue	짙은남색
+nearby	가까이
+nearly	간신히
+neat	정돈된
+neatly	깔끔하게
+neck	목
+need	필요하다
+neglect	소홀히 하다
+neighborhood	이웃
+nephew	남자 조카
+Neptune	해왕성
+nervous	긴장한
+nervously	초조하게
+never	전혀
+new	새로운
+New Year’s Day	신정
+newly	새로이
+news anchor	뉴스앵커
+newspaper	신문
+newsstand	신문가판대
+next year	내년
+next, following	다음
+nibble	조금씩 뜯어 먹다
+nice	잘하는
+niece	여자 조카
+night	밤
+nightgown	나이트가운
+nightshirt	나이트셔츠
+nightstand	침대용 스탠드
+nine	구,아홉
+nineteen	십구,열아홉
+ninety	구십,아흔
+nirvana	해탈
+no	아니요
+no fun	재미없는
+nobility	고결함
+nod	끄덕이다
+noise pollution	 소음공해
+noisily	시끄럽게
+noisy	시끄러운
+non-fiction	논픽션
+nonsense	 넌센스
+noodles	국수
+north	북쪽
+North Pole	북극
+Northern Hemisphere	북반구
+nose	코
+nostril	콧구멍
+not	아니다
+not all right	괜챦지않은
+not be	아니다,없다
+not busy	한가한
+not crowded	 한가로운
+not enough	불충분한
+not know	모르다
+not particularly	각별하지않은
+not sorry	미안하지 않은
+notebook	공책
+nourish	기르다
+novel	소설
+novelist	소설가
+November	십일월
+Novocain	마취제
+now	지금
+nuclear energy	핵에너지
+nurse	간호사
+nurse	간호하다
+nursing home	요양원
+obedience	복종
+obediently	유순하게
+obey	복종하다
+objection	이의신청
+obnoxious	불쾌한
+obnoxiously	매우 불쾌하게
+observe	관찰하다
+obstetrician	산부인과 의사
+obstruct	방해하다
+obtain	획득하다
+occasionally	종종
+ocean	바다
+October	시월
+octopus	문어
+of course	물론
+offer	제공하다
+office	사무실
+office building	회사건물
+office manager	사무실매니져
+office supply room	비품실
+office worker / salary man	회사원
+often, frequently	자주
+oil	석유
+ointment	연고
+old	오래된
+older brother	형님
+older sister	언니
+olive oil	올리브기름
+once in a while	가끔
+one	일, 하나
+one billion	십억
+one hundred	백
+one hundred million	일억
+one hundred thousand	십만
+one million	백만
+one thousand	천
+onion	양파
+only	단지
+onto the ground	땅에
+open	열다
+open	열린
+open-minded	편견없는
+opening statement	계정변론
+operate	수술하다
+opponent	적수
+opportunity	기회
+oppress	압박감을 주다
+optimistic	긍정적인
+optometrist	안과 의사
+or	혹은
+oral surgeon	구강외과 의사
+orange	오렌지
+orange	주황
+orange juice	오렌지쥬스
+ordinarily	보통
+ordinary	보통의
+organized	조직적인
+original	최초의
+orphan	고아
+ostrich	타조
+other side	다른쪽
+otherwise	만약 그렇지않으면
+out	밖에
+out of	다떨어진
+outgoing	사교적인
+outmaneuver	술책으로 이기다
+oval	타원
+oven	오븐
+over	이상
+overalls	멜빵바지
+overcoat	외투
+overhead	총경비
+overhead bin	기내 수화물칸
+overlook	내다 보다
+overpass	고가 도로
+overtime	초과근무
+overturn	뒤집다
+overwhelm	당황하게 하다
+owe	빚지다
+owl	올빼미
+ox	황소
+oxygen mask	산소 마스크
+oyster	굴
+ozone	오존
+Pacific Ocean	태평양
+pacifier	고무 젖꼭지
+pacify	진정시키다
+painful	고통스러운
+painfully	고통스럽게
+paint	그림그리다
+painter	페인트공
+painter	화가
+painting	그림
+pajamas	파자마
+palace	궁지
+pall bearer	관을 메는 사람
+palm reader	손금 보는 사람
+paltry	얼마안되는
+pan	납작한 냄비
+panic	공포에 질리다
+pant	헐떡거리다
+panties	팬티
+pants	바지
+pantyhose	팬티스타킹
+paper	종이
+paper bag	종이봉지
+paper cutter	종이절단기
+paper shredder	문서 세단기
+paper towel	종이타월
+paramedic	군의관
+parents	부모님
+park	공원
+parka	파카
+parking garage	차고
+parole	집행유예
+part-time job	파트타임일
+pass	지나가다
+pass away	돌아가시다
+pass by, spend days	보내다
+passerby	통행인
+passport	여권
+past life	과거
+patient	참을성
+patio	안뜰
+patriot	애국자
+pause	잠시멈추다
+pay	돈을내다
+peace	평화
+peace talks	평화회담
+peach	복숭아
+peacock	공작
+peanut butter	땅콩버터
+peanuts	땅콩
+pear	배
+peas	완두콩
+pedestrian	보행자
+pedestrian overpass	육교
+pediatrician	소아과 의사
+pencil sharpener	연필깍기
+penetrate	관통하다
+pepper	후추
+pepper shaker	후추통
+perceptive	지각력있는
+perfectly	완벽하게
+perform	연기하다
+performance	공연
+performance review	퍼포먼스 논평
+perish	죽다
+perseverance	인내
+persist	지속하다
+persuade	설득하다
+pessimistic	비관적인
+pet	귀염둥이
+pet shop	애완동물가게
+pharmacist	약사
+philanthropy	박애
+philosophy	철학
+phone system	자동교환기
+photograph	사진
+photographer	사진사
+physical therapy	물리치료
+pick	들다
+pick up my kids	애들을 데리러 가다
+pick up the pen	펜을 줍다
+pickles	피클
+picture	그림
+pierce	뚫다
+pig	돼지
+pigeon	비둘기
+pill	알약
+pillowcase	베갯잇
+pilot	비행기 조종사
+pineapple	파인애플
+pink	분홍색
+pitiful	불쌍한
+pity	동정을 느끼다
+pizza parlor	피자집
+place	장소
+place	배치하다
+plague	전염병
+plain	평범한
+plan	계획
+plan	계획하다
+planet	행성
+plant	화초
+plastic bag	비닐봉지
+plastic wrap	비닐랩
+plate, dish	접시
+play	연극
+play basketball	농구를 하다
+play the piano	피아노를 치다
+play, enjoy oneself, go out	놀다
+player, athlete	운동선수
+playground	놀이터
+playwright	극작가
+plead	변호하다
+please	제발
+pleased	좋아하는
+plentiful	풍부한
+plough	경작하다
+plum	자두
+plumber	배관공
+plunder	약탈하다
+plunge	떨어지다
+plunk	느닷없이 치다
+Pluto	명왕성
+podiatrist	발 전문의
+poet	시인
+poetry	시
+point	가리키다
+poisonous	유해한
+police officer	경찰관
+police station	경찰서
+polite	예의바른
+politely	공손히
+politeness	정중함
+political science	정치학
+pollution	공해
+pond	연못
+poor	가난한
+poorly	서툴게
+popcorn	팝콘
+popular	인기있는
+porch	현관
+pork	돼지고기
+pork chop	포크찹
+porter	수하물 운반인
+portfolio	유가증권
+portrait	초상화
+possess	가지다
+post office	우체국
+postage machine	우편요금별납인쇄기
+postal scale	우편저울
+pot	냄비
+potato	감자
+potato chips	감자칩
+potato salad	감자사라다
+potholder	냄비 집게
+pound	쿵쿵치다
+pour	붓다
+powerful	강한
+powerfully	강하게
+practical	실용적인
+practice	연습하다
+practice the guitar	기타를 연습하다
+pray	기도하다
+prayer	기도
+precede	앞서다
+predict	예언하다
+prediction	예언
+prescription	처방전
+present, gift	선물
+President of a country	대통령
+press	누르다
+pretend	척하다
+pretentious	뽐내는
+pretty	예쁜
+pretty	상당히
+pretzels	프렛젤
+prince	왕자
+princess	공주
+prison	감옥
+probably, perhaps	아마도
+probe	엄밀이 조사하다
+proclaim	공포하다
+produce	생산하다
+product	생산품
+professor	교수님
+profit	이득
+project	발사하다
+promise	약속하다
+promotion	진급
+promptly	즉시
+prop	버티다
+prophecy	예언
+prosecutor	검사
+prosper	번창하다
+prosperity	번영
+proud	자신만만한
+provoke	선동하다
+prudish	새치름한
+prune	말린자두
+prune	잘라내다
+psychiatrist	정신과 의사
+pull	당기다
+pull off	벗기다
+pumpkin	자기
+pumps	펌프스
+punctual	시간을 잘 지키는
+punctually	시간을 엄수하여
+punish	벌을주다
+puppy	강아지
+purgatory	연옥
+purple	보라색
+pursue	추적하다
+put	놓다
+put down	내려놓다
+put on makeup	화장하다
+put on, wear	입다
+putter	퍼터
+red wine	적포도주
+red-pepper paste	고추장
+red-pepper powder	고추가루
+redouble	강화하다
+refill	다시채우다
+refresh	상쾌하게하다
+refrigerator	냉장고
+refuse	거절하다
+refute	반박하다
+regards	관심
+regret	후회
+regularly	정규적으로
+reject	거절하다
+rejoice	기뻐하다
+relationship	사이
+relaxed	편안한
+reliable	믿음직한
+reluctantly	마지못해
+remain	남다
+remark	주목하다
+remember	기억하다
+remind	생각나게하다
+remove	다시 옮기다
+renew	갱신하다
+repair	수선하다
+repairman	수리공
+repay	갚다
+repeal	무효로 하다
+repeat	반복하다
+repeatedly	반복해서
+replace	제자리에 놓다
+report	보고하다
+reproach	책망하다
+resemble	닮다
+reservation	예약
+resist	저항하다
+resolution	결심
+respect	존경
+rest	쉬다
+restaurant	식당
+restore	반환하다
+restrain	다시 잡아 당기다
+retired	은퇴
+retreat	후퇴
+retrieve	되찾다
+return	돌아가다
+revenge	복수
+revenue	수입
+revere	전환하다
+revisit	재방문하다
+revive	재상연 하다
+ribs	갈비
+rice field	논
+rich	부자인
+ridiculous	터무니 없는
+right lane	오른쪽 차선
+right side	오른쪽
+rightfully	적합하게
+rinky-dink	하찮은
+rinse cycle	헹굼 주기
+rise	떠오르다
+ritzy	고급스러운
+rival	경쟁자
+river	강
+road	길
+roar	으르렁거리다
+roast	구이용고기
+robbery	강도질
+robin	로빈
+roll	롤빵
+roll	구르다
+roof	지붕
+roofer	지붕잇는사람
+room	방
+room number	방번호
+room service	룸서비스
+rooster	수닭
+rough	거친
+roughly	거칠게
+rout	참패
+route	루트를 정하다
+rub	문지르다
+rubbers	고무신
+rudely	무례하게
+rug	깔개
+rugby	럭비
+rule	통치하다
+ruler	자
+run	달리다
+running shorts	운동용반바지
+runway	활주로
+rush	서두르다
+Russia	러시아
+Russian person	러시아사람
+ruthless	무정한
+sacrifice	희생
+sad	슬픈
+sadly	슬프게
+safe	안전한
+safely	안전하게
+Sahara Desert	사하라사막
+sail	항해하다
+salad	사라다
+salad bowl	샐러드 그릇
+salad dressing	샐러드소스
+salad fork	사라다포크
+sales	판매
+sales figures	판매량
+sales force	판매그룹
+sales forecast	판매예측
+sales representative	외판원
+sales tax	판매세
+salesman	판매원
+salmon	연어
+salt	소금
+salt shaker	소금통
+salty	짠
+same	같은
+sand	모래
+sandals	샌달
+sandy	모래의
+sarcastic	풍자적인
+satellite dish	위성방송수신기
+satisfactory	만족스러운
+satisfy	만족하다
+Saturday	토요일
+Saturn	토성
+saucepan	스튜용 냄비
+sausage	소시지
+save	모으다
+say	말하다
+scarce	드문
+scare	깜짝놀라게하다
+scared	무서운
+scarf	스카프
+scatter	뿔뿔이 흩어지다
+school	학교
+school cafeteria	학교식당
+school crossing	학교앞 건널목
+school vacation	방학
+scientist	과학자
+scorch	그슬리다
+scorn	경멸하다
+scotch	스카치
+scrape	찰과상
+scrape	찰과상을 입다
+scratch	긁힌상처
+scratch	할퀴다
+scrub brush	수세미
+sea	바다
+sea animal	바다동물
+sea otter	해달
+seafood	해물
+seafood salad	해물사라다
+seagull	갈매기
+seamstress	여자제봉사
+search	찾다
+seashore	해변
+seasons	계절
+seat belt	안전밸트
+seat pocket	좌석주머니
+secretary	비서
+security	보안
+security guard	보안검색원
+see, look at	보다
+seek	찾다
+segregation	분리
+seize	꽉 쥐다
+seldom	좀처럼
+select	고르다
+self-confident	자신있는
+self-control	자제심
+self-esteem	자신감
+self-portrait	자화상
+selfishly	이기적으로
+sell	팔다
+semester	학기
+senate	상원
+senator	상원의원
+send	보내다
+send a letter	편지를 부치다
+senior	사학년
+sensible	분별있는
+sensitive	민감한
+separate	분리하다
+September	구월
+seriously	심각하게
+serve	시중들다
+sesame oil	참기름
+set	놓다
+seven	칠,일곱
+seventeen	십칠,열일곱
+seventy	칠십,일흔
+severe	엄격한
+sew	바느질하다
+sex maniac	색광
+sexy	야한
+shade	그늘지게 하다
+shake	흔들다
+shakily	떨며
+shallow	얕은
+shampoo	샴푸
+shamrock	토끼풀
+shape	형체로 만들다
+shark	상어
+sharp	예리한
+sharply	날카롭게
+shave	면도하다
+shear	큰가위로 베다
+sheep	양
+sheet	침대보
+shellfish	조개
+shield	방패로 막다
+shine	빛나다
+shiny	빛나는
+shocked	충격을 받은
+shoe store	신발가게
+shop keeper	점원
+shopping cart	쇼핑카트
+short	키가 작은
+short	짧은
+short pants	반 바지
+short sleeved shirt	반팔셔츠
+short story	단편소설
+shortness of breath	숨이 참
+shot	주사
+shoulder	어깨
+shout	소리지르다
+show	보여주다
+shower	샤워기
+shriek	날카로운 목소리로 말하다
+shrilly	날카로운 목소리로
+shrimp	새우
+shrine	성당
+shy	수줍은
+shyly	수줍게
+sick	아픈
+side	옆
+side dishes	반찬
+sidewalk	보도
+silently	조용히
+silly	바보스러운
+silver	은색
+similar to	비슷하게
+sing	노래하다
+singer	가수
+single	독신의
+sink	계수대
+sink	가라앉다
+sip	조금씩 마시다
+sissy	여자같은 남자
+sister	자매
+sit down	앉다
+six	육,여섯
+sixteen	십육,열여섯
+sixty	육십,예순
+ski boots	스키부츠
+ski hat	스키모자
+ski jacket	스키 재킷
+ski mask	스키마스크
+skin	피부
+skinny	마른
+skirt	치마
+slaughter	학살하다
+sleep	자다
+sleepily	졸리는 듯이
+sleeping bag	침낭
+sleepy	졸린
+sleet	진눈깨비
+slicker	우비
+slide projector	영사기
+slightly	약간
+sling	삼각끈
+slip	미끄러지다
+slippers	슬리퍼
+slippery when wet	비올때 미끄러움
+slob	지저분한 사람
+slop the hog	돼지에게 먹이를 주다
+sloppily	적당히 얼버무려
+slow	느린
+slow down	천천히가다
+slowly	천천히
+sluggish	느린
+small	작은
+small bills	잔돈
+smart	영리한
+smartly	멋지게
+smash	때려부수다
+smear	더럽히다
+smell	냄새맡다
+smile	웃다
+smoke	담배피다
+smokestack	굴뚝
+smooth	부드러운
+smoothly	유창하게
+snack	간식
+snake	뱀
+snatch	잡아채다
+sneakers	운동화
+sneeze	재채기
+sneeze	재채기하다
+snore	코를 골다
+snow	눈
+snowstorm	눈보라
+so	그래서
+soap	비누
+sober	맑은정신의
+soccer	축구
+soccer shoes	축구화
+sociology	사회학
+socks	양말
+soft	부드러운
+soften	부드럽게 하다
+softly	부드럽게
+solar energy	태양에너지
+solemnly	엄숙하게
+soliloquy	독백
+sometimes	가끔
+somewhat	약간
+somewhere	어딘가에
+son	아들
+song	노래
+songwriter	작사가
+soon	곧
+sophomore	이학년
+sorcery	요술
+sore throat	인후염
+sorry	미안한
+sound	소리가나다
+soup	국
+soup bowl	국그릇
+sour	신
+south	남쪽
+South Pole	남극
+Southern Hemisphere	남반구
+sow	씨를 뿌리다
+space alien	외계인
+spaceship	우주선
+Spain	스페인
+Spanish person	스페인사람
+spare	살려주다
+spatula	뒤집개
+speak	말하다
+speakers	스피커
+special forces	특수부대
+specter	유령
+speed limit	속도제한
+speedily	신속히
+speeding ticket	속도위반티켓
+spend	보내다
+spend money	돈을쓰다
+spend time	지내다
+spicy	매운
+spider	거미
+spin cycle	탈수 주기
+spinach	시금치
+spinal column	척추
+spirit world	영적 세계
+spit	침을 뱉다
+split	찢다
+sponge	스폰지
+sponge	해면
+spontaneous	자발적인
+spoon	숟가락
+sport shirt	스포츠 셔츠
+sports	운동
+sportsmanship	스포츠맨정신
+sprain	삔
+spread	퍼뜨리다
+spreadsheet	메트릭스 정산표
+spring	봄
+sprinkle	살짝 적시다
+sprout	싹트다
+square	정사각형
+squash	호박
+squeeze	짜내다
+squid	오징어
+stagger	갈짓자 걸음으로 걷다
+stain	얼룩지게하다
+stale	싱싱하지 못한
+stamp	우표
+stand	서다
+star	별
+starfish	불가사리
+start	시작하다
+state	주
+state tax	주세
+stay	머물다
+steal	훔치다
+steep	가파른
+steer	조종하다
+step	한발짝 내딛다
+stereo system	전축
+sternly	엄격하게
+stew	스튜
+stiff neck	뻐근한목
+still	여전히
+stingy	인색한
+stitches	봉합
+stock clerk	창고담당인
+stocks	주식
+stomach	배
+stomach ache	복통
+stop	멈추다
+stop sign	멈춤 신호
+storage room	창고
+store	가게
+storm	습격하다
+stout	단호한
+stove	난로
+straight	곶은
+straight	곧장
+straight away	곧장
+strain	잡아당기다
+strange	이상한
+strategy	전략
+strawberry	딸기
+stream	시냇물
+street	길
+street number	번지수
+street sign	도로표시판
+stretch	잡아 늘리다
+strike	치다
+strip	벗기다
+strive	노력하다
+stroller	유모차
+strong	힘센
+strong economy	호황
+strongly	강하게
+student	학생
+student lounge	휴게실
+study	공부하다
+stuff	채워 넣다
+stun	어리벙벙하게 하다
+stupid	어리석은
+subdue	정복하다
+submerge	물에 잠기다
+submit	제출하다
+substitute	대리를 시키다
+subway	지하철
+success	성공
+successfully	성공적으로
+such, so	그와같이
+suck	빨다
+suddenly	갑작스럽게
+suffrage	투표권
+sugar	설탕
+sugar bowl	설탕용기
+suggest	제의하다
+suit	양복
+suitcase	여행용가방
+summer	여름
+summon	소환하다
+sun	태양
+sunburn	햇빛에 의한 화상
+Sunday	일요일
+sunny	화창한
+suntan lotion	썬텐로션
+superior	우수한
+superstition	미신
+supervisor	감독자
+supply	공급하다
+supply line	공급선
+support	지지
+support	지지하다
+suppress	억압하다
+supreme court	대법원
+surely	확실히
+surgeon	외과 의사
+surmount	타고 넘다
+surpass	보다 낫다
+surprised	놀라운
+surrender	항복하다
+surround	둘러싸다
+survive	살아남다
+suspect	용의자
+suspect	의심쩍게 여기다
+suspiciously	의심스럽게
+swallow	삼키다
+swear	맹세하다
+sweat	땀흘리다
+sweatband	머리띠
+sweater	스웨터
+sweatshirt	스웨트셔츠
+sweep the floor	바닥을 쓸다
+sweet	달콤한
+sweet potato	고구마
+sweetheart	애인
+sweetie	자기
+swell	부풀다
+swiftly	신속히
+swim	수영하다
+swimmer	수영선수
+swimming pool	수영장
+swimsuit	수영복
+Swiss cheese	스위스치즈
+swollen	부운
+swordfish	황새치
+symbolism	상징주의
+sympathy	동정
+symphony	교향곡
+symptom	증상
+T-shirt	티셔츠
+table	탁자
+table cloth	테이블보
+table spoon	테이블숟가락
+tablet	알약
+tail	꼬리 날개
+tailor	재단사
+taint	오염되다
+take	가지다
+take a bath	목욕을 하다
+take a course	수업을 듣다
+take a photograph	사진을 찍다
+take a shower	샤워하다
+take an exam	시험을 치다
+talisman	부적
+talk	얘기하다
+talk with	같이 말하다
+talkative	수다스러운
+tall	키큰
+tame	길들이다
+tan	탠
+tangerine	귤
+tank	탱크
+tank top	탱크톱
+tarot card	점 치는 카드
+taste	맛보다
+taste bad	맛없는
+taste cold	맛이찬
+taste hot	맛이뜨거운
+tavern	선술집
+tax	세금
+tax code	세법
+taxi	택시
+taxi driver	택시 운전사
+taxi fare	택시요금
+taxi meter	택시미터
+taxi stand	택시 정류장
+tea pot	차주전자
+tea set	차셋트
+teach	가르치다
+teacher	선생님
+team	팀
+teamwork	협동심
+tear	찢다
+teaspoon	티스푼
+teddy bear	테디곰인형
+tedious	지루한
+tee	티
+teenager	십대소년
+teeth whitener	치아 미백제
+telephone	전화기
+telephone number	전화번호
+television	텔레비젼
+television station	텔레비젼방송국
+tell	말하다
+temperance	절제
+temple	절
+ten	십,열
+ten million	천만
+ten thousand	만
+ten thousand won	만원
+tender	부드러운
+tenderly	상냥하게
+tennis	테니스
+tennis shoes	운동화
+tennis shorts	테니스바지
+tense	경직된
+tensely	긴장하여 부자연스럽게
+terribly	몹시
+test	시험
+thank you	감사합니다
+thankful	감사한
+Thanksgiving	추석
+that	저것
+that kind of	저런종류
+the day after tomorrow	모레
+the end	끝
+theft	절도
+then	그런
+there	저기
+therefore	그러므로
+these	이것들
+these days	요즘
+thick	두꺼운
+thigh	허벅지
+thin	얇은
+thing	물건
+think	생각하다
+thirsty	목마른
+thirteen	십삼,열셋
+thirty	삼십,서른
+this	이것
+this afternoon	오늘오후
+this evening	오늘저녁
+this kind of	이런종류
+this morning	오늘아침
+this much, this only	이만큼만
+this time	이번에
+thongs	쪼리
+those	저것들
+thoughtful	사려깊은
+thoughtfully	생각깊게
+threaten	위협하다
+three	삼,셋
+three days ago	그©M제
+three hours ago	세시간전
+three minutes ago	삼분전
+three months ago	석달전
+three weeks ago	삼주일전
+three years ago	삼년전
+thrift	절약
+thrive	번성하다
+throat	목구멍
+throat lozenges	목캔디
+through --	을지나서
+throw	던지다
+thunder	천둥
+Thursday	목요일
+ticket agent	발매인
+ticket counter	발권창구
+tie	묶다
+tiger	호랑이
+tight	꽉낀
+tightly	팽팽하게
+tights	타이즈
+time	시간
+tired	피곤한
+tiring	피곤하게하는
+to begin with	우선
+to start with	우선
+toaster	토스터기
+today	오늘
+toe	발가락
+toenail	발톱
+together	같이
+toilet	변기통
+tolerance	관용
+tollbooth	통행료징수소
+tomorrow	내일
+tomorrow afternoon	내일오후
+tomorrow evening	내일저녁
+tomorrow morning	내일아침
+tomorrow night	내일밤
+tongue	혀
+tonight	오늘밤
+too much	너무많이
+tool shed	연장창고
+tooth	이빨
+toothache	치통
+toothbrush	치솔
+toothpaste	치약
+toothsome	맛이좋은
+tornado	토네이도
+torture	고문하다
+total	전부
+touch	만지다
+tough	거친
+towel	수건
+toxic waste	독성폐기물
+toy store	장난감가게
+Track and field	육상경기
+tractor	트렉터
+traffic	교통
+traffic court	교통재판소
+traffic school	교통학교
+train	기차
+train	훈련하다
+train station	기차역
+trample	짓밟다
+translate	번역하다
+translator	통역사
+transport	수송하다
+trash bag	쓰레기봉지
+traumatic	정신적 충격
+travel	여행하다
+travel agency	여행사
+travel, trip	여행
+tray	쟁반
+tray table	트레이드 테이블
+treacherous	기대에 어긋나는
+tremble	벌벌떨다
+trenchcoat	트렌치 코트
+triangle	삼각형
+triumph	승리
+triumph	개가를 올리다
+troll	트롤
+troops	부대
+trout	송어
+truck driver	트럭운전사
+truly	진실로
+truthfully	정직하게
+try	시도하다
+tub	욕조
+Tuesday	화요일
+tuna fish sandwich	참치샌드위치
+tunnel	터널
+turkey	칠면조
+turn	돌다
+turn down the volume	소리를 줄이다
+turn in, hand in	내다
+turn up the volume	소리를크게하다
+turnip	무
+turtledove	연인
+tuxedo	턱시도
+twelve	십이,열둘
+twenty	이십,스물
+twin bed	이인용침대
+twist	비틀어 돌리다
+twisted ankle	뒤틀린발목
+two	이, 둘
+two days ago	그제
+two hours ago	두시간전
+two minutes ago	이분전
+two months ago	두달전
+two weeks ago	이주일전
+two years ago	이년전
+type	타이프를 치다
+typist	타이피스트
+ugly	못생긴
+umbrella	우산
+unambitious	야심이없는
+uncle	삼촌
+uncomfortable	불편한
+uncouth	버릇없는
+underpass	지하도
+understand	이해하다
+undertaker	장의사
+underwear	속옷
+undress	벗다
+unemployed	실업자
+unexpectedly	예상밖으로
+unfold	펼치다
+unfriendly	불친절한
+ungrateful	배은망덕한
+unhealthy	병약한
+uniform	유니폼
+union	조합
+unite	통합하다
+unity	통일
+university	종합대학교
+unkempt	깔끔하지못한
+unkind	불친절한
+unpopular	인기없는
+unreliable	믿을수없는
+unselfish	헌신적인
+unwilling	마지못한, 마지못해 하는
+up side, top side, above	위
+up to	까지
+upbeat	낙관적인
+upper arm	팔뚝
+upset	뒤엎다
+Uranus	천왕성
+use	사용하다
+user friendly	시스템이 사용하기 쉬운
+usually	보통
+vacuum	청소기를 돌리다
+vain	헛된
+Valentine’s Day	발렌타인데이
+valley	계곡
+values	가치
+vampire	흡혈귀
+vanity	허영심
+variety	다양성
+VCR	비디오
+vein	정맥
+Venus	금성
+verdict	배심원 판정
+versatile	다용도의
+very	매우
+very little	굉장히 적게
+very much	굉장히 많이
+vest	조끼
+veterinarian	수의사
+victory	승리
+video shop	비디오 가게
+violence	폭력
+violent	폭력적인
+violently	폭력적으로
+violet	보라
+virus	바이러스
+visa	비자
+visit	방문하다
+vocabulary word	단어
+voice	목소리
+volunteer	지원자
+voodoo	부두교
+vow	맹세하다
+vulture	대머리수리
+wage	전쟁을 하다
+wail	울부짖다
+waist	허리
+wait	기다리다
+waiter	웨이터
+waiting area	대기실
+waitress	웨이트레스
+waken	잠이 깨다
+walk	걷다
+wall	벽
+wallet	지갑
+war	전쟁
+warm	따뜻한
+warmly	따뜻하게
+warn	경고하다
+wart	사마귀
+wash	씻다
+wash face	세수하다
+wash the dishes	설걷이를 하다
+washing machine	세탁기
+wasp	말벌
+wastebasket	쓰레기통
+watch	손목시계
+watch	보다
+watch TV	티비를 보다
+water	물
+water	물을 주다
+water bed	물침대
+water pollution	수질오염
+waterfall	폭포
+watermelon	수박
+wave	손을 흔들다
+waves	파도
+weak	약한
+weak economy	불황
+weakly	가냘프게
+wear a hat	모자를 쓰다
+wear glasses, gloves	안경,장갑을 끼다
+wear, put on clothes	옷을 입다
+wearily	지쳐서
+weather	날씨
+wedding	결혼식
+wedding ceremony	결혼식
+wedding reception	결혼 피로연
+wedding ring	결혼 반지
+Wednesday	수요일
+weekend	주말
+weep	울다
+weigh	무게를 재다
+welder	용접공
+well	건강한
+werewolf	늑대인간
+west	서쪽
+wet	젖은
+wet towel	물수건
+whale	고래
+what kind of?	무슨?
+what?	뭐?
+what’s up?	어떻게 지내니?
+wheat bread	밀 식빵
+wheelchair	휠체어
+wheeze	쌕쌕거리는소리
+when?	언제?
+where?	어디?
+whereas	반면
+which?	어느?
+while, during	동안
+whip	채찍질하다
+whirl	빙빙 돌리다
+white	흰색
+white bread	흰식빵
+white collar crime	공무원이나 회사원의 부정행위
+white socks	흰양말
+white wine	백포도주
+who?	누구?
+why?	왜?
+wicked	심술궂은
+wide	넓은
+widow	미망인
+width	넓이
+wife	아내
+wild	야생의
+wildly	거칠게
+willing	자발적인
+win	승리
+win	이기다
+wind	바람
+wind	풍력
+window	창문
+window cleaner	창문 닦는 것
+window seat	창문쪽 좌석
+windy	바람이 부는
+wine	포도주
+wine glass	포도주잔
+wing	날개
+winter	겨울
+wipe	닦아 내다
+wisdom	현명
+wisdom tooth	사랑니
+wish	희망하다
+witch	마녀
+withdraw	인출하다
+without any special reason	아무런 이유없이
+witness	증인
+witty	재치있는
+wizard	마법사
+woman	여자
+wonder	이상하게 여기다
+woodpecker	딱따구리
+word	말
+work	일하다
+worried	걱정스러운
+worship	예배보다
+wound	상처내다
+wounded	부상
+wrench	비틀어 돌리다
+wrestling	레슬링
+wrist	손목
+write	쓰다
+writer	작가
+X-ray	엑스레이 촬영
+x-ray machine	엑스레이기
+yacht	요트
+yawn	하품하다
+yearly	매년
+yellow	노랑
+yes	네
+yesterday	어제
+yesterday afternoon	어제오후
+yesterday evening	어제저녁
+yesterday morning 	어제아침
+yield	양보하다
+yield sign	양보표지
+younger brother	남동생
+younger sister	여동생
+zebra	기린
+zest	묘미
+zip code	우편번호
+zombie	잠비
+zoo	동물원
+조금	a little
+많이	a lot
+일분전	a minute ago
+한달전	a month ago
+일주일전	a week ago
+일년전	a year ago
+단념하다	abandon
+정도에서 벗어난	aberrant
+능력	ability
+대하여	about
+학대하다, 남용하다	abuse
+욕설을 퍼붓는	abusive
+지독히 나쁜	abysmal
+과목	academic subjects
+수락	acceptance
+사고로	accidentally
+함께가다	accompany
+회계사	accountant
+축적하다	accumulate
+고발하다	accuse
+익숙해지다	accustom
+이루다	achieve
+산성비	acid rain
+획득하다	acquire
+석방	acquittal
+행동하다	act
+배우	actor
+침술	acupuncture
+결후	adam’s apple
+더하다	add
+말을걸다	address
+주소	address
+행정보조원	administrative assistant
+동경하다	admire
+인정하다	admit
+받아들이다	adopt
+꾸미다	adorn
+어른	adult
+전진시키다	advance
+잇점	advantage
+광고주	advertiser
+두려운	afraid
+후	after
+일분후	after a minute
+한달후	after a month
+일주일후	after a week
+일년후	after a year
+이분후	after two minutes
+두달후	after two months
+이주일후	after two weeks
+이년후	after two years
+오후	afternoon
+나중에	afterwards
+다시	again
+나이	age
+전	ago
+동의하다	agree
+농업	agriculture
+공군	air force
+공기오염	air pollution
+위생봉투	air sickness bag
+공항터미널	air terminal
+항공모함	aircraft carrier
+비행기	airplane
+공항	airport
+통로	aisle
+통로쪽 좌석	aisle seat
+자명종시계	alarm clock
+전부	all
+괜찮은	all right
+최선을다해	all the best
+다 같이	all together
+제비뽑기로 분배하다	allot
+허락하다	allow
+거의	almost
+혼자	alone
+이미	already
+역시	also, too
+그럴지라도	although
+은박지	aluminum foil
+항상	always
+항상늦은	always late
+굉장히	amazingly
+아마존강	Amazon River
+모호한	ambiguous
+야망	ambition
+야심찬	ambitious
+미국	America
+미국사람	American person
+부적	amulet
+한시간전	an hour ago
+고대의	ancient
+그리고	and
+천사	angel
+노하여	angrily
+화난	angry
+반체제 젊은이	angry young man
+만화를 그리다	animate
+발목	ankle
+알리다	announce
+귀찮은	annoyed
+매년	annually
+머리에 기름을 부어 신성케하다	anoint
+자동 응답기	answering machine
+개미	ant
+재산정	antacid tablets
+남극대륙	Antarctica
+인류학	anthropology
+항생제	antibiotic
+예상하다	anticipate
+근심하여	anxiously
+어쨋든	anyway
+아파트	apartment
+호수	apartment number
+냉담한	apathetic
+나타나다	appear
+사과	apple
+가전제품가게	appliance store
+신청하다	apply
+임명하다	appoint
+약속	appointment
+입증하다	approve
+대략	approximately
+살구	apricot
+사월	April
+적성	aptitude
+건축가	architect
+건축학	architecture
+팔	arm
+팔걸이	arm rest
+무장하다	arm v.
+안락의자	armchair
+겨드랑이	armpit
+육군	army
+대충	around
+배치하다	arrange
+체포	arrest
+도착탑승구	arrival gate
+도착시간	arrival time
+도착하다	arrive
+방화	arson
+예술	art
+미술전시회	art exhibit
+미술역사	art history
+동맥	artery
+인공의	artificial
+예술가	artist
+예술적인	artistic
+처럼	as
+일찍	as early as
+곧	as soon as
+알다시피	as you know
+부끄러운	ashamed
+묻다	ask
+아스피린	aspirin
+급습하다	assault
+조립하다	assemble
+조립공	assembler
+조립 라인	assembly line
+할당하다	assess
+할당하다	assign
+천문학자	astronomer
+집에서	at home
+적어도	at least
+거의	at most
+운동양말	athletic socks
+운동선수	athletics
+대서양	Atlantic Ocean
+붙히다	attach
+공격하다	attack
+변호사	attorney
+매력	attraction
+팔월	August
+이모	aunt
+정비사	auto mechanic
+자동차정비소	auto repair shop
+자동 조작	automation
+복수를 하다	avenge
+피하다	avert
+상을주다	award
+어색한	awkward
+자기	baby
+분유	baby formula
+아기분	baby powder
+미혼 남자	bachelor
+뒤	back
+등	back
+뒷문	back door
+허리통증	backache
+책가방	backpack
+백업카피	backup copy
+베이컨	bacon
+나쁜	bad
+몹시	badly
+수하물찾는곳	baggage claim
+보석금	bail
+보석금 보증인	bail bondsman
+굽다	bake
+구운닭	baked chicken
+구운감자	baked potato
+제빵사	baker
+제과점	bakery
+바나나	banana
+일회용밴드	band aid
+붕대	bandage
+은행	bank
+은행원	banker
+아일랜드 여자요정	banshee
+술집	bar
+바베큐	barbeque
+이발사	barber
+이발소	barber shop
+헛간	barn
+야구	baseball
+야구모자	baseball cap
+박쥐	bat
+목욕수건	bath towel
+목욕가운	bathrobe
+화장실	bathroom
+만	bay
+이다,있다	be
+막히다	be blocked, congested
+태어나다	be born
+실례하다	be excused
+늦다	be late
+부재중이다	be out, be away
+보이다	be seen
+눈에보이다	be visible
+해변	beach
+비치볼	beach ball
+파라솔	beach umbrella
+곰	bear
+턱수염	beard
+때리다	beat
+아름다운	beautiful
+미장원	beauty shop
+때문에	because of
+되다	become
+침대	bed
+베개	bed pillow
+침실	bedroom
+벌	bee
+소고기	beef
+맥주	beer
+전	before
+구걸하다	beg
+시작하다	begin
+믿다	believe
+피망	bell pepper
+아래,밑	below
+허리띠	belt
+구부리다	bend
+선행	benevolence
+베레모	beret
+옆	beside, next to
+게다가 또	besides
+포위공격 하다	besiege
+신랑 들러리	best man
+배반하다	betray
+음료수	beverage
+조심하다	beware
+자전거	bicycle
+큰	big
+묶다	bind
+생물학	biology
+새	bird
+생일	birthday
+떫은	bitter
+검정색	black
+검정콩	black bean
+검정양말	black socks
+방광	bladder
+비난하다	blame
+밋밋한	bland
+이불	blanket
+감언	blarney
+블래이져	blazer
+표백제	bleach
+믹서기	blender
+신성케 하다	bless
+은혜	blessing
+맹목적으로	blindly
+블라인드	blinds
+부운	bloated
+막다	block
+출혈	blood
+혈액검사	blood work
+코피	bloody nose
+꽃이 피다	bloom
+블라우스	blouse
+불다	blow
+파랑	blue
+큰어치	blue jay
+탑승권	boarding pass
+자랑하다	boast
+허풍떠는	boastful
+허풍스럽게	boastfully
+배	boat
+보리수	bodi tree
+몸	body
+가짜의	bogus
+끓다	boil
+대담하게	boldly
+가죽 점퍼	bomber jacket
+보석금	bonds
+보너스	bonus
+책	book
+회계원	bookkeeper
+책꽃이	bookshelf
+책방	bookstore
+부츠	boots
+지루한	bored
+권태	boredom
+빌리다	borrow
+사장	boss
+젖병	bottle
+병따개	bottle opener
+나비 넥타이	bow tie
+그릇	bowl
+상자	box
+박스스프링	box spring
+사각팬티	boxer shorts
+불매운동	boycott
+남자친구	boyfriend
+브라자	bra
+머리를 땋다	braid
+뇌	brain
+칼, 창을 휘두르다	brandish
+용감한	brave
+용감하게	bravely
+용감	bravery
+부수다	break
+아침밥	breakfast
+가슴	breast
+숨쉬다	breathe
+벽돌공	brick layer
+신부	bride
+신부의 부케	bride’s bouquet
+다리	bridge
+간결한	brief
+간결히	briefly
+밝은	bright
+밝게	brightly
+훌륭한	brilliant
+가지고오다	bring
+영국사람	British person
+방송하다	broadcast
+칼날이 넓은 칼	broadsword
+아일랜드 사투리	brogue
+부서진	broken
+빗자루	broom
+형	brother
+갈색	brown
+멍	bruise
+멍들게 하다	bruise
+빗다	brush
+이를닦다	brush teeth
+브뤼셀 순	Brussels sprouts
+물통	bucket
+부처	Buddha
+부처님탄생일	Buddha’s Birthday
+때려눕히다	buffet
+세우다	build
+건물	building
+총알	bullet
+이층침대	bunk bed
+부담을 주다	burden
+도둑질	burglary
+타다	burn
+화상	burn
+폭발하다	burst
+매장하다	bury
+버스운전사	bus driver
+버스승차권	bus pass
+버스 정류장	bus stop
+바쁘게	busily
+사업	business
+비즈니스석	business class
+바쁜	busy
+정육점주인	butcher
+엉덩이	butt
+버터나이프	butter knife
+나비	butterfly
+사다	buy
+양배추	cabbage
+객실	cabin
+종아리	calf
+부르다	call
+호출버튼	call button
+침착하다	calm
+침착한	calm
+침착하게	calmly
+교정	campus
+깡통따개	can opener
+양초	candle
+촛대	candlestick
+사탕	candy
+못	cannot
+캔드롭	cantaloupe
+협곡	canyon
+의치	cap
+유능한	capable
+수도	capital
+사형	capital punishment
+캡슐	capsule
+자동차	car
+자동차딜러	car dealer
+심장 전문의	cardiologist
+돌보다	care
+신중한	careful
+조심스럽게	carefully
+부주의한	careless
+부주의하게	carelessly
+화물칸	cargo hold
+목수	carpenter
+당근	carrot
+운반하다	carry
+기내휴대 수화물	carry on luggage
+조각하다	carve
+계산원	cashier
+관	casket
+깁스붕대	cast
+부상자	casualty
+고양이	cat
+고양이먹이	cat food
+잡다	catch
+원인이되다	cause
+신랄한	caustic
+조심성있게	cautiously
+충치	cavity
+씨디플레이어	CD player
+휴전	cease fire
+천장	ceiling
+묘지	cemetery
+중앙선	center lane
+시리얼	cereal
+의자	chair
+분필	chalk
+칠판	chalkboard
+도전하다	challenge
+거스름 돈	change
+바꾸다	change
+기저귀가는 테이블	changing table
+주술	chanting
+매력이 있다	charm
+속이다	cheat
+사기꾼	cheater
+탑승수속	check in
+건강 진단	check up
+계산서	check, bill
+볼	cheek
+기운찬	cheerful
+쾌활하게	cheerfully
+치즈	cheese
+치즈강판	cheese grater
+요리사	chef
+고이 간직하다	cherish
+체리	cherry
+가슴	chest
+서랍장	chest of drawers
+흉부통	chest pain
+껌	chewing gum
+속임수	chicanery
+닭고기	chicken
+닭날개	chicken wing
+아이	child
+유치한	childish
+자녀	children
+어린이날	Children’s Day
+굴뚝	chimney
+턱	chin
+중국	China
+중국사람	Chinese person
+초콜릿	chocolate bar
+초코우유	chocolate milk
+선택	choice
+질식시키다	choke
+고르다	choose
+젖가락	chopsticks
+합창	chorus
+크리스마스	Christmas
+교회	church
+담배	cigarette
+원	circle
+시민권	citizenship
+도시	city
+시청	city hall
+국민	civilian
+청구하다	claim
+투시력	clairvoyant
+대합	clam
+은밀한	clandestine
+박수치다	clap
+수업	class
+클래식음악	classical music
+교실	classroom
+깨끗하다	clean
+깨끗한	clean
+맑은공기	clean air
+아파트를 청소하다	clean the apartment
+집을 청소하다	clean the house
+깨끗한물	clean water
+뚜렷하게	clearly
+점원	clerk
+영리한	clever
+절벽	cliff
+기어오르다	climb
+착 달라붙다	cling
+클리닉	clinic
+시계	clock
+시계 라디오	clock radio
+가까운	close
+닫다	close
+닫힌	closed
+최종변론	closing statement
+옷	clothes
+빨래집게	clothes pin
+빨래줄	clothesline
+옷가게	clothing store
+구름	cloud
+흐린	cloudy
+석탄	coal
+해상보안대	coast guard
+옷장	coat closet
+조종실	cockpit
+바퀴벌레	cockroach
+대구	cod
+커피	coffee
+커피주전자	coffee pot
+다방	coffee shop
+응접실용탁자	coffee table
+일치하다	coincide
+콜라	cola
+추운	cold
+찬 맥주	cold beer
+냉면	cold noodles
+정제감기약	cold tablet
+찬물	cold water
+합작	collaboration
+붕괴되다	collapse
+모으다	collect
+단과대학	college
+색	colors
+빗질하다	comb
+머리빗다	comb hair
+오다	come
+집에 오다	come home
+들어오다	come in
+나오다	come out
+위로하다	comfort
+편안한	comfortable
+이불	comforter
+명령하다	command
+커미션	commission
+필수품	commodities
+나침판	compass
+연민	compassion
+강요하다	compel
+경쟁하다	compete
+불평불만을하다	complain
+완성하다	complete
+응하다	comply
+작곡가	composer
+컴퓨터 사용 능력이 있는	computer literate
+컴퓨터프로그래머	computer programmer
+컴퓨터가게	computer store
+컴퓨터바이러스	computer virus
+사기꾼	con man
+콘서트 홀	concert hall
+양보	concession
+비난하다	condemn
+콘도	condo
+지휘자	conductor
+회실	conference room
+자백하다	confess
+확실하게하다	confirm
+압수하다	confiscate
+전투	conflict
+따르게 하다	conform
+헷갈린	confused
+혼동	confusion
+응결시키다	congeal
+충혈	congested
+축하하다	congratulate
+국회	congress
+국회의원	congressman
+연결하다	connect
+정복하다	conquer
+정복	conquest
+양심	conscience
+신성하게 하다	consecrate
+그결과로서	consequently
+보수주의	conservative
+숙고하다	consider
+신중한	considerate
+변비	constipation
+헌법	constitution
+공사장인부	construction worker
+소비하다	consume
+소비자	consumer
+접촉	contact
+담고있다	contain
+깊이 생각하다	contemplate
+계속하다	continue
+꾸미다	contrive
+조절하다	control
+중앙관제탑	control tower
+편의점	convenience store
+편리한	convenient
+담화를 나누다	converse
+소파 침대	convertible bed
+유죄판결	conviction
+요리하다	cook
+주방장	cook
+밥	cooked rice
+과자	cookies
+차가운	cool
+협력	cooperation
+부조종사	co-pilot
+복사 가게	copy center
+복사기	copy machine
+코르크따개	corkscrew
+옥수수	corn
+옥수수칩	corn chips
+코너	corner
+고치다	correct
+정확히	correctly
+부패	corruption
+미용치과	cosmetic dentistry
+비용이들다	cost money
+생활비	cost of living
+추정비용	cost projection
+간이침대	cot
+쇼파	couch
+기침	cough
+시럽감기약	cough syrup
+세다	count
+나라	country
+시골뜨기	country bumpkin
+시골	countryside
+용기있게	courageously
+과목	course, subject
+법정	court
+광대	court jester
+법원	courthouse
+사촌	cousin
+마녀의 집회	coven
+덮다	cover
+소	cow
+카우보이부츠	cowboy boots
+카우보이모자	cowboy hat
+게	crab
+근육경련,생리통	cramps
+열망하다	crave
+기다	crawl
+크림	cream
+크림	creamer
+창조하다	create
+독창적인	creative
+창조성	creativity
+신용하다	credit
+호수에 작은 만	creek
+살금살금 걷다	creep
+소름 끼치는	creepy
+애기침대	crib
+범죄	crime
+범죄장면	crime scene
+악어	crocodile
+구불어진	crooked
+농작물	crops
+건너다	cross
+십자가	cross
+반대 심문	cross examination
+토라져서	crossly
+횡단보도	crosswalk
+까마귀	crow
+붐비다	crowd
+복잡한	crowded
+왕위에 올리다	crown
+크라운	crown
+그리스도 수난상	crucifix
+천연그대로의	crude
+잔인하게	cruelly
+눌러부수다	crush
+목발	crutches
+점 칠 때 쓰는 수정구슬	crystal ball
+정육면체	cube
+칸막이한 사무실	cubicle
+껴안고 예뻐하다	cuddle
+문화	culture
+잔	cup
+치료	cure NOUN
+치료하다	cure VERB
+커튼	curtains
+세관	customs
+세관원	customs officer
+자르다	cut
+베인 상처	cut NOUN
+예쁜이	cutie pie
+도마	cutting board
+사이클링	cycling
+포낭	cyst
+매일	daily
+댐	dam
+춤추다	dance
+위험한	dangerous
+뱃심좋게 하다	dare
+어두운	dark
+짙은초록색	dark green
+여보	darling
+데이타베이스	data base
+정보처리기사	data processor
+대추	dates
+딸	daughter
+날	day
+소파 겸용 침대	day bed
+탁아소	day care center
+요일	days of the week
+눈부신	dazzling
+치명적인	deadly
+죽음	death
+사형	death penalty
+속이다	deceive
+십이월	December
+결정하다	decide
+세관신고서	declaration form
+선언하다	declare
+거절하다	decline
+코막힘	decongestant
+장식	decoration
+봉헌	dedication
+심각하게	deeply
+쳐부수다	defeat
+패배	defeat
+방어하다	defend
+피고인	defendant
+방어	defense
+피고측 변호인	defense attorney
+도전적으로	defiantly
+빗나가다	deflect
+미루다	delay
+숙고하다	deliberate
+신중히	deliberately
+맛있는	delicious
+배달하다	deliver
+배달원	delivery man
+요구하다	demand
+건물을 헐다	demolish
+치과의사	dentist
+부인하다	deny
+출발 하다	depart
+백화점	department store
+출발탑승구	departure gate
+출발시간	departure time
+믿을수있는	dependable
+묘사하다	depict
+예금하다	deposit
+빼앗다	deprive
+깊이	depth
+조롱하는	derisive
+내려가다	descend
+신성을 더럽히다	desecrate
+사막	desert
+디자인하다	design
+몹시바라다	desire
+책상	desk
+경멸하다	despise
+후식	dessert
+파괴하다	destroy
+감금하다	detain
+형사	detective
+우회로	detour
+악마	devil
+궁리하다	devise
+게걸스럽게 먹다	devour
+기저귀통	diaper pail
+기저귀	diapers
+설사	diarrhea
+사전	dictionary
+죽다	die
+다른	different
+어려운	difficult
+흐트러 뜨리다	diffuse
+파다	dig
+위엄	dignity
+열심히	diligently
+침침한	dim
+식당	dining room
+식탁	dining room table
+저녁	dinner
+식사용포크	dinner fork
+디너 접시	dinner plate
+담그다	dip
+외교상의	diplomatic
+감독하다	direct
+방위	direction
+더러운	dirty
+빨랫감	dirty clothes
+불이익	disadvantage
+반대하다	disagree
+실망한	disappointed
+실망	disappointment
+식별하다	discern
+문화생	disciple
+할인	discount
+할인점	discount store
+재량	discretion
+경멸감	disdain
+볼꼴사납게 하다	disfigure
+수치스러움을 느끼다	disgrace
+변장하다	disguise
+역겨운	disgusted
+식기건조대	dish rack
+행주	dish towel
+부정한	dishonest
+식기세척기	dishwasher
+주방용세제	dishwashing liquid
+빠진어깨	dislocated shoulder
+해산하다	dismiss
+흩뜨리다	disperse
+표시하다	display
+불괘하게하다	displease
+식별하다	distinguish
+괴롭히다	distress
+분배하다	distribute
+분배	distribution
+신용하지 않다	distrust
+어리석은	ditsy
+나누다	divide
+배당금	dividend
+다이빙	diving
+이혼	divorced
+유전자	DNA
+하다	do
+진입금지	do not enter
+빨래를 하다	do the laundry
+의사	doctor
+개	dog
+개에물림	dog bite
+개의먹이	dog food
+인형	doll
+돌고래	dolphin
+국내선	domestic flight
+통치	domination
+당나귀	donkey
+기증자	donor
+도우넛 가게	donut shop
+문 손잡이	doorknob
+천치의	dorky
+기숙사	dormitory
+두배로하다	double
+의심스럽게	doubtfully
+오리털잠바	down jacket
+비관적인	downbeat
+소형	downsized
+아래쪽으로	downward
+질질끌다	drag
+용	dragon
+배수관	drainpipe
+끌다	draw
+ 꿈꾸다	dream
+훔뻑 물에 적시다	drench
+드레스	dress
+와이셔츠	dress shirt
+구두	dress shoes
+화장대	dresser
+드릴	drill
+마시다	drink
+운전하다	drive
+이슬비	drizzle
+시들다	droop
+약국	drug store
+술취한	drunk
+마른	dry
+말리다	dry
+건조기	dryer
+오리	duck
+공작	duke
+둔한	dull
+침침한	dull
+세대형주택	duplex 2
+먼지를 털다	dust
+쓰레받기	dustpan
+면세점	duty free shop
+디비디플레이어	DVD player
+살다	dwell
+열망하는	eager
+독수리	eagle
+귀	ear
+귀마개	earmuffs
+돈을 벌다	earn money
+지구	Earth
+지진	earthquake
+쉽게	easily
+동쪽	east
+부활절	Easter
+쉬운	easy
+활달한	easygoing
+먹다	eat
+아침을 먹다	eat breakfast
+저녁을 먹다	eat dinner
+점심을 먹다	eat lunch
+생태학	ecology
+경제적 안정	economic stability
+경제추세	economic trend
+경제학	economics
+일반석	economy class
+희열에 넘친	ecstatic
+교육하다	educate
+교육학	education
+능률적인	efficient
+가지	eggplant
+달걀	eggs
+자기중심주의	egotist
+팔,여덟	eight
+십팔,열여덟	eighteen
+팔십,여든	eighty
+팔꿈치	elbow
+전기담요	electric blanket
+자동연필깍기	electric pencil sharpener
+전기공	electrician
+우아하게	elegantly
+초등학교	elementary school
+초등학생	elementary student
+코끼리	elephant
+십일,열하나	eleven
+챙피한	embarrassed
+포옹하다	embrace
+드러나다	emerge
+비상출구	emergency exit
+ 응급실	emergency room
+공감	empathy
+빈	empty
+ 마법	enchantment
+에워싸다	encircle
+동봉하다	enclose
+용기를 북돋우다	encourage
+백과사전	encyclopedia
+끝나다	end
+작은 테이블	end table
+인내하다	endure
+ 적	enemy
+원기왕성한	energetic
+힘이 넘치는	energizing
+에너지	energy
+접다	enfold
+엔진	engine
+기술자	engineer
+ 공학	engineering
+영어	English language
+불가사의한 사람	enigma
+즐기다	enjoy
+교화	enlightenment
+입대하다	enlist
+엄청나게	enormously
+충분한	enough
+부자가 되게 하다	enrich
+들어가다	enter
+기업체	enterprise
+열광	enthusiasm
+열광적인	enthusiastic
+열광적으로	enthusiastically
+부추기다	entice
+진입로	entrance ramp
+위탁하다	entrust
+봉투로 싸다	envelope
+선망	envy
+동등	equality
+동등하게	equally
+적도	Equator
+장비를 갖추다	equip
+지우개	eraser
+세우다	erect
+틀리다	err
+탈출하다	escape
+특별히	especially
+설립하다	establish
+송덕문	eulogy
+곧 사라져가는	evanescent
+조차	even
+저녁	evening
+이브닝드레스	evening gown
+결국에	eventually
+매일	every day
+어디에나	everywhere
+증거	evidence
+사악한	evil
+정확하게	exactly
+검사하다	examine
+탁월하다	excel
+우수	excellence
+흥분하다	excite
+흥미로운	exciting
+변명하다	excuse
+실행하다, 사형을 집행하다	execute
+운동하다	exercise
+발휘하다	exert
+ 기진맥진한	exhausted
+있다	exist
+계시다	exist, stay
+비상구	exit
+출구표시	exit sign
+확장	expansion
+내◎⃝다	expel
+소비하다	expend
+지출	expenditure
+비싼	expensive
+경험하다	experience
+경험있는	experienced
+설명하다	explain
+폭발물	explosives
+고속버스	express bus
+연장하다	extend
+불을 끄다	extinguish
+ 굉장히	extremely
+눈	eye
+안약	eye drops
+눈섶	eyebrow
+속눈섶	eyelash
+ 눈꺼풀	eyelid
+굉장한	fabulous
+얼굴	face
+익살맞은	facetious
+공장	factory
+실패하다	fail
+실패	failure
+기절	faint
+꽤	fairly
+꽤 자주	fairly often
+공평	fairness
+성실하게	faithfully
+허풍쟁이	fake
+가을	fall
+떨어지다	fall
+가족	family
+기근	famine
+장식적인	fancy
+환상적인	fantastic
+먼	far
+멀리떨어진	far away
+농부	farmer
+농가	farmhouse
+빠른	fast
+월 차선	fast lane
+뚱뚱한	fat
+숙명적으로	fatally
+아버지	father
+동물군	fauna
+무서워하다	fear
+이월	February
+먹이를 주다	feed
+아기에게 음식을 주다	feed the baby
+고양이에게 먹이를 주다	feed the cat
+느끼다	feel
+기분 나쁜	feel bad
+기분 좋은	feel good
+느낌	feeling
+활기찬	feisty
+여성적인	feminine
+열	fever
+거의 없는	few
+픽션	fiction
+허구의	fictitious
+안절부절하다	fidget
+들판	field
+사납게	fiercely
+십오,열다섯	fifteen
+오십,쉰	fifty
+무화과열매	fig
+싸우다	fight
+싸움	fight
+철하다	file
+서류캐비넷	file cabinet
+문서정리원	file clerk
+채우다	fill
+충전재	filling
+결국	finally
+재정	finance
+찾다	find
+찾아내다	find out
+벌금	fine
+손가락	finger
+손톱	fingernail
+지문	fingerprint
+끝나다	finish
+화재	fire
+소방소	fire station
+소방수	firefighter
+벽난로	fireplace
+총살형 집행대	firing squad
+첫번째로	first
+일등석	first class
+첫번째로	first of all
+생선	fish
+어부	fisherman
+맞다	fit
+오,다섯	five
+수리된	fixed
+홍학	flamingo
+플란넬셔츠	flannel shirt
+번쩍이다	flash
+맛을내다	flavor
+달아나다	flee
+융통성있는	flexible
+승무원	flight attendant
+홍수	flood
+마루	floor
+마루 왁스	floor wax
+식물군	flora
+치실을하다	floss
+가자미	flounder
+밀가루	flour
+넘쳐흐르다	flow
+꽃	flower
+꽃집	flower shop
+날다	fly
+파리	fly
+안개	fog
+따라가다	follow
+다정하게	fondly
+음식	food
+바보	fool
+어리석게	foolishly
+발	foot
+ 미식축구	football
+신발	footwear, shoes
+위하여	for
+오랫동안	for a long time
+잠시동안	for a short time
+오분 동안	for five minutes
+한시간 동안	for one hour
+일분 동안	for one minute
+한달 동안	for one month
+일주일간	for one week
+일년간	for one year
+십분 동안	for ten minutes
+처음에	for the first time
+두시간 동안	for two hours
+두달 동안	for two months
+이주일간	for two weeks
+이년간	for two year
+금하다	forbid
+억지로 시키다	force
+팔뚝	forearm
+이마	forehead
+외국	foreign country
+공사장현장감독	foreman
+예견하다	foresee
+숲	forest
+잊다	forget
+용서	forgiveness
+포크	fork
+정장	formal dress
+분유	formula
+버리다	forsake
+요새화하다	fortify
+운이 좋게	fortunately
+점쟁이	fortune teller
+사십,마흔	forty
+사,넷	four
+네시간전	four hours ago
+사분전	four minutes ago
+넉달전	four months ago
+사주일전	four weeks ago
+사년전	four years ago
+십사,열넷	fourteen
+프랑스	France
+솔직한	frank
+극도로 흥분하여	frantically
+사기	fraud
+별난사람	freak
+자유	freedom
+냉동고	freezer
+몹시추운	freezing
+프랑스사람	French person
+싱싱한	fresh
+신입생	freshman
+금요일	Friday
+통닭	fried chicken
+친구	friend
+다정다감한	friendly
+장난치며 놀다	frolic
+여기부터	from here
+다음부터	from next time
+지금부터	from now on
+저기부터	from there
+앞	front
+현관문	front door
+현관앞길	front walk
+좌절한	frustrated
+꽉찬	full
+배부른	full
+풀사이즈침대	full-size bed
+전업	full-time job
+재미있는	fun
+장례식	funeral
+노하여 펄펄뛰는	furious
+가구점	furniture store
+더군다나	furthermore
+까다로운	fussy
+폭력단원	gangster
+차고	garage
+차고문	garage door
+ 오물분쇄기	garbage disposal
+환경미화원	garbage man
+정원	garden
+정원사	gardener
+옷가방	garment bag
+ 주유소	gas station
+탑승구	gate
+모으다	gather
+가젤영양	gazelle
+일반적으로	generally
+관대한	generous
+ 점쟎은	gentle
+점잖게	gently
+기하학	geometry
+독일사람	German person
+독일	Germany
+얻다	get
+옷을입다	get dressed
+타다	get in, ride
+결혼하다	get married
+내리다	get off
+옷을 벗다	get undressed
+일어나다	get up
+귀신	ghost
+선물가게	gift shop
+진토닉	gin and tonic
+인삼차	ginseng tea
+여자친구	girlfriend
+주다	give
+애를 낳다	give birth
+기쁘게	gladly
+유리잔	glass
+안경	glasses
+지구본	globe
+장갑	gloves
+대식가	glutton
+앞니로 갈다	gnaw
+가다	go
+내려가다	go down
+시장을가다	go grocery shopping
+하이킹을 가다	go hiking
+잠자리에 들다	go to sleep
+출근하다	go to work
+막대기로 찌르다	goad
+ 목표	goal
+하나님	God
+금색	gold
+귀중한	golden
+골프클럽	golf club
+ 골프 코스	golf course
+좋은	good
+착한	good hearted
+안녕히 계세요	goodbye
+상냥한	good-humored
+마음씩고운	good-natured
+착함	goodness
+괴짜	goofball
+고릴라	gorilla
+ 정부	government
+잡다	grab
+우아하게	gracefully
+졸업하다	graduate
+대학원	graduate school
+대학원생	graduate student
+할아버지	grandfather
+할머니	grandmother
+조부모	grandparents
+자몽	grapefruit
+포도	grapes
+그래픽	graphics
+붙잡다	grasp
+메뚜기	grasshopper
+감사하는 마음	gratitude
+묘지	grave
+회색	gray
+훌륭한	great
+영국	Great Britain
+탐욕스럽게	greedily
+그린	green
+초록	green
+깍지콩	green beans
+파	green onion
+원예의 재능	green thumb
+인사하다	greet
+인사	greeting
+구운생선	grilled fish
+잘게 부수다	grind
+흥미를끄는	gripping
+끙끙거리다	groan
+식료품가게	grocery store
+신랑	groom
+자라다	grow
+자라다	grow up
+지키다	guard
+손님	guest
+ 안내하다	guide
+유죄	guilt
+ 총	gun
+부인과 의사	gynecologist
+잘게 썰다	hack
+해커	hacker
+끈질기게 값을 깎다	haggle
+우박	hail
+머리카락	hair
+미용실	hair salon
+미용사	hairdresser
+반절	half
+넙치	halibut
+햄	ham
+햄,치즈 샌드위치	ham and cheese sandwich
+손	hand
+수갑	handcuffs
+다루다	handle
+잘생긴	handsome
+걸다	hang
+옷걸이	hanger
+일어나다	happen
+행복하게	happily
+행복한	happy
+괴롭히다	harass
+딱딱한	hard
+딱딱하게 하다	harden
+무정한	hard-hearted
+좀처럼	hardly ever
+근면한	hardworking
+해치다	harm
+일치하다	harmonize
+추수	harvest
+성급하게	hastily
+모자	hat
+싫다	hate
+증오	hate
+미운	hateful
+감기걸리다	have a cold
+머리가 아프다	have a headache
+가지다	have, possess
+매	hawk
+연무	haze
+머리	head
+두통	headache
+(침대) 머리판	headboard
+헤드폰	headset
+병이 낫다	heal
+건강	health
+헬스클럽	health club
+건강한	healthy
+듣다	hear
+영구차	hearse
+심장	heart
+심장마비	heart attack
+심장 잡음	heart murmur
+상심	heartache
+심장박동	heartbeat
+애끓게 하는 사람	heartbreaker
+속쓰림	heartburn
+가정의 단란	hearth
+핵심지역	heartland
+무서운 것	heartstopper
+심금	heartstrings
+애인	heartthrob
+진심어린	heart-to-heart
+폭서	heat wave
+찜질패드	heating pad
+천당	heaven
+무거운	heavy
+헤지 펀드	hedge fund
+발꿈치	heel
+높이	height
+가증스러운	heinous
+지옥	hell
+안녕하세요?	hello
+도움	help
+돕다	help
+유익한	helpful
+여기	here
+망설이다	hesitate
+숨기다	hide
+높은	high
+애기의자	high chair
+하이힐	high heels
+고물가	high inflation
+고등학교	high school
+고등학생	high school student
+고속도로	highway
+언덕	hill
+저지하다	hinder
+골반	hip
+유적지	historical site
+치다	hit
+ 하키	hockey
+잡동사니	hodge podge
+잡다	hold
+공휴일	holiday
+고향	hometown
+숙제	homework assignment
+정직한	honest
+정직하게	honestly
+정직	honesty
+당신	honey
+애인	honeybunch
+신혼 여행	honeymoon
+존경하다	honor
+희망하다	hope
+끔찍한	horrible
+말	horse
+승마	horse racing
+병원침대	hospital bed
+환자복	hospital gown
+안주인	hostess
+더운	hot
+핫 초콜릿	hot chocolate
+온천	hot spring
+핫티	hot tea
+호텔	hotel
+시간마다	hourly
+집	house
+얼마나	how long
+얼마나?	how many?
+얼만큼?	how much?
+얼마나자주?	how often?
+어떻게?	how?
+그러나	however
+소리를 길게 뽑으며 짖다	howl
+포웅하다	hug
+인구통계	human population
+인도주의	humanitarian
+눅눅한	humid
+습기	humidity
+유머스러운	humorous
+굶주린 듯이	hungrily
+배고픈	hungry
+사냥하다	hunt
+허리케인	hurricane
+서둘다	hurry
+서둘다	hurry up
+남편	husband
+하이브리드자동차	hybrid car
+수력	hydroelectric power
+수소	hydrogen
+하이에나	hyena
+최면술사	hypnotist
+위선자	hypocrite
+아이스크림가게	ice cream parlor
+얼음주머니	ice pack
+서리	ice storm
+아이스티	iced tea
+얼음이언	icy
+멍청이	idiot
+조명하다	illuminate
+상상	imagination
+상상력이풍부한	imaginative
+미숙한	immature
+즉시	immediately
+이민가다	immigrate
+입국심사	immigration
+이민국직원	immigration officer
+완벽한	impeccable
+방해하다	impede
+이식하다	implant
+버릇없는	impolite
+부과하다	impose
+실용적이지 않은	impractical
+잠시	in a while
+덧붙여서	in addition
+경우에	in case -
+특히	in particular
+임에도 불구하고	in spite of -
+미래에	in the future
+불길한	inauspicious
+향	incense
+자극하다	incite
+수입	income
+편리하지않은	inconvenient
+증가하다	increase
+대단히	incredibly
+정말	indeed
+독립	independence
+가리키다	indicate
+원산의	indigenous
+소화불량	indigestion
+남색	indigo
+관대	indulgence
+싼	inexpensive
+무경험의	inexperienced
+감염	infection
+열등한	inferior
+무한대	infinite
+물가가 오르다	inflate
+기내영화	inflight movie
+영향을 끼치다	influence
+상처를 입다	injure
+무죄	innocence
+순진하게	innocently
+문의하다	inquire
+곤충	insect
+벌레물림	insect bite
+둔한	insensitive
+안	inside
+영감	inspiration
+똑똑한	intelligent
+차단하다	intercept
+가로챔	interception
+이자	interest
+이자율	interest rate
+흥미있는	interesting
+참견	interference
+실습생	intern
+인턴	intern
+국제선	international flight
+통역하다	interpret
+끼어들다	interrupt
+중단	interruption
+ 사거리	intersection
+개입하다	intervene
+인터뷰	interview
+내장	intestines
+취하게 하다	intoxicate
+소개하다	introduce
+내성적인	introverted
+발명가	inventor
+수사하다	investigate
+투자	investment
+초대하다	invite
+개인연금구좌	IRA
+다리미	iron
+다리미 판	ironing board
+불합리한	irrational
+섬	island
+고립	isolation
+가려운	itch
+잠바	jacket
+청소원	janitor
+일월	January
+일본	Japan
+일본사람	Japanese person
+턱	jaw
+질투하는	jealous
+질투	jealousy
+청바지	jeans
+잼	jelly
+해파리	jellyfish
+예수	Jesus Christ
+ 보석상자	jewelry box
+일	job
+직업	job
+기수	jockey
+합치다	join
+농담을하다	joke
+언론인	journalist
+마상 창시합대화	joust
+기쁘게	joyfully
+유쾌하게	joyously
+재판하다	judge
+판사	judge
+남을 판단하는	judgmental
+칠월	July
+높이뛰다	jump
+우주복	jumpsuit
+유월	June
+밀림	jungle
+삼학년	junior
+목성	Jupiter
+배심원	jury
+배심원방	jury room
+그냥	just
+정의	justice
+정당하게	justly
+청소년의	juvenile
+폐허화된	kaput
+노래방	karaoke room
+유지하다	keep
+계속 연락하다	keep in touch with
+케찹	ketchup
+열쇠	key
+키보드	keyboard
+신장	kidney
+ 강낭콩	kidney bean
+죽이다	kill
+살인자	killer
+친절한	kind
+종류	kind of
+친절하게	kindly
+왕	king
+킹사이즈침대	king-size bed
+키스하다	kiss
+부엌	kitchen
+부엌찬장	kitchen cabinet
+부엌싱크	kitchen sink
+식탁	kitchen table
+부엌수건	kitchen towel
+새끼고양이	kitten
+키위	kiwi
+반죽하다	knead
+무릎	knee
+칼	knife
+기사	knight
+노크하다	knock
+알다	know
+손가락관절	knuckle
+한국	Korea
+한국어	Korean language
+한국사람	Korean person
+노동력	labor
+노동절	Labor Day
+결핍되다	lack
+호수	lake
+전등	lamp
+전등갖	lampshade
+언어	language
+계속하다	last
+마지막	last
+성	last name
+어젯밤	last night
+나중	later
+웃다	laugh
+세탁물	laundry
+빨래 바구니	laundry basket
+ 세제	laundry detergent
+잔디	lawn
+잔디 깎는 기계	lawnmower
+변호사	lawyer
+게으르게	lazily
+게으른	lazy
+이끌다	lead
+기대다	lean on
+배우다	learn
+떠나다	leave
+왼쪽 차선	left lane
+왼쪽	left side
+다리	leg
+여우원숭이	lemur
+빌려주다	lend
+에어로빅복	leotard
+덜	less
+작아지다	lessen
+제일과	lesson one
+하게하다	let
+편지	letter
+양상추	lettuce
+차입금에 의한 회사 매수	leveraged buyout
+거짓말쟁이	liar
+자유주의	liberal
+도서관	library
+거짓말하다	lie
+눕다	lie down
+구명조끼	life vest
+올리다	lift
+가벼운	light
+불을 붙이다	light
+하늘색	light blue
+연두색	light green
+번개	lightening
+같이	like
+좋아하다	like, be fond of
+리마콩	lima bean
+오행 속요	limerick
+사자	lion
+입술	lip
+술	liquor
+듣다	listen
+음악을 듣다	listen to music
+라디오를 듣다	listen to the radio
+청취자	listener
+문학	literature
+살다	live
+간	liver
+거실	living room
+단화	loafers
+바닷가제	lobster
+빈둥거리다	loiter
+긴	long
+오래전	long ago
+긴내의	long johns
+ 긴팔셔츠	long sleeved shirt
+긴시간	long time
+보다	look
+헐거운	loose
+느슨하게	loosely
+지다	lose
+손실	loss
+실패	loss
+로션	lotion
+연화좌	lotus position
+시끄럽게	loudly
+사랑하다	love
+ 이인용 소파	loveseat
+사랑스러운	loving
+낮은	low
+저물가	low inflation
+충성스러운	loyal
+짐가방	luggage
+미적지근한	lukewarm
+점심	lunch
+폐	lung
+미치게	madly
+잡지	magazine
+마술지팡이	magic wand
+까치	magpie
+가정부	maid
+신부 들러리	maid of honor
+전공하다	major in
+만들다	make
+복사하다	make a copy
+전화를 걸다	make a phone call
+계획을 짜다	make a plan
+아침을 만들다	make breakfast
+저녁을 만들다	make dinner
+친구를 사귀다	make friends with
+점심을 만들다	make lunch
+잠자리을 정리하다	make the bed
+상가	mall
+남자	man
+다루다	manage
+책략을 쓰다	maneuver
+난도질하다	mangle
+망고	mango
+예절	manners
+과실치사	manslaughter
+벽난로 선반	mantle
+제조업자	manufacturer
+많이	many
+지도	map
+마라톤	marathon
+행진하다	march
+삼월	March
+마가리타	margarita
+해병대	marines
+시장선도 상품	market leader
+시장 조사	market research
+시장 점유율	market share
+마케팅	marketing
+마케팅 매니저	marketing manager
+결혼한	married
+화성	Mars
+무술	martial arts
+굉장한	marvelous
+남성적인	masculine
+으깬감자	mashed potato
+메트리스	mattress
+성숙한	mature
+오월	May
+아마도	maybe
+마요네즈	mayonnaise
+초원	meadow
+식사	meal
+못된	mean
+측정하다	measure
+계량스푼	measuring spoon
+고기	meat
+약	medicine
+평범한	mediocre
+명상	meditation
+무당	medium
+만나다	meet
+녹다	melt
+기억장치	memory
+수선하다	mend
+언급하다	mention
+식단	menu
+수성	Mercury
+자비	mercy
+공로	merit
+즐겁게	merrily
+게시판	message board
+배달부	messenger
+지저분한	messy
+금속탐지기	metal detector
+소형녹음기	microcassette recorder
+전자렌지	microwave
+중세	Middle Ages
+중학교	middle school
+중간 좌석	middle seat
+가운데	middle, center
+우유	milk
+소젖을 짜다	milk the cow
+생수	mineral water
+교제하다	mingle
+기적	miracle
+거울	mirror
+경범죄	misdemeanor
+구두쇠	miser
+비참한	miserable
+의심을 품다	mistrust
+벙어리 장갑	mittens
+섞다	mix
+섞은야채	mixed vegetables
+믹싱볼	mixing bowl
+모델	model
+온건주의	moderate
+절제하다	moderate
+현대의	modern
+젖다	moisten
+점	mole
+월요일	Monday
+돈	money
+금융시장	money market
+원숭이	monkey
+독백극	monologue
+괴물	monster
+달	month
+매달	monthly
+기념비	monument
+우울한	moody
+달	moon
+발광한	moonstruck
+대걸래	mop
+더	more
+오전	morning
+치명적으로	mortally
+모기지	mortgage
+모기	mosquito
+제일	most
+어머니	mother
+산	mountain
+등산	mountain climbing
+조의를 표하다	mourn
+입	mouth
+움직이다	move
+이사하다	move
+영화	movie
+극장	movie theater
+감동적인	moving
+많이	much, many
+곱셈하다	multiply
+ 미이라	mummy
+살인	murder
+중얼거리다	murmur
+근육	muscle
+박물관	museum
+버섯	mushroom
+음악	music
+레코드가게	music store
+음악의	musical
+해야만한다	must
+콧수염	mustache
+겨자	mustard
+ 신비하게	mysteriously
+이름	name
+이름을 짓다	name
+냅킨	napkin
+좁은	narrow
+국립공원	national park
+자연재해	natural disaster
+천연가스	natural gas
+메스꺼움	nauseous
+해군	navy
+짙은남색	navy blue
+가까이	nearby
+간신히	nearly
+정돈된	neat
+깔끔하게	neatly
+목	neck
+필요하다	need
+소홀히 하다	neglect
+이웃	neighborhood
+남자 조카	nephew
+해왕성	Neptune
+긴장한	nervous
+초조하게	nervously
+전혀	never
+새로운	new
+신정	New Year’s Day
+새로이	newly
+뉴스앵커	news anchor
+신문	newspaper
+신문가판대	newsstand
+내년	next year
+다음	next, following
+조금씩 뜯어 먹다	nibble
+잘하는	nice
+여자 조카	niece
+밤	night
+나이트가운	nightgown
+나이트셔츠	nightshirt
+침대용 스탠드	nightstand
+구,아홉	nine
+십구,열아홉	nineteen
+구십,아흔	ninety
+해탈	nirvana
+아니요	no
+재미없는	no fun
+고결함	nobility
+끄덕이다	nod
+ 소음공해	noise pollution
+시끄럽게	noisily
+시끄러운	noisy
+논픽션	non-fiction
+ 넌센스	nonsense
+국수	noodles
+북쪽	north
+북극	North Pole
+북반구	Northern Hemisphere
+코	nose
+콧구멍	nostril
+아니다	not
+괜챦지않은	not all right
+아니다,없다	not be
+한가한	not busy
+ 한가로운	not crowded
+불충분한	not enough
+모르다	not know
+각별하지않은	not particularly
+미안하지 않은	not sorry
+공책	notebook
+기르다	nourish
+소설	novel
+소설가	novelist
+십일월	November
+마취제	Novocain
+지금	now
+핵에너지	nuclear energy
+간호사	nurse
+간호하다	nurse
+요양원	nursing home
+복종	obedience
+유순하게	obediently
+복종하다	obey
+이의신청	objection
+불쾌한	obnoxious
+매우 불쾌하게	obnoxiously
+관찰하다	observe
+산부인과 의사	obstetrician
+방해하다	obstruct
+획득하다	obtain
+종종	occasionally
+바다	ocean
+시월	October
+문어	octopus
+물론	of course
+제공하다	offer
+사무실	office
+회사건물	office building
+사무실매니져	office manager
+비품실	office supply room
+회사원	office worker / salary man
+자주	often, frequently
+석유	oil
+연고	ointment
+오래된	old
+형님	older brother
+언니	older sister
+올리브기름	olive oil
+가끔	once in a while
+일, 하나	one
+십억	one billion
+백	one hundred
+일억	one hundred million
+십만	one hundred thousand
+백만	one million
+천	one thousand
+양파	onion
+단지	only
+땅에	onto the ground
+열다	open
+열린	open
+계정변론	opening statement
+편견없는	open-minded
+수술하다	operate
+적수	opponent
+기회	opportunity
+압박감을 주다	oppress
+긍정적인	optimistic
+안과 의사	optometrist
+혹은	or
+구강외과 의사	oral surgeon
+오렌지	orange
+주황	orange
+오렌지쥬스	orange juice
+보통	ordinarily
+보통의	ordinary
+조직적인	organized
+최초의	original
+고아	orphan
+타조	ostrich
+다른쪽	other side
+만약 그렇지않으면	otherwise
+밖에	out
+다떨어진	out of
+사교적인	outgoing
+술책으로 이기다	outmaneuver
+타원	oval
+오븐	oven
+이상	over
+멜빵바지	overalls
+외투	overcoat
+총경비	overhead
+기내 수화물칸	overhead bin
+내다 보다	overlook
+고가 도로	overpass
+초과근무	overtime
+뒤집다	overturn
+당황하게 하다	overwhelm
+빚지다	owe
+올빼미	owl
+황소	ox
+산소 마스크	oxygen mask
+굴	oyster
+오존	ozone
+태평양	Pacific Ocean
+고무 젖꼭지	pacifier
+진정시키다	pacify
+고통스러운	painful
+고통스럽게	painfully
+그림그리다	paint
+페인트공	painter
+화가	painter
+그림	painting
+파자마	pajamas
+궁지	palace
+관을 메는 사람	pall bearer
+손금 보는 사람	palm reader
+얼마안되는	paltry
+납작한 냄비	pan
+공포에 질리다	panic
+헐떡거리다	pant
+팬티	panties
+바지	pants
+팬티스타킹	pantyhose
+종이	paper
+종이봉지	paper bag
+종이절단기	paper cutter
+문서 세단기	paper shredder
+종이타월	paper towel
+군의관	paramedic
+부모님	parents
+공원	park
+파카	parka
+차고	parking garage
+집행유예	parole
+파트타임일	part-time job
+지나가다	pass
+돌아가시다	pass away
+보내다	pass by, spend days
+통행인	passerby
+여권	passport
+과거	past life
+참을성	patient
+안뜰	patio
+애국자	patriot
+잠시멈추다	pause
+돈을내다	pay
+평화	peace
+평화회담	peace talks
+복숭아	peach
+공작	peacock
+땅콩버터	peanut butter
+땅콩	peanuts
+배	pear
+완두콩	peas
+보행자	pedestrian
+육교	pedestrian overpass
+소아과 의사	pediatrician
+연필깍기	pencil sharpener
+관통하다	penetrate
+후추	pepper
+후추통	pepper shaker
+지각력있는	perceptive
+완벽하게	perfectly
+연기하다	perform
+공연	performance
+퍼포먼스 논평	performance review
+죽다	perish
+인내	perseverance
+지속하다	persist
+설득하다	persuade
+비관적인	pessimistic
+귀염둥이	pet
+애완동물가게	pet shop
+약사	pharmacist
+박애	philanthropy
+철학	philosophy
+자동교환기	phone system
+사진	photograph
+사진사	photographer
+물리치료	physical therapy
+들다	pick
+애들을 데리러 가다	pick up my kids
+펜을 줍다	pick up the pen
+피클	pickles
+그림	picture
+뚫다	pierce
+돼지	pig
+비둘기	pigeon
+알약	pill
+베갯잇	pillowcase
+비행기 조종사	pilot
+파인애플	pineapple
+분홍색	pink
+불쌍한	pitiful
+동정을 느끼다	pity
+피자집	pizza parlor
+배치하다	place
+장소	place
+전염병	plague
+평범한	plain
+계획	plan
+계획하다	plan
+행성	planet
+화초	plant
+비닐봉지	plastic bag
+비닐랩	plastic wrap
+접시	plate, dish
+연극	play
+농구를 하다	play basketball
+피아노를 치다	play the piano
+놀다	play, enjoy oneself, go out
+운동선수	player, athlete
+놀이터	playground
+극작가	playwright
+변호하다	plead
+제발	please
+좋아하는	pleased
+풍부한	plentiful
+경작하다	plough
+자두	plum
+배관공	plumber
+약탈하다	plunder
+떨어지다	plunge
+느닷없이 치다	plunk
+명왕성	Pluto
+발 전문의	podiatrist
+시인	poet
+시	poetry
+가리키다	point
+유해한	poisonous
+경찰관	police officer
+경찰서	police station
+예의바른	polite
+공손히	politely
+정중함	politeness
+정치학	political science
+공해	pollution
+연못	pond
+가난한	poor
+서툴게	poorly
+팝콘	popcorn
+인기있는	popular
+현관	porch
+돼지고기	pork
+포크찹	pork chop
+수하물 운반인	porter
+유가증권	portfolio
+초상화	portrait
+가지다	possess
+우체국	post office
+우편요금별납인쇄기	postage machine
+우편저울	postal scale
+냄비	pot
+감자	potato
+감자칩	potato chips
+감자사라다	potato salad
+냄비 집게	potholder
+쿵쿵치다	pound
+붓다	pour
+강한	powerful
+강하게	powerfully
+실용적인	practical
+연습하다	practice
+기타를 연습하다	practice the guitar
+기도하다	pray
+기도	prayer
+앞서다	precede
+예언하다	predict
+예언	prediction
+처방전	prescription
+선물	present, gift
+대통령	President of a country
+누르다	press
+척하다	pretend
+뽐내는	pretentious
+상당히	pretty
+예쁜	pretty
+프렛젤	pretzels
+왕자	prince
+공주	princess
+감옥	prison
+아마도	probably, perhaps
+엄밀이 조사하다	probe
+공포하다	proclaim
+생산하다	produce
+생산품	product
+교수님	professor
+이득	profit
+발사하다	project
+약속하다	promise
+진급	promotion
+즉시	promptly
+버티다	prop
+예언	prophecy
+검사	prosecutor
+번창하다	prosper
+번영	prosperity
+자신만만한	proud
+선동하다	provoke
+새치름한	prudish
+말린자두	prune
+잘라내다	prune
+정신과 의사	psychiatrist
+당기다	pull
+벗기다	pull off
+자기	pumpkin
+펌프스	pumps
+시간을 잘 지키는	punctual
+시간을 엄수하여	punctually
+벌을주다	punish
+강아지	puppy
+연옥	purgatory
+보라색	purple
+추적하다	pursue
+놓다	put
+내려놓다	put down
+화장하다	put on makeup
+입다	put on, wear
+퍼터	putter
+적포도주	red wine
+강화하다	redouble
+고추장	red-pepper paste
+고추가루	red-pepper powder
+다시채우다	refill
+상쾌하게하다	refresh
+냉장고	refrigerator
+거절하다	refuse
+반박하다	refute
+관심	regards
+후회	regret
+정규적으로	regularly
+거절하다	reject
+기뻐하다	rejoice
+사이	relationship
+편안한	relaxed
+믿음직한	reliable
+마지못해	reluctantly
+남다	remain
+주목하다	remark
+기억하다	remember
+생각나게하다	remind
+다시 옮기다	remove
+갱신하다	renew
+수선하다	repair
+수리공	repairman
+갚다	repay
+무효로 하다	repeal
+반복하다	repeat
+반복해서	repeatedly
+제자리에 놓다	replace
+보고하다	report
+책망하다	reproach
+닮다	resemble
+예약	reservation
+저항하다	resist
+결심	resolution
+존경	respect
+쉬다	rest
+식당	restaurant
+반환하다	restore
+다시 잡아 당기다	restrain
+은퇴	retired
+후퇴	retreat
+되찾다	retrieve
+돌아가다	return
+복수	revenge
+수입	revenue
+전환하다	revere
+재방문하다	revisit
+재상연 하다	revive
+갈비	ribs
+논	rice field
+부자인	rich
+터무니 없는	ridiculous
+오른쪽 차선	right lane
+오른쪽	right side
+적합하게	rightfully
+하찮은	rinky-dink
+헹굼 주기	rinse cycle
+떠오르다	rise
+고급스러운	ritzy
+경쟁자	rival
+강	river
+길	road
+으르렁거리다	roar
+구이용고기	roast
+강도질	robbery
+로빈	robin
+구르다	roll
+롤빵	roll
+지붕	roof
+지붕잇는사람	roofer
+방	room
+방번호	room number
+룸서비스	room service
+수닭	rooster
+거친	rough
+거칠게	roughly
+참패	rout
+루트를 정하다	route
+문지르다	rub
+고무신	rubbers
+무례하게	rudely
+깔개	rug
+럭비	rugby
+통치하다	rule
+자	ruler
+달리다	run
+운동용반바지	running shorts
+활주로	runway
+서두르다	rush
+러시아	Russia
+러시아사람	Russian person
+무정한	ruthless
+희생	sacrifice
+슬픈	sad
+슬프게	sadly
+안전한	safe
+안전하게	safely
+사하라사막	Sahara Desert
+항해하다	sail
+사라다	salad
+샐러드 그릇	salad bowl
+샐러드소스	salad dressing
+사라다포크	salad fork
+판매	sales
+판매량	sales figures
+판매그룹	sales force
+판매예측	sales forecast
+외판원	sales representative
+판매세	sales tax
+판매원	salesman
+연어	salmon
+소금	salt
+소금통	salt shaker
+짠	salty
+같은	same
+모래	sand
+샌달	sandals
+모래의	sandy
+풍자적인	sarcastic
+위성방송수신기	satellite dish
+만족스러운	satisfactory
+만족하다	satisfy
+토요일	Saturday
+토성	Saturn
+스튜용 냄비	saucepan
+소시지	sausage
+모으다	save
+말하다	say
+드문	scarce
+깜짝놀라게하다	scare
+무서운	scared
+스카프	scarf
+뿔뿔이 흩어지다	scatter
+학교	school
+학교식당	school cafeteria
+학교앞 건널목	school crossing
+방학	school vacation
+과학자	scientist
+그슬리다	scorch
+경멸하다	scorn
+스카치	scotch
+찰과상	scrape
+찰과상을 입다	scrape
+긁힌상처	scratch
+할퀴다	scratch
+수세미	scrub brush
+바다	sea
+바다동물	sea animal
+해달	sea otter
+해물	seafood
+해물사라다	seafood salad
+갈매기	seagull
+여자제봉사	seamstress
+찾다	search
+해변	seashore
+계절	seasons
+안전밸트	seat belt
+좌석주머니	seat pocket
+비서	secretary
+보안	security
+보안검색원	security guard
+보다	see, look at
+찾다	seek
+분리	segregation
+꽉 쥐다	seize
+좀처럼	seldom
+고르다	select
+자신있는	self-confident
+자제심	self-control
+자신감	self-esteem
+이기적으로	selfishly
+자화상	self-portrait
+팔다	sell
+학기	semester
+상원	senate
+상원의원	senator
+보내다	send
+편지를 부치다	send a letter
+사학년	senior
+분별있는	sensible
+민감한	sensitive
+분리하다	separate
+구월	September
+심각하게	seriously
+시중들다	serve
+참기름	sesame oil
+놓다	set
+칠,일곱	seven
+십칠,열일곱	seventeen
+칠십,일흔	seventy
+엄격한	severe
+바느질하다	sew
+색광	sex maniac
+야한	sexy
+그늘지게 하다	shade
+흔들다	shake
+떨며	shakily
+얕은	shallow
+샴푸	shampoo
+토끼풀	shamrock
+형체로 만들다	shape
+상어	shark
+예리한	sharp
+날카롭게	sharply
+면도하다	shave
+큰가위로 베다	shear
+양	sheep
+침대보	sheet
+조개	shellfish
+방패로 막다	shield
+빛나다	shine
+빛나는	shiny
+충격을 받은	shocked
+신발가게	shoe store
+점원	shop keeper
+쇼핑카트	shopping cart
+짧은	short
+키가 작은	short
+반 바지	short pants
+반팔셔츠	short sleeved shirt
+단편소설	short story
+숨이 참	shortness of breath
+주사	shot
+어깨	shoulder
+소리지르다	shout
+보여주다	show
+샤워기	shower
+날카로운 목소리로 말하다	shriek
+날카로운 목소리로	shrilly
+새우	shrimp
+성당	shrine
+수줍은	shy
+수줍게	shyly
+아픈	sick
+옆	side
+반찬	side dishes
+보도	sidewalk
+조용히	silently
+바보스러운	silly
+은색	silver
+비슷하게	similar to
+노래하다	sing
+가수	singer
+독신의	single
+가라앉다	sink
+계수대	sink
+조금씩 마시다	sip
+여자같은 남자	sissy
+자매	sister
+앉다	sit down
+육,여섯	six
+십육,열여섯	sixteen
+육십,예순	sixty
+스키부츠	ski boots
+스키모자	ski hat
+스키 재킷	ski jacket
+스키마스크	ski mask
+피부	skin
+마른	skinny
+치마	skirt
+학살하다	slaughter
+자다	sleep
+졸리는 듯이	sleepily
+침낭	sleeping bag
+졸린	sleepy
+진눈깨비	sleet
+우비	slicker
+영사기	slide projector
+약간	slightly
+삼각끈	sling
+미끄러지다	slip
+슬리퍼	slippers
+비올때 미끄러움	slippery when wet
+지저분한 사람	slob
+돼지에게 먹이를 주다	slop the hog
+적당히 얼버무려	sloppily
+느린	slow
+천천히가다	slow down
+천천히	slowly
+느린	sluggish
+작은	small
+잔돈	small bills
+영리한	smart
+멋지게	smartly
+때려부수다	smash
+더럽히다	smear
+냄새맡다	smell
+웃다	smile
+담배피다	smoke
+굴뚝	smokestack
+부드러운	smooth
+유창하게	smoothly
+간식	snack
+뱀	snake
+잡아채다	snatch
+운동화	sneakers
+재채기	sneeze
+재채기하다	sneeze
+코를 골다	snore
+눈	snow
+눈보라	snowstorm
+그래서	so
+비누	soap
+맑은정신의	sober
+축구	soccer
+축구화	soccer shoes
+사회학	sociology
+양말	socks
+부드러운	soft
+부드럽게 하다	soften
+부드럽게	softly
+태양에너지	solar energy
+엄숙하게	solemnly
+독백	soliloquy
+가끔	sometimes
+약간	somewhat
+어딘가에	somewhere
+아들	son
+노래	song
+작사가	songwriter
+곧	soon
+이학년	sophomore
+요술	sorcery
+인후염	sore throat
+미안한	sorry
+소리가나다	sound
+국	soup
+국그릇	soup bowl
+신	sour
+남쪽	south
+남극	South Pole
+남반구	Southern Hemisphere
+씨를 뿌리다	sow
+외계인	space alien
+우주선	spaceship
+스페인	Spain
+스페인사람	Spanish person
+살려주다	spare
+뒤집개	spatula
+말하다	speak
+스피커	speakers
+특수부대	special forces
+유령	specter
+속도제한	speed limit
+신속히	speedily
+속도위반티켓	speeding ticket
+보내다	spend
+돈을쓰다	spend money
+지내다	spend time
+매운	spicy
+거미	spider
+탈수 주기	spin cycle
+시금치	spinach
+척추	spinal column
+영적 세계	spirit world
+침을 뱉다	spit
+찢다	split
+스폰지	sponge
+해면	sponge
+자발적인	spontaneous
+숟가락	spoon
+스포츠 셔츠	sport shirt
+운동	sports
+스포츠맨정신	sportsmanship
+삔	sprain
+퍼뜨리다	spread
+메트릭스 정산표	spreadsheet
+봄	spring
+살짝 적시다	sprinkle
+싹트다	sprout
+정사각형	square
+호박	squash
+짜내다	squeeze
+오징어	squid
+갈짓자 걸음으로 걷다	stagger
+얼룩지게하다	stain
+싱싱하지 못한	stale
+우표	stamp
+서다	stand
+별	star
+불가사리	starfish
+시작하다	start
+주	state
+주세	state tax
+머물다	stay
+훔치다	steal
+가파른	steep
+조종하다	steer
+한발짝 내딛다	step
+전축	stereo system
+엄격하게	sternly
+스튜	stew
+뻐근한목	stiff neck
+여전히	still
+인색한	stingy
+봉합	stitches
+창고담당인	stock clerk
+주식	stocks
+배	stomach
+복통	stomach ache
+멈추다	stop
+멈춤 신호	stop sign
+창고	storage room
+가게	store
+습격하다	storm
+단호한	stout
+난로	stove
+곧장	straight
+곶은	straight
+곧장	straight away
+잡아당기다	strain
+이상한	strange
+전략	strategy
+딸기	strawberry
+시냇물	stream
+길	street
+번지수	street number
+도로표시판	street sign
+잡아 늘리다	stretch
+치다	strike
+벗기다	strip
+노력하다	strive
+유모차	stroller
+힘센	strong
+호황	strong economy
+강하게	strongly
+학생	student
+휴게실	student lounge
+공부하다	study
+채워 넣다	stuff
+어리벙벙하게 하다	stun
+어리석은	stupid
+정복하다	subdue
+물에 잠기다	submerge
+제출하다	submit
+대리를 시키다	substitute
+지하철	subway
+성공	success
+성공적으로	successfully
+그와같이	such, so
+빨다	suck
+갑작스럽게	suddenly
+투표권	suffrage
+설탕	sugar
+설탕용기	sugar bowl
+제의하다	suggest
+양복	suit
+여행용가방	suitcase
+여름	summer
+소환하다	summon
+태양	sun
+햇빛에 의한 화상	sunburn
+일요일	Sunday
+화창한	sunny
+썬텐로션	suntan lotion
+우수한	superior
+미신	superstition
+감독자	supervisor
+공급하다	supply
+공급선	supply line
+지지	support
+지지하다	support
+억압하다	suppress
+대법원	supreme court
+확실히	surely
+외과 의사	surgeon
+타고 넘다	surmount
+보다 낫다	surpass
+놀라운	surprised
+항복하다	surrender
+둘러싸다	surround
+살아남다	survive
+용의자	suspect
+의심쩍게 여기다	suspect
+의심스럽게	suspiciously
+삼키다	swallow
+맹세하다	swear
+땀흘리다	sweat
+머리띠	sweatband
+스웨터	sweater
+스웨트셔츠	sweatshirt
+바닥을 쓸다	sweep the floor
+달콤한	sweet
+고구마	sweet potato
+애인	sweetheart
+자기	sweetie
+부풀다	swell
+신속히	swiftly
+수영하다	swim
+수영선수	swimmer
+수영장	swimming pool
+수영복	swimsuit
+스위스치즈	Swiss cheese
+부운	swollen
+황새치	swordfish
+상징주의	symbolism
+동정	sympathy
+교향곡	symphony
+증상	symptom
+탁자	table
+테이블보	table cloth
+테이블숟가락	table spoon
+알약	tablet
+꼬리 날개	tail
+재단사	tailor
+오염되다	taint
+가지다	take
+목욕을 하다	take a bath
+수업을 듣다	take a course
+사진을 찍다	take a photograph
+샤워하다	take a shower
+시험을 치다	take an exam
+부적	talisman
+얘기하다	talk
+같이 말하다	talk with
+수다스러운	talkative
+키큰	tall
+길들이다	tame
+탠	tan
+귤	tangerine
+탱크	tank
+탱크톱	tank top
+점 치는 카드	tarot card
+맛보다	taste
+맛없는	taste bad
+맛이찬	taste cold
+맛이뜨거운	taste hot
+선술집	tavern
+세금	tax
+세법	tax code
+택시	taxi
+택시 운전사	taxi driver
+택시요금	taxi fare
+택시미터	taxi meter
+택시 정류장	taxi stand
+차주전자	tea pot
+차셋트	tea set
+가르치다	teach
+선생님	teacher
+팀	team
+협동심	teamwork
+찢다	tear
+티스푼	teaspoon
+테디곰인형	teddy bear
+지루한	tedious
+티	tee
+십대소년	teenager
+치아 미백제	teeth whitener
+전화기	telephone
+전화번호	telephone number
+텔레비젼	television
+텔레비젼방송국	television station
+말하다	tell
+절제	temperance
+절	temple
+십,열	ten
+천만	ten million
+만	ten thousand
+만원	ten thousand won
+부드러운	tender
+상냥하게	tenderly
+테니스	tennis
+운동화	tennis shoes
+테니스바지	tennis shorts
+경직된	tense
+긴장하여 부자연스럽게	tensely
+몹시	terribly
+시험	test
+감사합니다	thank you
+감사한	thankful
+추석	Thanksgiving
+저것	that
+저런종류	that kind of
+모레	the day after tomorrow
+끝	the end
+절도	theft
+그런	then
+저기	there
+그러므로	therefore
+이것들	these
+요즘	these days
+두꺼운	thick
+허벅지	thigh
+얇은	thin
+물건	thing
+생각하다	think
+목마른	thirsty
+십삼,열셋	thirteen
+삼십,서른	thirty
+이것	this
+오늘오후	this afternoon
+오늘저녁	this evening
+이런종류	this kind of
+오늘아침	this morning
+이만큼만	this much, this only
+이번에	this time
+쪼리	thongs
+저것들	those
+사려깊은	thoughtful
+생각깊게	thoughtfully
+위협하다	threaten
+삼,셋	three
+그©M제	three days ago
+세시간전	three hours ago
+삼분전	three minutes ago
+석달전	three months ago
+삼주일전	three weeks ago
+삼년전	three years ago
+절약	thrift
+번성하다	thrive
+목구멍	throat
+목캔디	throat lozenges
+을지나서	through --
+던지다	throw
+천둥	thunder
+목요일	Thursday
+발매인	ticket agent
+발권창구	ticket counter
+묶다	tie
+호랑이	tiger
+꽉낀	tight
+팽팽하게	tightly
+타이즈	tights
+시간	time
+피곤한	tired
+피곤하게하는	tiring
+우선	to begin with
+우선	to start with
+토스터기	toaster
+오늘	today
+발가락	toe
+발톱	toenail
+같이	together
+변기통	toilet
+관용	tolerance
+통행료징수소	tollbooth
+내일	tomorrow
+내일오후	tomorrow afternoon
+내일저녁	tomorrow evening
+내일아침	tomorrow morning
+내일밤	tomorrow night
+혀	tongue
+오늘밤	tonight
+너무많이	too much
+연장창고	tool shed
+이빨	tooth
+치통	toothache
+치솔	toothbrush
+치약	toothpaste
+맛이좋은	toothsome
+토네이도	tornado
+고문하다	torture
+전부	total
+만지다	touch
+거친	tough
+수건	towel
+독성폐기물	toxic waste
+장난감가게	toy store
+육상경기	Track and field
+트렉터	tractor
+교통	traffic
+교통재판소	traffic court
+교통학교	traffic school
+기차	train
+훈련하다	train
+기차역	train station
+짓밟다	trample
+번역하다	translate
+통역사	translator
+수송하다	transport
+쓰레기봉지	trash bag
+정신적 충격	traumatic
+여행하다	travel
+여행사	travel agency
+여행	travel, trip
+쟁반	tray
+트레이드 테이블	tray table
+기대에 어긋나는	treacherous
+벌벌떨다	tremble
+트렌치 코트	trenchcoat
+삼각형	triangle
+개가를 올리다	triumph
+승리	triumph
+트롤	troll
+부대	troops
+송어	trout
+트럭운전사	truck driver
+진실로	truly
+정직하게	truthfully
+시도하다	try
+티셔츠	T-shirt
+욕조	tub
+화요일	Tuesday
+참치샌드위치	tuna fish sandwich
+터널	tunnel
+칠면조	turkey
+돌다	turn
+소리를 줄이다	turn down the volume
+내다	turn in, hand in
+소리를크게하다	turn up the volume
+무	turnip
+연인	turtledove
+턱시도	tuxedo
+십이,열둘	twelve
+이십,스물	twenty
+이인용침대	twin bed
+비틀어 돌리다	twist
+뒤틀린발목	twisted ankle
+이, 둘	two
+그제	two days ago
+두시간전	two hours ago
+이분전	two minutes ago
+두달전	two months ago
+이주일전	two weeks ago
+이년전	two years ago
+타이프를 치다	type
+타이피스트	typist
+못생긴	ugly
+우산	umbrella
+야심이없는	unambitious
+삼촌	uncle
+불편한	uncomfortable
+버릇없는	uncouth
+지하도	underpass
+이해하다	understand
+장의사	undertaker
+속옷	underwear
+벗다	undress
+실업자	unemployed
+예상밖으로	unexpectedly
+펼치다	unfold
+불친절한	unfriendly
+배은망덕한	ungrateful
+병약한	unhealthy
+유니폼	uniform
+조합	union
+통합하다	unite
+통일	unity
+종합대학교	university
+깔끔하지못한	unkempt
+불친절한	unkind
+인기없는	unpopular
+믿을수없는	unreliable
+헌신적인	unselfish
+마지못한, 마지못해 하는	unwilling
+위	up side, top side, above
+까지	up to
+낙관적인	upbeat
+팔뚝	upper arm
+뒤엎다	upset
+천왕성	Uranus
+사용하다	use
+시스템이 사용하기 쉬운	user friendly
+보통	usually
+청소기를 돌리다	vacuum
+헛된	vain
+발렌타인데이	Valentine’s Day
+계곡	valley
+가치	values
+흡혈귀	vampire
+허영심	vanity
+다양성	variety
+비디오	VCR
+정맥	vein
+금성	Venus
+배심원 판정	verdict
+다용도의	versatile
+매우	very
+굉장히 적게	very little
+굉장히 많이	very much
+조끼	vest
+수의사	veterinarian
+승리	victory
+비디오 가게	video shop
+폭력	violence
+폭력적인	violent
+폭력적으로	violently
+보라	violet
+바이러스	virus
+비자	visa
+방문하다	visit
+단어	vocabulary word
+목소리	voice
+지원자	volunteer
+부두교	voodoo
+맹세하다	vow
+대머리수리	vulture
+전쟁을 하다	wage
+울부짖다	wail
+허리	waist
+기다리다	wait
+웨이터	waiter
+대기실	waiting area
+웨이트레스	waitress
+잠이 깨다	waken
+걷다	walk
+벽	wall
+지갑	wallet
+전쟁	war
+따뜻한	warm
+따뜻하게	warmly
+경고하다	warn
+사마귀	wart
+씻다	wash
+세수하다	wash face
+설걷이를 하다	wash the dishes
+세탁기	washing machine
+말벌	wasp
+쓰레기통	wastebasket
+보다	watch
+손목시계	watch
+티비를 보다	watch TV
+물	water
+물을 주다	water
+물침대	water bed
+수질오염	water pollution
+폭포	waterfall
+수박	watermelon
+손을 흔들다	wave
+파도	waves
+약한	weak
+불황	weak economy
+가냘프게	weakly
+모자를 쓰다	wear a hat
+안경,장갑을 끼다	wear glasses, gloves
+옷을 입다	wear, put on clothes
+지쳐서	wearily
+날씨	weather
+결혼식	wedding
+결혼식	wedding ceremony
+결혼 피로연	wedding reception
+결혼 반지	wedding ring
+수요일	Wednesday
+주말	weekend
+울다	weep
+무게를 재다	weigh
+용접공	welder
+건강한	well
+늑대인간	werewolf
+서쪽	west
+젖은	wet
+물수건	wet towel
+고래	whale
+무슨?	what kind of?
+뭐?	what?
+어떻게 지내니?	what’s up?
+밀 식빵	wheat bread
+휠체어	wheelchair
+쌕쌕거리는소리	wheeze
+언제?	when?
+어디?	where?
+반면	whereas
+어느?	which?
+동안	while, during
+채찍질하다	whip
+빙빙 돌리다	whirl
+흰색	white
+흰식빵	white bread
+공무원이나 회사원의 부정행위	white collar crime
+흰양말	white socks
+백포도주	white wine
+누구?	who?
+왜?	why?
+심술궂은	wicked
+넓은	wide
+미망인	widow
+넓이	width
+아내	wife
+야생의	wild
+거칠게	wildly
+자발적인	willing
+승리	win
+이기다	win
+바람	wind
+풍력	wind
+창문	window
+창문 닦는 것	window cleaner
+창문쪽 좌석	window seat
+바람이 부는	windy
+포도주	wine
+포도주잔	wine glass
+날개	wing
+겨울	winter
+닦아 내다	wipe
+현명	wisdom
+사랑니	wisdom tooth
+희망하다	wish
+마녀	witch
+인출하다	withdraw
+아무런 이유없이	without any special reason
+증인	witness
+재치있는	witty
+마법사	wizard
+여자	woman
+이상하게 여기다	wonder
+딱따구리	woodpecker
+말	word
+일하다	work
+걱정스러운	worried
+예배보다	worship
+상처내다	wound
+부상	wounded
+비틀어 돌리다	wrench
+레슬링	wrestling
+손목	wrist
+쓰다	write
+작가	writer
+엑스레이 촬영	X-ray
+엑스레이기	x-ray machine
+요트	yacht
+하품하다	yawn
+매년	yearly
+노랑	yellow
+네	yes
+어제	yesterday
+어제오후	yesterday afternoon
+어제저녁	yesterday evening
+어제아침	yesterday morning 
+양보하다	yield
+양보표지	yield sign
+남동생	younger brother
+여동생	younger sister
+기린	zebra
+묘미	zest
+우편번호	zip code
+잠비	zombie
+동물원	zoo

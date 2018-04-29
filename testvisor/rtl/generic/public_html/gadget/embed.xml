@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+  <ModulePrefs 
+	title="Daily Challenge - I Test You" 
+	title_url="http://www.itestyou.com" 
+	author="ITestYou Gadget Maker" 
+	author_email="gadget_maker@itestyou.com" 
+	screenshot="http://www.itestyou.com/img/ity_worksheet.gif" 
+	scrolling="true" 
+	height="340" 
+  /> 
+  <UserPref name="grade" display_name="Grade" default_value="6" datatype="enum" >
+    <EnumValue value="1" />
+    <EnumValue value="2" />
+    <EnumValue value="3" />
+    <EnumValue value="4" />
+    <EnumValue value="5" />
+    <EnumValue value="6" />
+    <EnumValue value="7" />
+	<EnumValue value="8" />  
+	<EnumValue value="9" />
+	<EnumValue value="10" />
+	<EnumValue value="11" />
+	<EnumValue value="12" />
+  </UserPref>
+  <Content type="html">
+     <![CDATA[ 
+        <script type="text/javascript">
+		    var prefs = new gadgets.Prefs();
+			itesty_iframe_style = "margin: 0px; padding: 0px; width: 100%; height: 340px;";
+			itesty_grade_id = prefs.getString("grade");
+		</script>
+		<script src="http://www.itestyou.com/js/embed.js" type="text/javascript"></script>
+     ]]>
+  </Content> 
+</Module>

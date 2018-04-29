@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b}" defaults="{1,2}">
+	<eval>      
+		<stmt>w := a*x</stmt>
+		<stmt>h := b*x</stmt> 
+	</eval>   
+	<question>A backetball court is shaped like a rectangle. It has a width of <draw><echo>w</echo></draw> meters and a length of <draw><echo>h</echo></draw> meters. Which expression gives the area of the court in square meters?</question>  
+	<choices>      
+		<answer>  
+			<draw><echo>Simplify(w*h)</echo></draw> 
+		</answer>
+		<decoy>  
+			<draw><echo>Simplify((a+b)*x)</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Simplify((a+b)*x*x)</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Simplify(w*h*x)</echo></draw> 
+		</decoy>
+	</choices>
+</unit>

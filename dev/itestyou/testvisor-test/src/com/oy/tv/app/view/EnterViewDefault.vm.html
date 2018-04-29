@@ -1,0 +1,56 @@
+<html>
+
+<head>
+	<title>ITestYou - Get ready for test!</title>
+	<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+	<link type='text/css' href='$ResourceLocator.getCSSHref()' rel='stylesheet' />
+	<style>
+		label {
+			text-align: left;
+			display: block;
+			width: 150px;
+			margin-top: 12px;
+		}
+		
+		input {
+			width: 150px;
+		}
+	</style>
+</head> 
+
+<body>
+	
+	<h3 align='center'>Welcome to the ITestYou!</h3>
+	<hr />
+	  
+	$WebParts.beginPanel($out, "100%")
+	
+	<tr style='height: 200px;'>
+		<td align='center'>
+		<div align='center' style='width: 400px; text-align: left;'>
+	
+		<p>Get ready!</p>
+		<p>You are about to take a test <b># $model.getBundleId()</b>. This test has $model.getStepsCount() questions.</p>
+		<p>
+			Don't use the browser back button. 
+			Don't close the browser window. 
+			You can't change your answer once it is sent out.
+		</p>
+		<p>Good luck!</p>
+		</div>
+		</td>
+	</tr>
+	
+	$WebParts.endPanel($out)
+	
+	<hr />
+	
+	<form action='view' method='POST' style='margin: 0px;'>  
+		<input type='hidden' name='action_id' value='$m_Next.hashCode()'>
+		<p align='center'>
+			<input style='width: 64px;' type='submit' value='continue' />
+		</p>
+	</form>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b}" defaults="{3,8}">
+	<eval>      
+	<stmt>c := a*b </stmt>
+	</eval>   
+	<question>The steps Quentin took to evaluate the expression <latex>${a}m - ${a} \div ${a}</latex> when m = ${b} are shown below.<span class='box'>
+<latex>${a}m - ${a} \div ${a}\ when\ m=${b}</latex><br />
+<latex>${a} \times ${b} = ${c}</latex> <br />
+<latex>${c} - ${a} = ${c-a}</latex> <br />
+<latex>${c-a} \div ${a} = ${(c-a)/a}</latex> <br />
+</span>
+What should Quentin have done differently in order to evaluate the expression?
+</question>  
+	<choices>      
+		<answer>  
+		subtracted (${a} <latex>\div</latex> ${a}) from ${c}
+		</answer>
+		<decoy>
+		subtracted ${a} from (${c} <latex>\div</latex> ${a})
+		</decoy>
+		<decoy>
+		divided (${c} - ${a}) by (${c} <latex>\times</latex> ${a})
+		</decoy>
+		<decoy>
+		divided (${c} - ${a}) by (${c} - ${a})
+		</decoy>
+	</choices>
+</unit>

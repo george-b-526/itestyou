@@ -1,0 +1,224 @@
+<Limit GET HEAD POST>
+order allow,deny
+allow from all
+</Limit>
+
+
+#########################################################################################
+#                                                                                       #
+# Banned IP addresses for obusive comment posters, crawlers, etc.                       #
+#                                                                                       #
+
+deny from 14.161.40.
+deny from 23.19.
+deny from 31.3.225.
+deny from 31.193.7.
+deny from 37.59.37.
+deny from 37.59.180.
+deny from 37.59.241.
+deny from 46.4.227.
+deny from 46.29.252.
+deny from 46.29.253.
+deny from 62.141.207.
+deny from 64.120.65.
+deny from 64.120.93.
+deny from 67.230.178.
+deny from 68.36.76.
+deny from 68.233.241.
+deny from 69.175.126.
+deny from 60.28.245.
+allow from 73.241.238.150
+deny from 74.221.211.
+deny from 74.221.215.
+deny from 79.114.40.
+deny from 79.118.166.
+deny from 81.108.184.
+deny from 87.98.163.
+deny from 87.237.126.
+deny from 88.80.20.
+deny from 88.80.21.
+deny from 88.198.28.
+deny from 88.227.
+deny from 92.85.57.
+deny from 94.19.191.
+deny from 108.62.88.
+deny from 108.62.146.
+deny from 126.15.6.
+deny from 109.169.6.
+deny from 173.236.68.
+deny from 176.31.150.
+deny from 111.119.178.
+deny from 128.204.207.
+deny from 149.3.141.
+deny from 173.73.81.
+deny from 173.208.
+deny from 173.213.
+deny from 173.234.
+deny from 173.236.68.
+deny from 174.122.237.
+deny from 176.9.235.
+deny from 176.61.140.
+deny from 176.61.142.
+deny from 176.227.195.
+deny from 178.123.109.
+deny from 178.216.50.
+deny from 180.178.45.
+deny from 184.22.107.
+deny from 184.22.194.
+deny from 188.40.135.
+deny from 190.37.135.
+deny from 199.101.101.
+deny from 199.180.128.
+deny from 208.68.161.
+deny from 208.117.11.
+deny from 212.110.181.
+deny from 212.110.182.
+deny from 213.251.170.
+
+#                                                                                       #
+#                                                                                       #
+#########################################################################################
+
+
+
+#
+# Hide php.ini file
+#
+<Files php.ini>
+Order allow,deny
+Deny from all
+</Files>
+
+#
+# Rewrite ON
+#
+RewriteEngine on
+RewriteBase /
+
+#
+# Host thinkingisexpensive.com home page and assets here
+#
+RewriteCond %{HTTP_HOST} ^(.*)thinkingisexpensive.com [nc]
+RewriteRule ^$ http://127.0.0.1/other/tie/index.html [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)thinkingisexpensive.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/tie/$1 [P,L]
+
+#
+# Host adaptiveworkouts.com home page and assets here
+#
+RewriteCond %{HTTP_HOST} ^(.*)adaptiveworkouts.com [nc]
+RewriteRule ^$ http://127.0.0.1/other/aw/index.html [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)adaptiveworkouts.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/aw/$1 [P,L]
+
+#
+# Host vokamis.com home page and assets here
+#
+RewriteCond %{HTTP_HOST} ^(.*)vokamis.com [nc]
+RewriteRule ^$ http://127.0.0.1/other/vokamis/welcome.html [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)vokamis.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/vokamis/$1 [P,L]
+
+#
+# Host authoratory.com home page and assets here
+#
+RewriteCond %{HTTP_HOST} ^(.*)authoratory.com [nc]
+RewriteRule ^tutorial/(.*) http://127.0.0.1/other/authoratory/tutorial/$1 [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)authoratory.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/authoratory/index.html [P,L]
+
+#
+# Host dmitripapichev.com home page and assets here
+#
+RewriteCond %{HTTP_HOST} ^(.*)dmitripapichev.com [nc]
+RewriteRule ^$ http://127.0.0.1/other/dp/index.html [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)dmitripapichev.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/dp/$1 [P,L]
+
+#
+# Host softwaresecretweapons.com home page and assets here
+#
+#
+# Here are selected page redirects
+#
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule ^jspwiki$ http://softwaresecretweapons.com/index.html [L,R=302]
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule ^jspwiki/$ http://softwaresecretweapons.com/index.html [L,R=302]
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule ^jspwiki/pavelsimakov$ http://softwaresecretweapons.com/index.html [L,R=302]
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule ^jspwiki/lookingatpeoplethroughtheirwords$ http://softwaresecretweapons.com/looking_people_words.html [L,R=302]
+#
+# Here are the rest of pages
+#
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule ^$ http://127.0.0.1/other/ssw/index.html [P,L]
+RewriteCond %{HTTP_HOST} ^(.*)softwaresecretweapons.com [nc]
+RewriteRule (.*) http://127.0.0.1/other/ssw/$1 [P,L]
+
+#
+# mediawiki to wordpress transition
+#
+RewriteRule ^learn/leaderboard(.*) /cms/overall-leaderboard [P,L]
+RewriteRule ^study/math/grade-(.*) /cms/category/math-grade-$1 [P,L,QSA]
+RewriteRule ^practice/math/unit-([0-9]+)		/cms/unit-$1 [P,L]
+RewriteRule ^practice/math/unit-([0-9]+)/(.*)		/cms/unit-$1 [P,L]
+RewriteRule ^learn(.*) /cms [P,L]
+RewriteRule ^practice(.*) /cms [P,L]
+
+#
+# Enable rewrite engine
+# 
+DirectoryIndex cms/index.php
+Options -Indexes
+Options +FollowSymlinks
+Options +ExecCGI
+
+#
+# Admin console                                                    #
+#
+RewriteRule ^admin/bin/view http://127.0.0.1:8080/admin/bin/view [P,L]
+
+#
+# Identity API
+#
+RewriteRule ^api/identity http://127.0.0.1:8080/api [P,L] 
+
+#
+# Force www
+#
+# RewriteCond %{HTTP_HOST} ^itestyou.com [nc]
+# RewriteRule ^(.*)$ http://www.itestyou.com/$1 [L,R=301]
+
+#
+# SSL to localhost to cover nod_jk SSL handlers
+#
+RewriteCond %{SERVER_PORT} 443
+RewriteRule ^(.*) http://127.0.0.1/$1 [P,L]
+ 
+#
+# Tomcat ML Handler Rules
+#
+RewriteRule ^api/ml/lnplot$ /ml/chartml/lineplot [L]
+RewriteRule ^api/ml/qdrtcplot$ /ml/chartml/quadraticplot [L]
+RewriteRule ^api/ml/cbcplot$ /ml/chartml/cubicplot [L]
+
+#
+# CGI ML Handler Rules
+#
+RewriteRule ^api/ml/math(.*) api/ml/math.cgi [L,T=application/x-httpd-cgi]
+
+# Rest API Handlers
+RewriteRule ^api/user/register(.*) api/user/register.php [L,QSA]
+
+# App Views & Account
+RewriteRule ^view/leaderboard(.*) view/leaderboard.php [L,QSA]
+RewriteRule ^view/progress(.*) view/week.php [L,QSA]
+RewriteRule ^view/home(.*) view/home.php [L,QSA]
+RewriteRule ^view/shout view/shout.php [L,QSA]
+RewriteRule ^view/vocb/unit-([0-9]+)               /view/vocb.php?uni_id=$1 [L,QSA]
+RewriteRule ^view/unit/([0-9]+)		           /view/vocb.php?uni_id=$1 [L,QSA]
+
+# landing
+RewriteRule ^land/(.*)	/landing/index.php?verb=$1 [L,QSA]

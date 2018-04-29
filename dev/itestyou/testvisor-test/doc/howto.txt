@@ -1,0 +1,6 @@
+HOW TO DEPLOY
+
+	- change chmod of /var/lib/php/session to 0775; this 
+	  is the place we share sessions between Java and PHP
+	- copy war files over to /oy/testvisor/setup/webapps
+	- sh /oy/testvisor/sbin/deploy.tomcat.sh

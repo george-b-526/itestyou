@@ -1,0 +1,16 @@
+<div style='width: 100%; background-color: #000000; border-top: solid 1px #E0E0E0; padding: 0px; margin: 0px; margin-top: 8px;' align='center'>
+<script type="text/javascript"><!--
+  google_ad_client = "pub-8465789318606144";
+  google_ad_width = 300;
+  google_ad_height = 250;
+  google_ad_format = "300x250_as";
+  google_ad_type = "text";
+  google_ad_channel = "7778573816";
+  google_color_border = "000000";
+  google_color_bg = "000000";
+  google_color_link = "00FFFF";
+  google_color_text = "FFFFFF";
+  google_color_url = "FFFFFF";
+//--></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>

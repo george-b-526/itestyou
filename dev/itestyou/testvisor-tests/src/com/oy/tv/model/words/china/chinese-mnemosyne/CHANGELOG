@@ -1,0 +1,19 @@
+v0.9:
+  - Single-character words from HSK sets 1-4
+  - Multi-character words from HSK sets 1-2
+  - Top 2000 characters, sorted by frequency
+
+v1.0:
+  - All characters appearing in HSK sets 1-4
+  - Multi-character words from HSK sets 1-4
+  - Top 2000 characters as before
+
+v1.1:
+  - Traditional character version of all HSK characters and words
+    (thanks to Hugh Chen)
+
+v1.2:
+  - Fixed the error with the traditional version. 
+    It now loads without problems.
+  - Converted all tone marks from unicode tone marks superimposed on 
+    top of characters to characters that already include tones.

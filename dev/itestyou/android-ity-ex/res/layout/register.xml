@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:weightSum="1">
+	<LinearLayout android:layout_marginLeft="32dip"
+		android:layout_gravity="center_horizontal" android:layout_weight="1.00"
+		android:orientation="vertical" android:id="@+id/linearLayout1"
+		android:layout_height="match_parent" android:layout_width="match_parent"
+		android:layout_marginRight="32dip" android:weightSum="1">
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceLarge"
+			android:text="Create New Account" android:layout_width="match_parent"
+			android:id="@+id/title" android:layout_height="wrap_content"
+			android:gravity="center"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:text="Your Email" android:layout_width="wrap_content"
+			android:id="@+id/textEdit25" android:layout_height="wrap_content"></TextView>
+		<LinearLayout android:id="@+id/linearLayout3"
+			android:layout_height="wrap_content" android:layout_width="match_parent"
+			android:orientation="vertical">
+			<EditText android:id="@+id/email" android:layout_width="match_parent"
+				android:layout_height="wrap_content" android:lines="1" android:inputType="textEmailAddress|"></EditText>
+		</LinearLayout>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:text="Password" android:layout_width="wrap_content"
+			android:id="@+id/editText1" android:layout_height="wrap_content"></TextView>
+		<EditText android:id="@+id/pwd1" android:layout_width="match_parent"
+			android:layout_height="wrap_content" android:inputType="textPassword"></EditText>
+		<TextView android:textAppearance="?android:attr/textAppearanceMedium"
+			android:text="Confirm Password" android:layout_width="wrap_content"
+			android:id="@+id/pwd2Caption" android:layout_height="wrap_content"></TextView>
+		<EditText android:id="@+id/pwd2" android:layout_width="match_parent"
+			android:layout_height="wrap_content" android:inputType="textPassword"></EditText>
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<TextView android:layout_width="match_parent" android:id="@+id/textView2"
+			android:layout_height="wrap_content"></TextView>
+		<LinearLayout android:id="@+id/linearLayout4" android:orientation="vertical" android:gravity="bottom" android:layout_height="match_parent" android:layout_width="match_parent">
+			<LinearLayout android:layout_height="wrap_content" android:id="@+id/linearLayout2" android:layout_width="match_parent" android:gravity="center" android:weightSum="1">
+				<Button android:id="@+id/ok" android:text="OK" android:layout_height="wrap_content" android:layout_weight="0.50" android:layout_width="0dp" android:textStyle="bold"></Button>
+				<Button android:layout_weight="0.50" android:id="@+id/cancel" android:text=" Cancel " android:layout_height="wrap_content" android:layout_width="0dp"></Button>
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+	<TextView android:id="@+id/textView1" android:layout_weight="1.00" android:text=" " android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceMedium" android:layout_width="match_parent"></TextView>
+</LinearLayout>

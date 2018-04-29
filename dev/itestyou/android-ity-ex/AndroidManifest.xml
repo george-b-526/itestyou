@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.vokamis.ity"
+      xmlns:android="http://schemas.android.com/apk/res/android" 
+      android:versionName="1.8" 
+      android:versionCode="8">
+    
+    <uses-sdk android:minSdkVersion="8" />
+  
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.GET_ACCOUNTS" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />  
+    
+    <application 
+	    android:icon="@drawable/icon" 
+	    android:label="@string/app_name" 
+	    android:theme="@style/CustomTheme"
+	    android:allowClearUserData="false" 
+	    android:debuggable="false" 
+	    android:description="@string/website" 
+	    android:persistent="true">
+        <activity android:name=".RootActivityFree"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+</manifest>

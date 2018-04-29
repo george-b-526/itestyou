@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Ukrainian (&#x0420;&#x0443;&#x0441;&#x0441;&#x043A;&#x0438;&#x0439;)">
+<!--generated: Sun Jan 29 02:47:56 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="здатність" i="0" m="ability" t="n"/>
+<w c="abstract" e="дія" i="1" m="act" t="n"/>
+<w c="abstract" e="вчинок; дія" i="2" m="action" t="n"/>
+<w c="abstract" e="діяльність" i="3" m="activity" t="n"/>
+<w c="abstract" e="доповнення" i="4" m="addition" t="n"/>
+<w c="abstract" e="кількість" i="5" m="amount" t="n"/>
+<w c="abstract" e="напад" i="6" m="attack" t="n"/>
+<w c="abstract" e="намагання" i="7" m="attempt" t="n"/>
+<w c="abstract" e="позиція; ставлення" i="8" m="attitude" t="n"/>
+<w c="abstract" e="спина; обгортка (книги)" i="9" m="back" t="n"/>
+<w c="abstract" e="поведінка" i="10" m="behavior" t="n"/>
+<w c="abstract" e="шматок" i="11" m="bit" t="n"/>
+<w c="abstract" e="удар; подув" i="12" m="blow" t="n"/>
+<w c="abstract" e="пауза; перерва" i="13" m="break" t="n"/>
+<w c="abstract" e="компанія" i="14" m="campaign" t="n"/>
+<w c="abstract" e="випадок; справа" i="15" m="case" t="n"/>
+<w c="abstract" e="можливість; шанс" i="16" m="chance" t="n"/>
+<w c="abstract" e="зміна" i="17" m="change" t="n"/>
+<w c="abstract" e="вибір" i="18" m="choice" t="n"/>
+<w c="abstract" e="стан" i="19" m="condition" t="n"/>
+<w c="abstract" e="з'єднання" i="20" m="connection" t="n"/>
+<w c="abstract" e="підключення" i="21" m="connection" t="n"/>
+<w c="abstract" e="тріск; розлом" i="22" m="crack" t="n"/>
+<w c="abstract" e="роздавлювання; тиснява" i="23" m="crush" t="n"/>
+<w c="abstract" e="відрізок; розріз" i="24" m="cut" t="n"/>
+<w c="abstract" e="пошкодження" i="25" m="damage" t="n"/>
+<w c="abstract" e="небезпека" i="26" m="danger" t="n"/>
+<w c="abstract" e="смерть" i="27" m="death" t="n"/>
+<w c="abstract" e="декорація" i="28" m="decoration" t="n"/>
+<w c="abstract" e="оборона" i="29" m="defense" t="n"/>
+<w c="abstract" e="руйнування" i="30" m="destruction" t="n"/>
+<w c="abstract" e="подробиця; деталь" i="31" m="detail" t="n"/>
+<w c="abstract" e="переважання; перевага" i="32" m="dominance" t="n"/>
+<w c="abstract" e="крапля" i="33" m="drop" t="n"/>
+<w c="abstract" e="обов'язок" i="34" m="duty" t="n"/>
+<w c="abstract" e="зусилля" i="35" m="effort" t="n"/>
+<w c="abstract" e="падіння" i="36" m="fall" t="n"/>
+<w c="abstract" e="властивість" i="37" m="feature" t="n"/>
+<w c="abstract" e="боротьба" i="38" m="fight" t="n"/>
+<w c="abstract" e="перед" i="39" m="front" t="n"/>
+<w c="abstract" e="висота" i="40" m="height" t="n"/>
+<w c="abstract" e="удар" i="41" m="hit" t="n"/>
+<w c="abstract" e="дірка; отвір" i="42" m="hole" t="n"/>
+<w c="abstract" e="збільшення" i="43" m="increase" t="n"/>
+<w c="abstract" e="приріст" i="44" m="increase" t="n"/>
+<w c="abstract" e="інтернет" i="45" m="internet" t="n"/>
+<w c="abstract" e="поштовх" i="46" m="jolt" t="n"/>
+<w c="abstract" e="стрибок" i="47" m="jump" t="n"/>
+<w c="abstract" e="удар ногою; удар" i="48" m="kick" t="n"/>
+<w c="abstract" e="вид; різновид" i="49" m="kind" t="n"/>
+<w c="abstract" e="вузол" i="50" m="knot" t="n"/>
+<w c="abstract" e="список; перелік" i="51" m="list" t="n"/>
+<w c="abstract" e="більшість" i="52" m="majority" t="n"/>
+<w c="abstract" e="спосіб; метод; стиль" i="53" m="manner" t="n"/>
+<w c="abstract" e="справа" i="54" m="matter" t="n"/>
+<w c="abstract" e="засіб" i="55" m="means" t="n"/>
+<w c="abstract" e="розум, думка" i="56" m="mind" t="n"/>
+<w c="abstract" e="дія" i="57" m="operation" t="n"/>
+<w c="abstract" e="протилежність" i="58" m="opposite" t="n"/>
+<w c="abstract" e="вибух; спалах" i="59" m="outburst" t="n"/>
+<w c="abstract" e="частина" i="60" m="part" t="n"/>
+<w c="abstract" e="частина" i="61" m="part" t="n"/>
+<w c="abstract" e="характер; особистість" i="62" m="personality" t="n"/>
+<w c="abstract" e="шматок" i="63" m="piece" t="n"/>
+<w c="abstract" e="місце" i="64" m="place" t="n"/>
+<w c="abstract" e="позиція; положення" i="65" m="position" t="n"/>
+<w c="abstract" e="сила; енергія" i="66" m="power" t="n"/>
+<w c="abstract" e="практика" i="67" m="practice" t="n"/>
+<w c="abstract" e="проект" i="68" m="project" t="n"/>
+<w c="abstract" e="властивість; власність" i="69" m="property" t="n"/>
+<w c="abstract" e="якість" i="70" m="quality" t="n"/>
+<w c="abstract" e="тиша; спокій" i="71" m="quiet" t="n"/>
+<w c="abstract" e="досяжність" i="72" m="reach" t="n"/>
+<w c="abstract" e="звіт; доповідь" i="73" m="report" t="n"/>
+<w c="abstract" e="відповідальність" i="74" m="responsibility" t="n"/>
+<w c="abstract" e="відпочинок" i="75" m="rest" t="n"/>
+<w c="abstract" e="повернення" i="76" m="return" t="n"/>
+<w c="abstract" e="підйом" i="77" m="rise" t="n"/>
+<w c="abstract" e="ризик" i="78" m="risk" t="n"/>
+<w c="abstract" e="місце" i="79" m="seat" t="n"/>
+<w c="abstract" e="серіал; багатосерійний серіал" i="80" m="serial" t="n"/>
+<w c="abstract" e="набір; комплект" i="81" m="set" t="n"/>
+<w c="abstract" e="тремтіння" i="82" m="shake" t="n"/>
+<w c="abstract" e="шок" i="83" m="shock" t="n"/>
+<w c="abstract" e="тиша" i="84" m="silence" t="n"/>
+<w c="abstract" e="ситуація" i="85" m="situation" t="n"/>
+<w c="abstract" e="шматок" i="86" m="slice" t="n"/>
+<w c="abstract" e="стан" i="87" m="state" t="n"/>
+<w c="abstract" e="крок; слід" i="88" m="step" t="n"/>
+<w c="abstract" e="зупинка" i="89" m="stop" t="n"/>
+<w c="abstract" e="смак" i="90" m="taste" t="n"/>
+<w c="abstract" e="предмет; річ" i="91" m="thing" t="n"/>
+<w c="abstract" e="верхівка" i="92" m="top" t="n"/>
+<w c="abstract" e="дотик" i="93" m="touch" t="n"/>
+<w c="abstract" e="догляд; ставлення" i="94" m="treatment" t="n"/>
+<w c="abstract" e="трюк" i="95" m="trick" t="n"/>
+<w c="abstract" e="тип" i="96" m="type" t="n"/>
+<w c="abstract" e="застосування" i="97" m="use" t="n"/>
+<w c="abstract" e="зношування" i="98" m="wear" t="n"/>
+<w c="abstract" e="ціле" i="99" m="whole" t="n"/>
+<w c="abstract" e="воля" i="100" m="will" t="n"/>
+<w c="abstract" e="бажання" i="101" m="wish" t="n"/>
+<w c="adjectives" e="кислий; кислотний" i="102" m="acid" t="adj"/>
+<w c="adjectives" e="після; потім" i="103" m="after" t="adj"/>
+<w c="adjectives" e="тому (про час)" i="104" m="ago" t="adj"/>
+<w c="adjectives" e="все; всі" i="105" m="all" t="adj"/>
+<w c="adjectives" e="будь-який" i="106" m="any" t="adj"/>
+<w c="adjectives" e="автоматичний" i="107" m="automatic" t="adj"/>
+<w c="adjectives" e="доступний" i="108" m="available" t="adj"/>
+<w c="adjectives" e="гіркий" i="109" m="bitter" t="adj"/>
+<w c="adjectives" e="нудний" i="110" m="boring" t="adj"/>
+<w c="adjectives" e="обидва" i="111" m="both" t="adj"/>
+<w c="adjectives" e="світлий" i="112" m="bright" t="adj"/>
+<w c="adjectives" e="розбитий" i="113" m="broken" t="adj"/>
+<w c="adjectives" e="центральний" i="114" m="central" t="adj"/>
+<w c="adjectives" e="певний; конкретний" i="115" m="certain" t="adj"/>
+<w c="adjectives" e="дешевий" i="116" m="cheap" t="adj"/>
+<w c="adjectives" e="хімічний" i="117" m="chemical" t="adj"/>
+<w c="adjectives" e="ясний, чистий" i="118" m="clear" t="adj"/>
+<w c="adjectives" e="зачинений; закритий" i="119" m="closed" t="adj"/>
+<w c="adjectives" e="кольоровий" i="120" m="color" t="adj"/>
+<w c="adjectives" e="звичайний" i="121" m="common" t="adj"/>
+<w c="adjectives" e="спільний" i="122" m="common" t="adj"/>
+<w c="adjectives" e="повний; завершений" i="123" m="complete" t="adj"/>
+<w c="adjectives" e="свідомий" i="124" m="conscious" t="adj"/>
+<w c="adjectives" e="жорстокий" i="125" m="cruel" t="adj"/>
+<w c="adjectives" e="поширений; поточний" i="126" m="current" t="adj"/>
+<w c="adjectives" e="витончений; вишуканий" i="127" m="dainty" t="adj"/>
+<w c="adjectives" e="небезпечний" i="128" m="dangerous" t="adj"/>
+<w c="adjectives" e="делікатний" i="129" m="delicate" t="adj"/>
+<w c="adjectives" e="інший" i="130" m="different" t="adj"/>
+<w c="adjectives" e="інакший" i="131" m="different" t="adj"/>
+<w c="adjectives" e="різний" i="132" m="different" t="adj"/>
+<w c="adjectives" e="донизу" i="133" m="down" t="adj"/>
+<w c="adjectives" e="сухий" i="134" m="dry" t="adj"/>
+<w c="adjectives" e="кожен" i="135" m="each" t="adj"/>
+<w c="adjectives" e="ранній; завчасний" i="136" m="early" t="adj"/>
+<w c="adjectives" e="легкий" i="137" m="easy" t="adj"/>
+<w c="adjectives" e="економічний" i="138" m="economic" t="adj"/>
+<w c="adjectives" e="економічний" i="139" m="economic" t="adj"/>
+<w c="adjectives" e="електричний" i="140" m="electric" t="adj"/>
+<w c="adjectives" e="рівний; однаковий" i="141" m="equal" t="adj"/>
+<w c="adjectives" e="парний (про числа)" i="142" m="even" t="adj"/>
+<w c="adjectives" e="рівний" i="143" m="even" t="adj"/>
+<w c="adjectives" e="кожен" i="144" m="every" t="adj"/>
+<w c="adjectives" e="відмінний" i="145" m="excellent" t="adj"/>
+<w c="adjectives" e="несправжній" i="146" m="fake" t="adj"/>
+<w c="adjectives" e="неправильний" i="147" m="false" t="adj"/>
+<w c="adjectives" e="віддалений" i="148" m="far" t="adj"/>
+<w c="adjectives" e="товстий" i="149" m="fat" t="adj"/>
+<w c="adjectives" e="жирний" i="150" m="fat" t="adj"/>
+<w c="adjectives" e="небагато; мало" i="151" m="few" t="adj"/>
+<w c="adjectives" e="кінцевий" i="152" m="final" t="adj"/>
+<w c="adjectives" e="фінансовий" i="153" m="financial" t="adj"/>
+<w c="adjectives" e="твердий; міцний" i="154" m="firm" t="adj"/>
+<w c="adjectives" e="перший" i="155" m="first" t="adj"/>
+<w c="adjectives" e="закріплений; постійний" i="156" m="fixed" t="adj"/>
+<w c="adjectives" e="плоский" i="157" m="flat" t="adj"/>
+<w c="adjectives" e="наступний" i="158" m="following" t="adj"/>
+<w c="adjectives" e="іноземний" i="159" m="foreign" t="adj"/>
+<w c="adjectives" e="колишній; попередній" i="160" m="former" t="adj"/>
+<w c="adjectives" e="крихкий" i="161" m="fragile" t="adj"/>
+<w c="adjectives" e="безкоштовний" i="162" m="free" t="adj"/>
+<w c="adjectives" e="частий; звичайний" i="163" m="frequent" t="adj"/>
+<w c="adjectives" e="свіжий" i="164" m="fresh" t="adj"/>
+<w c="adjectives" e="передній" i="165" m="front" t="adj"/>
+<w c="adjectives" e="повний" i="166" m="full" t="adj"/>
+<w c="adjectives" e="весь; цілий" i="167" m="full" t="adj"/>
+<w c="adjectives" e="далі; потім" i="168" m="further" t="adj"/>
+<w c="adjectives" e="майбутній" i="169" m="future" t="adj"/>
+<w c="adjectives" e="загальний; поширений" i="170" m="general" t="adj"/>
+<w c="adjectives" e="добрий; хороший" i="171" m="good" t="adj"/>
+<w c="adjectives" e="промисловий; індустріальний" i="172" m="industrial" t="adj"/>
+<w c="adjectives" e="цікавий" i="173" m="interesting" t="adj"/>
+<w c="adjectives" e="міжнародний" i="174" m="international" t="adj"/>
+<w c="adjectives" e="минулий" i="175" m="last" t="adj"/>
+<w c="adjectives" e="пізній" i="176" m="late" t="adj"/>
+<w c="adjectives" e="законний" i="177" m="legal" t="adj"/>
+<w c="adjectives" e="світлий; легкий" i="178" m="light" t="adj"/>
+<w c="adjectives" e="рідкий" i="179" m="liquid" t="adj"/>
+<w c="adjectives" e="місцевий; локальний" i="180" m="local" t="adj"/>
+<w c="adjectives" e="гучний" i="181" m="loud" t="adj"/>
+<w c="adjectives" e="низький; невисокий" i="182" m="low" t="adj"/>
+<w c="adjectives" e="щасливий; удачливий" i="183" m="lucky" t="adj"/>
+<w c="adjectives" e="головний; " i="184" m="main" t="adj"/>
+<w c="adjectives" e="більший; важливіший" i="185" m="major" t="adj"/>
+<w c="adjectives" e="багато" i="186" m="many" t="adj"/>
+<w c="adjectives" e="металевий" i="187" m="metal" t="adj"/>
+<w c="adjectives" e="військовий" i="188" m="military" t="adj"/>
+<w c="adjectives" e="дрібний; детальний" i="189" m="minute" t="adj"/>
+<w c="adjectives" e="сучасний" i="190" m="modern" t="adj"/>
+<w c="adjectives" e="більше; ще" i="191" m="more" t="adj"/>
+<w c="adjectives" e="багато" i="192" m="much" t="adj"/>
+<w c="adjectives" e="вузький" i="193" m="narrow" t="adj"/>
+<w c="adjectives" e="національний; народний" i="194" m="national" t="adj"/>
+<w c="adjectives" e="натуральний" i="195" m="natural" t="adj"/>
+<w c="adjectives" e="важливий; необхідний" i="196" m="necessary" t="adj"/>
+<w c="adjectives" e="наступний" i="197" m="next" t="adj"/>
+<w c="adjectives" e="ніякий; ніхто" i="198" m="no" t="adj"/>
+<w c="adjectives" e="нормальний" i="199" m="normal" t="adj"/>
+<w c="adjectives" e="вимкнений" i="200" m="off" t="adj"/>
+<w c="adjectives" e="ввімкнений" i="201" m="on" t="adj"/>
+<w c="adjectives" e="протилежний" i="202" m="opposite" t="adj"/>
+<w c="adjectives" e="початковий; оригінальний" i="203" m="original" t="adj"/>
+<w c="adjectives" e="інший" i="204" m="other" t="adj"/>
+<w c="adjectives" e="свій; власний" i="205" m="own" t="adj"/>
+<w c="adjectives" e="паралельний" i="206" m="parallel" t="adj"/>
+<w c="adjectives" e="особливий; винятковий" i="207" m="particular" t="adj"/>
+<w c="adjectives" e="минулий" i="208" m="past" t="adj"/>
+<w c="adjectives" e="особистий" i="209" m="personal" t="adj"/>
+<w c="adjectives" e="тілесний; фізичний" i="210" m="physical" t="adj"/>
+<w c="adjectives" e="політичний" i="211" m="political" t="adj"/>
+<w c="adjectives" e="жалюгідний; бідний" i="212" m="poor" t="adj"/>
+<w c="adjectives" e="популярний" i="213" m="popular" t="adj"/>
+<w c="adjectives" e="можливий; імовірний" i="214" m="possible" t="adj"/>
+<w c="adjectives" e="сучасний; справжній" i="215" m="present" t="adj"/>
+<w c="adjectives" e="попередній" i="216" m="previous" t="adj"/>
+<w c="adjectives" e="приватний; особистий" i="217" m="private" t="adj"/>
+<w c="adjectives" e="вірогідний" i="218" m="probable" t="adj"/>
+<w c="adjectives" e="професійний" i="219" m="professional" t="adj"/>
+<w c="adjectives" e="громадський; сучасний" i="220" m="public" t="adj"/>
+<w c="adjectives" e="тихий" i="221" m="quiet" t="adj"/>
+<w c="adjectives" e="готовий; схильний" i="222" m="ready" t="adj"/>
+<w c="adjectives" e="недавній" i="223" m="recent" t="adj"/>
+<w c="adjectives" e="регулярний" i="224" m="regular" t="adj"/>
+<w c="adjectives" e="відповідальний" i="225" m="responsible" t="adj"/>
+<w c="adjectives" e="правильний" i="226" m="right" t="adj"/>
+<w c="adjectives" e="жорсткий; негнучкий" i="227" m="rigid" t="adj"/>
+<w c="adjectives" e="грубий" i="228" m="rough" t="adj"/>
+<w c="adjectives" e="круглий" i="229" m="round" t="adj"/>
+<w c="adjectives" e="сумний" i="230" m="sad" t="adj"/>
+<w c="adjectives" e="безпечний; непошкоджений" i="231" m="safe" t="adj"/>
+<w c="adjectives" e="однаковий" i="232" m="same" t="adj"/>
+<w c="adjectives" e="другий" i="233" m="second" t="adj"/>
+<w c="adjectives" e="секретний" i="234" m="secret" t="adj"/>
+<w c="adjectives" e="окремий" i="235" m="separate" t="adj"/>
+<w c="adjectives" e="серйозний" i="236" m="serious" t="adj"/>
+<w c="adjectives" e="визначений; встановлений" i="237" m="set" t="adj"/>
+<w c="adjectives" e="декілька" i="238" m="several" t="adj"/>
+<w c="adjectives" e="короткий" i="239" m="short" t="adj"/>
+<w c="adjectives" e="тихий" i="240" m="silent" t="adj"/>
+<w c="adjectives" e="срібний" i="241" m="silver" t="adj"/>
+<w c="adjectives" e="простий" i="242" m="simple" t="adj"/>
+<w c="adjectives" e="єдиний; самотній" i="243" m="single" t="adj"/>
+<w c="adjectives" e="маленький" i="244" m="small" t="adj"/>
+<w c="adjectives" e="гладенький" i="245" m="smooth" t="adj"/>
+<w c="adjectives" e="громадський; соціальний" i="246" m="social" t="adj"/>
+<w c="adjectives" e="твердий; суцільний" i="247" m="solid" t="adj"/>
+<w c="adjectives" e="рідкий" i="248" m="sparse" t="adj"/>
+<w c="adjectives" e="особливий" i="249" m="special" t="adj"/>
+<w c="adjectives" e="специфічний" i="250" m="specific" t="adj"/>
+<w c="adjectives" e="квадратний" i="251" m="square" t="adj"/>
+<w c="adjectives" e="стандартний" i="252" m="standard" t="adj"/>
+<w c="adjectives" e="клейкий" i="253" m="sticky" t="adj"/>
+<w c="adjectives" e="прямий" i="254" m="straight" t="adj"/>
+<w c="adjectives" e="дивний" i="255" m="strange" t="adj"/>
+<w c="adjectives" e="стильний; елегантний" i="256" m="stylish" t="adj"/>
+<w c="adjectives" e="несподіваний" i="257" m="sudden" t="adj"/>
+<w c="adjectives" e="солодкий" i="258" m="sweet" t="adj"/>
+<w c="adjectives" e="високий" i="259" m="tall" t="adj"/>
+<w c="adjectives" e="густий" i="260" m="thick" t="adj"/>
+<w c="adjectives" e="вузький" i="261" m="thin" t="adj"/>
+<w c="adjectives" e="тісний; тугий" i="262" m="tight" t="adj"/>
+<w c="adjectives" e="правильний" i="263" m="true" t="adj"/>
+<w c="adjectives" e="потворний; огидний" i="264" m="ugly" t="adj"/>
+<w c="adjectives" e="нижній" i="265" m="under" t="adj"/>
+<w c="adjectives" e="незвичний; дивний" i="266" m="unusual" t="adj"/>
+<w c="adjectives" e="використаний" i="267" m="used" t="adj"/>
+<w c="adjectives" e="корисний" i="268" m="useful" t="adj"/>
+<w c="adjectives" e="звичайний" i="269" m="usual" t="adj"/>
+<w c="adjectives" e="звичайний" i="270" m="usual" t="adj"/>
+<w c="adjectives" e="різноманітний" i="271" m="various" t="adj"/>
+<w c="adjectives" e="теплий" i="272" m="warm" t="adj"/>
+<w c="adjectives" e="мокрий" i="273" m="wet" t="adj"/>
+<w c="adjectives" e="весь; цілий" i="274" m="whole" t="adj"/>
+<w c="adjectives" e="широкий" i="275" m="wide" t="adj"/>
+<w c="adjectives" e="другий; інший" i="276" m="another" t="adj"/>
+<w c="adjectives" e="поганий" i="277" m="bad" t="adj"/>
+<w c="adjectives" e="базовий; основний" i="278" m="basic" t="adj"/>
+<w c="adjectives" e="красивий; гарний" i="279" m="beautiful" t="adj"/>
+<w c="adjectives" e="найкращий" i="280" m="best" t="adj"/>
+<w c="adjectives" e="кращий" i="281" m="better" t="adj"/>
+<w c="adjectives" e="крупний; великий" i="282" m="big" t="adj"/>
+<w c="adjectives" e="чистий" i="283" m="clean" t="adj"/>
+<w c="adjectives" e="холодний" i="284" m="cold" t="adj"/>
+<w c="adjectives" e="правильний" i="285" m="correct" t="adj"/>
+<w c="adjectives" e="темний" i="286" m="dark" t="adj"/>
+<w c="adjectives" e="глибокий" i="287" m="deep" t="adj"/>
+<w c="adjectives" e="складний" i="288" m="difficult" t="adj"/>
+<w c="adjectives" e="брудний" i="289" m="dirty" t="adj"/>
+<w c="adjectives" e="швидкий" i="290" m="fast" t="adj"/>
+<w c="adjectives" e="хороший; добрий" i="291" m="good" t="adj"/>
+<w c="adjectives" e="величний; великий" i="292" m="great" t="adj"/>
+<w c="adjectives" e="чудовий" i="293" m="great" t="adj"/>
+<w c="adjectives" e="щасливий" i="294" m="happy" t="adj"/>
+<w c="adjectives" e="здоровий" i="295" m="healthy" t="adj"/>
+<w c="adjectives" e="тяжкий" i="296" m="heavy" t="adj"/>
+<w c="adjectives" e="високий" i="297" m="high" t="adj"/>
+<w c="adjectives" e="гарячий" i="298" m="hot" t="adj"/>
+<w c="adjectives" e="важливий" i="299" m="important" t="adj"/>
+<w c="adjectives" e="лівий" i="300" m="left" t="adj"/>
+<w c="adjectives" e="легкий" i="301" m="light" t="adj"/>
+<w c="adjectives" e="маленький" i="302" m="little" t="adj"/>
+<w c="adjectives" e="довгий" i="303" m="long" t="adj"/>
+<w c="adjectives" e="близький" i="304" m="near" t="adj"/>
+<w c="adjectives" e="новий" i="305" m="new" t="adj"/>
+<w c="adjectives" e="гарний; хороший" i="306" m="nice" t="adj"/>
+<w c="adjectives" e="відкритий" i="307" m="open" t="adj"/>
+<w c="adjectives" e="дійсний; справжній" i="308" m="real" t="adj"/>
+<w c="adjectives" e="правий" i="309" m="right" t="adj"/>
+<w c="adjectives" e="гострий" i="310" m="sharp" t="adj"/>
+<w c="adjectives" e="схожий" i="311" m="similar" t="adj"/>
+<w c="adjectives" e="повільний" i="312" m="slow" t="adj"/>
+<w c="adjectives" e="м'який; ніжний" i="313" m="soft" t="adj"/>
+<w c="adjectives" e="сильний" i="314" m="strong" t="adj"/>
+<w c="adjectives" e="слабкий" i="315" m="weak" t="adj"/>
+<w c="adjectives" e="неправильний" i="316" m="wrong" t="adj"/>
+<w c="adjective" e="здібний" i="317" m="able" t="adj"/>
+<w c="adjective" e="живий" i="318" m="alive" t="adj"/>
+<w c="adjective" e="одинокий; самотній" i="319" m="alone" t="adj"/>
+<w c="adjective" e="сердитий; розгніваний" i="320" m="angry" t="adj"/>
+<w c="adjective" e="пильний" i="321" m="awake" t="adj"/>
+<w c="adjective" e="мертвий" i="322" m="dead" t="adj"/>
+<w c="adjective" e="жіночий" i="323" m="female" t="adj"/>
+<w c="adjective" e="вільний" i="324" m="free" t="adj"/>
+<w c="adjective" e="дружній" i="325" m="friendly" t="adj"/>
+<w c="adjective" e="здоровий" i="326" m="healthy" t="adj"/>
+<w c="adjective" e="гуманний; людський" i="327" m="human" t="adj"/>
+<w c="adjective" e="голодний" i="328" m="hungry" t="adj"/>
+<w c="adjective" e="хворий" i="329" m="ill" t="adj"/>
+<w c="adjective" e="нетерплячий; неспокійний" i="330" m="impatient" t="adj"/>
+<w c="adjective" e="розумний; кмітливий" i="331" m="intelligent" t="adj"/>
+<w c="adjective" e="справедливий; правильний" i="332" m="just" t="adj"/>
+<w c="adjective" e="люб'язний" i="333" m="kind" t="adj"/>
+<w c="adjective" e="чоловічий" i="334" m="male" t="adj"/>
+<w c="adjective" e="мужній" i="335" m="male" t="adj"/>
+<w c="adjective" e="одружений; заміжня" i="336" m="married" t="adj"/>
+<w c="adjective" e="поганий; злий" i="337" m="mean" t="adj"/>
+<w c="adjective" e="медичний; лікувальний" i="338" m="medical" t="adj"/>
+<w c="adjective" e="старий" i="339" m="old" t="adj"/>
+<w c="adjective" e="терплячий" i="340" m="patient" t="adj"/>
+<w c="adjective" e="бідний" i="341" m="poor" t="adj"/>
+<w c="adjective" e="приватний; особистий" i="342" m="private" t="adj"/>
+<w c="adjective" e="багатий" i="343" m="rich" t="adj"/>
+<w c="adjective" e="королівський; розкішний" i="344" m="royal" t="adj"/>
+<w c="adjective" e="сумний" i="345" m="sad" t="adj"/>
+<w c="adjective" e="гострий; різкий" i="346" m="sharp" t="adj"/>
+<w c="adjective" e="дурний; недоумковатий" i="347" m="silly" t="adj"/>
+<w c="adjective" e="щирий" i="348" m="sincere" t="adj"/>
+<w c="adjective" e="неодружений; незаміжня" i="349" m="single" t="adj"/>
+<w c="adjective" e="досвідчений" i="350" m="skilful" t="adj"/>
+<w c="adjective" e="дурний" i="351" m="stupid" t="adj"/>
+<w c="adjective" e="підвладний; залежний" i="352" m="subject" t="adj"/>
+<w c="adjective" e="успішний" i="353" m="successful" t="adj"/>
+<w c="adjective" e="спраглий" i="354" m="thirsty" t="adj"/>
+<w c="adjective" e="стомлений; змучений" i="355" m="tired" t="adj"/>
+<w c="adjective" e="безробітний" i="356" m="unemployed" t="adj"/>
+<w c="adjective" e="насильницький" i="357" m="violent" t="adj"/>
+<w c="adjective" e="мудрий" i="358" m="wise" t="adj"/>
+<w c="adjective" e="молодий" i="359" m="young" t="adj"/>
+<w c="adverb" e="довкола; навкруги" i="360" m="about" t="adv"/>
+<w c="adverb" e="над" i="361" m="above" t="adv"/>
+<w c="adverb" e="впоперек" i="362" m="across" t="adv"/>
+<w c="adverb" e="навхрест" i="363" m="across" t="adv"/>
+<w c="adverb" e="знову" i="364" m="again" t="adv"/>
+<w c="adverb" e="майже" i="365" m="almost" t="adv"/>
+<w c="adverb" e="вздовж" i="366" m="along" t="adv"/>
+<w c="adverb" e="уже; вже" i="367" m="already" t="adv"/>
+<w c="adverb" e="завжди" i="368" m="always" t="adv"/>
+<w c="adverb" e="приблизно" i="369" m="approximately" t="adv"/>
+<w c="adverb" e="перед" i="370" m="before" t="adv"/>
+<w c="adverb" e="до" i="371" m="before" t="adv"/>
+<w c="adverb" e="позаду; ззаду" i="372" m="behind" t="adv"/>
+<w c="adverb" e="між" i="373" m="between" t="adv"/>
+<w c="adverb" e="поза; вдалині" i="374" m="beyond" t="adv"/>
+<w c="adverb" e="повз" i="375" m="by" t="adv"/>
+<w c="adverb" e="ясно; очевидно" i="376" m="clearly" t="adv"/>
+<w c="adverb" e="прямо; безпосередньо" i="377" m="directly" t="adv"/>
+<w c="adverb" e="внизу; вниз" i="378" m="down" t="adv"/>
+<w c="adverb" e="рано; завчасно" i="379" m="early" t="adv"/>
+<w c="adverb" e="один з двох" i="380" m="either" t="adv"/>
+<w c="adverb" e="достатньо" i="381" m="enough" t="adv"/>
+<w c="adverb" e="цілком; повністю" i="382" m="entirely" t="adv"/>
+<w c="adverb" e="однаково; порівну" i="383" m="equally" t="adv"/>
+<w c="adverb" e="навіть" i="384" m="even" t="adv"/>
+<w c="adverb" e="точно" i="385" m="exactly" t="adv"/>
+<w c="adverb" e="остаточно" i="386" m="finally" t="adv"/>
+<w c="adverb" e="спершу; спочатку" i="387" m="first" t="adv"/>
+<w c="adverb" e="вперед" i="388" m="forward" t="adv"/>
+<w c="adverb" e="тут" i="389" m="here" t="adv"/>
+<w c="adverb" e="сюди" i="390" m="here" t="adv"/>
+<w c="adverb" e="хоча; однак" i="391" m="however" t="adv"/>
+<w c="adverb" e="негайно" i="392" m="immediately" t="adv"/>
+<w c="adverb" e="всередину; в; до" i="393" m="in" t="adv"/>
+<w c="adverb" e="справді; дійсно" i="394" m="indeed" t="adv"/>
+<w c="adverb" e="всередині" i="395" m="inside" t="adv"/>
+<w c="adverb" e="замість" i="396" m="instead" t="adv"/>
+<w c="adverb" e="пізно; недавно" i="397" m="late" t="adv"/>
+<w c="adverb" e="потім" i="398" m="later" t="adv"/>
+<w c="adverb" e="щонайменше" i="399" m="least" t="adv"/>
+<w c="adverb" e="небагато; мало" i="400" m="little" t="adv"/>
+<w c="adverb" e="більше; ще" i="401" m="more" t="adv"/>
+<w c="adverb" e="здебільшого" i="402" m="mostly" t="adv"/>
+<w c="adverb" e="ніколи" i="403" m="never" t="adv"/>
+<w c="adverb" e="не" i="404" m="not" t="adv"/>
+<w c="adverb" e="тепер; зараз" i="405" m="now" t="adv"/>
+<w c="adverb" e="очевидно; явно" i="406" m="obviously" t="adv"/>
+<w c="adverb" e="часто" i="407" m="often" t="adv"/>
+<w c="adverb" e="раз; одного разу" i="408" m="once" t="adv"/>
+<w c="adverb" e="ззовні" i="409" m="outside" t="adv"/>
+<w c="adverb" e="надзвичайно; особливо" i="410" m="particularly" t="adv"/>
+<w c="adverb" e="будь ласка" i="411" m="please" t="adv"/>
+<w c="adverb" e="можливо" i="412" m="possibly" t="adv"/>
+<w c="adverb" e="краще" i="413" m="preferably" t="adv"/>
+<w c="adverb" e="ймовірно" i="414" m="probably" t="adv"/>
+<w c="adverb" e="швидко" i="415" m="quickly" t="adv"/>
+<w c="adverb" e="досить; цілком" i="416" m="quite" t="adv"/>
+<w c="adverb" e="дійсно" i="417" m="really" t="adv"/>
+<w c="adverb" e="насправді" i="418" m="really" t="adv"/>
+<w c="adverb" e="нещодавно" i="419" m="recently" t="adv"/>
+<w c="adverb" e="просто; легко" i="420" m="simply" t="adv"/>
+<w c="adverb" e="повільно" i="421" m="slowly" t="adv"/>
+<w c="adverb" e="так; отже; таким чином" i="422" m="so" t="adv"/>
+<w c="adverb" e="інколи; деколи" i="423" m="sometimes" t="adv"/>
+<w c="adverb" e="скоро; незабаром" i="424" m="soon" t="adv"/>
+<w c="adverb" e="непорушно; спокійно" i="425" m="still" t="adv"/>
+<w c="adverb" e="такий" i="426" m="such" t="adv"/>
+<w c="adverb" e="раптом; зненацька" i="427" m="suddenly" t="adv"/>
+<w c="adverb" e="неодмінно" i="428" m="surely" t="adv"/>
+<w c="adverb" e="потім; після" i="429" m="then" t="adv"/>
+<w c="adverb" e="там" i="430" m="there" t="adv"/>
+<w c="adverb" e="тому; отже" i="431" m="therefore" t="adv"/>
+<w c="adverb" e="наскрізь" i="432" m="through" t="adv"/>
+<w c="adverb" e="сьогодні" i="433" m="today" t="adv"/>
+<w c="adverb" e="разом" i="434" m="together" t="adv"/>
+<w c="adverb" e="завтра" i="435" m="tomorrow" t="adv"/>
+<w c="adverb" e="сегодні ввечері" i="436" m="tonight" t="adv"/>
+<w c="adverb" e="також; теж" i="437" m="too" t="adv"/>
+<w c="adverb" e="вверх" i="438" m="up" t="adv"/>
+<w c="adverb" e="звичайно; зазвичай" i="439" m="usually" t="adv"/>
+<w c="adverb" e="дуже" i="440" m="very" t="adv"/>
+<w c="adverb" e="добре; відмінно" i="441" m="well" t="adv"/>
+<w c="adverb" e="чому" i="442" m="why" t="adv"/>
+<w c="anatomy" e="рука" i="443" m="arm" t="noun"/>
+<w c="anatomy" e="великий чан; спина" i="444" m="back" t="noun"/>
+<w c="anatomy" e="дзьоб" i="445" m="beak" t="noun"/>
+<w c="anatomy" e="кров" i="446" m="blood" t="noun"/>
+<w c="anatomy" e="торс; тіло; тулуб" i="447" m="body" t="noun"/>
+<w c="anatomy" e="кістка" i="448" m="bone" t="noun"/>
+<w c="anatomy" e="мозок" i="449" m="brain" t="noun"/>
+<w c="anatomy" e="дихання; подих" i="450" m="breath" t="noun"/>
+<w c="anatomy" e="комірка; камера; клітка" i="451" m="cell" t="noun"/>
+<w c="anatomy" e="груди" i="452" m="chest" t="noun"/>
+<w c="anatomy" e="грудна клітка" i="453" m="chest" t="noun"/>
+<w c="anatomy" e="підборіддя" i="454" m="chin" t="noun"/>
+<w c="anatomy" e="вухо" i="455" m="ear" t="noun"/>
+<w c="anatomy" e="око" i="456" m="eye" t="noun"/>
+<w c="anatomy" e="обличчя" i="457" m="face" t="noun"/>
+<w c="anatomy" e="палець" i="458" m="finger" t="noun"/>
+<w c="anatomy" e="стопа; нога" i="459" m="foot" t="noun"/>
+<w c="anatomy" e="лоб; чоло" i="460" m="forehead" t="noun"/>
+<w c="anatomy" e="ген" i="461" m="gene" t="noun"/>
+<w c="anatomy" e="волосся" i="462" m="hair" t="noun"/>
+<w c="anatomy" e="волосина; ворс" i="463" m="hair" t="noun"/>
+<w c="anatomy" e="рука" i="464" m="hand" t="noun"/>
+<w c="anatomy" e="голова" i="465" m="head" t="noun"/>
+<w c="anatomy" e="серце" i="466" m="heart" t="noun"/>
+<w c="anatomy" e="коліно" i="467" m="knee" t="noun"/>
+<w c="anatomy" e="нога" i="468" m="leg" t="noun"/>
+<w c="anatomy" e="губа" i="469" m="lip" t="noun"/>
+<w c="anatomy" e="уста; рот" i="470" m="mouth" t="noun"/>
+<w c="anatomy" e="мускул; м'яз" i="471" m="muscle" t="noun"/>
+<w c="anatomy" e="ніготь" i="472" m="nail" t="noun"/>
+<w c="anatomy" e="шия" i="473" m="neck" t="noun"/>
+<w c="anatomy" e="нерв" i="474" m="nerve" t="noun"/>
+<w c="anatomy" e="ніс" i="475" m="nose" t="noun"/>
+<w c="anatomy" e="шкіра" i="476" m="skin" t="noun"/>
+<w c="anatomy" e="шлунок" i="477" m="stomach" t="noun"/>
+<w c="anatomy" e="хвіст" i="478" m="tail" t="noun"/>
+<w c="anatomy" e="гортань; горло" i="479" m="throat" t="noun"/>
+<w c="anatomy" e="великий палець" i="480" m="thumb" t="noun"/>
+<w c="anatomy" e="палець на нозі" i="481" m="toe" t="noun"/>
+<w c="anatomy" e="язик" i="482" m="tongue" t="noun"/>
+<w c="anatomy" e="зуб" i="483" m="tooth" t="noun"/>
+<w c="anatomy" e="крило" i="484" m="wing" t="noun"/>
+<w c="animals" e="мураха" i="485" m="ant" t="noun"/>
+<w c="animals" e="ведмідь" i="486" m="bear" t="noun"/>
+<w c="animals" e="бджола" i="487" m="bee" t="noun"/>
+<w c="animals" e="птах" i="488" m="bird" t="noun"/>
+<w c="animals" e="кіт; кішка" i="489" m="cat" t="noun"/>
+<w c="animals" e="корова" i="490" m="cow" t="noun"/>
+<w c="animals" e="собака; пес" i="491" m="dog" t="noun"/>
+<w c="animals" e="слон" i="492" m="elephant" t="noun"/>
+<w c="animals" e="риба" i="493" m="fish" t="noun"/>
+<w c="animals" e="муха" i="494" m="fly" t="noun"/>
+<w c="animals" e="козел; коза" i="495" m="goat" t="noun"/>
+<w c="animals" e="коняка;  кінь" i="496" m="horse" t="noun"/>
+<w c="animals" e="комаха" i="497" m="insect" t="noun"/>
+<w c="animals" e="лев" i="498" m="lion" t="noun"/>
+<w c="animals" e="мавпа" i="499" m="monkey" t="noun"/>
+<w c="animals" e="свиня" i="500" m="pig" t="noun"/>
+<w c="animals" e="вівця" i="501" m="sheep" t="noun"/>
+<w c="animals" e="змія" i="502" m="snake" t="noun"/>
+<w c="art" e="мистецтво" i="503" m="art" t="n"/>
+<w c="art" e="оркестр" i="504" m="band" t="n"/>
+<w c="art" e="колір; фарба" i="505" m="color" t="n"/>
+<w c="art" e="концерт" i="506" m="concert" t="n"/>
+<w c="art" e="відмінність; несхожість; різноманітність" i="507" m="diversity" t="n"/>
+<w c="art" e=" развага; забава" i="508" m="entertainment" t="n"/>
+<w c="art" e="хіт; удар; поштовх" i="509" m="hit" t="n"/>
+<w c="art" e="зображення; імідж" i="510" m="image" t="n"/>
+<w c="art" e="фільм; кіно" i="511" m="movie" t="n"/>
+<w c="art" e="музика" i="512" m="music" t="n"/>
+<w c="art" e="нота" i="513" m="note" t="n"/>
+<w c="art" e="оркестр" i="514" m="orchestra" t="n"/>
+<w c="art" e="фарба" i="515" m="paint" t="n"/>
+<w c="art" e="картина; живопис" i="516" m="painting" t="n"/>
+<w c="art" e="зображення" i="517" m="picture" t="n"/>
+<w c="art" e="вірш; поема" i="518" m="poem" t="n"/>
+<w c="art" e="поезія" i="519" m="poetry" t="n"/>
+<w c="art" e="ритм" i="520" m="rhythm" t="n"/>
+<w c="art" e="пісня" i="521" m="song" t="n"/>
+<w c="art" e="сцена; арена" i="522" m="stage" t="n"/>
+<w c="art" e="стиль" i="523" m="style" t="n"/>
+<w c="art" e="мода" i="524" m="vogue" t="n"/>
+<w c="society" e="конституція" i="525" m="constitution" t=""/>
+<w c="business" e="рахунок" i="526" m="account" t="n"/>
+<w c="business" e="перевага; вигода" i="527" m="advantage" t="n"/>
+<w c="business" e="пропаганда; реклама; оголошення" i="528" m="advertisement" t="n"/>
+<w c="business" e="порада" i="529" m="advice" t="n"/>
+<w c="business" e="угода; договір; контракт" i="530" m="agreement" t="n"/>
+<w c="business" e="увага" i="531" m="attention" t="n"/>
+<w c="business" e="авторитет" i="532" m="authority" t="n"/>
+<w c="business" e="банкнота; банківський білет" i="533" m="banknote" t="n"/>
+<w c="business" e="угода; договір" i="534" m="bargain" t="n"/>
+<w c="business" e="бренд" i="535" m="brand" t="n"/>
+<w c="business" e="комерційна діяльність; бізнес" i="536" m="business" t="n"/>
+<w c="business" e="бізнес-леді" i="537" m="businesswoman" t="n"/>
+<w c="business" e="капітал; майно" i="538" m="capital" t="n"/>
+<w c="business" e="дрібні гроші; здача" i="539" m="change" t="n"/>
+<w c="business" e="чек" i="540" m="check" t="n"/>
+<w c="business" e="комітет; комісія" i="541" m="committee" t="n"/>
+<w c="business" e="підприємство; компанія" i="542" m="company" t="n"/>
+<w c="business" e="конкуренція; змагання" i="543" m="competition" t="n"/>
+<w c="business" e="скарга; невдоволення" i="544" m="complaint" t="n"/>
+<w c="business" e="змагання; суперечка" i="545" m="contest" t="n"/>
+<w c="business" e="контракт" i="546" m="contract" t="n"/>
+<w c="business" e="копія" i="547" m="copy" t="n"/>
+<w c="business" e="вартість; ціна; собівартість" i="548" m="cost" t="n"/>
+<w c="business" e="рада" i="549" m="council" t="n"/>
+<w c="business" e="курс" i="550" m="course" t="n"/>
+<w c="business" e="покупець; замовник; клієнт" i="551" m="customer" t="n"/>
+<w c="business" e="потреба" i="552" m="demand" t="n"/>
+<w c="business" e="відділення" i="553" m="department" t="n"/>
+<w c="business" e="проект; задум; план" i="554" m="design" t="n"/>
+<w c="business" e="труднощі; важкість" i="555" m="difficulty" t="n"/>
+<w c="business" e="напрямок" i="556" m="direction" t="n"/>
+<w c="business" e="директор" i="557" m="director" t="n"/>
+<w c="business" e="господарство; економіка" i="558" m="economy" t="n"/>
+<w c="business" e="оточення; середовище" i="559" m="environment" t="n"/>
+<w c="business" e="досвід" i="560" m="experience" t="n"/>
+<w c="business" e="фірма; торговий дім" i="561" m="firm" t="n"/>
+<w c="business" e="форма; модель; вид" i="562" m="form" t="n"/>
+<w c="business" e="група" i="563" m="group" t="n"/>
+<w c="business" e="допомога" i="564" m="help" t="n"/>
+<w c="business" e="канікули; свято" i="565" m="holiday" t="n"/>
+<w c="business" e="прибуток; дохід; заробіток" i="566" m="income" t="n"/>
+<w c="business" e="промисловість" i="567" m="industry" t="n"/>
+<w c="business" e="страхування; страховка" i="568" m="insurance" t="n"/>
+<w c="business" e="відсоток; вигода" i="569" m="interest" t="n"/>
+<w c="business" e="рахунок" i="570" m="invoice" t="n"/>
+<w c="business" e="праця; робота" i="571" m="job" t="n"/>
+<w c="business" e="закон" i="572" m="law" t="n"/>
+<w c="business" e="дозвіл; відпустка" i="573" m="leave" t="n"/>
+<w c="business" e="втрата; збиток; шкода" i="574" m="loss" t="n"/>
+<w c="business" e="керівництво; адміністрація" i="575" m="management" t="n"/>
+<w c="business" e="маркер; мітка" i="576" m="marker" t="n"/>
+<w c="business" e="ринок; базар; торгівля" i="577" m="market" t="n"/>
+<w c="business" e="матеріал" i="578" m="material" t="n"/>
+<w c="business" e="середина; середнє число" i="579" m="mean" t="n"/>
+<w c="business" e="зустріч" i="580" m="meeting" t="n"/>
+<w c="business" e="гроші" i="581" m="money" t="n"/>
+<w c="business" e="професія; заняття" i="582" m="occupation" t="n"/>
+<w c="business" e="пропозиція" i="583" m="offer" t="n"/>
+<w c="business" e="офіс; контора; канцелярія" i="584" m="office" t="n"/>
+<w c="business" e="чиновник; службовець; урядовець" i="585" m="officer" t="n"/>
+<w c="business" e="операція; управління" i="586" m="operation" t="n"/>
+<w c="business" e="хазяїн; власник; господар" i="587" m="owner" t="n"/>
+<w c="business" e="пакет" i="588" m="package" t="n"/>
+<w c="business" e="відділення; частина" i="589" m="part" t="n"/>
+<w c="business" e="плата; платіж; виплата" i="590" m="payment" t="n"/>
+<w c="business" e="план" i="591" m="plan" t="n"/>
+<w c="business" e="віртість; ціна" i="592" m="price" t="n"/>
+<w c="business" e="проблема" i="593" m="problem" t="n"/>
+<w c="business" e="продукт" i="594" m="product" t="n"/>
+<w c="business" e="вигода; користь" i="595" m="profit" t="n"/>
+<w c="business" e="власність" i="596" m="property" t="n"/>
+<w c="business" e="ставка; розцінка; тариф" i="597" m="rate" t="n"/>
+<w c="business" e="залишок" i="598" m="rest" t="n"/>
+<w c="business" e="право" i="599" m="right" t="n"/>
+<w c="business" e="продаж; збут; аукціон" i="600" m="sale" t="n"/>
+<w c="business" e="секція; відділення" i="601" m="section" t="n"/>
+<w c="business" e="служба; обслуговування" i="602" m="service" t="n"/>
+<w c="business" e="частина; частка" i="603" m="share" t="n"/>
+<w c="business" e="крамниця; магазин" i="604" m="shop" t="n"/>
+<w c="business" e="показ; шоу" i="605" m="show" t="n"/>
+<w c="business" e="майстерність; уміння" i="606" m="skill" t="n"/>
+<w c="business" e="персонал; кадри" i="607" m="staff" t="n"/>
+<w c="business" e="структура" i="608" m="structure" t="n"/>
+<w c="business" e="успіх; вдача" i="609" m="success" t="n"/>
+<w c="business" e="підтримка; опора" i="610" m="support" t="n"/>
+<w c="business" e="таблица" i="611" m="table" t="n"/>
+<w c="business" e="мито; податок" i="612" m="tax" t="n"/>
+<w c="business" e="команда" i="613" m="team" t="n"/>
+<w c="business" e="заняття; торгівля" i="614" m="trade" t="n"/>
+<w c="business" e="цінність" i="615" m="value" t="n"/>
+<w c="business" e="оплата; заробітня плата" i="616" m="wages" t="n"/>
+<w c="business" e="робота" i="617" m="work" t="n"/>
+<w c="business" e="працівник; робітник" i="618" m="worker" t="n"/>
+<w c="city" e="аеродром; аеропорт" i="619" m="airport" t="n"/>
+<w c="city" e="банк" i="620" m="bank" t="n"/>
+<w c="city" e="міст" i="621" m="bridge" t="n"/>
+<w c="city" e="будівля" i="622" m="building" t="n"/>
+<w c="city" e="столиця" i="623" m="capital" t="n"/>
+<w c="city" e="замок" i="624" m="castle" t="n"/>
+<w c="city" e="церква; храм" i="625" m="church" t="n"/>
+<w c="city" e="кіно; кінотеатр" i="626" m="cinema" t="n"/>
+<w c="city" e="мегаполіс; місто" i="627" m="city" t="n"/>
+<w c="city" e="завод" i="628" m="factory" t="n"/>
+<w c="city" e="квартира" i="629" m="flat" t="n"/>
+<w c="city" e="лікарня; шпиталь" i="630" m="hospital" t="n"/>
+<w c="city" e="готель" i="631" m="hotel" t="n"/>
+<w c="city" e="бібліотека" i="632" m="library" t="n"/>
+<w c="city" e="музей" i="633" m="museum" t="n"/>
+<w c="city" e="парк" i="634" m="park" t="n"/>
+<w c="city" e="в'язниця" i="635" m="prison" t="n"/>
+<w c="city" e="ресторан" i="636" m="restaurant" t="n"/>
+<w c="city" e="дорога; шлях" i="637" m="road" t="n"/>
+<w c="city" e="школа" i="638" m="school" t="n"/>
+<w c="city" e="станція" i="639" m="station" t="n"/>
+<w c="city" e="вулиця" i="640" m="street" t="n"/>
+<w c="city" e="споруда; будівля" i="641" m="structure" t="n"/>
+<w c="city" e="метро" i="642" m="subway" t="n"/>
+<w c="city" e="супермаркет; універсам" i="643" m="supermarket" t="n"/>
+<w c="city" e="театр" i="644" m="theater" t="n"/>
+<w c="city" e="місто; містечко" i="645" m="town" t="n"/>
+<w c="city" e="університет; ВНЗ" i="646" m="university" t="n"/>
+<w c="city" e="село" i="647" m="village" t="n"/>
+<w c="clothes" e="валіза; сумка" i="648" m="bag" t="n"/>
+<w c="clothes" e="черевик; чобіт" i="649" m="boot" t="n"/>
+<w c="clothes" e="тканина; полотно; сукно" i="650" m="cloth" t="n"/>
+<w c="clothes" e="одяг" i="651" m="clothing" t="n"/>
+<w c="clothes" e="пальто; піджак; верхній одяг" i="652" m="coat" t="n"/>
+<w c="clothes" e="комір" i="653" m="collar" t="n"/>
+<w c="clothes" e="шапка; капелюх; бриль" i="654" m="hat" t="n"/>
+<w c="clothes" e="куртка; піджак" i="655" m="jacket" t="n"/>
+<w c="clothes" e="коштовність" i="656" m="jewel" t="n"/>
+<w c="clothes" e="перстень" i="657" m="ring" t="n"/>
+<w c="clothes" e="сорочка" i="658" m="shirt" t="n"/>
+<w c="clothes" e="черевик; туфля" i="659" m="shoe" t="n"/>
+<w c="clothes" e="спідниця" i="660" m="skirt" t="n"/>
+<w c="clothes" e="шкарпетка" i="661" m="sock" t="n"/>
+<w c="clothes" e="чемодан" i="662" m="suitcase" t="n"/>
+<w c="clothes" e="краватка" i="663" m="tie" t="n"/>
+<w c="colors" e="чорний" i="664" m="black" t="adj"/>
+<w c="colors" e="блакитний" i="665" m="blue" t="adj"/>
+<w c="colors" e="коричневий" i="666" m="brown" t="adj"/>
+<w c="colors" e="сірий" i="667" m="gray" t="adj"/>
+<w c="colors" e="зелений" i="668" m="green" t="adj"/>
+<w c="colors" e="оранжевий; помаранчевий" i="669" m="orange" t="adj"/>
+<w c="colors" e="рожевий" i="670" m="pink" t="adj"/>
+<w c="colors" e="червоний" i="671" m="red" t="adj"/>
+<w c="colors" e="фіолетовий; ліловий; темно-бузковий" i="672" m="violet" t="adj"/>
+<w c="colors" e="білий" i="673" m="white" t="adj"/>
+<w c="colors" e="жовтий" i="674" m="yellow" t="adj"/>
+<w c="communication" e="сповіщення; оголошення" i="675" m="announcement" t="n"/>
+<w c="communication" e="відповідь" i="676" m="answer" t="n"/>
+<w c="communication" e="схвалення; затвердження" i="677" m="approval" t="n"/>
+<w c="communication" e="суперечка" i="678" m="argument" t="n"/>
+<w c="communication" e="аргумент; дискусія" i="679" m="argument" t="n"/>
+<w c="communication" e="книга" i="680" m="book" t="n"/>
+<w c="communication" e="дзвінок; виклик; заклик" i="681" m="call" t="n"/>
+<w c="communication" e="озкака; риса; характер" i="682" m="character" t="n"/>
+<w c="communication" e="крик; плач" i="683" m="cry" t="n"/>
+<w c="communication" e="інформація; дані" i="684" m="data" t="n"/>
+<w c="communication" e="рішення" i="685" m="decision" t="n"/>
+<w c="communication" e="словник" i="686" m="dictionary" t="n"/>
+<w c="communication" e="диспут; дискусія; бесіда; розмова" i="687" m="discussion" t="n"/>
+<w c="communication" e="сумнів" i="688" m="doubt" t="n"/>
+<w c="communication" e="досвід" i="689" m="experience" t="n"/>
+<w c="communication" e="вислів; вираз" i="690" m="expression" t="n"/>
+<w c="communication" e="відчуття; почуття" i="691" m="feeling" t="n"/>
+<w c="communication" e="гумор" i="692" m="humor" t="n"/>
+<w c="communication" e="думка" i="693" m="idea" t="n"/>
+<w c="communication" e="інформація" i="694" m="information" t="n"/>
+<w c="communication" e="інтерес; зацікавленість" i="695" m="interest" t="n"/>
+<w c="communication" e="інтерв'ю; зустріч; розмова" i="696" m="interview" t="n"/>
+<w c="communication" e="мова" i="697" m="language" t="n"/>
+<w c="communication" e="мова" i="698" m="language" t="n"/>
+<w c="communication" e="буква" i="699" m="letter" t="n"/>
+<w c="communication" e="лист" i="700" m="letter" t="n"/>
+<w c="communication" e="брехня; неправда" i="701" m="lie" t="n"/>
+<w c="communication" e="журнал" i="702" m="magazine" t="n"/>
+<w c="communication" e="пошта" i="703" m="mail" t="n"/>
+<w c="communication" e="спогад" i="704" m="memory" t="n"/>
+<w c="communication" e="пам'ять" i="705" m="memory" t="n"/>
+<w c="communication" e="помилка" i="706" m="mistake" t="n"/>
+<w c="communication" e="ім'я" i="707" m="name" t="n"/>
+<w c="communication" e="газета" i="708" m="newspaper" t="n"/>
+<w c="communication" e="замітка; нотатка" i="709" m="note" t="n"/>
+<w c="communication" e="кількість; число" i="710" m="number" t="n"/>
+<w c="communication" e="думка; судження" i="711" m="opinion" t="n"/>
+<w c="communication" e="сторінка" i="712" m="page" t="n"/>
+<w c="communication" e="точка; суть" i="713" m="point" t="n"/>
+<w c="communication" e="вимова" i="714" m="pronunciation" t="n"/>
+<w c="communication" e="пропозиція" i="715" m="proposal" t="n"/>
+<w c="communication" e="протест" i="716" m="protest" t="n"/>
+<w c="communication" e="питання" i="717" m="question" t="n"/>
+<w c="communication" e="реакція" i="718" m="reaction" t="n"/>
+<w c="communication" e="причина; мотив" i="719" m="reason" t="n"/>
+<w c="communication" e="відношення; залежність" i="720" m="relation" t="n"/>
+<w c="communication" e="прохання" i="721" m="request" t="n"/>
+<w c="communication" e="секрет; таємниця" i="722" m="secret" t="n"/>
+<w c="communication" e="вирок; рішення" i="723" m="sentence" t="n"/>
+<w c="communication" e="модель, форма" i="724" m="shape" t="n"/>
+<w c="communication" e="знак" i="725" m="sign" t="n"/>
+<w c="communication" e="мова; мовлення" i="726" m="speech" t="n"/>
+<w c="communication" e="правопис; орфографія" i="727" m="spelling" t="n"/>
+<w c="communication" e="стандарт; норма" i="728" m="standard" t="n"/>
+<w c="communication" e="заява; твердження" i="729" m="statement" t="n"/>
+<w c="communication" e="сюжет; тема; предмет" i="730" m="subject" t="n"/>
+<w c="communication" e="порада; пропозиція" i="731" m="suggestion" t="n"/>
+<w c="communication" e="голос" i="732" m="voice" t="n"/>
+<w c="communication" e="слово" i="733" m="word" t="n"/>
+<w c="communication" e="почерк; писання" i="734" m="writing" t="n"/>
+<w c="conjunction" e="і" i="735" m="and" t="conj"/>
+<w c="conjunction" e="тому що; оскільки" i="736" m="because" t="conj"/>
+<w c="conjunction" e="для; внаслідок" i="737" m="for" t="conj"/>
+<w c="conjunction" e="якщо" i="738" m="if" t="conj"/>
+<w c="conjunction" e="або" i="739" m="or" t="conj"/>
+<w c="conjunction" e="ніж" i="740" m="than" t="conj"/>
+<w c="conjunction" e="до; доки" i="741" m="until" t="conj"/>
+<w c="containers" e="мішок; валіза" i="742" m="bag" t="n"/>
+<w c="containers" e="корзина" i="743" m="basket" t="n"/>
+<w c="containers" e="пляшка" i="744" m="bottle" t="n"/>
+<w c="containers" e="коробка" i="745" m="box" t="n"/>
+<w c="containers" e="бляшанка; бідон" i="746" m="can" t="n"/>
+<w c="containers" e="чашка" i="747" m="cup" t="n"/>
+<w c="containers" e="склянка; чарка; скло" i="748" m="glass" t="n"/>
+<w c="containers" e="тарілка" i="749" m="plate" t="n"/>
+<w c="conversation" e="Я не знаю" i="750" m="I don't know" t=""/>
+<w c="conversation" e="Я не розумію" i="751" m="I don't understand" t=""/>
+<w c="conversation" e="Будьмо!" i="752" m="cheers" t=""/>
+<w c="conversation" e="Ви розмовляєте англійською?" i="753" m="do you speak English" t=""/>
+<w c="conversation" e="Добрий день" i="754" m="good day" t=""/>
+<w c="conversation" e="Щасти" i="755" m="good luck" t=""/>
+<w c="conversation" e="З Днем народження" i="756" m="happy birthday" t=""/>
+<w c="conversation" e="Привіт" i="757" m="hello" t=""/>
+<w c="conversation" e="Як справи?" i="758" m="how are you" t=""/>
+<w c="conversation" e="Скільки це коштує?" i="759" m="how much is it" t=""/>
+<w c="conversation" e="щиро дякую; велике спасибі" i="760" m="many thanks" t=""/>
+<w c="conversation" e="Мене звати..." i="761" m="my name is" t=""/>
+<w c="conversation" e="ні" i="762" m="no" t=""/>
+<w c="conversation" e="вибачте; пробачте" i="763" m="sorry" t=""/>
+<w c="conversation" e="перепрошую" i="764" m="sorry" t=""/>
+<w c="conversation" e="Щиро вам вдячний" i="765" m="thank you very much" t=""/>
+<w c="conversation" e="так" i="766" m="yes" t=""/>
+<w c="conversation" e="будь ласка" i="767" m="you're welcome" t=""/>
+<w c="countries" e="Китай" i="768" m="China" t="n"/>
+<w c="countries" e="Чехія; Чеська Республіка" i="769" m="Czech Republic" t="n"/>
+<w c="countries" e="Франція" i="770" m="France" t="n"/>
+<w c="countries" e="Німеччина" i="771" m="Germany" t="n"/>
+<w c="countries" e="Індія" i="772" m="India" t="n"/>
+<w c="countries" e="Італія" i="773" m="Italy" t="n"/>
+<w c="countries" e="Японія" i="774" m="Japan" t="n"/>
+<w c="countries" e="Іспанія" i="775" m="Spain" t="n"/>
+<w c="countries" e="Великобританія" i="776" m="United Kingdom" t="n"/>
+<w c="countries" e="США; Сполучені Штати Америки" i="777" m="United States" t="n"/>
+<w c="devices" e="фотоапарат" i="778" m="camera" t="n"/>
+<w c="devices" e="мобільний телефон" i="779" m="cellphone" t="n"/>
+<w c="devices" e="годинник" i="780" m="clock" t="n"/>
+<w c="devices" e="комп'ютер" i="781" m="computer" t="n"/>
+<w c="devices" e="ліфт" i="782" m="elevator" t="n"/>
+<w c="devices" e="двигун" i="783" m="engine" t="n"/>
+<w c="devices" e="інструмент; знаряддя" i="784" m="instrument" t="n"/>
+<w c="devices" e="машина; механізм" i="785" m="machine" t="n"/>
+<w c="devices" e="піч; духовка" i="786" m="oven" t="n"/>
+<w c="devices" e="телевізор" i="787" m="television" t="n"/>
+<w c="devices" e="телевізійна камера" i="788" m="television camera" t="n"/>
+<w c="devices" e="наручний годинник" i="789" m="watch" t="n"/>
+<w c="drinks" e="пиво" i="790" m="beer" t="n"/>
+<w c="drinks" e="кава" i="791" m="coffee" t="n"/>
+<w c="drinks" e="напій" i="792" m="drink" t="n"/>
+<w c="drinks" e="молоко" i="793" m="milk" t="n"/>
+<w c="drinks" e="молочний коктейль" i="794" m="milkshake" t="n"/>
+<w c="drinks" e="чай" i="795" m="tea" t="n"/>
+<w c="drinks" e="вода" i="796" m="water" t="n"/>
+<w c="drinks" e="вино" i="797" m="wine" t="n"/>
+<w c="education" e="ранг; класс" i="798" m="class" t="n"/>
+<w c="education" e="освіта" i="799" m="education" t="n"/>
+<w c="education" e="виховання" i="800" m="education" t="n"/>
+<w c="education" e="начання" i="801" m="education" t="n"/>
+<w c="education" e="екзамен" i="802" m="examination" t="n"/>
+<w c="education" e="оцінка" i="803" m="grade" t="n"/>
+<w c="education" e="знання" i="804" m="knowledge" t="n"/>
+<w c="education" e="студент; учень" i="805" m="student" t="n"/>
+<w c="education" e="вчитель" i="806" m="teacher" t="n"/>
+<w c="education" e="виховання; навчання; тренування" i="807" m="training" t="n"/>
+<w c="environment" e="кислотний дощ" i="808" m="acid rain" t="n"/>
+<w c="environment" e="атмосфера" i="809" m="atmosphere" t="n"/>
+<w c="environment" e="зміна клімату" i="810" m="climate change" t="n"/>
+<w c="environment" e="звалище; купа мотлоху" i="811" m="dump" t="n"/>
+<w c="environment" e="екологія" i="812" m="ecology" t="n"/>
+<w c="environment" e="середовище; навколишнє середовище" i="813" m="environment" t="n"/>
+<w c="environment" e="викопне паливо" i="814" m="fossil fuel" t="n"/>
+<w c="environment" e="глобальне потепління" i="815" m="global warming" t="n"/>
+<w c="environment" e="парниковий ефект" i="816" m="greenhouse effect" t="n"/>
+<w c="environment" e="шахта" i="817" m="mine" t="n"/>
+<w c="environment" e="озон" i="818" m="ozone" t="n"/>
+<w c="environment" e="забруднення" i="819" m="pollution" t="n"/>
+<w c="environment" e="утилізація; повторне використання" i="820" m="recycling" t="n"/>
+<w c="environment" e="смог" i="821" m="smog" t="n"/>
+<w c="environment" e="відходи" i="822" m="waste" t="n"/>
+<w c="family" e="дитина" i="823" m="baby" t="n"/>
+<w c="family" e="народження" i="824" m="birth" t="n"/>
+<w c="family" e="день народження" i="825" m="birthday" t="n"/>
+<w c="family" e="хлопець" i="826" m="boy" t="n"/>
+<w c="family" e="брат" i="827" m="brother" t="n"/>
+<w c="family" e="дитина" i="828" m="child" t="n"/>
+<w c="family" e="дочка" i="829" m="daughter" t="n"/>
+<w c="family" e="смерть" i="830" m="death" t="n"/>
+<w c="family" e="сім'я" i="831" m="family" t="n"/>
+<w c="family" e="тато; батько" i="832" m="father" t="n"/>
+<w c="family" e="друг; товариш" i="833" m="friend" t="n"/>
+<w c="family" e="дівчинка; дівчина" i="834" m="girl" t="n"/>
+<w c="family" e="дідусь" i="835" m="grandfather" t="n"/>
+<w c="family" e="людина" i="836" m="human" t="n"/>
+<w c="family" e="чоловік" i="837" m="husband" t="n"/>
+<w c="family" e="життя" i="838" m="life" t="n"/>
+<w c="family" e="людина; чоловік" i="839" m="man" t="n"/>
+<w c="family" e="заміжжя; шлюб" i="840" m="marriage" t="n"/>
+<w c="family" e="мама" i="841" m="mother" t="n"/>
+<w c="family" e="сусід" i="842" m="neighbor" t="n"/>
+<w c="family" e="батько, мати" i="843" m="parent" t="n"/>
+<w c="family" e="особа; людина" i="844" m="person" t="n"/>
+<w c="family" e="спорідненість; стосунки" i="845" m="relationship" t="n"/>
+<w c="family" e="сестра" i="846" m="sister" t="n"/>
+<w c="family" e="син" i="847" m="son" t="n"/>
+<w c="family" e="весілля; одруження" i="848" m="wedding" t="n"/>
+<w c="family" e="вінчання" i="849" m="wedding" t="n"/>
+<w c="family" e="дружина" i="850" m="wife" t="n"/>
+<w c="family" e="жінка" i="851" m="woman" t="n"/>
+<w c="feelings" e="страх" i="852" m="fear" t="n"/>
+<w c="feelings" e="ненависть" i="853" m="hate" t="n"/>
+<w c="feelings" e="любов" i="854" m="love" t="n"/>
+<w c="feelings" e="задоволення" i="855" m="pleasure" t="n"/>
+<w c="feelings" e="обіцянка" i="856" m="promise" t="n"/>
+<w c="food" e="хліб" i="857" m="bread" t="n"/>
+<w c="food" e="сніданок" i="858" m="breakfast" t="n"/>
+<w c="food" e="масло" i="859" m="butter" t="n"/>
+<w c="food" e="торт; тістечко" i="860" m="cake" t="n"/>
+<w c="food" e="сир" i="861" m="cheese" t="n"/>
+<w c="food" e="шоколад" i="862" m="chocolate" t="n"/>
+<w c="food" e="чашка" i="863" m="cup" t="n"/>
+<w c="food" e="яйце" i="864" m="egg" t="n"/>
+<w c="food" e="їжа" i="865" m="food" t="n"/>
+<w c="food" e="виделка" i="866" m="fork" t="n"/>
+<w c="food" e="фрукт" i="867" m="fruit" t="n"/>
+<w c="food" e="ніж" i="868" m="knife" t="n"/>
+<w c="food" e="обід" i="869" m="lunch" t="n"/>
+<w c="food" e="страва" i="870" m="meal" t="n"/>
+<w c="food" e="м'ясо" i="871" m="meat" t="n"/>
+<w c="food" e="олія" i="872" m="oil" t="n"/>
+<w c="food" e="салат" i="873" m="salad" t="n"/>
+<w c="food" e="сіль" i="874" m="salt" t="n"/>
+<w c="food" e="сендвіч; бутерброд" i="875" m="sandwich" t="n"/>
+<w c="food" e="соус" i="876" m="sauce" t="n"/>
+<w c="food" e="суп; юшка" i="877" m="soup" t="n"/>
+<w c="food" e="ложка" i="878" m="spoon" t="n"/>
+<w c="food" e="цукор" i="879" m="sugar" t="n"/>
+<w c="food" e="солодке" i="880" m="sweet" t="n"/>
+<w c="fruits" e="яблоко" i="881" m="apple" t="n"/>
+<w c="fruits" e="абрикос" i="882" m="apricot" t="n"/>
+<w c="fruits" e="банан" i="883" m="banana" t="n"/>
+<w c="fruits" e="ожина" i="884" m="blackberry" t="n"/>
+<w c="fruits" e="вишня" i="885" m="cherry" t="n"/>
+<w c="fruits" e="лимон" i="886" m="lemon" t="n"/>
+<w c="fruits" e="горіх" i="887" m="nut" t="n"/>
+<w c="fruits" e="апельсин; помаранч" i="888" m="orange" t="n"/>
+<w c="fruits" e="персик" i="889" m="peach" t="n"/>
+<w c="fruits" e="груша" i="890" m="pear" t="n"/>
+<w c="fruits" e="ананас" i="891" m="pineapple" t="n"/>
+<w c="fruits" e="слива" i="892" m="plum" t="n"/>
+<w c="fruits" e="малина" i="893" m="raspberry" t="n"/>
+<w c="fruits" e="суниці; полуниці" i="894" m="strawberry" t="n"/>
+<w c="furniture" e="ліжко" i="895" m="bed" t="n"/>
+<w c="furniture" e="килим" i="896" m="carpet" t="n"/>
+<w c="furniture" e="крісло" i="897" m="chair" t="n"/>
+<w c="furniture" e="шафа; сервант" i="898" m="cupboard" t="n"/>
+<w c="furniture" e="завіса" i="899" m="curtain" t="n"/>
+<w c="furniture" e="письмовий стіл; парта" i="900" m="desk" t="n"/>
+<w c="furniture" e="шухляда" i="901" m="drawer" t="n"/>
+<w c="furniture" e="стілець" i="902" m="seat" t="n"/>
+<w c="furniture" e="полиця" i="903" m="shelf" t="n"/>
+<w c="furniture" e="раковина" i="904" m="sink" t="n"/>
+<w c="furniture" e="стіл" i="905" m="table" t="n"/>
+<w c="geography" e="Земля" i="906" m="Earth" t="n"/>
+<w c="geography" e="Місяць" i="907" m="Moon" t="n"/>
+<w c="geography" e="берег" i="908" m="bank" t="n"/>
+<w c="geography" e="пляж" i="909" m="beach" t="n"/>
+<w c="geography" e="Схід" i="910" m="east" t="n"/>
+<w c="geography" e="пагорб; невисокі гори" i="911" m="hill" t="n"/>
+<w c="geography" e="острів" i="912" m="island" t="n"/>
+<w c="geography" e="озеро" i="913" m="lake" t="n"/>
+<w c="geography" e="земля; суша" i="914" m="land" t="n"/>
+<w c="geography" e="карта" i="915" m="map" t="n"/>
+<w c="geography" e="Північ" i="916" m="north" t="n"/>
+<w c="geography" e="рівнина" i="917" m="plain" t="n"/>
+<w c="geography" e="район; регіон" i="918" m="region" t="n"/>
+<w c="geography" e="ріка; річка" i="919" m="river" t="n"/>
+<w c="geography" e="море" i="920" m="sea" t="n"/>
+<w c="geography" e="Південь" i="921" m="south" t="n"/>
+<w c="geography" e="космос" i="922" m="space" t="n"/>
+<w c="geography" e="зірка; зоря" i="923" m="star" t="n"/>
+<w c="geography" e="сонце" i="924" m="sun" t="n"/>
+<w c="geography" e="Захід" i="925" m="west" t="n"/>
+<w c="house" e="адреса" i="926" m="address" t="n"/>
+<w c="house" e="ванна" i="927" m="bathroom" t="n"/>
+<w c="house" e="спальня" i="928" m="bedroom" t="n"/>
+<w c="house" e="цеглина" i="929" m="brick" t="n"/>
+<w c="house" e="двері" i="930" m="door" t="n"/>
+<w c="house" e="підлога" i="931" m="floor" t="n"/>
+<w c="house" e="поверх" i="932" m="floor" t="n"/>
+<w c="house" e="меблі" i="933" m="furniture" t="n"/>
+<w c="house" e="гараж" i="934" m="garage" t="n"/>
+<w c="house" e="сад" i="935" m="garden" t="n"/>
+<w c="house" e="ворота" i="936" m="gate" t="n"/>
+<w c="house" e="приймальня; передпокій; хол" i="937" m="hall" t="n"/>
+<w c="house" e="будинок; оселя; дім" i="938" m="home" t="n"/>
+<w c="house" e="дім" i="939" m="house" t="n"/>
+<w c="house" e="кухня" i="940" m="kitchen" t="n"/>
+<w c="house" e="дах" i="941" m="roof" t="n"/>
+<w c="house" e="кімната" i="942" m="room" t="n"/>
+<w c="house" e="душ" i="943" m="shower" t="n"/>
+<w c="house" e="сходинка; крок; драбина" i="944" m="step" t="n"/>
+<w c="house" e="вбиральня; туалет" i="945" m="toilet" t="n"/>
+<w c="house" e="стіна" i="946" m="wall" t="n"/>
+<w c="house" e="криниця" i="947" m="well" t="n"/>
+<w c="house" e="вікно" i="948" m="window" t="n"/>
+<w c="languages" e="китайська мова" i="949" m="Chinese" t="n"/>
+<w c="languages" e="англійська мова" i="950" m="English" t="n"/>
+<w c="languages" e="французька мова" i="951" m="French" t="n"/>
+<w c="languages" e="німецька мова" i="952" m="German" t="n"/>
+<w c="languages" e="хінді" i="953" m="Hindi" t="n"/>
+<w c="languages" e="італійська мова" i="954" m="Italian" t="n"/>
+<w c="languages" e="японська мова" i="955" m="Japanese" t="n"/>
+<w c="languages" e="російська мова" i="956" m="Russian" t="n"/>
+<w c="languages" e="іспанська мова" i="957" m="Spanish" t="n"/>
+<w c="materials" e="кислота" i="958" m="acid" t="n"/>
+<w c="materials" e="хімікат" i="959" m="chemical" t="n"/>
+<w c="materials" e="хімічний елемент" i="960" m="chemical element" t="n"/>
+<w c="materials" e="вугілля" i="961" m="coal" t="n"/>
+<w c="materials" e="бавовна" i="962" m="cotton" t="n"/>
+<w c="materials" e="пил; пилюка; порох" i="963" m="dust" t="n"/>
+<w c="materials" e="земля" i="964" m="earth" t="n"/>
+<w c="materials" e="жир" i="965" m="fat" t="n"/>
+<w c="materials" e="скло" i="966" m="glass" t="n"/>
+<w c="materials" e="клей" i="967" m="glue" t="n"/>
+<w c="materials" e="золото" i="968" m="gold" t="n"/>
+<w c="materials" e="зерно" i="969" m="grain" t="n"/>
+<w c="materials" e="лід" i="970" m="ice" t="n"/>
+<w c="materials" e="чорнило" i="971" m="ink" t="n"/>
+<w c="materials" e="залізо" i="972" m="iron" t="n"/>
+<w c="materials" e="свинець" i="973" m="lead" t="n"/>
+<w c="materials" e="шкіра" i="974" m="leather" t="n"/>
+<w c="materials" e="рідина" i="975" m="liquid" t="n"/>
+<w c="materials" e="матерія; речовина" i="976" m="matter" t="n"/>
+<w c="materials" e="металевий елемент" i="977" m="metallic element" t="n"/>
+<w c="materials" e="нафта" i="978" m="oil" t="n"/>
+<w c="materials" e="папір" i="979" m="paper" t="n"/>
+<w c="materials" e="отрута" i="980" m="poison" t="n"/>
+<w c="materials" e="порошок" i="981" m="powder" t="n"/>
+<w c="materials" e="пісок" i="982" m="sand" t="n"/>
+<w c="materials" e="шовк" i="983" m="silk" t="n"/>
+<w c="materials" e="срібло" i="984" m="silver" t="n"/>
+<w c="materials" e="мило" i="985" m="soap" t="n"/>
+<w c="materials" e="сталь" i="986" m="steel" t="n"/>
+<w c="materials" e="дерево" i="987" m="wood" t="n"/>
+<w c="materials" e="вовна; шерсть" i="988" m="wool" t="n"/>
+<w c="mathematics" e="додавання" i="989" m="addition" t="n"/>
+<w c="mathematics" e="кут" i="990" m="angle" t="n"/>
+<w c="mathematics" e="простір" i="991" m="area" t="n"/>
+<w c="mathematics" e="центр" i="992" m="center" t="n"/>
+<w c="mathematics" e="круг; коло" i="993" m="circle" t="n"/>
+<w c="mathematics" e="компонент; складова частина" i="994" m="component" t="n"/>
+<w c="mathematics" e="крива; дуга" i="995" m="curve" t="n"/>
+<w c="mathematics" e="степінь" i="996" m="degree" t="n"/>
+<w c="mathematics" e="градус" i="997" m="degree" t="n"/>
+<w c="mathematics" e="різниця" i="998" m="difference" t="n"/>
+<w c="mathematics" e="відстань" i="999" m="distance" t="n"/>
+<w c="mathematics" e="ділення" i="1000" m="division" t="n"/>
+<w c="mathematics" e="край" i="1001" m="edge" t="n"/>
+<w c="mathematics" e="функція" i="1002" m="function" t="n"/>
+<w c="mathematics" e="половина" i="1003" m="half" t="n"/>
+<w c="mathematics" e="межа; ліміт" i="1004" m="limit" t="n"/>
+<w c="mathematics" e="межа; лінія" i="1005" m="line" t="n"/>
+<w c="mathematics" e="мережа" i="1006" m="net" t="n"/>
+<w c="mathematics" e="порядок" i="1007" m="order" t="n"/>
+<w c="mathematics" e="зовнішня сторона; зовнішність" i="1008" m="outside" t="n"/>
+<w c="mathematics" e="відсоток" i="1009" m="percent" t="n"/>
+<w c="mathematics" e="намір; ціль" i="1010" m="purpose" t="n"/>
+<w c="mathematics" e="результат" i="1011" m="result" t="n"/>
+<w c="mathematics" e="корінь" i="1012" m="root" t="n"/>
+<w c="mathematics" e="правило" i="1013" m="rule" t="n"/>
+<w c="mathematics" e="група; набір" i="1014" m="set" t="n"/>
+<w c="mathematics" e="сторона" i="1015" m="side" t="n"/>
+<w c="mathematics" e="квадрат" i="1016" m="square" t="n"/>
+<w c="mathematics" e="другий ступінь" i="1017" m="square" t="n"/>
+<w c="mathematics" e="підстановка; заміна" i="1018" m="substitution" t="n"/>
+<w c="mathematics" e="поверхня" i="1019" m="surface" t="n"/>
+<w c="mathematics" e="підсумок; сума" i="1020" m="total" t="n"/>
+<w c="medicine" e="турбота; піклування" i="1021" m="care" t="n"/>
+<w c="medicine" e="застуда" i="1022" m="cold" t="n"/>
+<w c="medicine" e="кашель" i="1023" m="cough" t="n"/>
+<w c="medicine" e="хвороба" i="1024" m="disease" t="n"/>
+<w c="medicine" e="лікар; доктор" i="1025" m="doctor" t="n"/>
+<w c="medicine" e="здоро'я" i="1026" m="health" t="n"/>
+<w c="medicine" e="менструація" i="1027" m="menstruation" t="n"/>
+<w c="medicine" e="медсестра; доглядальниця" i="1028" m="nurse" t="n"/>
+<w c="medicine" e="операція" i="1029" m="operation" t="n"/>
+<w c="medicine" e="біль" i="1030" m="pain" t="n"/>
+<w c="medicine" e="пацієнт; хворий" i="1031" m="patient" t="n"/>
+<w c="medicine" e="стібок; шов; петля" i="1032" m="stitch" t="n"/>
+<w c="nature" e="повітря" i="1033" m="air" t="n"/>
+<w c="nature" e="тварина" i="1034" m="animal" t="n"/>
+<w c="nature" e="гілка" i="1035" m="branch" t="n"/>
+<w c="nature" e="течія; потік" i="1036" m="current" t="n"/>
+<w c="nature" e="еволюція; розвиток" i="1037" m="evolution" t="n"/>
+<w c="nature" e="ферма" i="1038" m="farm" t="n"/>
+<w c="nature" e="поле" i="1039" m="field" t="n"/>
+<w c="nature" e="вогонь; полум'я" i="1040" m="fire" t="n"/>
+<w c="nature" e="квітка" i="1041" m="flower" t="n"/>
+<w c="nature" e="ліс" i="1042" m="forest" t="n"/>
+<w c="nature" e="трава" i="1043" m="grass" t="n"/>
+<w c="nature" e="листок; лист" i="1044" m="leaf" t="n"/>
+<w c="nature" e="життя" i="1045" m="life" t="n"/>
+<w c="nature" e="вологість" i="1046" m="moisture" t="n"/>
+<w c="nature" e="природа" i="1047" m="nature" t="n"/>
+<w c="nature" e="рослина" i="1048" m="plant" t="n"/>
+<w c="nature" e="корінь" i="1049" m="root" t="n"/>
+<w c="nature" e="стать" i="1050" m="sex" t="n"/>
+<w c="nature" e="небо" i="1051" m="sky" t="n"/>
+<w c="nature" e="сон; сплячка" i="1052" m="sleep" t="n"/>
+<w c="nature" e="запах; нюх" i="1053" m="smell" t="n"/>
+<w c="nature" e="дим" i="1054" m="smoke" t="n"/>
+<w c="nature" e="джерело; весна" i="1055" m="spring" t="n"/>
+<w c="nature" e="стовбур; стебло" i="1056" m="stem" t="n"/>
+<w c="nature" e="течія; потік" i="1057" m="stream" t="n"/>
+<w c="nature" e="дерево" i="1058" m="tree" t="n"/>
+<w c="nature" e="хвиля" i="1059" m="wave" t="n"/>
+<w c="nature" e="погода" i="1060" m="weather" t="n"/>
+<w c="nature" e="світ" i="1061" m="world" t="n"/>
+<w c="numbers" e="пара" i="1062" m="couple" t="n"/>
+<w c="numbers" e="вісім" i="1063" m="eight" t="n"/>
+<w c="numbers" e="вісімнадцать" i="1064" m="eighteen" t="n"/>
+<w c="numbers" e="вісімдесят" i="1065" m="eighty" t="n"/>
+<w c="numbers" e="одинадцать" i="1066" m="eleven" t="n"/>
+<w c="numbers" e="п'ятнадцать" i="1067" m="fifteen" t="n"/>
+<w c="numbers" e="п'ятдесят" i="1068" m="fifty" t="n"/>
+<w c="numbers" e="перший" i="1069" m="first" t="n"/>
+<w c="numbers" e="п'ять" i="1070" m="five" t="n"/>
+<w c="numbers" e="сорок" i="1071" m="forty" t="n"/>
+<w c="numbers" e="чотири" i="1072" m="four" t="n"/>
+<w c="numbers" e="чотирнадцать" i="1073" m="fourteen" t="n"/>
+<w c="numbers" e="сто" i="1074" m="hundred" t="n"/>
+<w c="numbers" e="мільйон" i="1075" m="million" t="n"/>
+<w c="numbers" e="дев'ять" i="1076" m="nine" t="n"/>
+<w c="numbers" e="дев'ятнадцать" i="1077" m="nineteen" t="n"/>
+<w c="numbers" e="дев'яносто" i="1078" m="ninety" t="n"/>
+<w c="numbers" e="нуль; ніщо; пусте місце" i="1079" m="nothing" t="n"/>
+<w c="numbers" e="один" i="1080" m="one" t="n"/>
+<w c="numbers" e="сім" i="1081" m="seven" t="n"/>
+<w c="numbers" e="сімнадцать" i="1082" m="seventeen" t="n"/>
+<w c="numbers" e="сімдесят" i="1083" m="seventy" t="n"/>
+<w c="numbers" e="шість" i="1084" m="six" t="n"/>
+<w c="numbers" e="шістнадцать" i="1085" m="sixteen" t="n"/>
+<w c="numbers" e="шістдесят" i="1086" m="sixty" t="n"/>
+<w c="numbers" e="десять" i="1087" m="ten" t="n"/>
+<w c="numbers" e="третій" i="1088" m="third" t="n"/>
+<w c="numbers" e="тринадцать" i="1089" m="thirteen" t="n"/>
+<w c="numbers" e="тридцать" i="1090" m="thirty" t="n"/>
+<w c="numbers" e="тисяча" i="1091" m="thousand" t="n"/>
+<w c="numbers" e="тисяча" i="1092" m="thousand" t="n"/>
+<w c="numbers" e="три" i="1093" m="three" t="n"/>
+<w c="numbers" e="двадцать" i="1094" m="twenty" t="n"/>
+<w c="numbers" e="два" i="1095" m="two" t="n"/>
+<w c="objects" e="м'яч" i="1096" m="ball" t="n"/>
+<w c="objects" e="лезо" i="1097" m="blade" t="n"/>
+<w c="objects" e="дошка" i="1098" m="board" t="n"/>
+<w c="objects" e="карта; картка" i="1099" m="card" t="n"/>
+<w c="objects" e="ланцюг" i="1100" m="chain" t="n"/>
+<w c="objects" e="палиця; кий; ціпок" i="1101" m="club" t="n"/>
+<w c="objects" e="кільце (канату)" i="1102" m="coil" t="n"/>
+<w c="objects" e="кришка; покривало" i="1103" m="cover" t="n"/>
+<w c="objects" e="конверт" i="1104" m="envelope" t="n"/>
+<w c="objects" e="перо" i="1105" m="feather" t="n"/>
+<w c="objects" e="прапор" i="1106" m="flag" t="n"/>
+<w c="objects" e="рамка" i="1107" m="frame" t="n"/>
+<w c="objects" e="ручка; держак" i="1108" m="handle" t="n"/>
+<w c="objects" e="меню" i="1109" m="menu" t="n"/>
+<w c="objects" e="гайка" i="1110" m="nut" t="n"/>
+<w c="objects" e="шпилька" i="1111" m="pin" t="n"/>
+<w c="objects" e="труба" i="1112" m="pipe" t="n"/>
+<w c="objects" e="подарунок" i="1113" m="present" t="n"/>
+<w c="objects" e="канат; мотузка" i="1114" m="rope" t="n"/>
+<w c="objects" e="вітрило" i="1115" m="sail" t="n"/>
+<w c="objects" e="зерно; сім'я" i="1116" m="seed" t="n"/>
+<w c="objects" e="поштова марка" i="1117" m="stamp" t="n"/>
+<w c="objects" e="палка" i="1118" m="stick" t="n"/>
+<w c="objects" e="камінь" i="1119" m="stone" t="n"/>
+<w c="objects" e="білет; квиток" i="1120" m="ticket" t="n"/>
+<w c="objects" e="колесо" i="1121" m="wheel" t="n"/>
+<w c="objects" e="дріт; провід" i="1122" m="wire" t="n"/>
+<w c="physics" e="баланс" i="1123" m="balance" t="n"/>
+<w c="physics" e="заряд" i="1124" m="charge" t="n"/>
+<w c="physics" e="енергія" i="1125" m="energy" t="n"/>
+<w c="physics" e="світло" i="1126" m="light" t="n"/>
+<w c="physics" e="маса" i="1127" m="mass" t="n"/>
+<w c="physics" e="велика кількість; безліч" i="1128" m="mass" t="n"/>
+<w c="physics" e="вимірювання; вимір" i="1129" m="measurement" t="n"/>
+<w c="physics" e="дзеркало; люстро" i="1130" m="mirror" t="n"/>
+<w c="physics" e="рух" i="1131" m="movement" t="n"/>
+<w c="physics" e="тиск" i="1132" m="pressure" t="n"/>
+<w c="physics" e="процес" i="1133" m="process" t="n"/>
+<w c="physics" e="розмір" i="1134" m="size" t="n"/>
+<w c="physics" e="звук" i="1135" m="sound" t="n"/>
+<w c="physics" e="пара" i="1136" m="steam" t="n"/>
+<w c="physics" e="сила" i="1137" m="strength" t="n"/>
+<w c="physics" e="час" i="1138" m="time" t="n"/>
+<w c="physics" e="одиниця" i="1139" m="unit" t="n"/>
+<w c="physics" e="вага" i="1140" m="weight" t="n"/>
+<w c="prepositions" e="проти; навпроти" i="1141" m="against" t="prep"/>
+<w c="prepositions" e="серед; між: поміж" i="1142" m="among" t="prep"/>
+<w c="prepositions" e="на; в; біля; при" i="1143" m="at" t="prep"/>
+<w c="prepositions" e="на; в; біля; при" i="1144" m="at" t="prep"/>
+<w c="prepositions" e="протягом" i="1145" m="during" t="prep"/>
+<w c="prepositions" e="для" i="1146" m="for" t="prep"/>
+<w c="prepositions" e="від; з; із" i="1147" m="from" t="prep"/>
+<w c="prepositions" e="від; з; із" i="1148" m="from" t="prep"/>
+<w c="prepositions" e="в" i="1149" m="into" t="prep"/>
+<w c="prepositions" e="від" i="1150" m="of" t="prep"/>
+<w c="prepositions" e="з (певного моменту)" i="1151" m="since" t="prep"/>
+<w c="prepositions" e="на; до; у; ви" i="1152" m="to" t="prep"/>
+<w c="prepositions" e="з" i="1153" m="with" t="prep"/>
+<w c="prepositions" e="з" i="1154" m="with" t="prep"/>
+<w c="prepositions" e="без" i="1155" m="without" t="prep"/>
+<w c="professions" e="актор" i="1156" m="actor" t="n"/>
+<w c="professions" e="актриса" i="1157" m="actress" t="n"/>
+<w c="professions" e="художник" i="1158" m="artist" t="n"/>
+<w c="professions" e="бізнесмен" i="1159" m="businessman" t="n"/>
+<w c="professions" e="кухар; куховарка" i="1160" m="cook" t="n"/>
+<w c="professions" e="спеціаліст" i="1161" m="expert" t="n"/>
+<w c="professions" e="генерал" i="1162" m="general" t="n"/>
+<w c="professions" e="журналіст; газетний працівник" i="1163" m="journalist" t="n"/>
+<w c="professions" e="суддя" i="1164" m="judge" t="n"/>
+<w c="professions" e="міністр" i="1165" m="minister" t="n"/>
+<w c="professions" e="музикант" i="1166" m="musician" t="n"/>
+<w c="professions" e="фотограф" i="1167" m="photographer" t="n"/>
+<w c="professions" e="пілот" i="1168" m="pilot" t="n"/>
+<w c="professions" e="міліціонер" i="1169" m="policeman" t="n"/>
+<w c="professions" e="політик" i="1170" m="politician" t="n"/>
+<w c="professions" e="президент" i="1171" m="president" t="n"/>
+<w c="professions" e="професіонал" i="1172" m="professional" t="n"/>
+<w c="professions" e="представник; делегат" i="1173" m="representative" t="n"/>
+<w c="professions" e="матрос; моряк" i="1174" m="sailor" t="n"/>
+<w c="professions" e="вчений" i="1175" m="scientist" t="n"/>
+<w c="professions" e="секретар" i="1176" m="secretary" t="n"/>
+<w c="professions" e="слуга; прислуга" i="1177" m="servant" t="n"/>
+<w c="professions" e="співак" i="1178" m="singer" t="n"/>
+<w c="professions" e="солдат" i="1179" m="soldier" t="n"/>
+<w c="professions" e="письменник" i="1180" m="writer" t="n"/>
+<w c="pronouns" e="кожен" i="1181" m="everybody" t="pron"/>
+<w c="pronouns" e="все" i="1182" m="everything" t="pron"/>
+<w c="pronouns" e="її" i="1183" m="her" t="pron"/>
+<w c="pronouns" e="себе; сама" i="1184" m="herself" t="pron"/>
+<w c="pronouns" e="йому; його" i="1185" m="him" t="pron"/>
+<w c="pronouns" e="себе; сам" i="1186" m="himself" t="pron"/>
+<w c="pronouns" e="його" i="1187" m="his" t="pron"/>
+<w c="pronouns" e="це" i="1188" m="it" t="pron"/>
+<w c="pronouns" e="себе; сам" i="1189" m="itself" t="pron"/>
+<w c="pronouns" e="я; мене" i="1190" m="me" t="pron"/>
+<w c="pronouns" e="мій" i="1191" m="my" t="pron"/>
+<w c="pronouns" e="наш" i="1192" m="our" t="pron"/>
+<w c="pronouns" e="вона" i="1193" m="she" t="pron"/>
+<w c="pronouns" e="той" i="1194" m="that" t="pron"/>
+<w c="pronouns" e="їх; їхній" i="1195" m="their" t="pron"/>
+<w c="pronouns" e="їм" i="1196" m="them" t="pron"/>
+<w c="pronouns" e="ці" i="1197" m="these" t="pron"/>
+<w c="pronouns" e="вони" i="1198" m="they" t="pron"/>
+<w c="pronouns" e="це" i="1199" m="this" t="pron"/>
+<w c="pronouns" e="ці" i="1200" m="those" t="pron"/>
+<w c="pronouns" e="нас" i="1201" m="us" t="pron"/>
+<w c="pronouns" e="ми" i="1202" m="we" t="pron"/>
+<w c="pronouns" e="котрий; який; що" i="1203" m="what" t="pron"/>
+<w c="pronouns" e="коли" i="1204" m="when" t="pron"/>
+<w c="pronouns" e="який" i="1205" m="which" t="pron"/>
+<w c="pronouns" e="котрий" i="1206" m="which" t="pron"/>
+<w c="pronouns" e="хто" i="1207" m="who" t="pron"/>
+<w c="pronouns" e="кого; кому" i="1208" m="whom" t="pron"/>
+<w c="pronouns" e="чий" i="1209" m="whose" t="pron"/>
+<w c="pronouns" e="ви; ти" i="1210" m="you" t="pron"/>
+<w c="pronouns" e="себе" i="1211" m="yourself" t="pron"/>
+<w c="relations" e="коханий; залицяльник" i="1212" m="boyfriend" t="n"/>
+<w c="relations" e="зістріч; побачення" i="1213" m="date" t="n"/>
+<w c="relations" e="любий; люба" i="1214" m="dear" t="n"/>
+<w c="relations" e="кохана; подруга" i="1215" m="girlfriend" t="n"/>
+<w c="relations" e="гість" i="1216" m="guest" t="n"/>
+<w c="relations" e="поцілунок" i="1217" m="kiss" t="n"/>
+<w c="relations" e="вечірка" i="1218" m="party" t="n"/>
+<w c="relations" e="секс" i="1219" m="sex" t="n"/>
+<w c="relations" e="посмішка" i="1220" m="smile" t="n"/>
+<w c="relations" e="сюрприз" i="1221" m="surprise" t="n"/>
+<w c="relations" e="візит" i="1222" m="visit" t="n"/>
+<w c="science" e="біологія" i="1223" m="biology" t="n"/>
+<w c="science" e="причина" i="1224" m="cause" t="n"/>
+<w c="science" e="центр" i="1225" m="center" t="n"/>
+<w c="science" e="хімія" i="1226" m="chemistry" t="n"/>
+<w c="science" e="порівняння" i="1227" m="comparison" t="n"/>
+<w c="science" e="наслідок" i="1228" m="consequence" t="n"/>
+<w c="science" e="перевірка" i="1229" m="control" t="n"/>
+<w c="science" e="дисципліна" i="1230" m="discipline" t="n"/>
+<w c="science" e="відкриття" i="1231" m="discovery" t="n"/>
+<w c="science" e="розкриття" i="1232" m="discovery" t="n"/>
+<w c="science" e="подія" i="1233" m="event" t="n"/>
+<w c="science" e="доказ" i="1234" m="evidence" t="n"/>
+<w c="science" e="приклад" i="1235" m="example" t="n"/>
+<w c="science" e="факт" i="1236" m="fact" t="n"/>
+<w c="science" e="винахід" i="1237" m="invention" t="n"/>
+<w c="science" e="проблема" i="1238" m="issue" t="n"/>
+<w c="science" e="спосіб; метод" i="1239" m="method" t="n"/>
+<w c="science" e="модель; макет" i="1240" m="model" t="n"/>
+<w c="science" e="альтернатива" i="1241" m="option" t="n"/>
+<w c="science" e="фаза" i="1242" m="phase" t="n"/>
+<w c="science" e="процес; процедура" i="1243" m="procedure" t="n"/>
+<w c="science" e="виробництво" i="1244" m="production" t="n"/>
+<w c="science" e="програма" i="1245" m="program" t="n"/>
+<w c="science" e="проект" i="1246" m="project" t="n"/>
+<w c="science" e="діапазон; область поширення" i="1247" m="range" t="n"/>
+<w c="science" e="дослідження" i="1248" m="research" t="n"/>
+<w c="science" e="вивчення" i="1249" m="research" t="n"/>
+<w c="science" e="наука" i="1250" m="science" t="n"/>
+<w c="science" e="суспільство" i="1251" m="society" t="n"/>
+<w c="science" e="система" i="1252" m="system" t="n"/>
+<w c="science" e="технологія" i="1253" m="technology" t="n"/>
+<w c="science" e="теорія" i="1254" m="theory" t="n"/>
+<w c="science" e="тенденція" i="1255" m="trend" t="n"/>
+<w c="science" e="проблема; клопіт" i="1256" m="trouble" t="n"/>
+<w c="science" e="користувач" i="1257" m="user" t="n"/>
+<w c="society" e="армія" i="1258" m="army" t="n"/>
+<w c="society" e="військова база" i="1259" m="base" t="n"/>
+<w c="society" e="клуб" i="1260" m="club" t="n"/>
+<w c="society" e="компанія; товариство" i="1261" m="company" t="n"/>
+<w c="society" e="країна" i="1262" m="country" t="n"/>
+<w c="society" e="суд" i="1263" m="court" t="n"/>
+<w c="society" e="злочин" i="1264" m="crime" t="n"/>
+<w c="society" e="культура" i="1265" m="culture" t="n"/>
+<w c="society" e="демократія; республіка" i="1266" m="democracy" t="n"/>
+<w c="society" e="домініон; володіння" i="1267" m="dominion" t="n"/>
+<w c="society" e="вибори" i="1268" m="election" t="n"/>
+<w c="society" e="існування" i="1269" m="existence" t="n"/>
+<w c="society" e="жінка; самка" i="1270" m="female" t="n"/>
+<w c="society" e="уряд" i="1271" m="government" t="n"/>
+<w c="society" e="історія" i="1272" m="history" t="n"/>
+<w c="society" e="індивід" i="1273" m="individual" t="n"/>
+<w c="society" e="установа; інституція" i="1274" m="institution" t="n"/>
+<w c="society" e="король" i="1275" m="king" t="n"/>
+<w c="society" e="лідер" i="1276" m="leader" t="n"/>
+<w c="society" e="самець; чоловік" i="1277" m="male" t="n"/>
+<w c="society" e="член" i="1278" m="member" t="n"/>
+<w c="society" e="народ; нація" i="1279" m="nation" t="n"/>
+<w c="society" e="новина; новини" i="1280" m="news" t="n"/>
+<w c="society" e="шум; гомін; галас" i="1281" m="noise" t="n"/>
+<w c="society" e="наказ; порядок" i="1282" m="order" t="n"/>
+<w c="society" e="організація" i="1283" m="organization" t="n"/>
+<w c="society" e="перепустка; прохід" i="1284" m="pass" t="n"/>
+<w c="society" e="паспорт" i="1285" m="passport" t="n"/>
+<w c="society" e="мир" i="1286" m="peace" t="n"/>
+<w c="society" e="люди; народ" i="1287" m="people" t="n"/>
+<w c="society" e="поліція" i="1288" m="police" t="n"/>
+<w c="society" e="політика" i="1289" m="policy" t="n"/>
+<w c="society" e="населення" i="1290" m="population" t="n"/>
+<w c="society" e="громадськість; публіка" i="1291" m="public" t="n"/>
+<w c="society" e="покарання" i="1292" m="punishment" t="n"/>
+<w c="society" e="релігія" i="1293" m="religion" t="n"/>
+<w c="society" e="віросповідання" i="1294" m="religion" t="n"/>
+<w c="society" e="країна; штат" i="1295" m="state" t="n"/>
+<w c="society" e="напис; заголовок" i="1296" m="title" t="n"/>
+<w c="society" e="союз; об'днання" i="1297" m="union" t="n"/>
+<w c="society" e="війна" i="1298" m="war" t="n"/>
+<w c="society" e="воля" i="1299" m="will" t="n"/>
+<w c="society" e="заповіт" i="1300" m="will" t="n"/>
+<w c="sports" e="нагорода" i="1301" m="award" t="n"/>
+<w c="sports" e="бейсбол" i="1302" m="baseball" t="n"/>
+<w c="sports" e="чемпіонат" i="1303" m="championship" t="n"/>
+<w c="sports" e="суперник" i="1304" m="competitor" t="n"/>
+<w c="sports" e="фініш; кінець" i="1305" m="finish" t="n"/>
+<w c="sports" e="футбол" i="1306" m="football" t="n"/>
+<w c="sports" e="гра" i="1307" m="game" t="n"/>
+<w c="sports" e="гол" i="1308" m="goal" t="n"/>
+<w c="sports" e="гольф" i="1309" m="golf" t="n"/>
+<w c="sports" e="матч" i="1310" m="match" t="n"/>
+<w c="sports" e="гравець" i="1311" m="player" t="n"/>
+<w c="sports" e="рекорд" i="1312" m="record" t="n"/>
+<w c="sports" e="теніс" i="1313" m="tennis" t="n"/>
+<w c="sports" e="кидок" i="1314" m="throw" t="n"/>
+<w c="sports" e="перемога" i="1315" m="win" t="n"/>
+<w c="time" e="квітень" i="1316" m="April" t="n"/>
+<w c="time" e="серпень" i="1317" m="August" t="n"/>
+<w c="time" e="грудень" i="1318" m="December" t="n"/>
+<w c="time" e="лютий" i="1319" m="February" t="n"/>
+<w c="time" e="п'ятниця" i="1320" m="Friday" t="n"/>
+<w c="time" e="січень" i="1321" m="January" t="n"/>
+<w c="time" e="липень" i="1322" m="July" t="n"/>
+<w c="time" e="червень" i="1323" m="June" t="n"/>
+<w c="time" e="травень" i="1324" m="May" t="n"/>
+<w c="time" e="понеділок" i="1325" m="Monday" t="n"/>
+<w c="time" e="листопад" i="1326" m="November" t="n"/>
+<w c="time" e="жовтень" i="1327" m="October" t="n"/>
+<w c="time" e="субота" i="1328" m="Saturday" t="n"/>
+<w c="time" e="вересень" i="1329" m="September" t="n"/>
+<w c="time" e="неділя" i="1330" m="Sunday" t="n"/>
+<w c="time" e="четвер" i="1331" m="Thursday" t="n"/>
+<w c="time" e="вівторок" i="1332" m="Tuesday" t="n"/>
+<w c="time" e="середа" i="1333" m="Wednesday" t="n"/>
+<w c="time" e="час після полудня" i="1334" m="afternoon" t="n"/>
+<w c="time" e="вік" i="1335" m="age" t="n"/>
+<w c="time" e="осінь" i="1336" m="autumn" t="n"/>
+<w c="time" e="початок" i="1337" m="beginning" t="n"/>
+<w c="time" e="століття" i="1338" m="century" t="n"/>
+<w c="time" e="дата; число" i="1339" m="date" t="n"/>
+<w c="time" e="день" i="1340" m="day" t="n"/>
+<w c="time" e="кінець" i="1341" m="end" t="n"/>
+<w c="time" e="вечір" i="1342" m="evening" t="n"/>
+<w c="time" e="майбутнє" i="1343" m="future" t="n"/>
+<w c="time" e="година" i="1344" m="hour" t="n"/>
+<w c="time" e="північ" i="1345" m="midnight" t="n"/>
+<w c="time" e="хвилина" i="1346" m="minute" t="n"/>
+<w c="time" e="момент; мить" i="1347" m="moment" t="n"/>
+<w c="time" e="момент; мить" i="1348" m="moment" t="n"/>
+<w c="time" e="місяць" i="1349" m="month" t="n"/>
+<w c="time" e="ранок" i="1350" m="morning" t="n"/>
+<w c="time" e="ніч" i="1351" m="night" t="n"/>
+<w c="time" e="зараз" i="1352" m="now" t="n"/>
+<w c="time" e="минуле" i="1353" m="past" t="n"/>
+<w c="time" e="перерва; пауза" i="1354" m="pause" t="n"/>
+<w c="time" e="період" i="1355" m="period" t="n"/>
+<w c="time" e="теперішній час" i="1356" m="present" t="n"/>
+<w c="time" e="пора року" i="1357" m="season" t="n"/>
+<w c="time" e="секунда" i="1358" m="second" t="n"/>
+<w c="time" e="весна" i="1359" m="spring" t="n"/>
+<w c="time" e="літо" i="1360" m="summer" t="n"/>
+<w c="time" e="сьогодні" i="1361" m="today" t="n"/>
+<w c="time" e="завтра" i="1362" m="tomorrow" t="n"/>
+<w c="time" e="тиждень" i="1363" m="week" t="n"/>
+<w c="time" e="вихідні" i="1364" m="weekend" t="n"/>
+<w c="time" e="момент; відрізок часу" i="1365" m="while" t="n"/>
+<w c="time" e="зима" i="1366" m="winter" t="n"/>
+<w c="time" e="рік" i="1367" m="year" t="n"/>
+<w c="tools" e="дзвін" i="1368" m="bell" t="n"/>
+<w c="tools" e="щітка" i="1369" m="brush" t="n"/>
+<w c="tools" e="кнопка" i="1370" m="button" t="n"/>
+<w c="tools" e="зброя; рушниця" i="1371" m="gun" t="n"/>
+<w c="tools" e="молоток" i="1372" m="hammer" t="n"/>
+<w c="tools" e="гак" i="1373" m="hook" t="n"/>
+<w c="tools" e="ключ" i="1374" m="key" t="n"/>
+<w c="tools" e="замок" i="1375" m="lock" t="n"/>
+<w c="tools" e="сірник" i="1376" m="match" t="n"/>
+<w c="tools" e="цвях" i="1377" m="nail" t="n"/>
+<w c="tools" e="голка" i="1378" m="needle" t="n"/>
+<w c="tools" e="ручка" i="1379" m="pen" t="n"/>
+<w c="tools" e="олівець" i="1380" m="pencil" t="n"/>
+<w c="tools" e="насос; помпа" i="1381" m="pump" t="n"/>
+<w c="tools" e="ножиці" i="1382" m="scissors" t="n"/>
+<w c="tools" e="пружина" i="1383" m="spring" t="n"/>
+<w c="tools" e="печатка; штамп" i="1384" m="stamp" t="n"/>
+<w c="tools" e="батіг" i="1385" m="whip" t="n"/>
+<w c="transport" e="випадок; нещасний випадок" i="1386" m="accident" t="n"/>
+<w c="transport" e="велосипед" i="1387" m="bike" t="n"/>
+<w c="transport" e="човен" i="1388" m="boat" t="n"/>
+<w c="transport" e="автобус" i="1389" m="bus" t="n"/>
+<w c="transport" e="автомобіль; машина" i="1390" m="car" t="n"/>
+<w c="transport" e="поворот" i="1391" m="curve" t="n"/>
+<w c="transport" e="експрес; швидкий" i="1392" m="express" t="n"/>
+<w c="transport" e="політ" i="1393" m="flight" t="n"/>
+<w c="transport" e="подорож" i="1394" m="journey" t="n"/>
+<w c="transport" e="пасажир" i="1395" m="passenger" t="n"/>
+<w c="transport" e="літак" i="1396" m="plane" t="n"/>
+<w c="transport" e="судно; корабель" i="1397" m="ship" t="n"/>
+<w c="transport" e="занос; буксування" i="1398" m="skid" t="n"/>
+<w c="transport" e="колія" i="1399" m="track" t="n"/>
+<w c="transport" e="потяг" i="1400" m="train" t="n"/>
+<w c="transport" e="транспорт" i="1401" m="transport" t="n"/>
+<w c="vegetables" e="біб" i="1402" m="bean" t="n"/>
+<w c="vegetables" e="капуста" i="1403" m="cabbage" t="n"/>
+<w c="vegetables" e="морква" i="1404" m="carrot" t="n"/>
+<w c="vegetables" e="огірок" i="1405" m="cucumber" t="n"/>
+<w c="vegetables" e="часник" i="1406" m="garlic" t="n"/>
+<w c="vegetables" e="маслина; оливка" i="1407" m="olive" t="n"/>
+<w c="vegetables" e="цибуля" i="1408" m="onion" t="n"/>
+<w c="vegetables" e="пастернак" i="1409" m="parsnip" t="n"/>
+<w c="vegetables" e="горох" i="1410" m="pea" t="n"/>
+<w c="vegetables" e="картоплина; картопля" i="1411" m="potato" t="n"/>
+<w c="vegetables" e="редиска" i="1412" m="radish" t="n"/>
+<w c="vegetables" e="рис" i="1413" m="rice" t="n"/>
+<w c="vegetables" e="помідор; томат" i="1414" m="tomato" t="n"/>
+<w c="verbs" e="приймати" i="1415" m="accept" t="v"/>
+<w c="verbs" e="обвинувачувати" i="1416" m="accuse" t="v"/>
+<w c="verbs" e="досягати" i="1417" m="achieve" t="v"/>
+<w c="verbs" e="діяти" i="1418" m="act" t="v"/>
+<w c="verbs" e="додавати" i="1419" m="add" t="v"/>
+<w c="verbs" e="складати" i="1420" m="add" t="v"/>
+<w c="verbs" e="визнавати" i="1421" m="admit" t="v"/>
+<w c="verbs" e="впливати" i="1422" m="affect" t="v"/>
+<w c="verbs" e="погоджуватися" i="1423" m="agree" t="v"/>
+<w c="verbs" e="дозволяти" i="1424" m="allow" t="v"/>
+<w c="verbs" e="оголошувати" i="1425" m="announce" t="v"/>
+<w c="verbs" e="сваритись; сперечатись" i="1426" m="argue" t="v"/>
+<w c="verbs" e="приїжджати" i="1427" m="arrive" t="v"/>
+<w c="verbs" e="питати; запитувати" i="1428" m="ask" t="v"/>
+<w c="verbs" e="атакувати" i="1429" m="attack" t="v"/>
+<w c="verbs" e="уникати" i="1430" m="avoid" t="v"/>
+<w c="verbs" e="жити; бути" i="1431" m="be" t="v"/>
+<w c="verbs" e="носити; терпіти" i="1432" m="bear" t="v"/>
+<w c="verbs" e="бити" i="1433" m="beat" t="v"/>
+<w c="verbs" e="ставати" i="1434" m="become" t="v"/>
+<w c="verbs" e="поводитися" i="1435" m="behave" t="v"/>
+<w c="verbs" e="вірити" i="1436" m="believe" t="v"/>
+<w c="verbs" e="мати користь" i="1437" m="benefit" t="v"/>
+<w c="verbs" e="кусати" i="1438" m="bite" t="v"/>
+<w c="verbs" e="приносити" i="1439" m="bring" t="v"/>
+<w c="verbs" e="будувати" i="1440" m="build" t="v"/>
+<w c="verbs" e="спалювати" i="1441" m="burn" t="v"/>
+<w c="verbs" e="дзвонити" i="1442" m="call" t="v"/>
+<w c="verbs" e="піклуватися" i="1443" m="care" t="v"/>
+<w c="verbs" e="носити: переносити" i="1444" m="carry" t="v"/>
+<w c="verbs" e="ловити" i="1445" m="catch" t="v"/>
+<w c="verbs" e="спричиняти" i="1446" m="cause" t="v"/>
+<w c="verbs" e="міняти" i="1447" m="change" t="v"/>
+<w c="verbs" e="обирати" i="1448" m="choose" t="v"/>
+<w c="verbs" e="сортувати" i="1449" m="classify" t="v"/>
+<w c="verbs" e="чистити" i="1450" m="clean" t="v"/>
+<w c="verbs" e="порівнювати" i="1451" m="compare" t="v"/>
+<w c="verbs" e="з'єднювати" i="1452" m="connect" t="v"/>
+<w c="verbs" e="містити; вміщати" i="1453" m="contain" t="v"/>
+<w c="verbs" e="продовжувати" i="1454" m="continue" t="v"/>
+<w c="verbs" e="контролювати" i="1455" m="control" t="v"/>
+<w c="verbs" e="готувати" i="1456" m="cook" t="v"/>
+<w c="verbs" e="копіювати" i="1457" m="copy" t="v"/>
+<w c="verbs" e="кашляти" i="1458" m="cough" t="v"/>
+<w c="verbs" e="рахувати" i="1459" m="count" t="v"/>
+<w c="verbs" e="товкти; роздушувати" i="1460" m="crush" t="v"/>
+<w c="verbs" e="знищувати" i="1461" m="crush" t="v"/>
+<w c="verbs" e="плакати" i="1462" m="cry" t="v"/>
+<w c="verbs" e="вирішувати" i="1463" m="decide" t="v"/>
+<w c="verbs" e="розносити; доставляти" i="1464" m="deliver" t="v"/>
+<w c="verbs" e="описувати" i="1465" m="describe" t="v"/>
+<w c="verbs" e="призначати" i="1466" m="design" t="v"/>
+<w c="verbs" e="бажати; хотіти" i="1467" m="desire" t="v"/>
+<w c="verbs" e="визначати; встановлювати" i="1468" m="determine" t="v"/>
+<w c="verbs" e="развиватися" i="1469" m="develop" t="v"/>
+<w c="verbs" e="вмирати" i="1470" m="die" t="v"/>
+<w c="verbs" e="відкривати" i="1471" m="discover" t="v"/>
+<w c="verbs" e="дискутувати; обговорювати" i="1472" m="discuss" t="v"/>
+<w c="verbs" e="не любити" i="1473" m="dislike" t="v"/>
+<w c="verbs" e="розділяти" i="1474" m="divide" t="v"/>
+<w c="verbs" e="сумніватись" i="1475" m="doubt" t="v"/>
+<w c="verbs" e="керувати (автомобілем)" i="1476" m="drive" t="v"/>
+<w c="verbs" e="охоплювати" i="1477" m="embrace" t="v"/>
+<w c="verbs" e="підбадьорювати" i="1478" m="encourage" t="v"/>
+<w c="verbs" e="кінчати; закінчувати" i="1479" m="end" t="v"/>
+<w c="verbs" e="збільшувати" i="1480" m="enhance" t="v"/>
+<w c="verbs" e="насолоджуватися" i="1481" m="enjoy" t="v"/>
+<w c="verbs" e="вступати" i="1482" m="enter" t="v"/>
+<w c="verbs" e="встановлювати" i="1483" m="establish" t="v"/>
+<w c="verbs" e="оцінювати" i="1484" m="estimate" t="v"/>
+<w c="verbs" e="перевищувати" i="1485" m="exceed" t="v"/>
+<w c="verbs" e="існувати" i="1486" m="exist" t="v"/>
+<w c="verbs" e="очікувати" i="1487" m="expect" t="v"/>
+<w c="verbs" e="пояснювати" i="1488" m="explain" t="v"/>
+<w c="verbs" e="виражати; висловлювати" i="1489" m="express" t="v"/>
+<w c="verbs" e="битися" i="1490" m="fight" t="v"/>
+<w c="verbs" e="наповнювати" i="1491" m="fill" t="v"/>
+<w c="verbs" e="знаходити" i="1492" m="find" t="v"/>
+<w c="verbs" e="закінчувати" i="1493" m="finish" t="v"/>
+<w c="verbs" e="вирувати" i="1494" m="flush" t="v"/>
+<w c="verbs" e="пробачати" i="1495" m="forgive" t="v"/>
+<w c="verbs" e="вивільняти" i="1496" m="free" t="v"/>
+<w c="verbs" e="вставати" i="1497" m="get up" t="v"/>
+<w c="verbs" e="здаватися" i="1498" m="give up" t="v"/>
+<w c="verbs" e="рости" i="1499" m="grow" t="v"/>
+<w c="verbs" e="траплятися; відбуватися" i="1500" m="happen" t="v"/>
+<w c="verbs" e="ненавидіти" i="1501" m="hate" t="v"/>
+<w c="verbs" e="приховувати" i="1502" m="hide" t="v"/>
+<w c="verbs" e="тримати; утримувати" i="1503" m="hold" t="v"/>
+<w c="verbs" e="розпізнавати" i="1504" m="identify" t="v"/>
+<w c="verbs" e="містити в собі" i="1505" m="imply" t="v"/>
+<w c="verbs" e="включати; охоплювати" i="1506" m="include" t="v"/>
+<w c="verbs" e="збільшувати" i="1507" m="increase" t="v"/>
+<w c="verbs" e="пошкодити" i="1508" m="injure" t="v"/>
+<w c="verbs" e="впроваджувати; представляти" i="1509" m="introduce" t="v"/>
+<w c="verbs" e="знайомити; рекомендувати" i="1510" m="introduce" t="v"/>
+<w c="verbs" e="з'єднювати(ся); об'єднювати(ся)" i="1511" m="join" t="v"/>
+<w c="verbs" e="тримати; зберігати" i="1512" m="keep" t="v"/>
+<w c="verbs" e="ударяти; брикатися" i="1513" m="kick" t="v"/>
+<w c="verbs" e="вбивати" i="1514" m="kill" t="v"/>
+<w c="verbs" e="приземлятися" i="1515" m="land" t="v"/>
+<w c="verbs" e="вести; приводити" i="1516" m="lead" t="v"/>
+<w c="verbs" e="залишати" i="1517" m="leave" t="v"/>
+<w c="verbs" e="пускати; дозволяти" i="1518" m="let" t="v"/>
+<w c="verbs" e="піднімати; підносити" i="1519" m="lift" t="v"/>
+<w c="verbs" e="обмежувати" i="1520" m="limit" t="v"/>
+<w c="verbs" e="вантажити; заряджати" i="1521" m="load" t="v"/>
+<w c="verbs" e="замикати" i="1522" m="lock" t="v"/>
+<w c="verbs" e="дивитися; оглядати" i="1523" m="look" t="v"/>
+<w c="verbs" e="програвати" i="1524" m="lose" t="v"/>
+<w c="verbs" e="керувати" i="1525" m="manage" t="v"/>
+<w c="verbs" e="одружуватися; виходити заміж" i="1526" m="marry" t="v"/>
+<w c="verbs" e="підходити" i="1527" m="match" t="v"/>
+<w c="verbs" e="означати" i="1528" m="mean" t="v"/>
+<w c="verbs" e="означати" i="1529" m="mean" t="v"/>
+<w c="verbs" e="міряти" i="1530" m="measure" t="v"/>
+<w c="verbs" e="згадувати" i="1531" m="mention" t="v"/>
+<w c="verbs" e="схибити" i="1532" m="miss" t="v"/>
+<w c="verbs" e="промахнутися; схибити" i="1533" m="miss" t="v"/>
+<w c="verbs" e="називати" i="1534" m="name" t="v"/>
+<w c="verbs" e="діяти; працювати" i="1535" m="operate" t="v"/>
+<w c="verbs" e="наказувати" i="1536" m="order" t="v"/>
+<w c="verbs" e="володіти" i="1537" m="own" t="v"/>
+<w c="verbs" e="перетинати; рухатися" i="1538" m="pass" t="v"/>
+<w c="verbs" e="очищати; лущити" i="1539" m="peel" t="v"/>
+<w c="verbs" e="планувати" i="1540" m="plan" t="v"/>
+<w c="verbs" e="подобатися; догоджати" i="1541" m="please" t="v"/>
+<w c="verbs" e="орати" i="1542" m="plow" t="v"/>
+<w c="verbs" e="отруювати; травити" i="1543" m="poison" t="v"/>
+<w c="verbs" e="полірувати" i="1544" m="polish" t="v"/>
+<w c="verbs" e="готуватися; готувати" i="1545" m="prepare" t="v"/>
+<w c="verbs" e="тиснути; натискати" i="1546" m="press" t="v"/>
+<w c="verbs" e="попереджати" i="1547" m="prevent" t="v"/>
+<w c="verbs" e="друкувати" i="1548" m="print" t="v"/>
+<w c="verbs" e="порушувати процес(юр.); обробляти" i="1549" m="process" t="v"/>
+<w c="verbs" e="користуватися; отримувати прибуток" i="1550" m="profit" t="v"/>
+<w c="verbs" e="протестувати; заперечувати" i="1551" m="protest" t="v"/>
+<w c="verbs" e="доводити" i="1552" m="prove" t="v"/>
+<w c="verbs" e="публікувати; видавати" i="1553" m="publish" t="v"/>
+<w c="verbs" e="вирощувати; виховувати" i="1554" m="raise" t="v"/>
+<w c="verbs" e="оцінювати" i="1555" m="rate" t="v"/>
+<w c="verbs" e="досягати" i="1556" m="reach" t="v"/>
+<w c="verbs" e="отримувати" i="1557" m="receive" t="v"/>
+<w c="verbs" e="записувати" i="1558" m="record" t="v"/>
+<w c="verbs" e="зменшувати" i="1559" m="reduce" t="v"/>
+<w c="verbs" e="відбивати" i="1560" m="reflect" t="v"/>
+<w c="verbs" e="відмовляти(ся)" i="1561" m="refuse" t="v"/>
+<w c="verbs" e="пересувати; переміщати" i="1562" m="remove" t="v"/>
+<w c="verbs" e="відтворювати; віддавати належне" i="1563" m="render" t="v"/>
+<w c="verbs" e="замінювати" i="1564" m="replace" t="v"/>
+<w c="verbs" e="відповідати" i="1565" m="reply" t="v"/>
+<w c="verbs" e="повідомляти" i="1566" m="report" t="v"/>
+<w c="verbs" e="зображати; змальовувати" i="1567" m="represent" t="v"/>
+<w c="verbs" e="прохати" i="1568" m="request" t="v"/>
+<w c="verbs" e="поважати" i="1569" m="respect" t="v"/>
+<w c="verbs" e="відпочивати" i="1570" m="rest" t="v"/>
+<w c="verbs" e="розкривати; відкривати" i="1571" m="reveal" t="v"/>
+<w c="verbs" e="ризикувати" i="1572" m="risk" t="v"/>
+<w c="verbs" e="закругляти(ся)" i="1573" m="round off" t="v"/>
+<w c="verbs" e="керувати" i="1574" m="rule" t="v"/>
+<w c="verbs" e="накопичувати" i="1575" m="save" t="v"/>
+<w c="verbs" e="рятувати" i="1576" m="save" t="v"/>
+<w c="verbs" e="бачити" i="1577" m="see" t="v"/>
+<w c="verbs" e="оглядати; розуміти" i="1578" m="see" t="v"/>
+<w c="verbs" e="посилати; відправляти" i="1579" m="send" t="v"/>
+<w c="verbs" e="служити" i="1580" m="serve" t="v"/>
+<w c="verbs" e="шити" i="1581" m="sew" t="v"/>
+<w c="verbs" e="ділитися" i="1582" m="share" t="v"/>
+<w c="verbs" e="кричати" i="1583" m="shout" t="v"/>
+<w c="verbs" e="показувати; демонструвати" i="1584" m="show" t="v"/>
+<w c="verbs" e="ламати; розбивати" i="1585" m="smash" t="v"/>
+<w c="verbs" e="пахнути" i="1586" m="smell" t="v"/>
+<w c="verbs" e="нюхати" i="1587" m="smell" t="v"/>
+<w c="verbs" e="відчувати" i="1588" m="smell" t="v"/>
+<w c="verbs" e="палити" i="1589" m="smoke" t="v"/>
+<w c="verbs" e="витрачати" i="1590" m="spend" t="v"/>
+<w c="verbs" e="стояти" i="1591" m="stand" t="v"/>
+<w c="verbs" e="залишатися" i="1592" m="stay" t="v"/>
+<w c="verbs" e="красти" i="1593" m="steal" t="v"/>
+<w c="verbs" e="зупиняти(ся)" i="1594" m="stop" t="v"/>
+<w c="verbs" e="вивчати" i="1595" m="study" t="v"/>
+<w c="verbs" e="страждати" i="1596" m="suffer" t="v"/>
+<w c="verbs" e="пропонувати" i="1597" m="suggest" t="v"/>
+<w c="verbs" e="постачати" i="1598" m="supply" t="v"/>
+<w c="verbs" e="підтримувати" i="1599" m="support" t="v"/>
+<w c="verbs" e="припускати" i="1600" m="suppose" t="v"/>
+<w c="verbs" e="дивувати" i="1601" m="surprise" t="v"/>
+<w c="verbs" e="виживати" i="1602" m="survive" t="v"/>
+<w c="verbs" e="пробувати; смакувати" i="1603" m="taste" t="v"/>
+<w c="verbs" e="навчати" i="1604" m="teach" t="v"/>
+<w c="verbs" e="випробовувати; тестувати" i="1605" m="test" t="v"/>
+<w c="verbs" e="дякувати" i="1606" m="thank" t="v"/>
+<w c="verbs" e="думати" i="1607" m="think" t="v"/>
+<w c="verbs" e="кидати" i="1608" m="throw" t="v"/>
+<w c="verbs" e="називати" i="1609" m="title" t="v"/>
+<w c="verbs" e="торгувати" i="1610" m="trade" t="v"/>
+<w c="verbs" e="тренувати" i="1611" m="train" t="v"/>
+<w c="verbs" e="подорожувати" i="1612" m="travel" t="v"/>
+<w c="verbs" e="поводитися; ставитися" i="1613" m="treat" t="v"/>
+<w c="verbs" e="обманювати" i="1614" m="trick" t="v"/>
+<w c="verbs" e="пробувати" i="1615" m="try" t="v"/>
+<w c="verbs" e="повертати" i="1616" m="turn" t="v"/>
+<w c="verbs" e="відвідувати" i="1617" m="visit" t="v"/>
+<w c="verbs" e="йти; ходити" i="1618" m="walk" t="v"/>
+<w c="verbs" e="нагрівати" i="1619" m="warm" t="v"/>
+<w c="verbs" e="мити" i="1620" m="wash" t="v"/>
+<w c="verbs" e="дивитися" i="1621" m="watch" t="v"/>
+<w c="verbs" e="носити" i="1622" m="wear" t="v"/>
+<w c="verbs" e="зважувати(ся)" i="1623" m="weigh" t="v"/>
+<w c="verbs" e="вигравати; перемагати" i="1624" m="win" t="v"/>
+<w c="verbs" e="бажати; хотіти" i="1625" m="wish" t="v"/>
+<w c="verbs" e="бути" i="1626" m="be" t="v"/>
+<w c="verbs" e="починати" i="1627" m="begin" t="v"/>
+<w c="verbs" e="ламати; розбивати" i="1628" m="break" t="v"/>
+<w c="verbs" e="купувати" i="1629" m="buy" t="v"/>
+<w c="verbs" e="закривати" i="1630" m="close" t="v"/>
+<w c="verbs" e="приходити" i="1631" m="come" t="v"/>
+<w c="verbs" e="різати" i="1632" m="cut" t="v"/>
+<w c="verbs" e="танцювати" i="1633" m="dance" t="v"/>
+<w c="verbs" e="робити; виконувати" i="1634" m="do" t="v"/>
+<w c="verbs" e="пити" i="1635" m="drink" t="v"/>
+<w c="verbs" e="їсти" i="1636" m="eat" t="v"/>
+<w c="verbs" e="провалюватися; не досягати" i="1637" m="fall" t="v"/>
+<w c="verbs" e="відчувати" i="1638" m="feel" t="v"/>
+<w c="verbs" e="знаходити" i="1639" m="find" t="v"/>
+<w c="verbs" e="стріляти" i="1640" m="fire" t="v"/>
+<w c="verbs" e="літати" i="1641" m="fly" t="v"/>
+<w c="verbs" e="наслідувати; іти слідом" i="1642" m="follow" t="v"/>
+<w c="verbs" e="забувати" i="1643" m="forget" t="v"/>
+<w c="verbs" e="отримувати" i="1644" m="get" t="v"/>
+<w c="verbs" e="давати" i="1645" m="give" t="v"/>
+<w c="verbs" e="мати" i="1646" m="have" t="v"/>
+<w c="verbs" e="чути" i="1647" m="hear" t="v"/>
+<w c="verbs" e="помагати" i="1648" m="help" t="v"/>
+<w c="verbs" e="сподіватися; надіятися" i="1649" m="hope" t="v"/>
+<w c="verbs" e="стрибати" i="1650" m="jump" t="v"/>
+<w c="verbs" e="цілувати" i="1651" m="kiss" t="v"/>
+<w c="verbs" e="знати" i="1652" m="know" t="v"/>
+<w c="verbs" e="сміятися" i="1653" m="laugh" t="v"/>
+<w c="verbs" e="вчити(ся)" i="1654" m="learn" t="v"/>
+<w c="verbs" e="лежати" i="1655" m="lie" t="v"/>
+<w c="verbs" e="брехати; обманювати" i="1656" m="lie" t="v"/>
+<w c="verbs" e="любити; подобатися" i="1657" m="like" t="v"/>
+<w c="verbs" e="слухати" i="1658" m="listen" t="v"/>
+<w c="verbs" e="дивитися" i="1659" m="look" t="v"/>
+<w c="verbs" e="губити; втрачати" i="1660" m="lose" t="v"/>
+<w c="verbs" e="любити" i="1661" m="love" t="v"/>
+<w c="verbs" e="робити" i="1662" m="make" t="v"/>
+<w c="verbs" e="зустрічати(ся)" i="1663" m="meet" t="v"/>
+<w c="verbs" e="рухати(ся)" i="1664" m="move" t="v"/>
+<w c="verbs" e="потребувати" i="1665" m="need" t="v"/>
+<w c="verbs" e="пропонувати" i="1666" m="offer" t="v"/>
+<w c="verbs" e="відкривати" i="1667" m="open" t="v"/>
+<w c="verbs" e="платити" i="1668" m="pay" t="v"/>
+<w c="verbs" e="грати" i="1669" m="play" t="v"/>
+<w c="verbs" e="тягнути" i="1670" m="pull" t="v"/>
+<w c="verbs" e="штовхати" i="1671" m="push" t="v"/>
+<w c="verbs" e="(по)класти" i="1672" m="put" t="v"/>
+<w c="verbs" e="читати" i="1673" m="read" t="v"/>
+<w c="verbs" e="пам'ятати" i="1674" m="remember" t="v"/>
+<w c="verbs" e="бігати" i="1675" m="run" t="v"/>
+<w c="verbs" e="говорити" i="1676" m="say" t="v"/>
+<w c="verbs" e="продавати" i="1677" m="sell" t="v"/>
+<w c="verbs" e="співати" i="1678" m="sing" t="v"/>
+<w c="verbs" e="сидіти" i="1679" m="sit" t="v"/>
+<w c="verbs" e="посміхатися" i="1680" m="smile" t="v"/>
+<w c="verbs" e="плавати" i="1681" m="swim" t="v"/>
+<w c="verbs" e="брати" i="1682" m="take" t="v"/>
+<w c="verbs" e="говорити" i="1683" m="talk" t="v"/>
+<w c="verbs" e="стежити; слідкувати" i="1684" m="trace" t="v"/>
+<w c="verbs" e="розуміти" i="1685" m="understand" t="v"/>
+<w c="verbs" e="користуватися; використовувати" i="1686" m="use" t="v"/>
+<w c="verbs" e="чекати" i="1687" m="wait" t="v"/>
+<w c="verbs" e="працювати" i="1688" m="work" t="v"/>
+<w c="verbs" e="писати" i="1689" m="write" t="v"/>
+<w c="weather" e="хмара; хмаринка" i="1690" m="cloud" t="n"/>
+<w c="weather" e="роса" i="1691" m="dew" t="n"/>
+<w c="weather" e="туман" i="1692" m="fog" t="n"/>
+<w c="weather" e="іній" i="1693" m="frost" t="n"/>
+<w c="weather" e="блискавка" i="1694" m="lightning" t="n"/>
+<w c="weather" e="дощ" i="1695" m="rain" t="n"/>
+<w c="weather" e="райдуга; веселка" i="1696" m="rainbow" t="n"/>
+<w c="weather" e="сніг" i="1697" m="snow" t="n"/>
+<w c="weather" e="буря; гроза; шторм" i="1698" m="storm" t="n"/>
+<w c="weather" e="грім" i="1699" m="thunder" t="n"/>
+<w c="weather" e="вітер" i="1700" m="wind" t="n"/>
+</vocb>
+
+
+
+
+
+
+
+

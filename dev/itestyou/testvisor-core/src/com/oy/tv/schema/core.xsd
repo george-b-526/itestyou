@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
+    xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+    jxb:extensionBindingPrefixes="xjc"
+	jxb:version="2.0"
+>    
+<xsd:annotation><xsd:appinfo>
+	<jxb:globalBindings>    
+		<xjc:serializable uid="0" />
+    	<jxb:javaType name="java.util.Calendar" xmlType="xsd:dateTime"
+        	parseMethod="javax.xml.bind.DatatypeConverter.parseDate"
+        	printMethod="javax.xml.bind.DatatypeConverter.printDate"
+        />  
+    </jxb:globalBindings>
+</xsd:appinfo></xsd:annotation>
+
+<xsd:simpleType name="EObjectState">   
+    <xsd:annotation>
+    	<xsd:appinfo>
+      		<jxb:typesafeEnumClass name="EObjectState">
+        		<jxb:typesafeEnumMember name="INACTIVE" value="0" />
+        		<jxb:typesafeEnumMember name="ACTIVE" value="1" />
+        		<jxb:typesafeEnumMember name="DELETED" value="2" />
+      		</jxb:typesafeEnumClass>  
+    	</xsd:appinfo>
+    </xsd:annotation> 
+	<xsd:restriction base="xsd:int">
+    	<xsd:enumeration value="0" />
+    	<xsd:enumeration value="1" />
+    	<xsd:enumeration value="2" />
+ 	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="ETestState">   
+    <xsd:annotation>
+    	<xsd:appinfo>
+      		<jxb:typesafeEnumClass name="ETestState">
+        		<jxb:typesafeEnumMember name="CREATED" value="0" />
+        		<jxb:typesafeEnumMember name="STARTED" value="1" />
+        		<jxb:typesafeEnumMember name="IN_PROGRESS" value="2" />
+        		<jxb:typesafeEnumMember name="COMPLETED" value="3" />
+      		</jxb:typesafeEnumClass>  
+    	</xsd:appinfo>
+    </xsd:annotation> 
+	<xsd:restriction base="xsd:int">
+    	<xsd:enumeration value="0" />
+    	<xsd:enumeration value="1" />
+    	<xsd:enumeration value="2" />
+    	<xsd:enumeration value="3" />
+ 	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:complexType name="AuthTokenBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="token" type="xsd:string"/>
+		<xsd:element name="createdOn" type="xsd:dateTime"/>
+		<xsd:element name="ipAddress" type="xsd:string"/>
+		<xsd:element name="userAgent" type="xsd:string"/>
+		<xsd:element name="customer" type="CustomerBO"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="CustomerBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="name" type="xsd:string"/>
+		<xsd:element name="passwordHash" type="xsd:string"/>
+		<xsd:element name="createdOn" type="xsd:dateTime"/>
+		<xsd:element name="passwordReset" type="xsd:string"/>
+		<xsd:element name="resetOn" type="xsd:dateTime"/>
+		<xsd:element name="verified" type="xsd:boolean"/>
+		<xsd:element name="properties" type="xsd:string"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="UserBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="name" type="xsd:string"/>
+		<xsd:element name="passwordHash" type="xsd:string"/>
+		<xsd:element name="properties" type="xsd:string"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="UnitBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="ownerId" type="xsd:int"/>
+		<xsd:element name="grade" type="xsd:int"/>
+		<xsd:element name="xml" type="xsd:string"/>
+		<xsd:element name="notes" type="xsd:string"/>
+		<xsd:element name="title" type="xsd:string"/>
+		<xsd:element name="desc" type="xsd:string"/>
+		<xsd:element name="type" type="xsd:int"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="VariationBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="unitId" type="xsd:int"/>
+		<xsd:element name="values" type="xsd:string"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="BundleBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="ownerId" type="xsd:int"/>
+		<xsd:element name="unitIds" type="xsd:int" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TestBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="ownerId" type="xsd:int"/>
+		<xsd:element name="bundleId" type="xsd:int"/>
+		
+		<xsd:element name="startedOn" type="xsd:dateTime"/>
+		<xsd:element name="updatedOn" type="xsd:dateTime"/>
+		    
+		<xsd:element name="variationIds" type="xsd:int" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="answerIndexes" type="xsd:int" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="scoreSheet" type="xsd:boolean" minOccurs="0" maxOccurs="unbounded"/>
+		  
+		<xsd:element name="attempted" type="xsd:int"/>
+		<xsd:element name="completed" type="xsd:int"/>
+		<xsd:element name="correct" type="xsd:int"/>
+		<xsd:element name="incorrect" type="xsd:int"/>
+		    
+		<xsd:element name="state" type="ETestState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="ObjectCacheBO">
+	<xsd:sequence>
+		<xsd:element name="key" type="xsd:string"/>
+		<xsd:element name="value" type="xsd:string"/>
+		<xsd:element name="date" type="xsd:dateTime"/>
+	</xsd:sequence>      
+</xsd:complexType>
+  
+<xsd:complexType name="ResponseBO">
+	<xsd:sequence> 
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="userId" type="xsd:int"/>
+		<xsd:element name="unitId" type="xsd:int"/>
+		<xsd:element name="variationId" type="xsd:int"/>
+		<xsd:element name="submittedOn" type="xsd:dateTime"/>
+		<xsd:element name="receivedOn" type="xsd:dateTime"/>	
+		<xsd:element name="passed" type="xsd:int"/>
+		<xsd:element name="referrer" type="xsd:string"/>
+		<xsd:element name="clientAddress" type="xsd:string"/>
+		<xsd:element name="clientAgent" type="xsd:string"/>
+		<xsd:element name="sessionId" type="xsd:string"/>
+		<xsd:element name="activityId" type="xsd:string"/>	
+	</xsd:sequence>   
+</xsd:complexType>
+
+<xsd:complexType name="UserUnitResponseBO">
+	<xsd:sequence>
+		<xsd:element name="userId" type="xsd:int"/>
+		<xsd:element name="unitId" type="xsd:int"/>
+		<xsd:element name="total" type="xsd:int"/>
+		<xsd:element name="correct" type="xsd:int"/>
+		<xsd:element name="incorrect" type="xsd:int"/>
+		<xsd:element name="lastResponseOn" type="xsd:dateTime"/>
+	</xsd:sequence>   
+</xsd:complexType>
+
+<xsd:complexType name="CheckpointBO">
+	<xsd:sequence>
+		<xsd:element name="key" type="xsd:string"/>
+		<xsd:element name="value" type="xsd:int"/>
+	</xsd:sequence>   
+</xsd:complexType>
+
+<xsd:complexType name="TagBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="parentId" type="xsd:int"/>
+		<xsd:element name="ns" type="xsd:string"/>
+		<xsd:element name="name" type="xsd:string"/>
+		<xsd:element name="body" type="xsd:string"/>
+	</xsd:sequence>   
+</xsd:complexType>
+
+<xsd:complexType name="UnitTagBO">
+	<xsd:sequence>
+		<xsd:element name="tagId" type="xsd:int"/>
+		<xsd:element name="unitId" type="xsd:int"/>
+	</xsd:sequence>   
+</xsd:complexType>
+
+<xsd:simpleType name="EEventType">   
+    <xsd:annotation>
+    	<xsd:appinfo>
+      		<jxb:typesafeEnumClass name="EEventType">
+	      		<jxb:typesafeEnumMember name="NONE" value="0" />
+        		<jxb:typesafeEnumMember name="JOINED" value="1" />
+        		<jxb:typesafeEnumMember name="JOINED_BUT_DID_NOT_IMMEDIATELY_PLAY" value="2" />
+        		<jxb:typesafeEnumMember name="NO_ACTIVITY_LAST_TWO_WEEKS" value="3" />
+      		</jxb:typesafeEnumClass>  
+    	</xsd:appinfo>
+    </xsd:annotation> 
+	<xsd:restriction base="xsd:int">
+    	<xsd:enumeration value="0" />
+    	<xsd:enumeration value="1" />
+    	<xsd:enumeration value="2" />
+    	<xsd:enumeration value="3" />
+ 	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:simpleType name="EEventState">   
+    <xsd:annotation>
+    	<xsd:appinfo>
+      		<jxb:typesafeEnumClass name="EEventState">
+        		<jxb:typesafeEnumMember name="QUEUED" value="0" />
+        		<jxb:typesafeEnumMember name="BUSY" value="1" />
+        		<jxb:typesafeEnumMember name="PROCESSED" value="2" />
+        		<jxb:typesafeEnumMember name="FAILED" value="3" />
+      		</jxb:typesafeEnumClass>  
+    	</xsd:appinfo>
+    </xsd:annotation> 
+	<xsd:restriction base="xsd:int">
+    	<xsd:enumeration value="0" />
+    	<xsd:enumeration value="1" />
+    	<xsd:enumeration value="2" />
+    	<xsd:enumeration value="3" />
+ 	</xsd:restriction>
+</xsd:simpleType>
+
+<xsd:complexType name="EventBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="ownerId" type="xsd:int"/>
+		<xsd:element name="type" type="EEventType"/>
+		<xsd:element name="postedOn" type="xsd:dateTime"/>
+		<xsd:element name="source" type="xsd:string"/>
+		<xsd:element name="data" type="xsd:string"/>
+		<xsd:element name="state" type="EEventState"/>
+		<xsd:element name="stateReason" type="xsd:string"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="CorpusBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="ownerId" type="xsd:int"/>
+		<xsd:element name="name" type="xsd:string"/>
+		<xsd:element name="description" type="xsd:string"/>
+		<xsd:element name="acl" type="xsd:string"/>
+		<xsd:element name="dimentions" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="types" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="categories" type="xsd:string" minOccurs="0" maxOccurs="unbounded"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TermBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="corpusId" type="xsd:int"/>
+		<xsd:element name="dimention" type="xsd:string"/>
+		<xsd:element name="value" type="xsd:string"/>
+		<xsd:element name="type" type="xsd:string"/>
+		<xsd:element name="category" type="xsd:string"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TermsBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="from" type="TermBO"/>
+		<xsd:element name="to" type="TermBO"/>
+		<xsd:element name="type" type="xsd:string"/>
+		<xsd:element name="index" type="xsd:int"/>
+		<xsd:element name="category" type="xsd:string"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="ProjectionBO">
+	<xsd:sequence>
+		<xsd:element name="corpus" type="CorpusBO"/>
+		<xsd:element name="dimentionFrom" type="xsd:string"/>
+		<xsd:element name="dimentionTo" type="xsd:string"/>
+		<xsd:element name="relationType" type="xsd:string"/>
+		<xsd:element name="terms" type="TermsBO" minOccurs="0" maxOccurs="unbounded"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TermEditBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="value" type="xsd:string"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="DiffItemBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="oldValue" type="xsd:string"/>
+		<xsd:element name="newValue" type="xsd:string"/>
+		<xsd:element name="description" type="xsd:string"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+<xsd:complexType name="TranslationBO">
+	<xsd:sequence>
+		<xsd:element name="id" type="xsd:int"/>
+		<xsd:element name="lang" type="xsd:string"/>
+		<xsd:element name="key" type="xsd:string"/>
+		<xsd:element name="data" type="xsd:string"/>
+		<xsd:element name="updatedOn" type="xsd:dateTime"/>
+		<xsd:element name="state" type="EObjectState"/>
+	</xsd:sequence>
+</xsd:complexType>
+
+</xsd:schema>

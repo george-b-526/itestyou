@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test xmlns="http://www.testvisor.com/schemas/1.0/test">
+	<unit type="algebra_8_47" values="{1,2,3,4}" />
+	<!--  
+	<unit type="algebra_8_47" index="1" />
+	<unit type="algebra_8_50" index="0" />
+	<unit type="algebra_8_50" index="1" />
+	<unit type="algebra_8_51" index="0" />
+	<unit type="algebra_8_51" index="1" />
+	<unit type="algebra_8_51" index="2" />
+	<unit type="algebra_8_59" index="0" />
+	<unit type="algebra_8_59" index="1" />
+	<unit type="algebra_8_59" index="2" />
+	  
+	-->
+</test>  

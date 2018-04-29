@@ -1,0 +1,1565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Indonesian (Bahasa Indonesia)">
+<!--generated: Sun Jan 29 02:47:14 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="kemampuan" i="0" m="ability" t="n" />
+<w c="abstract" e="perbuatan" i="1" m="act" t="n" />
+<w c="abstract" e="tindakan" i="2" m="action" t="n" />
+<w c="abstract" e="aktivitas" i="3" m="activity" t="n" />
+<w c="abstract" e="tambahan" i="4" m="addition" t="n" />
+<w c="abstract" e="jumlah" i="5" m="amount" t="n" />
+<w c="abstract" e="serangan" i="6" m="attack" t="n" />
+<w c="abstract" e="usaha" i="7" m="attempt" t="n" />
+<w c="abstract" e="sikap" i="8" m="attitude" t="n" />
+<w c="abstract" e="bagian belakang" i="9" m="back" t="n" />
+<w c="abstract" e="peri laku" i="10" m="behavior" t="n" />
+<w c="abstract" e="sepotong" i="11" m="bit" t="n" />
+<w c="abstract" e="pukulan" i="12" m="blow" t="n" />
+<w c="abstract" e="istirahat" i="13" m="break" t="n" />
+<w c="abstract" e="perang" i="14" m="campaign" t="n" />
+<w c="abstract" e="perkara" i="15" m="case" t="n" />
+<w c="abstract" e="kesempatan" i="16" m="chance" t="n" />
+<w c="abstract" e="perubahan" i="17" m="change" t="n" />
+<w c="abstract" e="pilihan" i="18" m="choice" t="n" />
+<w c="abstract" e="keadaan" i="19" m="condition" t="n" />
+<w c="abstract" e="retakan" i="20" m="crack" t="n" />
+<w c="abstract" e="pemotongan" i="21" m="cut" t="n" />
+<w c="abstract" e="kerusakan" i="22" m="damage" t="n" />
+<w c="abstract" e="bahaya" i="23" m="danger" t="n" />
+<w c="abstract" e="mati" i="24" m="death" t="n" />
+<w c="abstract" e="dekorasi" i="25" m="decoration" t="n" />
+<w c="abstract" e="pertahanan" i="26" m="defense" t="n" />
+<w c="abstract" e="penghancuran" i="27" m="destruction" t="n" />
+<w c="abstract" e="wewenang" i="28" m="dominance" t="n" />
+<w c="abstract" e="tetesan" i="29" m="drop" t="n" />
+<w c="abstract" e="tugas" i="30" m="duty" t="n" />
+<w c="abstract" e="upaya" i="31" m="effort" t="n" />
+<w c="abstract" e="keruntuhan" i="32" m="fall" t="n" />
+<w c="abstract" e="ciri khas" i="33" m="feature" t="n" />
+<w c="abstract" e="pertarungan" i="34" m="fight" t="n" />
+<w c="abstract" e="depan" i="35" m="front" t="n" />
+<w c="abstract" e="ketinggian" i="36" m="height" t="n" />
+<w c="abstract" e="pukulan" i="37" m="hit" t="n" />
+<w c="abstract" e="lubang" i="38" m="hole" t="n" />
+<w c="abstract" e="peningkatan" i="39" m="increase" t="n" />
+<w c="abstract" e="perkembangan" i="40" m="increase" t="n" />
+<w c="abstract" e="internet" i="41" m="internet" t="n" />
+<w c="abstract" e="sentakan" i="42" m="jolt" t="n" />
+<w c="abstract" e="lompatan" i="43" m="jump" t="n" />
+<w c="abstract" e="tendangan" i="44" m="kick" t="n" />
+<w c="abstract" e="jenis" i="45" m="kind" t="n" />
+<w c="abstract" e="simpul" i="46" m="knot" t="n" />
+<w c="abstract" e="daftar" i="47" m="list" t="n" />
+<w c="abstract" e="mayoritas" i="48" m="majority" t="n" />
+<w c="abstract" e="gaya" i="49" m="manner" t="n" />
+<w c="abstract" e="persoalan" i="50" m="matter" t="n" />
+<w c="abstract" e="cara" i="51" m="means" t="n" />
+<w c="abstract" e="pikiran" i="52" m="mind" t="n" />
+<w c="abstract" e="pelaksanaan" i="53" m="operation" t="n" />
+<w c="abstract" e="lawan" i="54" m="opposite" t="n" />
+<w c="abstract" e="ledakan" i="55" m="outburst" t="n" />
+<w c="abstract" e="bagian" i="56" m="part" t="n" />
+<w c="abstract" e="bagian" i="57" m="part" t="n" />
+<w c="abstract" e="satu" i="58" m="piece" t="n" />
+<w c="abstract" e="tempat kejadian" i="59" m="place" t="n" />
+<w c="abstract" e="tempat" i="60" m="position" t="n" />
+<w c="abstract" e="tenaga" i="61" m="power" t="n" />
+<w c="abstract" e="praktek" i="62" m="practice" t="n" />
+<w c="abstract" e="tugas" i="63" m="project" t="n" />
+<w c="abstract" e="sifat" i="64" m="property" t="n" />
+<w c="abstract" e="mutu" i="65" m="quality" t="n" />
+<w c="abstract" e="ketenangan" i="66" m="quiet" t="n" />
+<w c="abstract" e="tanggung jawab" i="67" m="responsibility" t="n" />
+<w c="abstract" e="tenang" i="68" m="rest" t="n" />
+<w c="abstract" e="pulang" i="69" m="return" t="n" />
+<w c="abstract" e="pendakian" i="70" m="rise" t="n" />
+<w c="abstract" e="bahaya" i="71" m="risk" t="n" />
+<w c="abstract" e="bangunan" i="72" m="seat" t="n" />
+<w c="abstract" e="serangkaian" i="73" m="set" t="n" />
+<w c="abstract" e="getaran" i="74" m="shake" t="n" />
+<w c="abstract" e="shock" i="75" m="shock" t="n" />
+<w c="abstract" e="ketenangan" i="76" m="silence" t="n" />
+<w c="abstract" e="keadaan" i="77" m="situation" t="n" />
+<w c="abstract" e="sepotong" i="78" m="slice" t="n" />
+<w c="abstract" e="keadaan" i="79" m="state" t="n" />
+<w c="abstract" e="langkah" i="80" m="step" t="n" />
+<w c="abstract" e="perhentian" i="81" m="stop" t="n" />
+<w c="abstract" e="selera" i="82" m="taste" t="n" />
+<w c="abstract" e="benda" i="83" m="thing" t="n" />
+<w c="abstract" e="puncak" i="84" m="top" t="n" />
+<w c="abstract" e="sentuhan" i="85" m="touch" t="n" />
+<w c="abstract" e="perlakuan" i="86" m="treatment" t="n" />
+<w c="abstract" e="tipuan" i="87" m="trick" t="n" />
+<w c="abstract" e="jenis" i="88" m="type" t="n" />
+<w c="abstract" e="keausan" i="89" m="wear" t="n" />
+<w c="abstract" e="satu kesatuan" i="90" m="whole" t="n" />
+<w c="abstract" e="kemauan" i="91" m="will" t="n" />
+<w c="abstract" e="keinginan" i="92" m="wish" t="n" />
+<w c="adjectives" e="asam" i="93" m="acid" t="adj" />
+<w c="adjectives" e="setelah; sesudah" i="94" m="after" t="adj" />
+<w c="adjectives" e="berselang" i="95" m="ago" t="adj" />
+<w c="adjectives" e="semua" i="96" m="all" t="adj" />
+<w c="adjectives" e="mana saja" i="97" m="any" t="adj" />
+<w c="adjectives" e="bekerja sendiri" i="98" m="automatic" t="adj" />
+<w c="adjectives" e="tersedia" i="99" m="available" t="adj" />
+<w c="adjectives" e="pahit" i="100" m="bitter" t="adj" />
+<w c="adjectives" e="membosankan" i="101" m="boring" t="adj" />
+<w c="adjectives" e="dua/keduanya" i="102" m="both" t="adj" />
+<w c="adjectives" e="patah" i="103" m="broken" t="adj" />
+<w c="adjectives" e="inti" i="104" m="central" t="adj" />
+<w c="adjectives" e="pasti" i="105" m="certain" t="adj" />
+<w c="adjectives" e="murah" i="106" m="cheap" t="adj" />
+<w c="adjectives" e="kimiawi" i="107" m="chemical" t="adj" />
+<w c="adjectives" e="cerah" i="108" m="clear" t="adj" />
+<w c="adjectives" e="tertutup" i="109" m="closed" t="adj" />
+<w c="adjectives" e="biasa" i="110" m="common" t="adj" />
+<w c="adjectives" e="sama" i="111" m="common" t="adj" />
+<w c="adjectives" e="lengkap" i="112" m="complete" t="adj" />
+<w c="adjectives" e="sadar" i="113" m="conscious" t="adj" />
+<w c="adjectives" e="kejam" i="114" m="cruel" t="adj" />
+<w c="adjectives" e="berbahaya" i="115" m="dangerous" t="adj" />
+<w c="adjectives" e="halus" i="116" m="delicate" t="adj" />
+<w c="adjectives" e="tidak sama" i="117" m="different" t="adj" />
+<w c="adjectives" e="tidak serupa" i="118" m="different" t="adj" />
+<w c="adjectives" e="menuruni" i="119" m="down" t="adj" />
+<w c="adjectives" e="kering" i="120" m="dry" t="adj" />
+<w c="adjectives" e="setiap" i="121" m="each" t="adj" />
+<w c="adjectives" e="dini" i="122" m="early" t="adj" />
+<w c="adjectives" e="mudah" i="123" m="easy" t="adj" />
+<w c="adjectives" e="mengenai ekonomi" i="124" m="economic" t="adj" />
+<w c="adjectives" e="irit" i="125" m="economic" t="adj" />
+<w c="adjectives" e="listrik" i="126" m="electric" t="adj" />
+<w c="adjectives" e="sama" i="127" m="equal" t="adj" />
+<w c="adjectives" e="genap" i="128" m="even" t="adj" />
+<w c="adjectives" e="sama kuat" i="129" m="even" t="adj" />
+<w c="adjectives" e="setiap" i="130" m="every" t="adj" />
+<w c="adjectives" e="bagus sekali" i="131" m="excellent" t="adj" />
+<w c="adjectives" e="tidak benar" i="132" m="fake" t="adj" />
+<w c="adjectives" e="salah (1); palsu / buat/buatan (2)" i="133" m="false" t="adj" />
+<w c="adjectives" e="jauh" i="134" m="far" t="adj" />
+<w c="adjectives" e="gemuk" i="135" m="fat" t="adj" />
+<w c="adjectives" e="berlimpah" i="136" m="fat" t="adj" />
+<w c="adjectives" e="tidak banyak" i="137" m="few" t="adj" />
+<w c="adjectives" e="pasti" i="138" m="final" t="adj" />
+<w c="adjectives" e="yang berhubungan dengan keuangan" i="139" m="financial" t="adj" />
+<w c="adjectives" e="mantap" i="140" m="firm" t="adj" />
+<w c="adjectives" e="datar" i="141" m="flat" t="adj" />
+<w c="adjectives" e="berikutnya" i="142" m="following" t="adj" />
+<w c="adjectives" e="asing" i="143" m="foreign" t="adj" />
+<w c="adjectives" e="dulu" i="144" m="former" t="adj" />
+<w c="adjectives" e="mudah pecah" i="145" m="fragile" t="adj" />
+<w c="adjectives" e="cuma-cuma" i="146" m="free" t="adj" />
+<w c="adjectives" e="sering" i="147" m="frequent" t="adj" />
+<w c="adjectives" e="segar" i="148" m="fresh" t="adj" />
+<w c="adjectives" e="penuh" i="149" m="full" t="adj" />
+<w c="adjectives" e="keseluruhan" i="150" m="full" t="adj" />
+<w c="adjectives" e="lebih jauh" i="151" m="further" t="adj" />
+<w c="adjectives" e="bentuk mendatang" i="152" m="future" t="adj" />
+<w c="adjectives" e="umum" i="153" m="general" t="adj" />
+<w c="adjectives" e="untuk industri" i="154" m="industrial" t="adj" />
+<w c="adjectives" e="menarik" i="155" m="interesting" t="adj" />
+<w c="adjectives" e="internasional" i="156" m="international" t="adj" />
+<w c="adjectives" e="terakhir" i="157" m="last" t="adj" />
+<w c="adjectives" e="terlambat" i="158" m="late" t="adj" />
+<w c="adjectives" e="legal" i="159" m="legal" t="adj" />
+<w c="adjectives" e="cair" i="160" m="liquid" t="adj" />
+<w c="adjectives" e="lokal" i="161" m="local" t="adj" />
+<w c="adjectives" e="keras" i="162" m="loud" t="adj" />
+<w c="adjectives" e="rendah" i="163" m="low" t="adj" />
+<w c="adjectives" e="mujur" i="164" m="lucky" t="adj" />
+<w c="adjectives" e="utama" i="165" m="main" t="adj" />
+<w c="adjectives" e="besar" i="166" m="major" t="adj" />
+<w c="adjectives" e="banyak" i="167" m="many" t="adj" />
+<w c="adjectives" e="dari logam" i="168" m="metal" t="adj" />
+<w c="adjectives" e="militer" i="169" m="military" t="adj" />
+<w c="adjectives" e="kecil" i="170" m="minute" t="adj" />
+<w c="adjectives" e="modern" i="171" m="modern" t="adj" />
+<w c="adjectives" e="lebih" i="172" m="more" t="adj" />
+<w c="adjectives" e="banyak" i="173" m="much" t="adj" />
+<w c="adjectives" e="sempit" i="174" m="narrow" t="adj" />
+<w c="adjectives" e="alami" i="175" m="natural" t="adj" />
+<w c="adjectives" e="perlu" i="176" m="necessary" t="adj" />
+<w c="adjectives" e="berdampingan" i="177" m="next" t="adj" />
+<w c="adjectives" e="tidak ada" i="178" m="no" t="adj" />
+<w c="adjectives" e="normal" i="179" m="normal" t="adj" />
+<w c="adjectives" e="seberang" i="180" m="opposite" t="adj" />
+<w c="adjectives" e="asli" i="181" m="original" t="adj" />
+<w c="adjectives" e="lain" i="182" m="other" t="adj" />
+<w c="adjectives" e="milik" i="183" m="own" t="adj" />
+<w c="adjectives" e="sejajar" i="184" m="parallel" t="adj" />
+<w c="adjectives" e="istimewa" i="185" m="particular" t="adj" />
+<w c="adjectives" e="yang lalu" i="186" m="past" t="adj" />
+<w c="adjectives" e="pribadi" i="187" m="personal" t="adj" />
+<w c="adjectives" e="badaniah" i="188" m="physical" t="adj" />
+<w c="adjectives" e="politik" i="189" m="political" t="adj" />
+<w c="adjectives" e="miskin" i="190" m="poor" t="adj" />
+<w c="adjectives" e="populer" i="191" m="popular" t="adj" />
+<w c="adjectives" e="mungkin" i="192" m="possible" t="adj" />
+<w c="adjectives" e="hadir" i="193" m="present" t="adj" />
+<w c="adjectives" e="sebelumnya" i="194" m="previous" t="adj" />
+<w c="adjectives" e="pribadi" i="195" m="private" t="adj" />
+<w c="adjectives" e="bisa terjadi" i="196" m="probable" t="adj" />
+<w c="adjectives" e="profesional" i="197" m="professional" t="adj" />
+<w c="adjectives" e="publik" i="198" m="public" t="adj" />
+<w c="adjectives" e="diam" i="199" m="quiet" t="adj" />
+<w c="adjectives" e="siap" i="200" m="ready" t="adj" />
+<w c="adjectives" e="mutakhir" i="201" m="recent" t="adj" />
+<w c="adjectives" e="teratur" i="202" m="regular" t="adj" />
+<w c="adjectives" e="bertanggung jawab" i="203" m="responsible" t="adj" />
+<w c="adjectives" e="kaku" i="204" m="rigid" t="adj" />
+<w c="adjectives" e="kasar" i="205" m="rough" t="adj" />
+<w c="adjectives" e="bundar" i="206" m="round" t="adj" />
+<w c="adjectives" e="sedih" i="207" m="sad" t="adj" />
+<w c="adjectives" e="aman" i="208" m="safe" t="adj" />
+<w c="adjectives" e="sama" i="209" m="same" t="adj" />
+<w c="adjectives" e="kedua" i="210" m="second" t="adj" />
+<w c="adjectives" e="rahasia" i="211" m="secret" t="adj" />
+<w c="adjectives" e="terpisah" i="212" m="separate" t="adj" />
+<w c="adjectives" e="serius" i="213" m="serious" t="adj" />
+<w c="adjectives" e="menata sebelumnya" i="214" m="set" t="adj" />
+<w c="adjectives" e="beberapa" i="215" m="several" t="adj" />
+<w c="adjectives" e="pendek" i="216" m="short" t="adj" />
+<w c="adjectives" e="sunyi" i="217" m="silent" t="adj" />
+<w c="adjectives" e="mudah" i="218" m="simple" t="adj" />
+<w c="adjectives" e="satu-satunya" i="219" m="single" t="adj" />
+<w c="adjectives" e="kecil" i="220" m="small" t="adj" />
+<w c="adjectives" e="halus" i="221" m="smooth" t="adj" />
+<w c="adjectives" e="padat" i="222" m="solid" t="adj" />
+<w c="adjectives" e="jarang" i="223" m="sparse" t="adj" />
+<w c="adjectives" e="istimewa" i="224" m="special" t="adj" />
+<w c="adjectives" e="khusus" i="225" m="specific" t="adj" />
+<w c="adjectives" e="segi empat" i="226" m="square" t="adj" />
+<w c="adjectives" e="normal" i="227" m="standard" t="adj" />
+<w c="adjectives" e="lengket" i="228" m="sticky" t="adj" />
+<w c="adjectives" e="lurus" i="229" m="straight" t="adj" />
+<w c="adjectives" e="aneh" i="230" m="strange" t="adj" />
+<w c="adjectives" e="anggun" i="231" m="stylish" t="adj" />
+<w c="adjectives" e="mendadak" i="232" m="sudden" t="adj" />
+<w c="adjectives" e="manis" i="233" m="sweet" t="adj" />
+<w c="adjectives" e="tinggi" i="234" m="tall" t="adj" />
+<w c="adjectives" e="kental" i="235" m="thick" t="adj" />
+<w c="adjectives" e="tipis" i="236" m="thin" t="adj" />
+<w c="adjectives" e="ketat" i="237" m="tight" t="adj" />
+<w c="adjectives" e="benar" i="238" m="true" t="adj" />
+<w c="adjectives" e="jelek" i="239" m="ugly" t="adj" />
+<w c="adjectives" e="di bawah" i="240" m="under" t="adj" />
+<w c="adjectives" e="biasa" i="241" m="usual" t="adj" />
+<w c="adjectives" e="berbeda" i="242" m="various" t="adj" />
+<w c="adjectives" e="hangat" i="243" m="warm" t="adj" />
+<w c="adjectives" e="basah" i="244" m="wet" t="adj" />
+<w c="adjectives" e="seluruh" i="245" m="whole" t="adj" />
+<w c="adjectives" e="lebar" i="246" m="wide" t="adj" />
+<w c="adjectives" e="yang lain" i="247" m="another" t="adj" />
+<w c="adjectives" e="buruk" i="248" m="bad" t="adj" />
+<w c="adjectives" e="dasar" i="249" m="basic" t="adj" />
+<w c="adjectives" e="cantik" i="250" m="beautiful" t="adj" />
+<w c="adjectives" e="paling baik" i="251" m="best" t="adj" />
+<w c="adjectives" e="lebih baik" i="252" m="better" t="adj" />
+<w c="adjectives" e="besar" i="253" m="big" t="adj" />
+<w c="adjectives" e="bersih" i="254" m="clean" t="adj" />
+<w c="adjectives" e="dingin" i="255" m="cold" t="adj" />
+<w c="adjectives" e="betul" i="256" m="correct" t="adj" />
+<w c="adjectives" e="gelap" i="257" m="dark" t="adj" />
+<w c="adjectives" e="sulit" i="258" m="difficult" t="adj" />
+<w c="adjectives" e="curang" i="259" m="dirty" t="adj" />
+<w c="adjectives" e="cepat" i="260" m="fast" t="adj" />
+<w c="adjectives" e="sangat sopan" i="261" m="good" t="adj" />
+<w c="adjectives" e="besar" i="262" m="great" t="adj" />
+<w c="adjectives" e="menyenangkan" i="263" m="great" t="adj" />
+<w c="adjectives" e="bahagia" i="264" m="happy" t="adj" />
+<w c="adjectives" e="sehat" i="265" m="healthy" t="adj" />
+<w c="adjectives" e="berat" i="266" m="heavy" t="adj" />
+<w c="adjectives" e="tinggi" i="267" m="high" t="adj" />
+<w c="adjectives" e="panas" i="268" m="hot" t="adj" />
+<w c="adjectives" e="penting" i="269" m="important" t="adj" />
+<w c="adjectives" e="kiri" i="270" m="left" t="adj" />
+<w c="adjectives" e="ringan" i="271" m="light" t="adj" />
+<w c="adjectives" e="dekat" i="272" m="near" t="adj" />
+<w c="adjectives" e="baru" i="273" m="new" t="adj" />
+<w c="adjectives" e="menyenangkan" i="274" m="nice" t="adj" />
+<w c="adjectives" e="buka" i="275" m="open" t="adj" />
+<w c="adjectives" e="benar-benar ada" i="276" m="real" t="adj" />
+<w c="adjectives" e="kanan" i="277" m="right" t="adj" />
+<w c="adjectives" e="tajam" i="278" m="sharp" t="adj" />
+<w c="adjectives" e="lambat" i="279" m="slow" t="adj" />
+<w c="adjectives" e="empuk" i="280" m="soft" t="adj" />
+<w c="adjectives" e="keras" i="281" m="strong" t="adj" />
+<w c="adjectives" e="lemah" i="282" m="weak" t="adj" />
+<w c="adjectives" e="salah" i="283" m="wrong" t="adj" />
+<w c="adjective" e="mampu" i="284" m="able" t="adj" />
+<w c="adjective" e="hidup" i="285" m="alive" t="adj" />
+<w c="adjective" e="sendirian" i="286" m="alone" t="adj" />
+<w c="adjective" e="marah" i="287" m="angry" t="adj" />
+<w c="adjective" e="jaga" i="288" m="awake" t="adj" />
+<w c="adjective" e="mati" i="289" m="dead" t="adj" />
+<w c="adjective" e="perempuan; wanita; betina" i="290" m="female" t="adj" />
+<w c="adjective" e="bebas" i="291" m="free" t="adj" />
+<w c="adjective" e="ramah" i="292" m="friendly" t="adj" />
+<w c="adjective" e="sehat" i="293" m="healthy" t="adj" />
+<w c="adjective" e="manusia" i="294" m="human" t="adj" />
+<w c="adjective" e="lapar" i="295" m="hungry" t="adj" />
+<w c="adjective" e="sakit" i="296" m="ill" t="adj" />
+<w c="adjective" e="tidak sabar" i="297" m="impatient" t="adj" />
+<w c="adjective" e="cerdas" i="298" m="intelligent" t="adj" />
+<w c="adjective" e="adil" i="299" m="just" t="adj" />
+<w c="adjective" e="baik hati" i="300" m="kind" t="adj" />
+<w c="adjective" e="jantan" i="301" m="male" t="adj" />
+<w c="adjective" e="jantan" i="302" m="male" t="adj" />
+<w c="adjective" e="menikah" i="303" m="married" t="adj" />
+<w c="adjective" e="jahat" i="304" m="mean" t="adj" />
+<w c="adjective" e="medis" i="305" m="medical" t="adj" />
+<w c="adjective" e="tua" i="306" m="old" t="adj" />
+<w c="adjective" e="sabar" i="307" m="patient" t="adj" />
+<w c="adjective" e="sendiri-sendiri" i="308" m="private" t="adj" />
+<w c="adjective" e="kaya" i="309" m="rich" t="adj" />
+<w c="adjective" e="seperti raja" i="310" m="royal" t="adj" />
+<w c="adjective" e="sedih" i="311" m="sad" t="adj" />
+<w c="adjective" e="pintar" i="312" m="sharp" t="adj" />
+<w c="adjective" e="tulus" i="313" m="sincere" t="adj" />
+<w c="adjective" e="lajang" i="314" m="single" t="adj" />
+<w c="adjective" e="ahli" i="315" m="skilful" t="adj" />
+<w c="adjective" e="tolol" i="316" m="stupid" t="adj" />
+<w c="adjective" e="berhasil" i="317" m="successful" t="adj" />
+<w c="adjective" e="haus" i="318" m="thirsty" t="adj" />
+<w c="adjective" e="lelah" i="319" m="tired" t="adj" />
+<w c="adjective" e="kuat" i="320" m="violent" t="adj" />
+<w c="adjective" e="pandai" i="321" m="wise" t="adj" />
+<w c="adjective" e="muda" i="322" m="young" t="adj" />
+<w c="adverb" e="di sekitar" i="323" m="about" t="adv" />
+<w c="adverb" e="di atas" i="324" m="above" t="adv" />
+<w c="adverb" e="lagi" i="325" m="again" t="adv" />
+<w c="adverb" e="hampir" i="326" m="almost" t="adv" />
+<w c="adverb" e="sepanjang" i="327" m="along" t="adv" />
+<w c="adverb" e="sudah" i="328" m="already" t="adv" />
+<w c="adverb" e="selalu" i="329" m="always" t="adv" />
+<w c="adverb" e="kurang lebih" i="330" m="approximately" t="adv" />
+<w c="adverb" e="sebelum" i="331" m="before" t="adv" />
+<w c="adverb" e="di belakang" i="332" m="behind" t="adv" />
+<w c="adverb" e="antara" i="333" m="between" t="adv" />
+<w c="adverb" e="melalui" i="334" m="by" t="adv" />
+<w c="adverb" e="langsung" i="335" m="directly" t="adv" />
+<w c="adverb" e="menuruni" i="336" m="down" t="adv" />
+<w c="adverb" e="awal" i="337" m="early" t="adv" />
+<w c="adverb" e="keduanya" i="338" m="either" t="adv" />
+<w c="adverb" e="cukup" i="339" m="enough" t="adv" />
+<w c="adverb" e="sendiri" i="340" m="entirely" t="adv" />
+<w c="adverb" e="sebagai" i="341" m="equally" t="adv" />
+<w c="adverb" e="secara mutlak" i="342" m="exactly" t="adv" />
+<w c="adverb" e="akhirnya" i="343" m="finally" t="adv" />
+<w c="adverb" e="lebih dulu" i="344" m="first" t="adv" />
+<w c="adverb" e="sekarang" i="345" m="here" t="adv" />
+<w c="adverb" e="di sini" i="346" m="here" t="adv" />
+<w c="adverb" e="walaupun demikian" i="347" m="however" t="adv" />
+<w c="adverb" e="seketika" i="348" m="immediately" t="adv" />
+<w c="adverb" e="ke dalam" i="349" m="in" t="adv" />
+<w c="adverb" e="memang" i="350" m="indeed" t="adv" />
+<w c="adverb" e="di dalam" i="351" m="inside" t="adv" />
+<w c="adverb" e="larut" i="352" m="late" t="adv" />
+<w c="adverb" e="sesudah" i="353" m="later" t="adv" />
+<w c="adverb" e="paling kurang" i="354" m="least" t="adv" />
+<w c="adverb" e="sedikit" i="355" m="little" t="adv" />
+<w c="adverb" e="biasanya" i="356" m="mostly" t="adv" />
+<w c="adverb" e="tidak pernah" i="357" m="never" t="adv" />
+<w c="adverb" e="tidak" i="358" m="not" t="adv" />
+<w c="adverb" e="sekarang" i="359" m="now" t="adv" />
+<w c="adverb" e="terbukti" i="360" m="obviously" t="adv" />
+<w c="adverb" e="sering" i="361" m="often" t="adv" />
+<w c="adverb" e="sekali" i="362" m="once" t="adv" />
+<w c="adverb" e="di luar" i="363" m="outside" t="adv" />
+<w c="adverb" e="sangat" i="364" m="particularly" t="adv" />
+<w c="adverb" e="mungkin" i="365" m="possibly" t="adv" />
+<w c="adverb" e="mungkin" i="366" m="probably" t="adv" />
+<w c="adverb" e="dengan cepat" i="367" m="quickly" t="adv" />
+<w c="adverb" e="benar-benar" i="368" m="really" t="adv" />
+<w c="adverb" e="sangat" i="369" m="really" t="adv" />
+<w c="adverb" e="belum lama ini" i="370" m="recently" t="adv" />
+<w c="adverb" e="hanya" i="371" m="simply" t="adv" />
+<w c="adverb" e="perlahan-lahan" i="372" m="slowly" t="adv" />
+<w c="adverb" e="demikian" i="373" m="so" t="adv" />
+<w c="adverb" e="kadang-kadang" i="374" m="sometimes" t="adv" />
+<w c="adverb" e="segera" i="375" m="soon" t="adv" />
+<w c="adverb" e="masih" i="376" m="still" t="adv" />
+<w c="adverb" e="seperti" i="377" m="such" t="adv" />
+<w c="adverb" e="pasti" i="378" m="surely" t="adv" />
+<w c="adverb" e="ketika itu" i="379" m="then" t="adv" />
+<w c="adverb" e="itu" i="380" m="there" t="adv" />
+<w c="adverb" e="karenanya" i="381" m="therefore" t="adv" />
+<w c="adverb" e="hari ini" i="382" m="today" t="adv" />
+<w c="adverb" e="bersama" i="383" m="together" t="adv" />
+<w c="adverb" e="besok pagi" i="384" m="tomorrow" t="adv" />
+<w c="adverb" e="malam ini" i="385" m="tonight" t="adv" />
+<w c="adverb" e="juga" i="386" m="too" t="adv" />
+<w c="adverb" e="biasanya" i="387" m="usually" t="adv" />
+<w c="adverb" e="benar-benar" i="388" m="very" t="adv" />
+<w c="adverb" e="sehat" i="389" m="well" t="adv" />
+<w c="adverb" e="mengapa" i="390" m="why" t="adv" />
+<w c="anatomy" e="lengan" i="391" m="arm" t="noun" />
+<w c="anatomy" e="punggung" i="392" m="back" t="noun" />
+<w c="anatomy" e="paruh" i="393" m="beak" t="noun" />
+<w c="anatomy" e="darah" i="394" m="blood" t="noun" />
+<w c="anatomy" e="tubuh" i="395" m="body" t="noun" />
+<w c="anatomy" e="tulang" i="396" m="bone" t="noun" />
+<w c="anatomy" e="otak" i="397" m="brain" t="noun" />
+<w c="anatomy" e="napas" i="398" m="breath" t="noun" />
+<w c="anatomy" e="sel" i="399" m="cell" t="noun" />
+<w c="anatomy" e="dada" i="400" m="chest" t="noun" />
+<w c="anatomy" e="dada" i="401" m="chest" t="noun" />
+<w c="anatomy" e="dagu" i="402" m="chin" t="noun" />
+<w c="anatomy" e="telinga" i="403" m="ear" t="noun" />
+<w c="anatomy" e="mata" i="404" m="eye" t="noun" />
+<w c="anatomy" e="wajah" i="405" m="face" t="noun" />
+<w c="anatomy" e="jari" i="406" m="finger" t="noun" />
+<w c="anatomy" e="kaki" i="407" m="foot" t="noun" />
+<w c="anatomy" e="dahi" i="408" m="forehead" t="noun" />
+<w c="anatomy" e="gen" i="409" m="gene" t="noun" />
+<w c="anatomy" e="rambut" i="410" m="hair" t="noun" />
+<w c="anatomy" e="bulu" i="411" m="hair" t="noun" />
+<w c="anatomy" e="tangan" i="412" m="hand" t="noun" />
+<w c="anatomy" e="kepala" i="413" m="head" t="noun" />
+<w c="anatomy" e="jantung" i="414" m="heart" t="noun" />
+<w c="anatomy" e="lutut" i="415" m="knee" t="noun" />
+<w c="anatomy" e="kaki" i="416" m="leg" t="noun" />
+<w c="anatomy" e="bibir" i="417" m="lip" t="noun" />
+<w c="anatomy" e="mulut" i="418" m="mouth" t="noun" />
+<w c="anatomy" e="otot" i="419" m="muscle" t="noun" />
+<w c="anatomy" e="kuku" i="420" m="nail" t="noun" />
+<w c="anatomy" e="leher" i="421" m="neck" t="noun" />
+<w c="anatomy" e="saraf" i="422" m="nerve" t="noun" />
+<w c="anatomy" e="hidung" i="423" m="nose" t="noun" />
+<w c="anatomy" e="kulit" i="424" m="skin" t="noun" />
+<w c="anatomy" e="lambung" i="425" m="stomach" t="noun" />
+<w c="anatomy" e="ekor" i="426" m="tail" t="noun" />
+<w c="anatomy" e="tenggorokan" i="427" m="throat" t="noun" />
+<w c="anatomy" e="ibu jari" i="428" m="thumb" t="noun" />
+<w c="anatomy" e="jari kaki" i="429" m="toe" t="noun" />
+<w c="anatomy" e="lidah" i="430" m="tongue" t="noun" />
+<w c="anatomy" e="gigi" i="431" m="tooth" t="noun" />
+<w c="anatomy" e="sayap" i="432" m="wing" t="noun" />
+<w c="animals" e="semut" i="433" m="ant" t="noun" />
+<w c="animals" e="beruang" i="434" m="bear" t="noun" />
+<w c="animals" e="lebah" i="435" m="bee" t="noun" />
+<w c="animals" e="burung" i="436" m="bird" t="noun" />
+<w c="animals" e="kucing" i="437" m="cat" t="noun" />
+<w c="animals" e="sapi" i="438" m="cow" t="noun" />
+<w c="animals" e="anjing" i="439" m="dog" t="noun" />
+<w c="animals" e="gajah" i="440" m="elephant" t="noun" />
+<w c="animals" e="ikan" i="441" m="fish" t="noun" />
+<w c="animals" e="lalat" i="442" m="fly" t="noun" />
+<w c="animals" e="kambing" i="443" m="goat" t="noun" />
+<w c="animals" e="kuda" i="444" m="horse" t="noun" />
+<w c="animals" e="serangga" i="445" m="insect" t="noun" />
+<w c="animals" e="singa" i="446" m="lion" t="noun" />
+<w c="animals" e="monyet" i="447" m="monkey" t="noun" />
+<w c="animals" e="babi" i="448" m="pig" t="noun" />
+<w c="animals" e="domba" i="449" m="sheep" t="noun" />
+<w c="animals" e="ular" i="450" m="snake" t="noun" />
+<w c="art" e="seni" i="451" m="art" t="n" />
+<w c="art" e="orkes" i="452" m="band" t="n" />
+<w c="art" e="cat" i="453" m="color" t="n" />
+<w c="art" e="konser" i="454" m="concert" t="n" />
+<w c="art" e="perbedaan" i="455" m="diversity" t="n" />
+<w c="art" e="kesenangan" i="456" m="entertainment" t="n" />
+<w c="art" e="populer" i="457" m="hit" t="n" />
+<w c="art" e="citra" i="458" m="image" t="n" />
+<w c="art" e="lapisan" i="459" m="movie" t="n" />
+<w c="art" e="musik" i="460" m="music" t="n" />
+<w c="art" e="nada" i="461" m="note" t="n" />
+<w c="art" e="orkestra" i="462" m="orchestra" t="n" />
+<w c="art" e="cat" i="463" m="paint" t="n" />
+<w c="art" e="lukisan" i="464" m="painting" t="n" />
+<w c="art" e="bayangan" i="465" m="picture" t="n" />
+<w c="art" e="puisi" i="466" m="poem" t="n" />
+<w c="art" e="puisi" i="467" m="poetry" t="n" />
+<w c="art" e="irama" i="468" m="rhythm" t="n" />
+<w c="art" e="lagu" i="469" m="song" t="n" />
+<w c="art" e="pentas" i="470" m="stage" t="n" />
+<w c="art" e="gaya" i="471" m="style" t="n" />
+<w c="art" e="mode" i="472" m="vogue" t="n" />
+<w c="article" e="kata depan" i="473" m="the" t="" />
+<w c="business" e="tagihan" i="474" m="account" t="n" />
+<w c="business" e="keuntungan" i="475" m="advantage" t="n" />
+<w c="business" e="iklan" i="476" m="advertisement" t="n" />
+<w c="business" e="nasihat" i="477" m="advice" t="n" />
+<w c="business" e="perjanjian" i="478" m="agreement" t="n" />
+<w c="business" e="perhatian" i="479" m="attention" t="n" />
+<w c="business" e="wewenang" i="480" m="authority" t="n" />
+<w c="business" e="uang kertas" i="481" m="banknote" t="n" />
+<w c="business" e="perjanjian" i="482" m="bargain" t="n" />
+<w c="business" e="merek dagang" i="483" m="brand" t="n" />
+<w c="business" e="perusahaan" i="484" m="business" t="n" />
+<w c="business" e="modal" i="485" m="capital" t="n" />
+<w c="business" e="uang kecil" i="486" m="change" t="n" />
+<w c="business" e="cek" i="487" m="check" t="n" />
+<w c="business" e="komite" i="488" m="committee" t="n" />
+<w c="business" e="perusahaan" i="489" m="company" t="n" />
+<w c="business" e="peminat" i="490" m="competition" t="n" />
+<w c="business" e="tuduhan" i="491" m="complaint" t="n" />
+<w c="business" e="kompetisi" i="492" m="contest" t="n" />
+<w c="business" e="kontrak" i="493" m="contract" t="n" />
+<w c="business" e="biaya" i="494" m="cost" t="n" />
+<w c="business" e="dewan" i="495" m="council" t="n" />
+<w c="business" e="kursus" i="496" m="course" t="n" />
+<w c="business" e="pembeli" i="497" m="customer" t="n" />
+<w c="business" e="kebutuhan" i="498" m="demand" t="n" />
+<w c="business" e="bagian" i="499" m="department" t="n" />
+<w c="business" e="rancangan" i="500" m="design" t="n" />
+<w c="business" e="kesulitan" i="501" m="difficulty" t="n" />
+<w c="business" e="arah" i="502" m="direction" t="n" />
+<w c="business" e="manajer" i="503" m="director" t="n" />
+<w c="business" e="ekonomi" i="504" m="economy" t="n" />
+<w c="business" e="lingkungan" i="505" m="environment" t="n" />
+<w c="business" e="pengalaman" i="506" m="experience" t="n" />
+<w c="business" e="perusahaan" i="507" m="firm" t="n" />
+<w c="business" e="formulir" i="508" m="form" t="n" />
+<w c="business" e="kelompok" i="509" m="group" t="n" />
+<w c="business" e="bantuan" i="510" m="help" t="n" />
+<w c="business" e="liburan" i="511" m="holiday" t="n" />
+<w c="business" e="penghasilan" i="512" m="income" t="n" />
+<w c="business" e="industri" i="513" m="industry" t="n" />
+<w c="business" e="asuransi" i="514" m="insurance" t="n" />
+<w c="business" e="bunga" i="515" m="interest" t="n" />
+<w c="business" e="laporan" i="516" m="invoice" t="n" />
+<w c="business" e="pekerjaan" i="517" m="job" t="n" />
+<w c="business" e="hukum" i="518" m="law" t="n" />
+<w c="business" e="liburan" i="519" m="leave" t="n" />
+<w c="business" e="kehilangan" i="520" m="loss" t="n" />
+<w c="business" e="bimbingan" i="521" m="management" t="n" />
+<w c="business" e="tanda" i="522" m="marker" t="n" />
+<w c="business" e="pasaran" i="523" m="market" t="n" />
+<w c="business" e="bahan" i="524" m="material" t="n" />
+<w c="business" e="pertengahan" i="525" m="mean" t="n" />
+<w c="business" e="pertemuan" i="526" m="meeting" t="n" />
+<w c="business" e="uang" i="527" m="money" t="n" />
+<w c="business" e="pekerjaan" i="528" m="occupation" t="n" />
+<w c="business" e="tawaran" i="529" m="offer" t="n" />
+<w c="business" e="kantor" i="530" m="office" t="n" />
+<w c="business" e="petugas" i="531" m="officer" t="n" />
+<w c="business" e="operasi" i="532" m="operation" t="n" />
+<w c="business" e="pemilik" i="533" m="owner" t="n" />
+<w c="business" e="bingkisan" i="534" m="package" t="n" />
+<w c="business" e="divisi" i="535" m="part" t="n" />
+<w c="business" e="pembayaran" i="536" m="payment" t="n" />
+<w c="business" e="rencana" i="537" m="plan" t="n" />
+<w c="business" e="harga" i="538" m="price" t="n" />
+<w c="business" e="masalah" i="539" m="problem" t="n" />
+<w c="business" e="produk" i="540" m="product" t="n" />
+<w c="business" e="laba" i="541" m="profit" t="n" />
+<w c="business" e="milik" i="542" m="property" t="n" />
+<w c="business" e="tingkat" i="543" m="rate" t="n" />
+<w c="business" e="sisa" i="544" m="rest" t="n" />
+<w c="business" e="hak" i="545" m="right" t="n" />
+<w c="business" e="penjualan" i="546" m="sale" t="n" />
+<w c="business" e="pelayanan" i="547" m="service" t="n" />
+<w c="business" e="saham" i="548" m="share" t="n" />
+<w c="business" e="toko" i="549" m="shop" t="n" />
+<w c="business" e="keahlian" i="550" m="skill" t="n" />
+<w c="business" e="staf" i="551" m="staff" t="n" />
+<w c="business" e="struktur" i="552" m="structure" t="n" />
+<w c="business" e="sukses" i="553" m="success" t="n" />
+<w c="business" e="dukungan" i="554" m="support" t="n" />
+<w c="business" e="tabel" i="555" m="table" t="n" />
+<w c="business" e="pajak" i="556" m="tax" t="n" />
+<w c="business" e="regu" i="557" m="team" t="n" />
+<w c="business" e="perdagangan" i="558" m="trade" t="n" />
+<w c="business" e="nilai" i="559" m="value" t="n" />
+<w c="business" e="imbalan" i="560" m="wages" t="n" />
+<w c="business" e="pekerjaan" i="561" m="work" t="n" />
+<w c="business" e="pekerja kasar" i="562" m="worker" t="n" />
+<w c="city" e="lapangan terbang" i="563" m="airport" t="n" />
+<w c="city" e="bank" i="564" m="bank" t="n" />
+<w c="city" e="jembatan" i="565" m="bridge" t="n" />
+<w c="city" e="gedung" i="566" m="building" t="n" />
+<w c="city" e="ibu kota" i="567" m="capital" t="n" />
+<w c="city" e="puri" i="568" m="castle" t="n" />
+<w c="city" e="gereja" i="569" m="church" t="n" />
+<w c="city" e="bioskop" i="570" m="cinema" t="n" />
+<w c="city" e="kota" i="571" m="city" t="n" />
+<w c="city" e="pabrik" i="572" m="factory" t="n" />
+<w c="city" e="apartemen" i="573" m="flat" t="n" />
+<w c="city" e="rumah sakit" i="574" m="hospital" t="n" />
+<w c="city" e="hotel" i="575" m="hotel" t="n" />
+<w c="city" e="perpustakaan" i="576" m="library" t="n" />
+<w c="city" e="museum" i="577" m="museum" t="n" />
+<w c="city" e="taman" i="578" m="park" t="n" />
+<w c="city" e="penjara" i="579" m="prison" t="n" />
+<w c="city" e="rumah makan" i="580" m="restaurant" t="n" />
+<w c="city" e="jalan" i="581" m="road" t="n" />
+<w c="city" e="sekolah" i="582" m="school" t="n" />
+<w c="city" e="pos" i="583" m="station" t="n" />
+<w c="city" e="jalan" i="584" m="street" t="n" />
+<w c="city" e="pembangunan" i="585" m="structure" t="n" />
+<w c="city" e="kereta api bawah tanah" i="586" m="subway" t="n" />
+<w c="city" e="toko swalayan" i="587" m="supermarket" t="n" />
+<w c="city" e="teater" i="588" m="theater" t="n" />
+<w c="city" e="kota kecil" i="589" m="town" t="n" />
+<w c="city" e="universitas" i="590" m="university" t="n" />
+<w c="city" e="desa" i="591" m="village" t="n" />
+<w c="clothes" e="tas" i="592" m="bag" t="n" />
+<w c="clothes" e="sepatu bot" i="593" m="boot" t="n" />
+<w c="clothes" e="kain" i="594" m="cloth" t="n" />
+<w c="clothes" e="pakaian" i="595" m="clothing" t="n" />
+<w c="clothes" e="mantel" i="596" m="coat" t="n" />
+<w c="clothes" e="kerah" i="597" m="collar" t="n" />
+<w c="clothes" e="topi" i="598" m="hat" t="n" />
+<w c="clothes" e="jaket" i="599" m="jacket" t="n" />
+<w c="clothes" e="batu mulia" i="600" m="jewel" t="n" />
+<w c="clothes" e="cincin" i="601" m="ring" t="n" />
+<w c="clothes" e="kemeja" i="602" m="shirt" t="n" />
+<w c="clothes" e="sepatu" i="603" m="shoe" t="n" />
+<w c="clothes" e="rok" i="604" m="skirt" t="n" />
+<w c="clothes" e="kaus kaki" i="605" m="sock" t="n" />
+<w c="clothes" e="kopor" i="606" m="suitcase" t="n" />
+<w c="clothes" e="dasi" i="607" m="tie" t="n" />
+<w c="colors" e="tanpa susu" i="608" m="black" t="adj" />
+<w c="colors" e="biru" i="609" m="blue" t="adj" />
+<w c="colors" e="warna coklat" i="610" m="brown" t="adj" />
+<w c="colors" e="abu-abu" i="611" m="gray" t="adj" />
+<w c="colors" e="mentah" i="612" m="green" t="adj" />
+<w c="colors" e="jingga" i="613" m="orange" t="adj" />
+<w c="colors" e="merah muda" i="614" m="pink" t="adj" />
+<w c="colors" e="merah" i="615" m="red" t="adj" />
+<w c="colors" e="warna ungu" i="616" m="violet" t="adj" />
+<w c="colors" e="putih" i="617" m="white" t="adj" />
+<w c="colors" e="kuning" i="618" m="yellow" t="adj" />
+<w c="communication" e="pengumuman" i="619" m="announcement" t="n" />
+<w c="communication" e="jawaban" i="620" m="answer" t="n" />
+<w c="communication" e="persetujuan" i="621" m="approval" t="n" />
+<w c="communication" e="pertikaian" i="622" m="argument" t="n" />
+<w c="communication" e="argumentasi" i="623" m="argument" t="n" />
+<w c="communication" e="buku" i="624" m="book" t="n" />
+<w c="communication" e="panggilan" i="625" m="call" t="n" />
+<w c="communication" e="huruf" i="626" m="character" t="n" />
+<w c="communication" e="seruan" i="627" m="cry" t="n" />
+<w c="communication" e="data" i="628" m="data" t="n" />
+<w c="communication" e="keputusan" i="629" m="decision" t="n" />
+<w c="communication" e="kamus" i="630" m="dictionary" t="n" />
+<w c="communication" e="pembicaraan" i="631" m="discussion" t="n" />
+<w c="communication" e="keraguan" i="632" m="doubt" t="n" />
+<w c="communication" e="peristiwa" i="633" m="experience" t="n" />
+<w c="communication" e="penglihatan" i="634" m="expression" t="n" />
+<w c="communication" e="perasaan" i="635" m="feeling" t="n" />
+<w c="communication" e="kemampuan menyenangkan" i="636" m="humor" t="n" />
+<w c="communication" e="gagasan" i="637" m="idea" t="n" />
+<w c="communication" e="informasi" i="638" m="information" t="n" />
+<w c="communication" e="minat" i="639" m="interest" t="n" />
+<w c="communication" e="wawancara" i="640" m="interview" t="n" />
+<w c="communication" e="bahasa" i="641" m="language" t="n" />
+<w c="communication" e="bahasa suatu negara" i="642" m="language" t="n" />
+<w c="communication" e="huruf" i="643" m="letter" t="n" />
+<w c="communication" e="surat" i="644" m="letter" t="n" />
+<w c="communication" e="dusta" i="645" m="lie" t="n" />
+<w c="communication" e="majalah" i="646" m="magazine" t="n" />
+<w c="communication" e="surat pos" i="647" m="mail" t="n" />
+<w c="communication" e="kenangan" i="648" m="memory" t="n" />
+<w c="communication" e="ingatan" i="649" m="memory" t="n" />
+<w c="communication" e="kesalahan" i="650" m="mistake" t="n" />
+<w c="communication" e="nama" i="651" m="name" t="n" />
+<w c="communication" e="surat kabar" i="652" m="newspaper" t="n" />
+<w c="communication" e="nomor" i="653" m="number" t="n" />
+<w c="communication" e="pendapat" i="654" m="opinion" t="n" />
+<w c="communication" e="halaman" i="655" m="page" t="n" />
+<w c="communication" e="titik" i="656" m="point" t="n" />
+<w c="communication" e="ucapan" i="657" m="pronunciation" t="n" />
+<w c="communication" e="usul" i="658" m="proposal" t="n" />
+<w c="communication" e="protes" i="659" m="protest" t="n" />
+<w c="communication" e="pertanyaan" i="660" m="question" t="n" />
+<w c="communication" e="reaksi" i="661" m="reaction" t="n" />
+<w c="communication" e="penyebab" i="662" m="reason" t="n" />
+<w c="communication" e="komunikasi" i="663" m="relation" t="n" />
+<w c="communication" e="permintaan" i="664" m="request" t="n" />
+<w c="communication" e="rahasia" i="665" m="secret" t="n" />
+<w c="communication" e="kalimat" i="666" m="sentence" t="n" />
+<w c="communication" e="lambang" i="667" m="sign" t="n" />
+<w c="communication" e="bahasa" i="668" m="speech" t="n" />
+<w c="communication" e="ejaan" i="669" m="spelling" t="n" />
+<w c="communication" e="kriteria" i="670" m="standard" t="n" />
+<w c="communication" e="pernyataan" i="671" m="statement" t="n" />
+<w c="communication" e="bahan percakapan" i="672" m="subject" t="n" />
+<w c="communication" e="saran" i="673" m="suggestion" t="n" />
+<w c="communication" e="suara" i="674" m="voice" t="n" />
+<w c="communication" e="kata" i="675" m="word" t="n" />
+<w c="communication" e="tulisan" i="676" m="writing" t="n" />
+<w c="conjunction" e="dan" i="677" m="and" t="conj" />
+<w c="conjunction" e="karena" i="678" m="because" t="conj" />
+<w c="conjunction" e="sebab" i="679" m="for" t="conj" />
+<w c="conjunction" e="kalau" i="680" m="if" t="conj" />
+<w c="conjunction" e="atau" i="681" m="or" t="conj" />
+<w c="conjunction" e="daripada" i="682" m="than" t="conj" />
+<w c="conjunction" e="sampai" i="683" m="until" t="conj" />
+<w c="containers" e="kantong" i="684" m="bag" t="n" />
+<w c="containers" e="keranjang" i="685" m="basket" t="n" />
+<w c="containers" e="botol" i="686" m="bottle" t="n" />
+<w c="containers" e="kotak" i="687" m="box" t="n" />
+<w c="containers" e="kaleng" i="688" m="can" t="n" />
+<w c="containers" e="cangkir" i="689" m="cup" t="n" />
+<w c="containers" e="gelas" i="690" m="glass" t="n" />
+<w c="containers" e="piring" i="691" m="plate" t="n" />
+<w c="conversation" e="saya tidak tahu" i="692" m="I don't know" t="" />
+<w c="conversation" e="pro" i="693" m="cheers" t="" />
+<w c="conversation" e="bisa bahasa Inggris" i="694" m="do you speak English" t="" />
+<w c="conversation" e="selamat sore" i="695" m="good day" t="" />
+<w c="conversation" e="selamat pagi" i="696" m="good morning" t="" />
+<w c="conversation" e="selamat ulang tahun" i="697" m="happy birthday" t="" />
+<w c="conversation" e="apa kabar" i="698" m="how are you" t="" />
+<w c="conversation" e="terima kasih banyak" i="699" m="many thanks" t="" />
+<w c="conversation" e="nama saya" i="700" m="my name is" t="" />
+<w c="conversation" e="tidak" i="701" m="no" t="" />
+<w c="conversation" e="maaf" i="702" m="sorry" t="" />
+<w c="conversation" e="terimakasih banyak" i="703" m="thank you very much" t="" />
+<w c="conversation" e="siapa namamu" i="704" m="what is your name" t="" />
+<w c="conversation" e="ya" i="705" m="yes" t="" />
+<w c="conversation" e="terima kasih kembali" i="706" m="you're welcome" t="" />
+<w c="countries" e="China" i="707" m="China" t="n" />
+<w c="countries" e="Ceko" i="708" m="Czech Republic" t="n" />
+<w c="countries" e="Perancis" i="709" m="France" t="n" />
+<w c="countries" e="Jerman" i="710" m="Germany" t="n" />
+<w c="countries" e="India" i="711" m="India" t="n" />
+<w c="countries" e="Italia" i="712" m="Italy" t="n" />
+<w c="countries" e="Jepang" i="713" m="Japan" t="n" />
+<w c="countries" e="Spanyol" i="714" m="Spain" t="n" />
+<w c="countries" e="Britania Raya" i="715" m="United Kingdom" t="n" />
+<w c="countries" e="Amerika Serikat" i="716" m="United States" t="n" />
+<w c="devices" e="kamera" i="717" m="camera" t="n" />
+<w c="devices" e="telepon selular" i="718" m="cellphone" t="n" />
+<w c="devices" e="jam" i="719" m="clock" t="n" />
+<w c="devices" e="komputer" i="720" m="computer" t="n" />
+<w c="devices" e="lift" i="721" m="elevator" t="n" />
+<w c="devices" e="mesin" i="722" m="engine" t="n" />
+<w c="devices" e="alat" i="723" m="instrument" t="n" />
+<w c="devices" e="mesin" i="724" m="machine" t="n" />
+<w c="devices" e="pemanggangan" i="725" m="oven" t="n" />
+<w c="devices" e="pesawat televisi" i="726" m="television" t="n" />
+<w c="devices" e="kamera" i="727" m="television camera" t="n" />
+<w c="devices" e="arloji" i="728" m="watch" t="n" />
+<w c="drinks" e="bir" i="729" m="beer" t="n" />
+<w c="drinks" e="kopi" i="730" m="coffee" t="n" />
+<w c="drinks" e="minuman" i="731" m="drink" t="n" />
+<w c="drinks" e="susu" i="732" m="milk" t="n" />
+<w c="drinks" e="susu kocok" i="733" m="milkshake" t="n" />
+<w c="drinks" e="teh" i="734" m="tea" t="n" />
+<w c="drinks" e="air" i="735" m="water" t="n" />
+<w c="drinks" e="anggur" i="736" m="wine" t="n" />
+<w c="education" e="golongan" i="737" m="class" t="n" />
+<w c="education" e="pendidikan" i="738" m="education" t="n" />
+<w c="education" e="pendidikan" i="739" m="education" t="n" />
+<w c="education" e="pendidikan" i="740" m="education" t="n" />
+<w c="education" e="ujian" i="741" m="examination" t="n" />
+<w c="education" e="nilai" i="742" m="grade" t="n" />
+<w c="education" e="pengetahuan" i="743" m="knowledge" t="n" />
+<w c="education" e="mahasiswa" i="744" m="student" t="n" />
+<w c="education" e="guru" i="745" m="teacher" t="n" />
+<w c="education" e="latihan" i="746" m="training" t="n" />
+<w c="environment" e="hujan asam" i="747" m="acid rain" t="n" />
+<w c="environment" e="atmosfer benda langit" i="748" m="atmosphere" t="n" />
+<w c="environment" e="perubahan iklim" i="749" m="climate change" t="n" />
+<w c="environment" e="ekologi" i="750" m="ecology" t="n" />
+<w c="environment" e="lingkungan" i="751" m="environment" t="n" />
+<w c="environment" e="bahan bakar fosil" i="752" m="fossil fuel" t="n" />
+<w c="environment" e="pemanasan global" i="753" m="global warming" t="n" />
+<w c="environment" e="efek rumah kaca" i="754" m="greenhouse effect" t="n" />
+<w c="environment" e="tambang" i="755" m="mine" t="n" />
+<w c="environment" e="ozon" i="756" m="ozone" t="n" />
+<w c="environment" e="pencemaran" i="757" m="pollution" t="n" />
+<w c="environment" e="daur ulang" i="758" m="recycling" t="n" />
+<w c="environment" e="asap kabut" i="759" m="smog" t="n" />
+<w c="environment" e="bahan sampah" i="760" m="waste" t="n" />
+<w c="family" e="bayi" i="761" m="baby" t="n" />
+<w c="family" e="kelahiran" i="762" m="birth" t="n" />
+<w c="family" e="hari ulang tahun" i="763" m="birthday" t="n" />
+<w c="family" e="anak laki-laki" i="764" m="boy" t="n" />
+<w c="family" e="saudara laki-laki" i="765" m="brother" t="n" />
+<w c="family" e="anak" i="766" m="child" t="n" />
+<w c="family" e="anak perempuan" i="767" m="daughter" t="n" />
+<w c="family" e="kematian" i="768" m="death" t="n" />
+<w c="family" e="keluarga" i="769" m="family" t="n" />
+<w c="family" e="ayah" i="770" m="father" t="n" />
+<w c="family" e="teman" i="771" m="friend" t="n" />
+<w c="family" e="anak perempuan" i="772" m="girl" t="n" />
+<w c="family" e="kakek" i="773" m="grandfather" t="n" />
+<w c="family" e="orang" i="774" m="human" t="n" />
+<w c="family" e="suami" i="775" m="husband" t="n" />
+<w c="family" e="masa hidup" i="776" m="life" t="n" />
+<w c="family" e="pria" i="777" m="man" t="n" />
+<w c="family" e="perkawinan" i="778" m="marriage" t="n" />
+<w c="family" e="ibu" i="779" m="mother" t="n" />
+<w c="family" e="tetangga" i="780" m="neighbor" t="n" />
+<w c="family" e="orangtua" i="781" m="parent" t="n" />
+<w c="family" e="orang" i="782" m="person" t="n" />
+<w c="family" e="hubungan" i="783" m="relationship" t="n" />
+<w c="family" e="saudara perempuan" i="784" m="sister" t="n" />
+<w c="family" e="anak laki-laki" i="785" m="son" t="n" />
+<w c="family" e="perkawinan" i="786" m="wedding" t="n" />
+<w c="family" e="istri" i="787" m="wife" t="n" />
+<w c="family" e="wanita" i="788" m="woman" t="n" />
+<w c="feelings" e="ketakutan" i="789" m="fear" t="n" />
+<w c="feelings" e="kebencian" i="790" m="hate" t="n" />
+<w c="feelings" e="sayang" i="791" m="love" t="n" />
+<w c="feelings" e="kesenangan" i="792" m="pleasure" t="n" />
+<w c="feelings" e="harapan" i="793" m="promise" t="n" />
+<w c="food" e="roti" i="794" m="bread" t="n" />
+<w c="food" e="sarapan" i="795" m="breakfast" t="n" />
+<w c="food" e="mentega susu" i="796" m="butter" t="n" />
+<w c="food" e="kue" i="797" m="cake" t="n" />
+<w c="food" e="keju" i="798" m="cheese" t="n" />
+<w c="food" e="coklat" i="799" m="chocolate" t="n" />
+<w c="food" e="piala" i="800" m="cup" t="n" />
+<w c="food" e="telur" i="801" m="egg" t="n" />
+<w c="food" e="makanan" i="802" m="food" t="n" />
+<w c="food" e="garpu" i="803" m="fork" t="n" />
+<w c="food" e="buah" i="804" m="fruit" t="n" />
+<w c="food" e="pisau" i="805" m="knife" t="n" />
+<w c="food" e="makan siang" i="806" m="lunch" t="n" />
+<w c="food" e="makanan" i="807" m="meal" t="n" />
+<w c="food" e="daging" i="808" m="meat" t="n" />
+<w c="food" e="minyak" i="809" m="oil" t="n" />
+<w c="food" e="selada" i="810" m="salad" t="n" />
+<w c="food" e="garam" i="811" m="salt" t="n" />
+<w c="food" e="roti lapis" i="812" m="sandwich" t="n" />
+<w c="food" e="saus" i="813" m="sauce" t="n" />
+<w c="food" e="sup" i="814" m="soup" t="n" />
+<w c="food" e="sendok" i="815" m="spoon" t="n" />
+<w c="food" e="gula" i="816" m="sugar" t="n" />
+<w c="food" e="kemanisan" i="817" m="sweet" t="n" />
+<w c="fruits" e="buah apel" i="818" m="apple" t="n" />
+<w c="fruits" e="aberikos" i="819" m="apricot" t="n" />
+<w c="fruits" e="pisang" i="820" m="banana" t="n" />
+<w c="fruits" e="beri hitam" i="821" m="blackberry" t="n" />
+<w c="fruits" e="ceri" i="822" m="cherry" t="n" />
+<w c="fruits" e="jeruk" i="823" m="lemon" t="n" />
+<w c="fruits" e="biji-bijian" i="824" m="nut" t="n" />
+<w c="fruits" e="jeruk" i="825" m="orange" t="n" />
+<w c="fruits" e="buah persik" i="826" m="peach" t="n" />
+<w c="fruits" e="buah pir" i="827" m="pear" t="n" />
+<w c="fruits" e="nenas" i="828" m="pineapple" t="n" />
+<w c="fruits" e="buah zabib" i="829" m="plum" t="n" />
+<w c="fruits" e="nama buah-buahan" i="830" m="raspberry" t="n" />
+<w c="fruits" e="buah arbei" i="831" m="strawberry" t="n" />
+<w c="furniture" e="tempat tidur" i="832" m="bed" t="n" />
+<w c="furniture" e="permadani" i="833" m="carpet" t="n" />
+<w c="furniture" e="kursi" i="834" m="chair" t="n" />
+<w c="furniture" e="lemari" i="835" m="cupboard" t="n" />
+<w c="furniture" e="tirai" i="836" m="curtain" t="n" />
+<w c="furniture" e="meja tulis" i="837" m="desk" t="n" />
+<w c="furniture" e="laci" i="838" m="drawer" t="n" />
+<w c="furniture" e="kursi" i="839" m="seat" t="n" />
+<w c="furniture" e="rak" i="840" m="shelf" t="n" />
+<w c="furniture" e="tempat cuci piring" i="841" m="sink" t="n" />
+<w c="furniture" e="meja" i="842" m="table" t="n" />
+<w c="geography" e="Bumi" i="843" m="Earth" t="n" />
+<w c="geography" e="bulan" i="844" m="Moon" t="n" />
+<w c="geography" e="tanggul" i="845" m="bank" t="n" />
+<w c="geography" e="pantai" i="846" m="beach" t="n" />
+<w c="geography" e="timur" i="847" m="east" t="n" />
+<w c="geography" e="bukit" i="848" m="hill" t="n" />
+<w c="geography" e="pulau" i="849" m="island" t="n" />
+<w c="geography" e="danau" i="850" m="lake" t="n" />
+<w c="geography" e="daratan" i="851" m="land" t="n" />
+<w c="geography" e="peta" i="852" m="map" t="n" />
+<w c="geography" e="utara" i="853" m="north" t="n" />
+<w c="geography" e="dataran" i="854" m="plain" t="n" />
+<w c="geography" e="sungai" i="855" m="river" t="n" />
+<w c="geography" e="laut" i="856" m="sea" t="n" />
+<w c="geography" e="selatan" i="857" m="south" t="n" />
+<w c="geography" e="bintang" i="858" m="star" t="n" />
+<w c="geography" e="matahari" i="859" m="sun" t="n" />
+<w c="geography" e="barat" i="860" m="west" t="n" />
+<w c="house" e="alamat" i="861" m="address" t="n" />
+<w c="house" e="kamar mandi" i="862" m="bathroom" t="n" />
+<w c="house" e="kamar tidur" i="863" m="bedroom" t="n" />
+<w c="house" e="bata" i="864" m="brick" t="n" />
+<w c="house" e="pintu" i="865" m="door" t="n" />
+<w c="house" e="lantai" i="866" m="floor" t="n" />
+<w c="house" e="tingkat" i="867" m="floor" t="n" />
+<w c="house" e="perabotan" i="868" m="furniture" t="n" />
+<w c="house" e="garasi" i="869" m="garage" t="n" />
+<w c="house" e="kebun" i="870" m="garden" t="n" />
+<w c="house" e="gerbang" i="871" m="gate" t="n" />
+<w c="house" e="lobi" i="872" m="hall" t="n" />
+<w c="house" e="tempat tinggal" i="873" m="home" t="n" />
+<w c="house" e="rumah" i="874" m="house" t="n" />
+<w c="house" e="dapur" i="875" m="kitchen" t="n" />
+<w c="house" e="atap" i="876" m="roof" t="n" />
+<w c="house" e="kamar" i="877" m="room" t="n" />
+<w c="house" e="mandi dengan pancaran" i="878" m="shower" t="n" />
+<w c="house" e="anak tangga" i="879" m="step" t="n" />
+<w c="house" e="kamar kecil" i="880" m="toilet" t="n" />
+<w c="house" e="tembok" i="881" m="wall" t="n" />
+<w c="house" e="sumur" i="882" m="well" t="n" />
+<w c="house" e="jendela" i="883" m="window" t="n" />
+<w c="languages" e="bahasa china; bahasa mandarin" i="884" m="Chinese" t="n" />
+<w c="languages" e="Bahasa Inggris" i="885" m="English" t="n" />
+<w c="languages" e="bahasa Perancis" i="886" m="French" t="n" />
+<w c="languages" e="Bahasa Jerman" i="887" m="German" t="n" />
+<w c="languages" e="hindi" i="888" m="Hindi" t="n" />
+<w c="languages" e="Bahasa Italia" i="889" m="Italian" t="n" />
+<w c="languages" e="bahasa Jepang" i="890" m="Japanese" t="n" />
+<w c="languages" e="bahasa Spanyol" i="891" m="Spanish" t="n" />
+<w c="materials" e="asam" i="892" m="acid" t="n" />
+<w c="materials" e="zat kimia" i="893" m="chemical" t="n" />
+<w c="materials" e="unsur" i="894" m="chemical element" t="n" />
+<w c="materials" e="batu bara" i="895" m="coal" t="n" />
+<w c="materials" e="kapas" i="896" m="cotton" t="n" />
+<w c="materials" e="debu" i="897" m="dust" t="n" />
+<w c="materials" e="bumi" i="898" m="earth" t="n" />
+<w c="materials" e="lemak" i="899" m="fat" t="n" />
+<w c="materials" e="kaca" i="900" m="glass" t="n" />
+<w c="materials" e="lem" i="901" m="glue" t="n" />
+<w c="materials" e="emas" i="902" m="gold" t="n" />
+<w c="materials" e="butir" i="903" m="grain" t="n" />
+<w c="materials" e="es" i="904" m="ice" t="n" />
+<w c="materials" e="tinta" i="905" m="ink" t="n" />
+<w c="materials" e="besi" i="906" m="iron" t="n" />
+<w c="materials" e="timah" i="907" m="lead" t="n" />
+<w c="materials" e="kulit" i="908" m="leather" t="n" />
+<w c="materials" e="cairan" i="909" m="liquid" t="n" />
+<w c="materials" e="materi" i="910" m="matter" t="n" />
+<w c="materials" e="logam" i="911" m="metallic element" t="n" />
+<w c="materials" e="minyak tanah" i="912" m="oil" t="n" />
+<w c="materials" e="kertas" i="913" m="paper" t="n" />
+<w c="materials" e="racun" i="914" m="poison" t="n" />
+<w c="materials" e="bubuk" i="915" m="powder" t="n" />
+<w c="materials" e="pasir" i="916" m="sand" t="n" />
+<w c="materials" e="benang sutera" i="917" m="silk" t="n" />
+<w c="materials" e="perak" i="918" m="silver" t="n" />
+<w c="materials" e="sabun" i="919" m="soap" t="n" />
+<w c="materials" e="baja" i="920" m="steel" t="n" />
+<w c="materials" e="kayu" i="921" m="wood" t="n" />
+<w c="materials" e="wol" i="922" m="wool" t="n" />
+<w c="mathematics" e="penjumlahan" i="923" m="addition" t="n" />
+<w c="mathematics" e="sudut" i="924" m="angle" t="n" />
+<w c="mathematics" e="luas" i="925" m="area" t="n" />
+<w c="mathematics" e="lingkaran" i="926" m="circle" t="n" />
+<w c="mathematics" e="unsur" i="927" m="component" t="n" />
+<w c="mathematics" e="lengkung" i="928" m="curve" t="n" />
+<w c="mathematics" e="derajat" i="929" m="degree" t="n" />
+<w c="mathematics" e="ketinggian" i="930" m="degree" t="n" />
+<w c="mathematics" e="perbedaan" i="931" m="difference" t="n" />
+<w c="mathematics" e="jarak" i="932" m="distance" t="n" />
+<w c="mathematics" e="pembagian" i="933" m="division" t="n" />
+<w c="mathematics" e="tepi" i="934" m="edge" t="n" />
+<w c="mathematics" e="fungsi" i="935" m="function" t="n" />
+<w c="mathematics" e="setengah" i="936" m="half" t="n" />
+<w c="mathematics" e="batas" i="937" m="limit" t="n" />
+<w c="mathematics" e="garis" i="938" m="line" t="n" />
+<w c="mathematics" e="jaringan" i="939" m="net" t="n" />
+<w c="mathematics" e="bagian luar" i="940" m="outside" t="n" />
+<w c="mathematics" e="persentase" i="941" m="percent" t="n" />
+<w c="mathematics" e="tujuan" i="942" m="purpose" t="n" />
+<w c="mathematics" e="hasil" i="943" m="result" t="n" />
+<w c="mathematics" e="peraturan" i="944" m="rule" t="n" />
+<w c="mathematics" e="himpunan" i="945" m="set" t="n" />
+<w c="mathematics" e="sisi" i="946" m="side" t="n" />
+<w c="mathematics" e="bujur sangkar" i="947" m="square" t="n" />
+<w c="mathematics" e="pangkat" i="948" m="square" t="n" />
+<w c="mathematics" e="tukaran" i="949" m="substitution" t="n" />
+<w c="mathematics" e="permukaan" i="950" m="surface" t="n" />
+<w c="mathematics" e="banyaknya" i="951" m="total" t="n" />
+<w c="medicine" e="penjagaan" i="952" m="care" t="n" />
+<w c="medicine" e="selesma" i="953" m="cold" t="n" />
+<w c="medicine" e="batuk" i="954" m="cough" t="n" />
+<w c="medicine" e="penyakit" i="955" m="disease" t="n" />
+<w c="medicine" e="dokter" i="956" m="doctor" t="n" />
+<w c="medicine" e="kesehatan" i="957" m="health" t="n" />
+<w c="medicine" e="menstruasi" i="958" m="menstruation" t="n" />
+<w c="medicine" e="perawat" i="959" m="nurse" t="n" />
+<w c="medicine" e="operasi" i="960" m="operation" t="n" />
+<w c="medicine" e="nyeri" i="961" m="pain" t="n" />
+<w c="medicine" e="pasien" i="962" m="patient" t="n" />
+<w c="medicine" e="setik" i="963" m="stitch" t="n" />
+<w c="nature" e="hawa" i="964" m="air" t="n" />
+<w c="nature" e="hewan" i="965" m="animal" t="n" />
+<w c="nature" e="cabang" i="966" m="branch" t="n" />
+<w c="nature" e="arus" i="967" m="current" t="n" />
+<w c="nature" e="evolusi" i="968" m="evolution" t="n" />
+<w c="nature" e="ladang" i="969" m="field" t="n" />
+<w c="nature" e="nyala" i="970" m="fire" t="n" />
+<w c="nature" e="bunga" i="971" m="flower" t="n" />
+<w c="nature" e="hutan" i="972" m="forest" t="n" />
+<w c="nature" e="rumput" i="973" m="grass" t="n" />
+<w c="nature" e="daun" i="974" m="leaf" t="n" />
+<w c="nature" e="kehidupan" i="975" m="life" t="n" />
+<w c="nature" e="kelembaban" i="976" m="moisture" t="n" />
+<w c="nature" e="alam" i="977" m="nature" t="n" />
+<w c="nature" e="tumbuhan" i="978" m="plant" t="n" />
+<w c="nature" e="akar" i="979" m="root" t="n" />
+<w c="nature" e="jenis kelamin" i="980" m="sex" t="n" />
+<w c="nature" e="langit" i="981" m="sky" t="n" />
+<w c="nature" e="tidur" i="982" m="sleep" t="n" />
+<w c="nature" e="bau" i="983" m="smell" t="n" />
+<w c="nature" e="uap" i="984" m="smoke" t="n" />
+<w c="nature" e="sumber" i="985" m="spring" t="n" />
+<w c="nature" e="batang" i="986" m="stem" t="n" />
+<w c="nature" e="arus" i="987" m="stream" t="n" />
+<w c="nature" e="pohon" i="988" m="tree" t="n" />
+<w c="nature" e="ombak" i="989" m="wave" t="n" />
+<w c="nature" e="cuaca" i="990" m="weather" t="n" />
+<w c="nature" e="dunia" i="991" m="world" t="n" />
+<w c="numbers" e="sepasang" i="992" m="couple" t="n" />
+<w c="numbers" e="delapan" i="993" m="eight" t="n" />
+<w c="numbers" e="delapan belas" i="994" m="eighteen" t="n" />
+<w c="numbers" e="delapan puluh" i="995" m="eighty" t="n" />
+<w c="numbers" e="sebelas" i="996" m="eleven" t="n" />
+<w c="numbers" e="lima belas" i="997" m="fifteen" t="n" />
+<w c="numbers" e="lima puluh" i="998" m="fifty" t="n" />
+<w c="numbers" e="lima" i="999" m="five" t="n" />
+<w c="numbers" e="empat puluh" i="1000" m="forty" t="n" />
+<w c="numbers" e="empat" i="1001" m="four" t="n" />
+<w c="numbers" e="empat belas" i="1002" m="fourteen" t="n" />
+<w c="numbers" e="satu juta" i="1003" m="million" t="n" />
+<w c="numbers" e="sembilan" i="1004" m="nine" t="n" />
+<w c="numbers" e="sembilan belas" i="1005" m="nineteen" t="n" />
+<w c="numbers" e="sembilan puluh" i="1006" m="ninety" t="n" />
+<w c="numbers" e="nol" i="1007" m="nothing" t="n" />
+<w c="numbers" e="satu" i="1008" m="one" t="n" />
+<w c="numbers" e="tujuh belas" i="1009" m="seventeen" t="n" />
+<w c="numbers" e="tujuh puluh" i="1010" m="seventy" t="n" />
+<w c="numbers" e="enam" i="1011" m="six" t="n" />
+<w c="numbers" e="enam puluh" i="1012" m="sixty" t="n" />
+<w c="numbers" e="sepuluh" i="1013" m="ten" t="n" />
+<w c="numbers" e="ketiga" i="1014" m="third" t="n" />
+<w c="numbers" e="tiga belas" i="1015" m="thirteen" t="n" />
+<w c="numbers" e="tiga puluh" i="1016" m="thirty" t="n" />
+<w c="numbers" e="seribu" i="1017" m="thousand" t="n" />
+<w c="numbers" e="seribu" i="1018" m="thousand" t="n" />
+<w c="numbers" e="tiga" i="1019" m="three" t="n" />
+<w c="objects" e="bola" i="1020" m="ball" t="n" />
+<w c="objects" e="mata pisau" i="1021" m="blade" t="n" />
+<w c="objects" e="papan" i="1022" m="board" t="n" />
+<w c="objects" e="kartu" i="1023" m="card" t="n" />
+<w c="objects" e="rantai" i="1024" m="chain" t="n" />
+<w c="objects" e="gada" i="1025" m="club" t="n" />
+<w c="objects" e="gulungan" i="1026" m="coil" t="n" />
+<w c="objects" e="amplop" i="1027" m="envelope" t="n" />
+<w c="objects" e="bulu" i="1028" m="feather" t="n" />
+<w c="objects" e="bendera" i="1029" m="flag" t="n" />
+<w c="objects" e="bingkai" i="1030" m="frame" t="n" />
+<w c="objects" e="pegangan" i="1031" m="handle" t="n" />
+<w c="objects" e="daftar makanan" i="1032" m="menu" t="n" />
+<w c="objects" e="mur" i="1033" m="nut" t="n" />
+<w c="objects" e="jarum" i="1034" m="pin" t="n" />
+<w c="objects" e="pipa" i="1035" m="pipe" t="n" />
+<w c="objects" e="hadiah" i="1036" m="present" t="n" />
+<w c="objects" e="tambang" i="1037" m="rope" t="n" />
+<w c="objects" e="layar" i="1038" m="sail" t="n" />
+<w c="objects" e="biji" i="1039" m="seed" t="n" />
+<w c="objects" e="tarif pos" i="1040" m="stamp" t="n" />
+<w c="objects" e="tongkat" i="1041" m="stick" t="n" />
+<w c="objects" e="batu" i="1042" m="stone" t="n" />
+<w c="objects" e="karcis" i="1043" m="ticket" t="n" />
+<w c="objects" e="roda" i="1044" m="wheel" t="n" />
+<w c="objects" e="kawat" i="1045" m="wire" t="n" />
+<w c="physics" e="keseimbangan pikiran" i="1046" m="balance" t="n" />
+<w c="physics" e="arus" i="1047" m="charge" t="n" />
+<w c="physics" e="tenaga" i="1048" m="energy" t="n" />
+<w c="physics" e="sinar" i="1049" m="light" t="n" />
+<w c="physics" e="kumpulan" i="1050" m="mass" t="n" />
+<w c="physics" e="ukuran besar" i="1051" m="mass" t="n" />
+<w c="physics" e="pengukuran" i="1052" m="measurement" t="n" />
+<w c="physics" e="cermin" i="1053" m="mirror" t="n" />
+<w c="physics" e="gerakan" i="1054" m="movement" t="n" />
+<w c="physics" e="tekanan" i="1055" m="pressure" t="n" />
+<w c="physics" e="proses" i="1056" m="process" t="n" />
+<w c="physics" e="ukuran" i="1057" m="size" t="n" />
+<w c="physics" e="bunyi" i="1058" m="sound" t="n" />
+<w c="physics" e="uap" i="1059" m="steam" t="n" />
+<w c="physics" e="daya" i="1060" m="strength" t="n" />
+<w c="physics" e="waktu" i="1061" m="time" t="n" />
+<w c="physics" e="bobot" i="1062" m="weight" t="n" />
+<w c="prepositions" e="bertentangan" i="1063" m="against" t="prep" />
+<w c="prepositions" e="di tengah" i="1064" m="among" t="prep" />
+<w c="prepositions" e="kepada" i="1065" m="at" t="prep" />
+<w c="prepositions" e="kepada" i="1066" m="at" t="prep" />
+<w c="prepositions" e="selama" i="1067" m="during" t="prep" />
+<w c="prepositions" e="kepada" i="1068" m="for" t="prep" />
+<w c="prepositions" e="ke dalam" i="1069" m="into" t="prep" />
+<w c="prepositions" e="milik" i="1070" m="of" t="prep" />
+<w c="prepositions" e="sejak" i="1071" m="since" t="prep" />
+<w c="prepositions" e="ke" i="1072" m="to" t="prep" />
+<w c="prepositions" e="dengan" i="1073" m="with" t="prep" />
+<w c="prepositions" e="dengan" i="1074" m="with" t="prep" />
+<w c="prepositions" e="tanpa" i="1075" m="without" t="prep" />
+<w c="professions" e="pemain" i="1076" m="actor" t="n" />
+<w c="professions" e="seniman" i="1077" m="artist" t="n" />
+<w c="professions" e="usahawan" i="1078" m="businessman" t="n" />
+<w c="professions" e="jurumasak" i="1079" m="cook" t="n" />
+<w c="professions" e="pakar" i="1080" m="expert" t="n" />
+<w c="professions" e="jenderal" i="1081" m="general" t="n" />
+<w c="professions" e="wartawan" i="1082" m="journalist" t="n" />
+<w c="professions" e="hakim" i="1083" m="judge" t="n" />
+<w c="professions" e="menteri" i="1084" m="minister" t="n" />
+<w c="professions" e="musikus" i="1085" m="musician" t="n" />
+<w c="professions" e="fotografer" i="1086" m="photographer" t="n" />
+<w c="professions" e="penerbang" i="1087" m="pilot" t="n" />
+<w c="professions" e="polisi" i="1088" m="policeman" t="n" />
+<w c="professions" e="politikus" i="1089" m="politician" t="n" />
+<w c="professions" e="presiden" i="1090" m="president" t="n" />
+<w c="professions" e="profesional" i="1091" m="professional" t="n" />
+<w c="professions" e="perwakilan" i="1092" m="representative" t="n" />
+<w c="professions" e="kelasi" i="1093" m="sailor" t="n" />
+<w c="professions" e="ilmuwan" i="1094" m="scientist" t="n" />
+<w c="professions" e="sekretaris" i="1095" m="secretary" t="n" />
+<w c="professions" e="pelayan" i="1096" m="servant" t="n" />
+<w c="professions" e="penyanyi" i="1097" m="singer" t="n" />
+<w c="professions" e="prajurit" i="1098" m="soldier" t="n" />
+<w c="professions" e="penulis" i="1099" m="writer" t="n" />
+<w c="pronouns" e="apa saja" i="1100" m="anything" t="pron" />
+<w c="pronouns" e="setiap orang" i="1101" m="everybody" t="pron" />
+<w c="pronouns" e="segalanya" i="1102" m="everything" t="pron" />
+<w c="pronouns" e="miliknya" i="1103" m="her" t="pron" />
+<w c="pronouns" e="dirinya" i="1104" m="herself" t="pron" />
+<w c="pronouns" e="dia" i="1105" m="him" t="pron" />
+<w c="pronouns" e="miliknya" i="1106" m="his" t="pron" />
+<w c="pronouns" e="itu" i="1107" m="it" t="pron" />
+<w c="pronouns" e="dirinya" i="1108" m="itself" t="pron" />
+<w c="pronouns" e="saya" i="1109" m="me" t="pron" />
+<w c="pronouns" e="milik saya" i="1110" m="my" t="pron" />
+<w c="pronouns" e="milik kami" i="1111" m="our" t="pron" />
+<w c="pronouns" e="dia (perempuan)" i="1112" m="she" t="pron" />
+<w c="pronouns" e="itu" i="1113" m="that" t="pron" />
+<w c="pronouns" e="milik mereka" i="1114" m="their" t="pron" />
+<w c="pronouns" e="mereka" i="1115" m="them" t="pron" />
+<w c="pronouns" e="mereka" i="1116" m="they" t="pron" />
+<w c="pronouns" e="ini" i="1117" m="this" t="pron" />
+<w c="pronouns" e="kami" i="1118" m="we" t="pron" />
+<w c="pronouns" e="apa" i="1119" m="what" t="pron" />
+<w c="pronouns" e="kapan" i="1120" m="when" t="pron" />
+<w c="pronouns" e="yang" i="1121" m="which" t="pron" />
+<w c="pronouns" e="yang" i="1122" m="which" t="pron" />
+<w c="pronouns" e="siapa" i="1123" m="who" t="pron" />
+<w c="pronouns" e="siapa" i="1124" m="whom" t="pron" />
+<w c="pronouns" e="dirimu" i="1125" m="yourself" t="pron" />
+<w c="relations" e="pacar" i="1126" m="boyfriend" t="n" />
+<w c="relations" e="kencan" i="1127" m="date" t="n" />
+<w c="relations" e="sayang" i="1128" m="dear" t="n" />
+<w c="relations" e="pacar" i="1129" m="girlfriend" t="n" />
+<w c="relations" e="tamu" i="1130" m="guest" t="n" />
+<w c="relations" e="ciuman" i="1131" m="kiss" t="n" />
+<w c="relations" e="pesta" i="1132" m="party" t="n" />
+<w c="relations" e="senyuman" i="1133" m="smile" t="n" />
+<w c="relations" e="kejutan" i="1134" m="surprise" t="n" />
+<w c="relations" e="kunjungan" i="1135" m="visit" t="n" />
+<w c="science" e="biologi" i="1136" m="biology" t="n" />
+<w c="science" e="penyebab" i="1137" m="cause" t="n" />
+<w c="science" e="inti" i="1138" m="center" t="n" />
+<w c="science" e="kimia" i="1139" m="chemistry" t="n" />
+<w c="science" e="perbandingan" i="1140" m="comparison" t="n" />
+<w c="science" e="akibat" i="1141" m="consequence" t="n" />
+<w c="science" e="pengendalian" i="1142" m="control" t="n" />
+<w c="science" e="disiplin" i="1143" m="discipline" t="n" />
+<w c="science" e="penemuan" i="1144" m="discovery" t="n" />
+<w c="science" e="peristiwa" i="1145" m="event" t="n" />
+<w c="science" e="bukti" i="1146" m="evidence" t="n" />
+<w c="science" e="contoh" i="1147" m="example" t="n" />
+<w c="science" e="kenyataan" i="1148" m="fact" t="n" />
+<w c="science" e="persoalan" i="1149" m="issue" t="n" />
+<w c="science" e="metode" i="1150" m="method" t="n" />
+<w c="science" e="model" i="1151" m="model" t="n" />
+<w c="science" e="alternatif" i="1152" m="option" t="n" />
+<w c="science" e="tahap" i="1153" m="phase" t="n" />
+<w c="science" e="prosedur" i="1154" m="procedure" t="n" />
+<w c="science" e="produksi" i="1155" m="production" t="n" />
+<w c="science" e="program" i="1156" m="program" t="n" />
+<w c="science" e="proyek" i="1157" m="project" t="n" />
+<w c="science" e="jangkauan" i="1158" m="range" t="n" />
+<w c="science" e="penelitian" i="1159" m="research" t="n" />
+<w c="science" e="ilmu" i="1160" m="science" t="n" />
+<w c="science" e="umat manusia" i="1161" m="society" t="n" />
+<w c="science" e="jaringan" i="1162" m="system" t="n" />
+<w c="science" e="teknologi" i="1163" m="technology" t="n" />
+<w c="science" e="teori" i="1164" m="theory" t="n" />
+<w c="science" e="kecenderungan" i="1165" m="trend" t="n" />
+<w c="science" e="kesulitan" i="1166" m="trouble" t="n" />
+<w c="society" e="angkatan perang" i="1167" m="army" t="n" />
+<w c="society" e="ramuan utama" i="1168" m="base" t="n" />
+<w c="society" e="klub" i="1169" m="club" t="n" />
+<w c="society" e="persahabatan" i="1170" m="company" t="n" />
+<w c="society" e="negara" i="1171" m="country" t="n" />
+<w c="society" e="pengadilan" i="1172" m="court" t="n" />
+<w c="society" e="pelanggaran" i="1173" m="crime" t="n" />
+<w c="society" e="kebudayaan" i="1174" m="culture" t="n" />
+<w c="society" e="republik" i="1175" m="democracy" t="n" />
+<w c="society" e="kekuasaan" i="1176" m="dominion" t="n" />
+<w c="society" e="pemilihan" i="1177" m="election" t="n" />
+<w c="society" e="keberadaan" i="1178" m="existence" t="n" />
+<w c="society" e="pemerintah" i="1179" m="government" t="n" />
+<w c="society" e="riwayat" i="1180" m="history" t="n" />
+<w c="society" e="individu" i="1181" m="individual" t="n" />
+<w c="society" e="lembaga" i="1182" m="institution" t="n" />
+<w c="society" e="raja" i="1183" m="king" t="n" />
+<w c="society" e="pemimpin" i="1184" m="leader" t="n" />
+<w c="society" e="anggota" i="1185" m="member" t="n" />
+<w c="society" e="bangsa" i="1186" m="nation" t="n" />
+<w c="society" e="berita" i="1187" m="news" t="n" />
+<w c="society" e="kebisingan" i="1188" m="noise" t="n" />
+<w c="society" e="perintah" i="1189" m="order" t="n" />
+<w c="society" e="organisasi" i="1190" m="organization" t="n" />
+<w c="society" e="pas" i="1191" m="pass" t="n" />
+<w c="society" e="paspor" i="1192" m="passport" t="n" />
+<w c="society" e="damai" i="1193" m="peace" t="n" />
+<w c="society" e="orang" i="1194" m="people" t="n" />
+<w c="society" e="kepolisian" i="1195" m="police" t="n" />
+<w c="society" e="kebijaksanaan" i="1196" m="policy" t="n" />
+<w c="society" e="penduduk" i="1197" m="population" t="n" />
+<w c="society" e="rakyat" i="1198" m="public" t="n" />
+<w c="society" e="hukuman" i="1199" m="punishment" t="n" />
+<w c="society" e="agama" i="1200" m="religion" t="n" />
+<w c="society" e="iman" i="1201" m="religion" t="n" />
+<w c="society" e="negara" i="1202" m="state" t="n" />
+<w c="society" e="judul" i="1203" m="title" t="n" />
+<w c="society" e="union" i="1204" m="union" t="n" />
+<w c="society" e="kemauan" i="1205" m="will" t="n" />
+<w c="society" e="wasiat" i="1206" m="will" t="n" />
+<w c="sports" e="penghargaan" i="1207" m="award" t="n" />
+<w c="sports" e="baseball" i="1208" m="baseball" t="n" />
+<w c="sports" e="kejuaraan" i="1209" m="championship" t="n" />
+<w c="sports" e="peserta" i="1210" m="competitor" t="n" />
+<w c="sports" e="tujuan" i="1211" m="finish" t="n" />
+<w c="sports" e="sepakbola" i="1212" m="football" t="n" />
+<w c="sports" e="permainan" i="1213" m="game" t="n" />
+<w c="sports" e="gol" i="1214" m="goal" t="n" />
+<w c="sports" e="golf" i="1215" m="golf" t="n" />
+<w c="sports" e="pertandingan" i="1216" m="match" t="n" />
+<w c="sports" e="pemain" i="1217" m="player" t="n" />
+<w c="sports" e="rekor" i="1218" m="record" t="n" />
+<w c="sports" e="tenis" i="1219" m="tennis" t="n" />
+<w c="sports" e="lemparan" i="1220" m="throw" t="n" />
+<w c="sports" e="kemenangan" i="1221" m="win" t="n" />
+<w c="time" e="April" i="1222" m="April" t="n" />
+<w c="time" e="Agustus" i="1223" m="August" t="n" />
+<w c="time" e="Desember" i="1224" m="December" t="n" />
+<w c="time" e="Februari" i="1225" m="February" t="n" />
+<w c="time" e="Jumat" i="1226" m="Friday" t="n" />
+<w c="time" e="Januari" i="1227" m="January" t="n" />
+<w c="time" e="Juli" i="1228" m="July" t="n" />
+<w c="time" e="Juni" i="1229" m="June" t="n" />
+<w c="time" e="mei" i="1230" m="May" t="n" />
+<w c="time" e="Senin" i="1231" m="Monday" t="n" />
+<w c="time" e="November" i="1232" m="November" t="n" />
+<w c="time" e="Oktober" i="1233" m="October" t="n" />
+<w c="time" e="Sabtu" i="1234" m="Saturday" t="n" />
+<w c="time" e="September" i="1235" m="September" t="n" />
+<w c="time" e="Minggu" i="1236" m="Sunday" t="n" />
+<w c="time" e="Kamis" i="1237" m="Thursday" t="n" />
+<w c="time" e="Selasa" i="1238" m="Tuesday" t="n" />
+<w c="time" e="Rabu" i="1239" m="Wednesday" t="n" />
+<w c="time" e="petang" i="1240" m="afternoon" t="n" />
+<w c="time" e="usia" i="1241" m="age" t="n" />
+<w c="time" e="musim gugur" i="1242" m="autumn" t="n" />
+<w c="time" e="awal" i="1243" m="beginning" t="n" />
+<w c="time" e="abad" i="1244" m="century" t="n" />
+<w c="time" e="tanggal" i="1245" m="date" t="n" />
+<w c="time" e="hari" i="1246" m="day" t="n" />
+<w c="time" e="akhir" i="1247" m="end" t="n" />
+<w c="time" e="sore" i="1248" m="evening" t="n" />
+<w c="time" e="masa depan" i="1249" m="future" t="n" />
+<w c="time" e="jam" i="1250" m="hour" t="n" />
+<w c="time" e="tengah malam" i="1251" m="midnight" t="n" />
+<w c="time" e="menit" i="1252" m="minute" t="n" />
+<w c="time" e="sekejap" i="1253" m="moment" t="n" />
+<w c="time" e="bulan" i="1254" m="month" t="n" />
+<w c="time" e="pagi" i="1255" m="morning" t="n" />
+<w c="time" e="malam" i="1256" m="night" t="n" />
+<w c="time" e="sekarang" i="1257" m="now" t="n" />
+<w c="time" e="masa lalu" i="1258" m="past" t="n" />
+<w c="time" e="saat sela" i="1259" m="pause" t="n" />
+<w c="time" e="masa" i="1260" m="period" t="n" />
+<w c="time" e="musim" i="1261" m="season" t="n" />
+<w c="time" e="detik" i="1262" m="second" t="n" />
+<w c="time" e="musim semi" i="1263" m="spring" t="n" />
+<w c="time" e="musim panas" i="1264" m="summer" t="n" />
+<w c="time" e="masa depan" i="1265" m="tomorrow" t="n" />
+<w c="time" e="minggu" i="1266" m="week" t="n" />
+<w c="time" e="akhir pekan" i="1267" m="weekend" t="n" />
+<w c="time" e="musim dingin" i="1268" m="winter" t="n" />
+<w c="time" e="tahun" i="1269" m="year" t="n" />
+<w c="tools" e="lonceng" i="1270" m="bell" t="n" />
+<w c="tools" e="sikat" i="1271" m="brush" t="n" />
+<w c="tools" e="kancing" i="1272" m="button" t="n" />
+<w c="tools" e="senjata api" i="1273" m="gun" t="n" />
+<w c="tools" e="pemukul" i="1274" m="hammer" t="n" />
+<w c="tools" e="gantungan" i="1275" m="hook" t="n" />
+<w c="tools" e="kunci" i="1276" m="key" t="n" />
+<w c="tools" e="kunci" i="1277" m="lock" t="n" />
+<w c="tools" e="korek api" i="1278" m="match" t="n" />
+<w c="tools" e="paku" i="1279" m="nail" t="n" />
+<w c="tools" e="jarum" i="1280" m="needle" t="n" />
+<w c="tools" e="fulpen" i="1281" m="pen" t="n" />
+<w c="tools" e="pensil" i="1282" m="pencil" t="n" />
+<w c="tools" e="pompa" i="1283" m="pump" t="n" />
+<w c="tools" e="gunting" i="1284" m="scissors" t="n" />
+<w c="tools" e="per" i="1285" m="spring" t="n" />
+<w c="tools" e="stempel" i="1286" m="stamp" t="n" />
+<w c="tools" e="cambuk" i="1287" m="whip" t="n" />
+<w c="transport" e="kecelakaan" i="1288" m="accident" t="n" />
+<w c="transport" e="sepeda" i="1289" m="bike" t="n" />
+<w c="transport" e="perahu" i="1290" m="boat" t="n" />
+<w c="transport" e="bis" i="1291" m="bus" t="n" />
+<w c="transport" e="mobil" i="1292" m="car" t="n" />
+<w c="transport" e="lengkungan" i="1293" m="curve" t="n" />
+<w c="transport" e="kereta api ekspres" i="1294" m="express" t="n" />
+<w c="transport" e="penerbangan" i="1295" m="flight" t="n" />
+<w c="transport" e="perjalanan" i="1296" m="journey" t="n" />
+<w c="transport" e="penumpang" i="1297" m="passenger" t="n" />
+<w c="transport" e="pesawat terbang" i="1298" m="plane" t="n" />
+<w c="transport" e="kapal" i="1299" m="ship" t="n" />
+<w c="transport" e="rel" i="1300" m="track" t="n" />
+<w c="transport" e="kereta api" i="1301" m="train" t="n" />
+<w c="transport" e="angkutan" i="1302" m="transport" t="n" />
+<w c="vegetables" e="kacang-kacangan" i="1303" m="bean" t="n" />
+<w c="vegetables" e="kol" i="1304" m="cabbage" t="n" />
+<w c="vegetables" e="wortel" i="1305" m="carrot" t="n" />
+<w c="vegetables" e="mentimun" i="1306" m="cucumber" t="n" />
+<w c="vegetables" e="bawang putih" i="1307" m="garlic" t="n" />
+<w c="vegetables" e="zaitun" i="1308" m="olive" t="n" />
+<w c="vegetables" e="bawang" i="1309" m="onion" t="n" />
+<w c="vegetables" e="semacam wortel" i="1310" m="parsnip" t="n" />
+<w c="vegetables" e="kentang" i="1311" m="potato" t="n" />
+<w c="vegetables" e="lobak" i="1312" m="radish" t="n" />
+<w c="vegetables" e="padi" i="1313" m="rice" t="n" />
+<w c="vegetables" e="tanaman tomat" i="1314" m="tomato" t="n" />
+<w c="verbs" e="menerima" i="1315" m="accept" t="v" />
+<w c="verbs" e="menuduh" i="1316" m="accuse" t="v" />
+<w c="verbs" e="mencapai" i="1317" m="achieve" t="v" />
+<w c="verbs" e="bertindak" i="1318" m="act" t="v" />
+<w c="verbs" e="menambah" i="1319" m="add" t="v" />
+<w c="verbs" e="mengakui" i="1320" m="admit" t="v" />
+<w c="verbs" e="sependapat" i="1321" m="agree" t="v" />
+<w c="verbs" e="memungkinkan" i="1322" m="allow" t="v" />
+<w c="verbs" e="mengumumkan" i="1323" m="announce" t="v" />
+<w c="verbs" e="bertengkar" i="1324" m="argue" t="v" />
+<w c="verbs" e="datang" i="1325" m="arrive" t="v" />
+<w c="verbs" e="bertanya" i="1326" m="ask" t="v" />
+<w c="verbs" e="menyerang" i="1327" m="attack" t="v" />
+<w c="verbs" e="menghindari" i="1328" m="avoid" t="v" />
+<w c="verbs" e="hidup" i="1329" m="be" t="v" />
+<w c="verbs" e="membawa" i="1330" m="bear" t="v" />
+<w c="verbs" e="menaklukkan" i="1331" m="beat" t="v" />
+<w c="verbs" e="menjadi" i="1332" m="become" t="v" />
+<w c="verbs" e="percaya" i="1333" m="believe" t="v" />
+<w c="verbs" e="gigit" i="1334" m="bite" t="v" />
+<w c="verbs" e="mengakibatkan" i="1335" m="bring" t="v" />
+<w c="verbs" e="membangun" i="1336" m="build" t="v" />
+<w c="verbs" e="bakar" i="1337" m="burn" t="v" />
+<w c="verbs" e="menelepon" i="1338" m="call" t="v" />
+<w c="verbs" e="membawa" i="1339" m="carry" t="v" />
+<w c="verbs" e="mengubah" i="1340" m="change" t="v" />
+<w c="verbs" e="memilih" i="1341" m="choose" t="v" />
+<w c="verbs" e="menganggap" i="1342" m="classify" t="v" />
+<w c="verbs" e="membersihkan" i="1343" m="clean" t="v" />
+<w c="verbs" e="menyamakan" i="1344" m="compare" t="v" />
+<w c="verbs" e="berisi" i="1345" m="contain" t="v" />
+<w c="verbs" e="meneruskan" i="1346" m="continue" t="v" />
+<w c="verbs" e="menguasai" i="1347" m="control" t="v" />
+<w c="verbs" e="memasak" i="1348" m="cook" t="v" />
+<w c="verbs" e="batuk" i="1349" m="cough" t="v" />
+<w c="verbs" e="meremas" i="1350" m="crush" t="v" />
+<w c="verbs" e="menangis" i="1351" m="cry" t="v" />
+<w c="verbs" e="memastikan" i="1352" m="decide" t="v" />
+<w c="verbs" e="merancang" i="1353" m="design" t="v" />
+<w c="verbs" e="menginginkan" i="1354" m="desire" t="v" />
+<w c="verbs" e="memproses" i="1355" m="develop" t="v" />
+<w c="verbs" e="mati" i="1356" m="die" t="v" />
+<w c="verbs" e="menemukan" i="1357" m="discover" t="v" />
+<w c="verbs" e="membicarakan" i="1358" m="discuss" t="v" />
+<w c="verbs" e="membagi" i="1359" m="divide" t="v" />
+<w c="verbs" e="ragu-ragu" i="1360" m="doubt" t="v" />
+<w c="verbs" e="mengemudikan" i="1361" m="drive" t="v" />
+<w c="verbs" e="mencakup" i="1362" m="embrace" t="v" />
+<w c="verbs" e="memberi semangat" i="1363" m="encourage" t="v" />
+<w c="verbs" e="menyelesaikan" i="1364" m="end" t="v" />
+<w c="verbs" e="meningkatkan" i="1365" m="enhance" t="v" />
+<w c="verbs" e="menikmati" i="1366" m="enjoy" t="v" />
+<w c="verbs" e="masuk" i="1367" m="enter" t="v" />
+<w c="verbs" e="mendirikan" i="1368" m="establish" t="v" />
+<w c="verbs" e="menaksir" i="1369" m="estimate" t="v" />
+<w c="verbs" e="melampaui" i="1370" m="exceed" t="v" />
+<w c="verbs" e="ada" i="1371" m="exist" t="v" />
+<w c="verbs" e="menunggu" i="1372" m="expect" t="v" />
+<w c="verbs" e="menjelaskan" i="1373" m="explain" t="v" />
+<w c="verbs" e="berkelahi" i="1374" m="fight" t="v" />
+<w c="verbs" e="mengisi" i="1375" m="fill" t="v" />
+<w c="verbs" e="menemukan" i="1376" m="find" t="v" />
+<w c="verbs" e="menyamakan" i="1377" m="flush" t="v" />
+<w c="verbs" e="memaafkan" i="1378" m="forgive" t="v" />
+<w c="verbs" e="membebaskan" i="1379" m="free" t="v" />
+<w c="verbs" e="tumbuh" i="1380" m="grow" t="v" />
+<w c="verbs" e="terjadi" i="1381" m="happen" t="v" />
+<w c="verbs" e="membenci" i="1382" m="hate" t="v" />
+<w c="verbs" e="menyembunyikan" i="1383" m="hide" t="v" />
+<w c="verbs" e="memegang" i="1384" m="hold" t="v" />
+<w c="verbs" e="mengenali" i="1385" m="identify" t="v" />
+<w c="verbs" e="mencakup" i="1386" m="include" t="v" />
+<w c="verbs" e="meningkatkan" i="1387" m="increase" t="v" />
+<w c="verbs" e="melukai" i="1388" m="injure" t="v" />
+<w c="verbs" e="memperkenalkan" i="1389" m="introduce" t="v" />
+<w c="verbs" e="menggabungkan" i="1390" m="join" t="v" />
+<w c="verbs" e="menjaga" i="1391" m="keep" t="v" />
+<w c="verbs" e="menendang" i="1392" m="kick" t="v" />
+<w c="verbs" e="membunuh" i="1393" m="kill" t="v" />
+<w c="verbs" e="mendaratkan" i="1394" m="land" t="v" />
+<w c="verbs" e="memimpin" i="1395" m="lead" t="v" />
+<w c="verbs" e="meninggalkan" i="1396" m="leave" t="v" />
+<w c="verbs" e="mengijinkan" i="1397" m="let" t="v" />
+<w c="verbs" e="mengangkat" i="1398" m="lift" t="v" />
+<w c="verbs" e="membatasi" i="1399" m="limit" t="v" />
+<w c="verbs" e="menyetrum" i="1400" m="load" t="v" />
+<w c="verbs" e="mengunci" i="1401" m="lock" t="v" />
+<w c="verbs" e="tampaknya" i="1402" m="look" t="v" />
+<w c="verbs" e="kehilangan" i="1403" m="lose" t="v" />
+<w c="verbs" e="menjadi pengurus" i="1404" m="manage" t="v" />
+<w c="verbs" e="mengawini" i="1405" m="marry" t="v" />
+<w c="verbs" e="cocok" i="1406" m="match" t="v" />
+<w c="verbs" e="berarti" i="1407" m="mean" t="v" />
+<w c="verbs" e="merencanakan" i="1408" m="mean" t="v" />
+<w c="verbs" e="mengukur" i="1409" m="measure" t="v" />
+<w c="verbs" e="menyebutkan" i="1410" m="mention" t="v" />
+<w c="verbs" e="ketinggalan" i="1411" m="miss" t="v" />
+<w c="verbs" e="meleset" i="1412" m="miss" t="v" />
+<w c="verbs" e="menamai" i="1413" m="name" t="v" />
+<w c="verbs" e="memiliki" i="1414" m="own" t="v" />
+<w c="verbs" e="menyerahkan" i="1415" m="pass" t="v" />
+<w c="verbs" e="mengupas" i="1416" m="peel" t="v" />
+<w c="verbs" e="merencanakan" i="1417" m="plan" t="v" />
+<w c="verbs" e="meracuni" i="1418" m="poison" t="v" />
+<w c="verbs" e="menggosok" i="1419" m="polish" t="v" />
+<w c="verbs" e="menyiapkan" i="1420" m="prepare" t="v" />
+<w c="verbs" e="menekan" i="1421" m="press" t="v" />
+<w c="verbs" e="mencegah" i="1422" m="prevent" t="v" />
+<w c="verbs" e="mencetak" i="1423" m="print" t="v" />
+<w c="verbs" e="mendapat keuntungan" i="1424" m="profit" t="v" />
+<w c="verbs" e="protes" i="1425" m="protest" t="v" />
+<w c="verbs" e="membuktikan" i="1426" m="prove" t="v" />
+<w c="verbs" e="menerbitkan" i="1427" m="publish" t="v" />
+<w c="verbs" e="mendidik" i="1428" m="raise" t="v" />
+<w c="verbs" e="menilai" i="1429" m="rate" t="v" />
+<w c="verbs" e="mencapai" i="1430" m="reach" t="v" />
+<w c="verbs" e="menerima" i="1431" m="receive" t="v" />
+<w c="verbs" e="merekam" i="1432" m="record" t="v" />
+<w c="verbs" e="mengurangi" i="1433" m="reduce" t="v" />
+<w c="verbs" e="memantulkan" i="1434" m="reflect" t="v" />
+<w c="verbs" e="menolak" i="1435" m="refuse" t="v" />
+<w c="verbs" e="menyingkirkan" i="1436" m="remove" t="v" />
+<w c="verbs" e="mengembalikan" i="1437" m="render" t="v" />
+<w c="verbs" e="jawab" i="1438" m="reply" t="v" />
+<w c="verbs" e="melaporkan" i="1439" m="report" t="v" />
+<w c="verbs" e="mewakili" i="1440" m="represent" t="v" />
+<w c="verbs" e="meminta" i="1441" m="request" t="v" />
+<w c="verbs" e="menghormati" i="1442" m="respect" t="v" />
+<w c="verbs" e="mengungkapkan" i="1443" m="reveal" t="v" />
+<w c="verbs" e="menghadapi risiko" i="1444" m="risk" t="v" />
+<w c="verbs" e="memerintah" i="1445" m="rule" t="v" />
+<w c="verbs" e="menabung" i="1446" m="save" t="v" />
+<w c="verbs" e="menyelamatkan" i="1447" m="save" t="v" />
+<w c="verbs" e="melihat" i="1448" m="see" t="v" />
+<w c="verbs" e="menganggap" i="1449" m="see" t="v" />
+<w c="verbs" e="mengirimkan" i="1450" m="send" t="v" />
+<w c="verbs" e="mengabdi" i="1451" m="serve" t="v" />
+<w c="verbs" e="menjahit" i="1452" m="sew" t="v" />
+<w c="verbs" e="berbagi" i="1453" m="share" t="v" />
+<w c="verbs" e="berteriak" i="1454" m="shout" t="v" />
+<w c="verbs" e="mempertunjukkan" i="1455" m="show" t="v" />
+<w c="verbs" e="berbau" i="1456" m="smell" t="v" />
+<w c="verbs" e="mencium bau" i="1457" m="smell" t="v" />
+<w c="verbs" e="asap" i="1458" m="smoke" t="v" />
+<w c="verbs" e="melewatkan" i="1459" m="spend" t="v" />
+<w c="verbs" e="berdiri" i="1460" m="stand" t="v" />
+<w c="verbs" e="tinggal" i="1461" m="stay" t="v" />
+<w c="verbs" e="mencuri" i="1462" m="steal" t="v" />
+<w c="verbs" e="menghentikan" i="1463" m="stop" t="v" />
+<w c="verbs" e="belajar" i="1464" m="study" t="v" />
+<w c="verbs" e="mengusulkan" i="1465" m="suggest" t="v" />
+<w c="verbs" e="melengkapi" i="1466" m="supply" t="v" />
+<w c="verbs" e="mendukung" i="1467" m="support" t="v" />
+<w c="verbs" e="mengejutkan" i="1468" m="surprise" t="v" />
+<w c="verbs" e="bertahan" i="1469" m="survive" t="v" />
+<w c="verbs" e="mencicipi" i="1470" m="taste" t="v" />
+<w c="verbs" e="melatih" i="1471" m="teach" t="v" />
+<w c="verbs" e="menguji" i="1472" m="test" t="v" />
+<w c="verbs" e="berterima kasih" i="1473" m="thank" t="v" />
+<w c="verbs" e="melemparkan" i="1474" m="throw" t="v" />
+<w c="verbs" e="memberi judul" i="1475" m="title" t="v" />
+<w c="verbs" e="berdagang" i="1476" m="trade" t="v" />
+<w c="verbs" e="melatih" i="1477" m="train" t="v" />
+<w c="verbs" e="pergi" i="1478" m="travel" t="v" />
+<w c="verbs" e="memperlakukan" i="1479" m="treat" t="v" />
+<w c="verbs" e="mencoba" i="1480" m="try" t="v" />
+<w c="verbs" e="memutar" i="1481" m="turn" t="v" />
+<w c="verbs" e="mengunjungi" i="1482" m="visit" t="v" />
+<w c="verbs" e="berjalan" i="1483" m="walk" t="v" />
+<w c="verbs" e="menghangatkan" i="1484" m="warm" t="v" />
+<w c="verbs" e="mencuci" i="1485" m="wash" t="v" />
+<w c="verbs" e="melihat" i="1486" m="watch" t="v" />
+<w c="verbs" e="memakai" i="1487" m="wear" t="v" />
+<w c="verbs" e="berbobot" i="1488" m="weigh" t="v" />
+<w c="verbs" e="menang" i="1489" m="win" t="v" />
+<w c="verbs" e="menginginkan" i="1490" m="wish" t="v" />
+<w c="verbs" e="memecah" i="1491" m="break" t="v" />
+<w c="verbs" e="membeli" i="1492" m="buy" t="v" />
+<w c="verbs" e="menutup" i="1493" m="close" t="v" />
+<w c="verbs" e="datang" i="1494" m="come" t="v" />
+<w c="verbs" e="memotong" i="1495" m="cut" t="v" />
+<w c="verbs" e="menari" i="1496" m="dance" t="v" />
+<w c="verbs" e="menggunakan" i="1497" m="do" t="v" />
+<w c="verbs" e="minum" i="1498" m="drink" t="v" />
+<w c="verbs" e="makan" i="1499" m="eat" t="v" />
+<w c="verbs" e="jatuh" i="1500" m="fall" t="v" />
+<w c="verbs" e="menemukan" i="1501" m="find" t="v" />
+<w c="verbs" e="melepaskan" i="1502" m="fire" t="v" />
+<w c="verbs" e="terbang" i="1503" m="fly" t="v" />
+<w c="verbs" e="menyusul" i="1504" m="follow" t="v" />
+<w c="verbs" e="melupakan" i="1505" m="forget" t="v" />
+<w c="verbs" e="memberi" i="1506" m="give" t="v" />
+<w c="verbs" e="mempunyai" i="1507" m="have" t="v" />
+<w c="verbs" e="mendengar" i="1508" m="hear" t="v" />
+<w c="verbs" e="membantu" i="1509" m="help" t="v" />
+<w c="verbs" e="mengharapkan" i="1510" m="hope" t="v" />
+<w c="verbs" e="melompat" i="1511" m="jump" t="v" />
+<w c="verbs" e="mencium" i="1512" m="kiss" t="v" />
+<w c="verbs" e="tertawa" i="1513" m="laugh" t="v" />
+<w c="verbs" e="belajar" i="1514" m="learn" t="v" />
+<w c="verbs" e="menggeletak" i="1515" m="lie" t="v" />
+<w c="verbs" e="berdusta" i="1516" m="lie" t="v" />
+<w c="verbs" e="menyukai" i="1517" m="like" t="v" />
+<w c="verbs" e="mendengarkan" i="1518" m="listen" t="v" />
+<w c="verbs" e="melihat" i="1519" m="look" t="v" />
+<w c="verbs" e="kehilangan" i="1520" m="lose" t="v" />
+<w c="verbs" e="mencintai" i="1521" m="love" t="v" />
+<w c="verbs" e="mengadakan" i="1522" m="make" t="v" />
+<w c="verbs" e="bertemu secara tiba-tiba" i="1523" m="meet" t="v" />
+<w c="verbs" e="menggerakkan" i="1524" m="move" t="v" />
+<w c="verbs" e="memerlukan" i="1525" m="need" t="v" />
+<w c="verbs" e="menawarkan" i="1526" m="offer" t="v" />
+<w c="verbs" e="membuka" i="1527" m="open" t="v" />
+<w c="verbs" e="membayar" i="1528" m="pay" t="v" />
+<w c="verbs" e="bermain" i="1529" m="play" t="v" />
+<w c="verbs" e="menarik" i="1530" m="pull" t="v" />
+<w c="verbs" e="mendorong" i="1531" m="push" t="v" />
+<w c="verbs" e="meletakkan" i="1532" m="put" t="v" />
+<w c="verbs" e="membaca" i="1533" m="read" t="v" />
+<w c="verbs" e="mengingat" i="1534" m="remember" t="v" />
+<w c="verbs" e="berlari" i="1535" m="run" t="v" />
+<w c="verbs" e="mengatakan" i="1536" m="say" t="v" />
+<w c="verbs" e="menjual" i="1537" m="sell" t="v" />
+<w c="verbs" e="menyanyi" i="1538" m="sing" t="v" />
+<w c="verbs" e="duduk" i="1539" m="sit" t="v" />
+<w c="verbs" e="tersenyum" i="1540" m="smile" t="v" />
+<w c="verbs" e="berenang" i="1541" m="swim" t="v" />
+<w c="verbs" e="mengambil" i="1542" m="take" t="v" />
+<w c="verbs" e="berbicara" i="1543" m="talk" t="v" />
+<w c="verbs" e="menggambar" i="1544" m="trace" t="v" />
+<w c="verbs" e="memahami" i="1545" m="understand" t="v" />
+<w c="verbs" e="menggunakan" i="1546" m="use" t="v" />
+<w c="verbs" e="menunggu" i="1547" m="wait" t="v" />
+<w c="verbs" e="menulis" i="1548" m="write" t="v" />
+<w c="weather" e="awan" i="1549" m="cloud" t="n" />
+<w c="weather" e="embun" i="1550" m="dew" t="n" />
+<w c="weather" e="kabut" i="1551" m="fog" t="n" />
+<w c="weather" e="embun beku" i="1552" m="frost" t="n" />
+<w c="weather" e="kilat" i="1553" m="lightning" t="n" />
+<w c="weather" e="hujan" i="1554" m="rain" t="n" />
+<w c="weather" e="pelangi" i="1555" m="rainbow" t="n" />
+<w c="weather" e="salju" i="1556" m="snow" t="n" />
+<w c="weather" e="badai" i="1557" m="storm" t="n" />
+<w c="weather" e="guntur" i="1558" m="thunder" t="n" />
+<w c="weather" e="angin" i="1559" m="wind" t="n" />
+</vocb>

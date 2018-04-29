@@ -1,0 +1,7 @@
+#
+# Require Auth until released
+# 
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /oy/testvisor/pwd/passwords
+Require valid-user

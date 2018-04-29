@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Hindi (&#x0939;&#x093F;&#x0928;&#x094D;&#x0926;&#x0940;)">
+<!--generated: Sun Jan 29 02:47:35 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="योग्यता" i="0" m="ability" t="n" />
+<w c="abstract" e="कार्य" i="1" m="act" t="n" />
+<w c="abstract" e="सक्रियता" i="2" m="activity" t="n" />
+<w c="abstract" e="राशि" i="3" m="amount" t="n" />
+<w c="abstract" e="आक्रमण" i="4" m="attack" t="n" />
+<w c="abstract" e="प्रयास" i="5" m="attempt" t="n" />
+<w c="abstract" e="पिछला हिस्सा" i="6" m="back" t="n" />
+<w c="abstract" e="बर्ताव" i="7" m="behavior" t="n" />
+<w c="abstract" e="टुकड़ा" i="8" m="bit" t="n" />
+<w c="abstract" e="चोट" i="9" m="blow" t="n" />
+<w c="abstract" e="चुप्पी" i="10" m="break" t="n" />
+<w c="abstract" e="अभियान" i="11" m="campaign" t="n" />
+<w c="abstract" e="कानूनी मामला" i="12" m="case" t="n" />
+<w c="abstract" e="मौका" i="13" m="chance" t="n" />
+<w c="abstract" e="परिवर्तन होने की प्रक्रिया" i="14" m="change" t="n" />
+<w c="abstract" e="चुनने का अधिकार" i="15" m="choice" t="n" />
+<w c="abstract" e="हालत" i="16" m="condition" t="n" />
+<w c="abstract" e="कनेक्टर" i="17" m="connection" t="n" />
+<w c="abstract" e="दरार" i="18" m="crack" t="n" />
+<w c="abstract" e="कटाव" i="19" m="cut" t="n" />
+<w c="abstract" e="हानि" i="20" m="damage" t="n" />
+<w c="abstract" e="खतरा" i="21" m="danger" t="n" />
+<w c="abstract" e="सजावट" i="22" m="decoration" t="n" />
+<w c="abstract" e="तोड़-फोड़" i="23" m="destruction" t="n" />
+<w c="abstract" e="नियंत्रण" i="24" m="dominance" t="n" />
+<w c="abstract" e="बूंद" i="25" m="drop" t="n" />
+<w c="abstract" e="कर्त्तव्य" i="26" m="duty" t="n" />
+<w c="abstract" e="कोशिश" i="27" m="effort" t="n" />
+<w c="abstract" e="कब्जा" i="28" m="fall" t="n" />
+<w c="abstract" e="विशिष्ट लक्षण" i="29" m="feature" t="n" />
+<w c="abstract" e="युद्ध" i="30" m="fight" t="n" />
+<w c="abstract" e="आगे" i="31" m="front" t="n" />
+<w c="abstract" e="प्रहार" i="32" m="hit" t="n" />
+<w c="abstract" e="छेद" i="33" m="hole" t="n" />
+<w c="abstract" e="बढ़ती" i="34" m="increase" t="n" />
+<w c="abstract" e="वृद्धि" i="35" m="increase" t="n" />
+<w c="abstract" e="अंतरजाल" i="36" m="internet" t="n" />
+<w c="abstract" e="कूद" i="37" m="jump" t="n" />
+<w c="abstract" e="लात" i="38" m="kick" t="n" />
+<w c="abstract" e="शब्द रूप" i="39" m="kind" t="n" />
+<w c="abstract" e="गांठ" i="40" m="knot" t="n" />
+<w c="abstract" e="सूची" i="41" m="list" t="n" />
+<w c="abstract" e="अधिकतर" i="42" m="majority" t="n" />
+<w c="abstract" e="विशेष प्रकार की आकृति प्रदान करना" i="43" m="manner" t="n" />
+<w c="abstract" e="द्रव्य" i="44" m="matter" t="n" />
+<w c="abstract" e="मन" i="45" m="mind" t="n" />
+<w c="abstract" e="संचालन" i="46" m="operation" t="n" />
+<w c="abstract" e="विरोधी" i="47" m="opposite" t="n" />
+<w c="abstract" e="अचानक बौछार" i="48" m="outburst" t="n" />
+<w c="abstract" e="भाग" i="49" m="part" t="n" />
+<w c="abstract" e="कोई एक एकल चीज या उदाहरण" i="50" m="piece" t="n" />
+<w c="abstract" e="स्थान" i="51" m="place" t="n" />
+<w c="abstract" e="स्थिति" i="52" m="position" t="n" />
+<w c="abstract" e="शक्ति" i="53" m="power" t="n" />
+<w c="abstract" e="व्यवहार" i="54" m="practice" t="n" />
+<w c="abstract" e="काम" i="55" m="project" t="n" />
+<w c="abstract" e="गुण" i="56" m="quality" t="n" />
+<w c="abstract" e="शांति" i="57" m="quiet" t="n" />
+<w c="abstract" e="उत्तरदायित्व" i="58" m="responsibility" t="n" />
+<w c="abstract" e="आराम" i="59" m="rest" t="n" />
+<w c="abstract" e="वापसी" i="60" m="return" t="n" />
+<w c="abstract" e="चढ़ाई" i="61" m="rise" t="n" />
+<w c="abstract" e="खतरा" i="62" m="risk" t="n" />
+<w c="abstract" e="समूह" i="63" m="set" t="n" />
+<w c="abstract" e="सदमा" i="64" m="shock" t="n" />
+<w c="abstract" e="शांति" i="65" m="silence" t="n" />
+<w c="abstract" e="स्थिति" i="66" m="situation" t="n" />
+<w c="abstract" e="अवस्था" i="67" m="state" t="n" />
+<w c="abstract" e="कदम" i="68" m="step" t="n" />
+<w c="abstract" e="स्वाद" i="69" m="taste" t="n" />
+<w c="abstract" e="वस्तू (vastū); चीज़ (chīz)" i="70" m="thing" t="n" />
+<w c="abstract" e="दूरी" i="71" m="top" t="n" />
+<w c="abstract" e="स्पर्श" i="72" m="touch" t="n" />
+<w c="abstract" e="बर्ताव" i="73" m="treatment" t="n" />
+<w c="abstract" e="ट्रिक" i="74" m="trick" t="n" />
+<w c="abstract" e="प्रकार" i="75" m="type" t="n" />
+<w c="abstract" e="प्रयोग" i="76" m="use" t="n" />
+<w c="abstract" e="कमजोरी" i="77" m="wear" t="n" />
+<w c="abstract" e="सम्पूर्ण" i="78" m="whole" t="n" />
+<w c="abstract" e="आवश्यकता" i="79" m="wish" t="n" />
+<w c="adjectives" e="पहले बीता हुआ" i="80" m="ago" t="adj" />
+<w c="adjectives" e="तमाम" i="81" m="all" t="adj" />
+<w c="adjectives" e="स्वचालित" i="82" m="automatic" t="adj" />
+<w c="adjectives" e="उपलब्ध" i="83" m="available" t="adj" />
+<w c="adjectives" e="कड़ुवा" i="84" m="bitter" t="adj" />
+<w c="adjectives" e="उबाऊ" i="85" m="boring" t="adj" />
+<w c="adjectives" e="अत्यन्त महत्वपूर्ण" i="86" m="central" t="adj" />
+<w c="adjectives" e="निश्चित" i="87" m="certain" t="adj" />
+<w c="adjectives" e="सस्ता" i="88" m="cheap" t="adj" />
+<w c="adjectives" e="रासायनिक" i="89" m="chemical" t="adj" />
+<w c="adjectives" e="बादल" i="90" m="clear" t="adj" />
+<w c="adjectives" e="बन्द" i="91" m="closed" t="adj" />
+<w c="adjectives" e="सामान्य" i="92" m="common" t="adj" />
+<w c="adjectives" e="पूरा" i="93" m="complete" t="adj" />
+<w c="adjectives" e="निर्दयी" i="94" m="cruel" t="adj" />
+<w c="adjectives" e="खतरनाक" i="95" m="dangerous" t="adj" />
+<w c="adjectives" e="सुकुमार" i="96" m="delicate" t="adj" />
+<w c="adjectives" e="अलग" i="97" m="different" t="adj" />
+<w c="adjectives" e="असदृश" i="98" m="different" t="adj" />
+<w c="adjectives" e="नीचे" i="99" m="down" t="adj" />
+<w c="adjectives" e="सूखा" i="100" m="dry" t="adj" />
+<w c="adjectives" e="हर" i="101" m="each" t="adj" />
+<w c="adjectives" e="आरंभ का" i="102" m="early" t="adj" />
+<w c="adjectives" e="आसान" i="103" m="easy" t="adj" />
+<w c="adjectives" e="किसी देश के आर्थिक भविष्य से संबंधित" i="104" m="economic" t="adj" />
+<w c="adjectives" e="बिजली का" i="105" m="electric" t="adj" />
+<w c="adjectives" e="समान" i="106" m="equal" t="adj" />
+<w c="adjectives" e="दो से पूरी तरह विभाज्य" i="107" m="even" t="adj" />
+<w c="adjectives" e="प्रत्येक" i="108" m="every" t="adj" />
+<w c="adjectives" e="श्रेष्ठ" i="109" m="excellent" t="adj" />
+<w c="adjectives" e="झूठा" i="110" m="fake" t="adj" />
+<w c="adjectives" e="दूर" i="111" m="far" t="adj" />
+<w c="adjectives" e="मोटा" i="112" m="fat" t="adj" />
+<w c="adjectives" e="भरपूर या बड़ा" i="113" m="fat" t="adj" />
+<w c="adjectives" e="कुछ" i="114" m="few" t="adj" />
+<w c="adjectives" e="आखिरी" i="115" m="final" t="adj" />
+<w c="adjectives" e="आर्थिक" i="116" m="financial" t="adj" />
+<w c="adjectives" e="स्थिर" i="117" m="firm" t="adj" />
+<w c="adjectives" e="गिरा देना" i="118" m="flat" t="adj" />
+<w c="adjectives" e="अनुगामी" i="119" m="following" t="adj" />
+<w c="adjectives" e="विदेशी" i="120" m="foreign" t="adj" />
+<w c="adjectives" e="भूतपूर्व" i="121" m="former" t="adj" />
+<w c="adjectives" e="उत्कृष्ट" i="122" m="fragile" t="adj" />
+<w c="adjectives" e="मुफ्त" i="123" m="free" t="adj" />
+<w c="adjectives" e="अक्सर" i="124" m="frequent" t="adj" />
+<w c="adjectives" e="ताजा" i="125" m="fresh" t="adj" />
+<w c="adjectives" e="भरा हुआ" i="126" m="full" t="adj" />
+<w c="adjectives" e="सम्पूर्ण" i="127" m="full" t="adj" />
+<w c="adjectives" e="और आगे का" i="128" m="further" t="adj" />
+<w c="adjectives" e="भविष्य में" i="129" m="future" t="adj" />
+<w c="adjectives" e="साधारण" i="130" m="general" t="adj" />
+<w c="adjectives" e="औद्योगिक" i="131" m="industrial" t="adj" />
+<w c="adjectives" e="रोचक" i="132" m="interesting" t="adj" />
+<w c="adjectives" e="अन्तर्राष्ट्रीय" i="133" m="international" t="adj" />
+<w c="adjectives" e="अन्तिम" i="134" m="last" t="adj" />
+<w c="adjectives" e="देरी" i="135" m="late" t="adj" />
+<w c="adjectives" e="कानूनी" i="136" m="legal" t="adj" />
+<w c="adjectives" e="द्रव" i="137" m="liquid" t="adj" />
+<w c="adjectives" e="स्थानीय" i="138" m="local" t="adj" />
+<w c="adjectives" e="नीचा" i="139" m="low" t="adj" />
+<w c="adjectives" e="भाग्यवान" i="140" m="lucky" t="adj" />
+<w c="adjectives" e="मुख्य" i="141" m="main" t="adj" />
+<w c="adjectives" e="बड़ा" i="142" m="major" t="adj" />
+<w c="adjectives" e="अनेक" i="143" m="many" t="adj" />
+<w c="adjectives" e="धातु जैसा" i="144" m="metal" t="adj" />
+<w c="adjectives" e="सेना" i="145" m="military" t="adj" />
+<w c="adjectives" e="आधुनिक" i="146" m="modern" t="adj" />
+<w c="adjectives" e="ज्यादा" i="147" m="more" t="adj" />
+<w c="adjectives" e="संकीर्ण" i="148" m="narrow" t="adj" />
+<w c="adjectives" e="राष्ट्रीय" i="149" m="national" t="adj" />
+<w c="adjectives" e="प्राकृतिक" i="150" m="natural" t="adj" />
+<w c="adjectives" e="आवश्यक" i="151" m="necessary" t="adj" />
+<w c="adjectives" e="निकटवर्ती" i="152" m="next" t="adj" />
+<w c="adjectives" e="सामान्य" i="153" m="normal" t="adj" />
+<w c="adjectives" e="विरुद्ध" i="154" m="opposite" t="adj" />
+<w c="adjectives" e="मूल" i="155" m="original" t="adj" />
+<w c="adjectives" e="निजी" i="156" m="own" t="adj" />
+<w c="adjectives" e="साथ-साथ" i="157" m="parallel" t="adj" />
+<w c="adjectives" e="विशेष" i="158" m="particular" t="adj" />
+<w c="adjectives" e="पिछला" i="159" m="past" t="adj" />
+<w c="adjectives" e="निजी" i="160" m="personal" t="adj" />
+<w c="adjectives" e="भौतिक" i="161" m="physical" t="adj" />
+<w c="adjectives" e="घृणित" i="162" m="poor" t="adj" />
+<w c="adjectives" e="सस्ता" i="163" m="popular" t="adj" />
+<w c="adjectives" e="संभव" i="164" m="possible" t="adj" />
+<w c="adjectives" e="उपस्थित" i="165" m="present" t="adj" />
+<w c="adjectives" e="पूर्ववर्ती" i="166" m="previous" t="adj" />
+<w c="adjectives" e="व्यक्तिगत" i="167" m="private" t="adj" />
+<w c="adjectives" e="संभव" i="168" m="probable" t="adj" />
+<w c="adjectives" e="व्यावसायिक" i="169" m="professional" t="adj" />
+<w c="adjectives" e="जघन" i="170" m="public" t="adj" />
+<w c="adjectives" e="शांत" i="171" m="quiet" t="adj" />
+<w c="adjectives" e="तैयार" i="172" m="ready" t="adj" />
+<w c="adjectives" e="हाल का" i="173" m="recent" t="adj" />
+<w c="adjectives" e="स्थायी" i="174" m="regular" t="adj" />
+<w c="adjectives" e="उत्तरदायी" i="175" m="responsible" t="adj" />
+<w c="adjectives" e="कड़ा" i="176" m="rigid" t="adj" />
+<w c="adjectives" e="अशान्त" i="177" m="rough" t="adj" />
+<w c="adjectives" e="गोल" i="178" m="round" t="adj" />
+<w c="adjectives" e="सही-सलामत" i="179" m="safe" t="adj" />
+<w c="adjectives" e="समान रूप से" i="180" m="same" t="adj" />
+<w c="adjectives" e="सेकण्ड" i="181" m="second" t="adj" />
+<w c="adjectives" e="छिपा हुआ" i="182" m="secret" t="adj" />
+<w c="adjectives" e="अलग" i="183" m="separate" t="adj" />
+<w c="adjectives" e="विचारशील" i="184" m="serious" t="adj" />
+<w c="adjectives" e="निश्चित" i="185" m="set" t="adj" />
+<w c="adjectives" e="अनेक" i="186" m="several" t="adj" />
+<w c="adjectives" e="छोटा" i="187" m="short" t="adj" />
+<w c="adjectives" e="शांत" i="188" m="silent" t="adj" />
+<w c="adjectives" e="आसान" i="189" m="simple" t="adj" />
+<w c="adjectives" e="एक" i="190" m="single" t="adj" />
+<w c="adjectives" e="छोटा" i="191" m="small" t="adj" />
+<w c="adjectives" e="चिकना" i="192" m="smooth" t="adj" />
+<w c="adjectives" e="ठोस" i="193" m="solid" t="adj" />
+<w c="adjectives" e="छितरा" i="194" m="sparse" t="adj" />
+<w c="adjectives" e="विशेष" i="195" m="special" t="adj" />
+<w c="adjectives" e="विशेष" i="196" m="specific" t="adj" />
+<w c="adjectives" e="वर्गाकार" i="197" m="square" t="adj" />
+<w c="adjectives" e="सामान्य" i="198" m="standard" t="adj" />
+<w c="adjectives" e="चिपचिपा" i="199" m="sticky" t="adj" />
+<w c="adjectives" e="सीधा" i="200" m="straight" t="adj" />
+<w c="adjectives" e="असामान्य" i="201" m="strange" t="adj" />
+<w c="adjectives" e="फैशनेबुल" i="202" m="stylish" t="adj" />
+<w c="adjectives" e="अचानक" i="203" m="sudden" t="adj" />
+<w c="adjectives" e="मीठा" i="204" m="sweet" t="adj" />
+<w c="adjectives" e="लम्बा" i="205" m="tall" t="adj" />
+<w c="adjectives" e="घन" i="206" m="thick" t="adj" />
+<w c="adjectives" e="पतला" i="207" m="thin" t="adj" />
+<w c="adjectives" e="मजबूत" i="208" m="tight" t="adj" />
+<w c="adjectives" e="सत्य" i="209" m="true" t="adj" />
+<w c="adjectives" e="कुरूप" i="210" m="ugly" t="adj" />
+<w c="adjectives" e="नीचे" i="211" m="under" t="adj" />
+<w c="adjectives" e="असामान्य" i="212" m="unusual" t="adj" />
+<w c="adjectives" e="सार्वजनिक" i="213" m="usual" t="adj" />
+<w c="adjectives" e="भिन्न-भिन्न" i="214" m="various" t="adj" />
+<w c="adjectives" e="गरम" i="215" m="warm" t="adj" />
+<w c="adjectives" e="गीला" i="216" m="wet" t="adj" />
+<w c="adjectives" e="पूरा" i="217" m="whole" t="adj" />
+<w c="adjectives" e="विस्तृत" i="218" m="wide" t="adj" />
+<w c="adjectives" e="दूसरा" i="219" m="another" t="adj" />
+<w c="adjectives" e="खराब" i="220" m="bad" t="adj" />
+<w c="adjectives" e="बुनियादी" i="221" m="basic" t="adj" />
+<w c="adjectives" e="सुन्दर" i="222" m="beautiful" t="adj" />
+<w c="adjectives" e="सर्वोत्तम" i="223" m="best" t="adj" />
+<w c="adjectives" e="बेहतर" i="224" m="better" t="adj" />
+<w c="adjectives" e="बड़ा" i="225" m="big" t="adj" />
+<w c="adjectives" e="स्वच्छ" i="226" m="clean" t="adj" />
+<w c="adjectives" e="ठंडा" i="227" m="cold" t="adj" />
+<w c="adjectives" e="त्रुटिहीन" i="228" m="correct" t="adj" />
+<w c="adjectives" e="अंधेरा" i="229" m="dark" t="adj" />
+<w c="adjectives" e="कठिन" i="230" m="difficult" t="adj" />
+<w c="adjectives" e="गंदा" i="231" m="dirty" t="adj" />
+<w c="adjectives" e="तीव्र" i="232" m="fast" t="adj" />
+<w c="adjectives" e="सही" i="233" m="good" t="adj" />
+<w c="adjectives" e="बेहतर गुणवत्ता वाली चीज" i="234" m="great" t="adj" />
+<w c="adjectives" e="बहुत सुखद" i="235" m="great" t="adj" />
+<w c="adjectives" e="सुखी" i="236" m="happy" t="adj" />
+<w c="adjectives" e="स्वस्थ" i="237" m="healthy" t="adj" />
+<w c="adjectives" e="भारी" i="238" m="heavy" t="adj" />
+<w c="adjectives" e="गरम" i="239" m="hot" t="adj" />
+<w c="adjectives" e="महत्वपूर्ण" i="240" m="important" t="adj" />
+<w c="adjectives" e="वाम पंथ" i="241" m="left" t="adj" />
+<w c="adjectives" e="हलका" i="242" m="light" t="adj" />
+<w c="adjectives" e="निकट" i="243" m="near" t="adj" />
+<w c="adjectives" e="नया" i="244" m="new" t="adj" />
+<w c="adjectives" e="अच्छा" i="245" m="nice" t="adj" />
+<w c="adjectives" e="यथार्थ" i="246" m="real" t="adj" />
+<w c="adjectives" e="धीमा" i="247" m="slow" t="adj" />
+<w c="adjectives" e="नरम" i="248" m="soft" t="adj" />
+<w c="adjectives" e="तेज" i="249" m="strong" t="adj" />
+<w c="adjectives" e="कमजोर" i="250" m="weak" t="adj" />
+<w c="adjectives" e="अशुद्ध" i="251" m="wrong" t="adj" />
+<w c="adjective" e="समर्थ" i="252" m="able" t="adj" />
+<w c="adjective" e="जीवित" i="253" m="alive" t="adj" />
+<w c="adjective" e="अकेला" i="254" m="alone" t="adj" />
+<w c="adjective" e="गुस्सा करना या जताना" i="255" m="angry" t="adj" />
+<w c="adjective" e="सचेत" i="256" m="awake" t="adj" />
+<w c="adjective" e="मृत" i="257" m="dead" t="adj" />
+<w c="adjective" e="स्वतंत्र" i="258" m="free" t="adj" />
+<w c="adjective" e="स्नेहशील" i="259" m="friendly" t="adj" />
+<w c="adjective" e="मानवीय" i="260" m="human" t="adj" />
+<w c="adjective" e="भूखा" i="261" m="hungry" t="adj" />
+<w c="adjective" e="अस्वस्थ" i="262" m="ill" t="adj" />
+<w c="adjective" e="अधीर" i="263" m="impatient" t="adj" />
+<w c="adjective" e="बुद्धिमान" i="264" m="intelligent" t="adj" />
+<w c="adjective" e="दयालु" i="265" m="kind" t="adj" />
+<w c="adjective" e="नर" i="266" m="male" t="adj" />
+<w c="adjective" e="नर" i="267" m="male" t="adj" />
+<w c="adjective" e="विवाहित" i="268" m="married" t="adj" />
+<w c="adjective" e="साधन" i="269" m="mean" t="adj" />
+<w c="adjective" e="आयुर्विज्ञान संबन्धी" i="270" m="medical" t="adj" />
+<w c="adjective" e="पुराना" i="271" m="old" t="adj" />
+<w c="adjective" e="धैर्यवान" i="272" m="patient" t="adj" />
+<w c="adjective" e="गरीब (garib); दीन (deen)" i="273" m="poor" t="adj" />
+<w c="adjective" e="विशिष्ट" i="274" m="private" t="adj" />
+<w c="adjective" e="सम्पन्न" i="275" m="rich" t="adj" />
+<w c="adjective" e="वैभवपूर्ण" i="276" m="royal" t="adj" />
+<w c="adjective" e="उदास" i="277" m="sad" t="adj" />
+<w c="adjective" e="समझदार" i="278" m="sharp" t="adj" />
+<w c="adjective" e="सच्चा" i="279" m="sincere" t="adj" />
+<w c="adjective" e="अविवाहित" i="280" m="single" t="adj" />
+<w c="adjective" e="माहिर" i="281" m="skilful" t="adj" />
+<w c="adjective" e="मूर्ख" i="282" m="stupid" t="adj" />
+<w c="adjective" e="प्यासा" i="283" m="thirsty" t="adj" />
+<w c="adjective" e="थका हुआ" i="284" m="tired" t="adj" />
+<w c="adjective" e="हिंसात्मक" i="285" m="violent" t="adj" />
+<w c="adjective" e="अक्लमंद" i="286" m="wise" t="adj" />
+<w c="adjective" e="युवक" i="287" m="young" t="adj" />
+<w c="adverb" e="इधर-उधर" i="288" m="about" t="adv" />
+<w c="adverb" e="ऊपर" i="289" m="above" t="adv" />
+<w c="adverb" e="फिर से" i="290" m="again" t="adv" />
+<w c="adverb" e="लगभग" i="291" m="almost" t="adv" />
+<w c="adverb" e="समानान्तर" i="292" m="along" t="adv" />
+<w c="adverb" e="पहले से" i="293" m="already" t="adv" />
+<w c="adverb" e="हमेशा" i="294" m="always" t="adv" />
+<w c="adverb" e="तकरीबन" i="295" m="approximately" t="adv" />
+<w c="adverb" e="के पीछे" i="296" m="behind" t="adv" />
+<w c="adverb" e="के बीच" i="297" m="between" t="adv" />
+<w c="adverb" e="सीधे" i="298" m="directly" t="adv" />
+<w c="adverb" e="प्रारंभ में" i="299" m="early" t="adv" />
+<w c="adverb" e="दो में से कोई एक" i="300" m="either" t="adv" />
+<w c="adverb" e="पर्याप्त" i="301" m="enough" t="adv" />
+<w c="adverb" e="जैसे" i="302" m="equally" t="adv" />
+<w c="adverb" e="ठीक-ठीक" i="303" m="exactly" t="adv" />
+<w c="adverb" e="अंत में" i="304" m="finally" t="adv" />
+<w c="adverb" e="आरम्भ में" i="305" m="first" t="adv" />
+<w c="adverb" e="इस समय" i="306" m="here" t="adv" />
+<w c="adverb" e="इस स्थान पर" i="307" m="here" t="adv" />
+<w c="adverb" e="फिर भी" i="308" m="however" t="adv" />
+<w c="adverb" e="सीधे" i="309" m="immediately" t="adv" />
+<w c="adverb" e="में" i="310" m="in" t="adv" />
+<w c="adverb" e="सचमुच" i="311" m="indeed" t="adv" />
+<w c="adverb" e="अंदर की ओर" i="312" m="inside" t="adv" />
+<w c="adverb" e="के बदले में" i="313" m="instead" t="adv" />
+<w c="adverb" e="देर रात" i="314" m="late" t="adv" />
+<w c="adverb" e="कम से कम मात्रा में" i="315" m="least" t="adv" />
+<w c="adverb" e="छोटा" i="316" m="little" t="adv" />
+<w c="adverb" e="नहीं" i="317" m="not" t="adv" />
+<w c="adverb" e="अभी" i="318" m="now" t="adv" />
+<w c="adverb" e="स्पष्ट रूप से" i="319" m="obviously" t="adv" />
+<w c="adverb" e="एक बार" i="320" m="once" t="adv" />
+<w c="adverb" e="बाहर" i="321" m="outside" t="adv" />
+<w c="adverb" e="विशेष रूप से" i="322" m="particularly" t="adv" />
+<w c="adverb" e="शायद" i="323" m="possibly" t="adv" />
+<w c="adverb" e="संभवत" i="324" m="probably" t="adv" />
+<w c="adverb" e="फुर्ती से" i="325" m="quickly" t="adv" />
+<w c="adverb" e="वास्तव में" i="326" m="really" t="adv" />
+<w c="adverb" e="सचमुच" i="327" m="really" t="adv" />
+<w c="adverb" e="हाल में" i="328" m="recently" t="adv" />
+<w c="adverb" e="केवल" i="329" m="simply" t="adv" />
+<w c="adverb" e="धीरे-धीरे" i="330" m="slowly" t="adv" />
+<w c="adverb" e="वैसा" i="331" m="so" t="adv" />
+<w c="adverb" e="अक्सर" i="332" m="sometimes" t="adv" />
+<w c="adverb" e="शीघ्रता से" i="333" m="soon" t="adv" />
+<w c="adverb" e="अभी तक" i="334" m="still" t="adv" />
+<w c="adverb" e="ऐसा" i="335" m="such" t="adv" />
+<w c="adverb" e="अचानक (achānak)" i="336" m="suddenly" t="adv" />
+<w c="adverb" e="निश्चित रूप से" i="337" m="surely" t="adv" />
+<w c="adverb" e="तब" i="338" m="then" t="adv" />
+<w c="adverb" e="इसलिए" i="339" m="therefore" t="adv" />
+<w c="adverb" e="आज" i="340" m="today" t="adv" />
+<w c="adverb" e="एक साथ" i="341" m="together" t="adv" />
+<w c="adverb" e="कल आने वाला" i="342" m="tomorrow" t="adv" />
+<w c="adverb" e="आज की रात" i="343" m="tonight" t="adv" />
+<w c="adverb" e="भी" i="344" m="too" t="adv" />
+<w c="adverb" e="लम्ब रूम में" i="345" m="usually" t="adv" />
+<w c="adverb" e="यथार्थ में" i="346" m="very" t="adv" />
+<w c="adverb" e="सही" i="347" m="well" t="adv" />
+<w c="adverb" e="क्यों" i="348" m="why" t="adv" />
+<w c="anatomy" e="बांह" i="349" m="arm" t="noun" />
+<w c="anatomy" e="पीठ" i="350" m="back" t="noun" />
+<w c="anatomy" e="चोंच" i="351" m="beak" t="noun" />
+<w c="anatomy" e="रक्त" i="352" m="blood" t="noun" />
+<w c="anatomy" e="शरीर" i="353" m="body" t="noun" />
+<w c="anatomy" e="हड्डी" i="354" m="bone" t="noun" />
+<w c="anatomy" e="दिमाग" i="355" m="brain" t="noun" />
+<w c="anatomy" e="सांस" i="356" m="breath" t="noun" />
+<w c="anatomy" e="कोशिका" i="357" m="cell" t="noun" />
+<w c="anatomy" e="वक्ष" i="358" m="chest" t="noun" />
+<w c="anatomy" e="छाती" i="359" m="chest" t="noun" />
+<w c="anatomy" e="ठुड्डी" i="360" m="chin" t="noun" />
+<w c="anatomy" e="कान" i="361" m="ear" t="noun" />
+<w c="anatomy" e="आंख" i="362" m="eye" t="noun" />
+<w c="anatomy" e="मुख" i="363" m="face" t="noun" />
+<w c="anatomy" e="उंगली" i="364" m="finger" t="noun" />
+<w c="anatomy" e="जीन" i="365" m="gene" t="noun" />
+<w c="anatomy" e="बाल" i="366" m="hair" t="noun" />
+<w c="anatomy" e="बाल" i="367" m="hair" t="noun" />
+<w c="anatomy" e="हाथ" i="368" m="hand" t="noun" />
+<w c="anatomy" e="सिर" i="369" m="head" t="noun" />
+<w c="anatomy" e="हृदय" i="370" m="heart" t="noun" />
+<w c="anatomy" e="घुटना" i="371" m="knee" t="noun" />
+<w c="anatomy" e="टांग" i="372" m="leg" t="noun" />
+<w c="anatomy" e="होंठ" i="373" m="lip" t="noun" />
+<w c="anatomy" e="मुंह" i="374" m="mouth" t="noun" />
+<w c="anatomy" e="पेशी" i="375" m="muscle" t="noun" />
+<w c="anatomy" e="नाखून" i="376" m="nail" t="noun" />
+<w c="anatomy" e="गरदन" i="377" m="neck" t="noun" />
+<w c="anatomy" e="नस" i="378" m="nerve" t="noun" />
+<w c="anatomy" e="नाक" i="379" m="nose" t="noun" />
+<w c="anatomy" e="आमाशय" i="380" m="stomach" t="noun" />
+<w c="anatomy" e="पिछला हिस्सा" i="381" m="tail" t="noun" />
+<w c="anatomy" e="गला" i="382" m="throat" t="noun" />
+<w c="anatomy" e="अंगूठा" i="383" m="thumb" t="noun" />
+<w c="anatomy" e="जीभ" i="384" m="tongue" t="noun" />
+<w c="anatomy" e="दांत" i="385" m="tooth" t="noun" />
+<w c="anatomy" e="पंख" i="386" m="wing" t="noun" />
+<w c="animals" e="चींटी" i="387" m="ant" t="noun" />
+<w c="animals" e="भालू" i="388" m="bear" t="noun" />
+<w c="animals" e="मधुमक्खी" i="389" m="bee" t="noun" />
+<w c="animals" e="चिड़िया" i="390" m="bird" t="noun" />
+<w c="animals" e="बिल्ली" i="391" m="cat" t="noun" />
+<w c="animals" e="गाय" i="392" m="cow" t="noun" />
+<w c="animals" e="कुत्ता" i="393" m="dog" t="noun" />
+<w c="animals" e="हाथी" i="394" m="elephant" t="noun" />
+<w c="animals" e="मछली" i="395" m="fish" t="noun" />
+<w c="animals" e="उड़ना" i="396" m="fly" t="noun" />
+<w c="animals" e="बकरा" i="397" m="goat" t="noun" />
+<w c="animals" e="अश्व" i="398" m="horse" t="noun" />
+<w c="animals" e="कीड़ा" i="399" m="insect" t="noun" />
+<w c="animals" e="शेर" i="400" m="lion" t="noun" />
+<w c="animals" e="बंदर" i="401" m="monkey" t="noun" />
+<w c="animals" e="सुअर" i="402" m="pig" t="noun" />
+<w c="animals" e="भेड़" i="403" m="sheep" t="noun" />
+<w c="animals" e="सर्प" i="404" m="snake" t="noun" />
+<w c="art" e="कला" i="405" m="art" t="n" />
+<w c="art" e="संगीत सभा" i="406" m="concert" t="n" />
+<w c="art" e="भिन्नता" i="407" m="diversity" t="n" />
+<w c="art" e="मनोरंजन" i="408" m="entertainment" t="n" />
+<w c="art" e="लोकप्रिय" i="409" m="hit" t="n" />
+<w c="art" e="छवि" i="410" m="image" t="n" />
+<w c="art" e="झिल्ली" i="411" m="movie" t="n" />
+<w c="art" e="संगीत" i="412" m="music" t="n" />
+<w c="art" e="स्वर" i="413" m="note" t="n" />
+<w c="art" e="वादक समूह" i="414" m="orchestra" t="n" />
+<w c="art" e="रंग" i="415" m="paint" t="n" />
+<w c="art" e="चित्र" i="416" m="painting" t="n" />
+<w c="art" e="प्रतिबिंब" i="417" m="picture" t="n" />
+<w c="art" e="कविता" i="418" m="poem" t="n" />
+<w c="art" e="कविता" i="419" m="poetry" t="n" />
+<w c="art" e="धड़कन" i="420" m="rhythm" t="n" />
+<w c="art" e="गाना" i="421" m="song" t="n" />
+<w c="art" e="मंच" i="422" m="stage" t="n" />
+<w c="art" e="ढंग" i="423" m="style" t="n" />
+<w c="art" e="फैशन" i="424" m="vogue" t="n" />
+<w c="article" e="'not used''" i="425" m="the" t="" />
+<w c="business" e="खाता" i="426" m="account" t="n" />
+<w c="business" e="बढ़त" i="427" m="advantage" t="n" />
+<w c="business" e="विज्ञापन" i="428" m="advertisement" t="n" />
+<w c="business" e="सलाह" i="429" m="advice" t="n" />
+<w c="business" e="क़रार" i="430" m="agreement" t="n" />
+<w c="business" e="ध्यान" i="431" m="attention" t="n" />
+<w c="business" e="अधिकार" i="432" m="authority" t="n" />
+<w c="business" e="बीजक" i="433" m="banknote" t="n" />
+<w c="business" e="समझौता" i="434" m="bargain" t="n" />
+<w c="business" e="व्यापार" i="435" m="business" t="n" />
+<w c="business" e="पूंजी" i="436" m="capital" t="n" />
+<w c="business" e="छुट्टा पैसा" i="437" m="change" t="n" />
+<w c="business" e="चेक" i="438" m="check" t="n" />
+<w c="business" e="समिति" i="439" m="committee" t="n" />
+<w c="business" e="कम्पनी" i="440" m="company" t="n" />
+<w c="business" e="प्रतियोगिता में भाग लेना" i="441" m="competition" t="n" />
+<w c="business" e="आरोप" i="442" m="complaint" t="n" />
+<w c="business" e="प्रतियोगिता" i="443" m="contest" t="n" />
+<w c="business" e="मोल" i="444" m="cost" t="n" />
+<w c="business" e="परिषद" i="445" m="council" t="n" />
+<w c="business" e="सबक" i="446" m="course" t="n" />
+<w c="business" e="ग्राहक" i="447" m="customer" t="n" />
+<w c="business" e="विभाग" i="448" m="department" t="n" />
+<w c="business" e="रूप" i="449" m="design" t="n" />
+<w c="business" e="कठिनाई" i="450" m="difficulty" t="n" />
+<w c="business" e="दिशा" i="451" m="direction" t="n" />
+<w c="business" e="प्रबंधक" i="452" m="director" t="n" />
+<w c="business" e="अर्थव्यवस्था" i="453" m="economy" t="n" />
+<w c="business" e="पर्यावरण" i="454" m="environment" t="n" />
+<w c="business" e="अनुभव" i="455" m="experience" t="n" />
+<w c="business" e="व्यापारिक कंपनी" i="456" m="firm" t="n" />
+<w c="business" e="प्रारूप" i="457" m="form" t="n" />
+<w c="business" e="झुण्ड" i="458" m="group" t="n" />
+<w c="business" e="मदद" i="459" m="help" t="n" />
+<w c="business" e="अवकाश के दिन" i="460" m="holiday" t="n" />
+<w c="business" e="आय" i="461" m="income" t="n" />
+<w c="business" e="व्यवसाय" i="462" m="industry" t="n" />
+<w c="business" e="बीमा" i="463" m="insurance" t="n" />
+<w c="business" e="हित" i="464" m="interest" t="n" />
+<w c="business" e="विवरण" i="465" m="invoice" t="n" />
+<w c="business" e="काम" i="466" m="job" t="n" />
+<w c="business" e="कानून" i="467" m="law" t="n" />
+<w c="business" e="छुट्टी" i="468" m="leave" t="n" />
+<w c="business" e="अभाव" i="469" m="loss" t="n" />
+<w c="business" e="निर्देशन" i="470" m="management" t="n" />
+<w c="business" e="मार्कर" i="471" m="marker" t="n" />
+<w c="business" e="बाज़ार" i="472" m="market" t="n" />
+<w c="business" e="सामग्री" i="473" m="material" t="n" />
+<w c="business" e="पैसा" i="474" m="mean" t="n" />
+<w c="business" e="मीटिंग" i="475" m="meeting" t="n" />
+<w c="business" e="मुद्रा" i="476" m="money" t="n" />
+<w c="business" e="व्यवसाय" i="477" m="occupation" t="n" />
+<w c="business" e="प्रस्ताव" i="478" m="offer" t="n" />
+<w c="business" e="अफ़सर" i="479" m="officer" t="n" />
+<w c="business" e="प्रक्रिया" i="480" m="operation" t="n" />
+<w c="business" e="स्वामी" i="481" m="owner" t="n" />
+<w c="business" e="पार्सल" i="482" m="package" t="n" />
+<w c="business" e="अंग" i="483" m="part" t="n" />
+<w c="business" e="शोधन" i="484" m="payment" t="n" />
+<w c="business" e="योजना" i="485" m="plan" t="n" />
+<w c="business" e="मूल्य" i="486" m="price" t="n" />
+<w c="business" e="समस्या" i="487" m="problem" t="n" />
+<w c="business" e="लाभ" i="488" m="profit" t="n" />
+<w c="business" e="सम्पत्ति" i="489" m="property" t="n" />
+<w c="business" e="दर" i="490" m="rate" t="n" />
+<w c="business" e="बाकी" i="491" m="rest" t="n" />
+<w c="business" e="अधिकार" i="492" m="right" t="n" />
+<w c="business" e="बिक्री" i="493" m="sale" t="n" />
+<w c="business" e="कार्य सेवा" i="494" m="service" t="n" />
+<w c="business" e="साझेदार" i="495" m="share" t="n" />
+<w c="business" e="दुकान" i="496" m="shop" t="n" />
+<w c="business" e="कौशल" i="497" m="skill" t="n" />
+<w c="business" e="स्टाफ" i="498" m="staff" t="n" />
+<w c="business" e="आधार" i="499" m="support" t="n" />
+<w c="business" e="सारणी" i="500" m="table" t="n" />
+<w c="business" e="कर" i="501" m="tax" t="n" />
+<w c="business" e="टीम" i="502" m="team" t="n" />
+<w c="business" e="व्यापार" i="503" m="trade" t="n" />
+<w c="business" e="मूल्य" i="504" m="value" t="n" />
+<w c="business" e="पारितोषिक" i="505" m="wages" t="n" />
+<w c="business" e="काम" i="506" m="work" t="n" />
+<w c="business" e="मजदूर" i="507" m="worker" t="n" />
+<w c="city" e="हवाई अड्डा" i="508" m="airport" t="n" />
+<w c="city" e="बैंक" i="509" m="bank" t="n" />
+<w c="city" e="सेतु" i="510" m="bridge" t="n" />
+<w c="city" e="निर्माण" i="511" m="building" t="n" />
+<w c="city" e="राजधानी" i="512" m="capital" t="n" />
+<w c="city" e="दुर्ग" i="513" m="castle" t="n" />
+<w c="city" e="गिरजाघर" i="514" m="church" t="n" />
+<w c="city" e="चलचित्र" i="515" m="cinema" t="n" />
+<w c="city" e="शहर" i="516" m="city" t="n" />
+<w c="city" e="कारखाना" i="517" m="factory" t="n" />
+<w c="city" e="फ्लैट" i="518" m="flat" t="n" />
+<w c="city" e="चिकित्सालय" i="519" m="hospital" t="n" />
+<w c="city" e="होटल" i="520" m="hotel" t="n" />
+<w c="city" e="लायब्रेरी" i="521" m="library" t="n" />
+<w c="city" e="संग्रहालय" i="522" m="museum" t="n" />
+<w c="city" e="उद्यान" i="523" m="park" t="n" />
+<w c="city" e="कारागार" i="524" m="prison" t="n" />
+<w c="city" e="रेस्त्रां" i="525" m="restaurant" t="n" />
+<w c="city" e="सड़क" i="526" m="road" t="n" />
+<w c="city" e="विद्यालय" i="527" m="school" t="n" />
+<w c="city" e="केन्द्र" i="528" m="station" t="n" />
+<w c="city" e="स्ट्रीट का संक्षेप" i="529" m="street" t="n" />
+<w c="city" e="निर्माण" i="530" m="structure" t="n" />
+<w c="city" e="सुरंग-रेल" i="531" m="subway" t="n" />
+<w c="city" e="रंगशाला" i="532" m="theater" t="n" />
+<w c="city" e="नगर" i="533" m="town" t="n" />
+<w c="city" e="विश्वविद्यालय" i="534" m="university" t="n" />
+<w c="clothes" e="थैला" i="535" m="bag" t="n" />
+<w c="clothes" e="जूता" i="536" m="boot" t="n" />
+<w c="clothes" e="कपड़ा" i="537" m="cloth" t="n" />
+<w c="clothes" e="वस्त्र" i="538" m="clothing" t="n" />
+<w c="clothes" e="कोट" i="539" m="coat" t="n" />
+<w c="clothes" e="कालर" i="540" m="collar" t="n" />
+<w c="clothes" e="टोपी" i="541" m="hat" t="n" />
+<w c="clothes" e="जाकेट" i="542" m="jacket" t="n" />
+<w c="clothes" e="मणि" i="543" m="jewel" t="n" />
+<w c="clothes" e="अंगूठी" i="544" m="ring" t="n" />
+<w c="clothes" e="कमीज" i="545" m="shirt" t="n" />
+<w c="clothes" e="जूता" i="546" m="shoe" t="n" />
+<w c="clothes" e="घाघरा" i="547" m="skirt" t="n" />
+<w c="clothes" e="मोजा" i="548" m="sock" t="n" />
+<w c="clothes" e="सूटकेस" i="549" m="suitcase" t="n" />
+<w c="clothes" e="टाई" i="550" m="tie" t="n" />
+<w c="colors" e="बिना दूध का" i="551" m="black" t="adj" />
+<w c="colors" e="भूरा" i="552" m="brown" t="adj" />
+<w c="colors" e="धूसर" i="553" m="gray" t="adj" />
+<w c="colors" e="कच्चा" i="554" m="green" t="adj" />
+<w c="colors" e="नारंगी" i="555" m="orange" t="adj" />
+<w c="colors" e="गुलाबी रंग का" i="556" m="pink" t="adj" />
+<w c="colors" e="बैगनी" i="557" m="violet" t="adj" />
+<w c="colors" e="सफेद" i="558" m="white" t="adj" />
+<w c="colors" e="पीला" i="559" m="yellow" t="adj" />
+<w c="communication" e="घोषणा" i="560" m="announcement" t="n" />
+<w c="communication" e="उत्तर" i="561" m="answer" t="n" />
+<w c="communication" e="अनुमोदन" i="562" m="approval" t="n" />
+<w c="communication" e="तकरार" i="563" m="argument" t="n" />
+<w c="communication" e="दलील" i="564" m="argument" t="n" />
+<w c="communication" e="किताब" i="565" m="book" t="n" />
+<w c="communication" e="फोन करने की क्रिया" i="566" m="call" t="n" />
+<w c="communication" e="चिह्न" i="567" m="character" t="n" />
+<w c="communication" e="पुकार" i="568" m="cry" t="n" />
+<w c="communication" e="डेटा" i="569" m="data" t="n" />
+<w c="communication" e="निर्णय" i="570" m="decision" t="n" />
+<w c="communication" e="शब्दकोश" i="571" m="dictionary" t="n" />
+<w c="communication" e="चर्चा" i="572" m="discussion" t="n" />
+<w c="communication" e="संदिग्धता" i="573" m="doubt" t="n" />
+<w c="communication" e="अनुभव" i="574" m="experience" t="n" />
+<w c="communication" e="दृष्टि" i="575" m="expression" t="n" />
+<w c="communication" e="संवेदनशीलता" i="576" m="feeling" t="n" />
+<w c="communication" e="विचार" i="577" m="idea" t="n" />
+<w c="communication" e="सूचना" i="578" m="information" t="n" />
+<w c="communication" e="रस" i="579" m="interest" t="n" />
+<w c="communication" e="भेंट" i="580" m="interview" t="n" />
+<w c="communication" e="भाषा" i="581" m="language" t="n" />
+<w c="communication" e="भाषा" i="582" m="language" t="n" />
+<w c="communication" e="अक्षर" i="583" m="letter" t="n" />
+<w c="communication" e="पत्र" i="584" m="letter" t="n" />
+<w c="communication" e="झूठ" i="585" m="lie" t="n" />
+<w c="communication" e="पत्रिका" i="586" m="magazine" t="n" />
+<w c="communication" e="डाक" i="587" m="mail" t="n" />
+<w c="communication" e="याद" i="588" m="memory" t="n" />
+<w c="communication" e="स्मृति" i="589" m="memory" t="n" />
+<w c="communication" e="गलती" i="590" m="mistake" t="n" />
+<w c="communication" e="नाम" i="591" m="name" t="n" />
+<w c="communication" e="समाचार पत्र" i="592" m="newspaper" t="n" />
+<w c="communication" e="नोट" i="593" m="note" t="n" />
+<w c="communication" e="संख्या" i="594" m="number" t="n" />
+<w c="communication" e="विचार" i="595" m="opinion" t="n" />
+<w c="communication" e="पृष्ठ" i="596" m="page" t="n" />
+<w c="communication" e="बिन्दु" i="597" m="point" t="n" />
+<w c="communication" e="उच्चारण" i="598" m="pronunciation" t="n" />
+<w c="communication" e="प्रस्ताव" i="599" m="proposal" t="n" />
+<w c="communication" e="नकार पत्र" i="600" m="protest" t="n" />
+<w c="communication" e="प्रश्न" i="601" m="question" t="n" />
+<w c="communication" e="कारण" i="602" m="reason" t="n" />
+<w c="communication" e="लोगों और देशों के बीच में संपर्क एवं संवाद" i="603" m="relation" t="n" />
+<w c="communication" e="अनुरोध" i="604" m="request" t="n" />
+<w c="communication" e="भेद" i="605" m="secret" t="n" />
+<w c="communication" e="वाक्य" i="606" m="sentence" t="n" />
+<w c="communication" e="भाषा" i="607" m="speech" t="n" />
+<w c="communication" e="वर्तनी" i="608" m="spelling" t="n" />
+<w c="communication" e="कसौटी" i="609" m="standard" t="n" />
+<w c="communication" e="(varnana)" i="610" m="statement" t="n" />
+<w c="communication" e="प्रजा" i="611" m="subject" t="n" />
+<w c="communication" e="प्रस्ताव" i="612" m="suggestion" t="n" />
+<w c="communication" e="आवाज" i="613" m="voice" t="n" />
+<w c="communication" e="शब्द" i="614" m="word" t="n" />
+<w c="communication" e="लेखन" i="615" m="writing" t="n" />
+<w c="conjunction" e="और" i="616" m="and" t="conj" />
+<w c="conjunction" e="क्योंकि" i="617" m="because" t="conj" />
+<w c="conjunction" e="क्योंकि" i="618" m="for" t="conj" />
+<w c="conjunction" e="अगर" i="619" m="if" t="conj" />
+<w c="conjunction" e="या" i="620" m="or" t="conj" />
+<w c="conjunction" e="से" i="621" m="than" t="conj" />
+<w c="conjunction" e="तक" i="622" m="until" t="conj" />
+<w c="containers" e="झोली" i="623" m="bag" t="n" />
+<w c="containers" e="डलिया" i="624" m="basket" t="n" />
+<w c="containers" e="बोतल" i="625" m="bottle" t="n" />
+<w c="containers" e="सन्दूक" i="626" m="box" t="n" />
+<w c="containers" e="प्याले के रूप देना" i="627" m="cup" t="n" />
+<w c="containers" e="पीने का बर्तन" i="628" m="glass" t="n" />
+<w c="containers" e="प्लेट" i="629" m="plate" t="n" />
+<w c="conversation" e="मुझे पता नहीं" i="630" m="I don't know" t="" />
+<w c="conversation" e="चीयर्स" i="631" m="cheers" t="" />
+<w c="conversation" e="नमस्त" i="632" m="good day" t="" />
+<w c="conversation" e="शुभ कामना" i="633" m="good luck" t="" />
+<w c="conversation" e="नमस्ते ((to one person); नमस्कार ((to several persons))" i="634" m="good morning" t="" />
+<w c="conversation" e="जन्मदिन पर हार्दिक शुभकामनाएं" i="635" m="happy birthday" t="" />
+<w c="conversation" e="स्वागत" i="636" m="hello" t="" />
+<w c="conversation" e="आप कैसे हैं" i="637" m="how are you" t="" />
+<w c="conversation" e="कैसे दियेा" i="638" m="how much is it" t="" />
+<w c="conversation" e="मेरा नाम ... है" i="639" m="my name is" t="" />
+<w c="conversation" e="नहीं" i="640" m="no" t="" />
+<w c="conversation" e="कीजिए माफ" i="641" m="sorry" t="" />
+<w c="conversation" e="हां" i="642" m="yes" t="" />
+<w c="conversation" e="(kuchh nahi)" i="643" m="you're welcome" t="" />
+<w c="countries" e="चीन" i="644" m="China" t="n" />
+<w c="countries" e="चेक गणराज्य" i="645" m="Czech Republic" t="n" />
+<w c="countries" e="फ़्रांस गणराज्य" i="646" m="France" t="n" />
+<w c="countries" e="जर्मनी संघीय गणराज्य" i="647" m="Germany" t="n" />
+<w c="countries" e="भारत गणराज्य" i="648" m="India" t="n" />
+<w c="countries" e="इटली" i="649" m="Italy" t="n" />
+<w c="countries" e="जापान" i="650" m="Japan" t="n" />
+<w c="countries" e="किंगडम ऑफ़ स्पेन" i="651" m="Spain" t="n" />
+<w c="countries" e="संयुक्त राजशाही" i="652" m="United Kingdom" t="n" />
+<w c="countries" e="संयुक्त राज्य अमेरिका" i="653" m="United States" t="n" />
+<w c="devices" e="कैमरा" i="654" m="camera" t="n" />
+<w c="devices" e="मोबाइल फोन" i="655" m="cellphone" t="n" />
+<w c="devices" e="घड़ी" i="656" m="clock" t="n" />
+<w c="devices" e="कम्प्यूटर" i="657" m="computer" t="n" />
+<w c="devices" e="लिफ्ट" i="658" m="elevator" t="n" />
+<w c="devices" e="इंजन" i="659" m="engine" t="n" />
+<w c="devices" e="उपकरण" i="660" m="instrument" t="n" />
+<w c="devices" e="मशीन" i="661" m="machine" t="n" />
+<w c="devices" e="भट्टी" i="662" m="oven" t="n" />
+<w c="devices" e="टेलीविजन" i="663" m="television" t="n" />
+<w c="devices" e="कैमरा" i="664" m="television camera" t="n" />
+<w c="devices" e="घड़ी" i="665" m="watch" t="n" />
+<w c="drinks" e="बियर" i="666" m="beer" t="n" />
+<w c="drinks" e="कॉफ़ी" i="667" m="coffee" t="n" />
+<w c="drinks" e="पानी के अतिरिक्त दूसरे पेय" i="668" m="drink" t="n" />
+<w c="drinks" e="दूध" i="669" m="milk" t="n" />
+<w c="drinks" e="चाय" i="670" m="tea" t="n" />
+<w c="drinks" e="पानी" i="671" m="water" t="n" />
+<w c="drinks" e="अंगूरी शराब" i="672" m="wine" t="n" />
+<w c="education" e="वर्ग" i="673" m="class" t="n" />
+<w c="education" e="शिक्षा" i="674" m="education" t="n" />
+<w c="education" e="शिक्षा" i="675" m="education" t="n" />
+<w c="education" e="परीक्षा" i="676" m="examination" t="n" />
+<w c="education" e="परीक्षा आदि में स्थान" i="677" m="grade" t="n" />
+<w c="education" e="जानकारी" i="678" m="knowledge" t="n" />
+<w c="education" e="छात्र" i="679" m="student" t="n" />
+<w c="education" e="शिक्षक" i="680" m="teacher" t="n" />
+<w c="education" e="प्रशिक्षण" i="681" m="training" t="n" />
+<w c="environment" e="अम्लीय वर्षा" i="682" m="acid rain" t="n" />
+<w c="environment" e="वायुमण्डल" i="683" m="atmosphere" t="n" />
+<w c="environment" e="परिस्थिति विज्ञान पौधों तथा प्राणियों का आपस में तथा परिवेश से सम्बन्ध" i="684" m="ecology" t="n" />
+<w c="environment" e="भूमंडलीय ऊष्मीकरण" i="685" m="global warming" t="n" />
+<w c="environment" e="ग्रीनहाउस प्रभाव" i="686" m="greenhouse effect" t="n" />
+<w c="environment" e="खान" i="687" m="mine" t="n" />
+<w c="environment" e="विशेष गंध युक्त आक्सीजन" i="688" m="ozone" t="n" />
+<w c="environment" e="प्रदूषण" i="689" m="pollution" t="n" />
+<w c="environment" e="कचरा" i="690" m="waste" t="n" />
+<w c="family" e="शिशु" i="691" m="baby" t="n" />
+<w c="family" e="प्रसव" i="692" m="birth" t="n" />
+<w c="family" e="जन्मदिन" i="693" m="birthday" t="n" />
+<w c="family" e="लड़का" i="694" m="boy" t="n" />
+<w c="family" e="भाई" i="695" m="brother" t="n" />
+<w c="family" e="बेटा (m); बेटी (f)&lt;!--ref Oxford Hindi-Eng Dict.--&gt;" i="696" m="child" t="n" />
+<w c="family" e="बेटी" i="697" m="daughter" t="n" />
+<w c="family" e="मृत्यु" i="698" m="death" t="n" />
+<w c="family" e="फ़ैमिली" i="699" m="family" t="n" />
+<w c="family" e="पिता" i="700" m="father" t="n" />
+<w c="family" e="मित्र" i="701" m="friend" t="n" />
+<w c="family" e="लड़की" i="702" m="girl" t="n" />
+<w c="family" e="दादा" i="703" m="grandfather" t="n" />
+<w c="family" e="मानव" i="704" m="human" t="n" />
+<w c="family" e="पति" i="705" m="husband" t="n" />
+<w c="family" e="पुरूष" i="706" m="man" t="n" />
+<w c="family" e="विवाह" i="707" m="marriage" t="n" />
+<w c="family" e="माता" i="708" m="mother" t="n" />
+<w c="family" e="पड़ोसी" i="709" m="neighbor" t="n" />
+<w c="family" e="व्यक्ति" i="710" m="person" t="n" />
+<w c="family" e="सम्बन्ध" i="711" m="relationship" t="n" />
+<w c="family" e="बहन" i="712" m="sister" t="n" />
+<w c="family" e="पुत्र" i="713" m="son" t="n" />
+<w c="family" e="शादी" i="714" m="wedding" t="n" />
+<w c="family" e="पत्नी" i="715" m="wife" t="n" />
+<w c="family" e="औरत" i="716" m="woman" t="n" />
+<w c="feelings" e="भय" i="717" m="fear" t="n" />
+<w c="feelings" e="नापसंद" i="718" m="hate" t="n" />
+<w c="feelings" e="प्रेम" i="719" m="love" t="n" />
+<w c="feelings" e="आनन्द" i="720" m="pleasure" t="n" />
+<w c="food" e="रोटी" i="721" m="bread" t="n" />
+<w c="food" e="नाश्ता" i="722" m="breakfast" t="n" />
+<w c="food" e="मक्खन" i="723" m="butter" t="n" />
+<w c="food" e="चीज" i="724" m="cheese" t="n" />
+<w c="food" e="चाकलेट" i="725" m="chocolate" t="n" />
+<w c="food" e="कप" i="726" m="cup" t="n" />
+<w c="food" e="अंडा" i="727" m="egg" t="n" />
+<w c="food" e="आहार" i="728" m="food" t="n" />
+<w c="food" e="खाने का कांटा" i="729" m="fork" t="n" />
+<w c="food" e="फल" i="730" m="fruit" t="n" />
+<w c="food" e="चाकू" i="731" m="knife" t="n" />
+<w c="food" e="दोपहर का खाना" i="732" m="lunch" t="n" />
+<w c="food" e="भोजन" i="733" m="meal" t="n" />
+<w c="food" e="मांस" i="734" m="meat" t="n" />
+<w c="food" e="तेल" i="735" m="oil" t="n" />
+<w c="food" e="सलाद" i="736" m="salad" t="n" />
+<w c="food" e="नमक" i="737" m="salt" t="n" />
+<w c="food" e="सैंडविच" i="738" m="sandwich" t="n" />
+<w c="food" e="चटनी" i="739" m="sauce" t="n" />
+<w c="food" e="शोरबा" i="740" m="soup" t="n" />
+<w c="food" e="चम्मच" i="741" m="spoon" t="n" />
+<w c="food" e="चीनी" i="742" m="sugar" t="n" />
+<w c="food" e="मीठापन" i="743" m="sweet" t="n" />
+<w c="fruits" e="सेब" i="744" m="apple" t="n" />
+<w c="fruits" e="खुबानी" i="745" m="apricot" t="n" />
+<w c="fruits" e="केला" i="746" m="banana" t="n" />
+<w c="fruits" e="शहतूत" i="747" m="blackberry" t="n" />
+<w c="fruits" e="चेरी" i="748" m="cherry" t="n" />
+<w c="fruits" e="नींबू" i="749" m="lemon" t="n" />
+<w c="fruits" e="सुपारी" i="750" m="nut" t="n" />
+<w c="fruits" e="नारंगी" i="751" m="orange" t="n" />
+<w c="fruits" e="आड़ू" i="752" m="peach" t="n" />
+<w c="fruits" e="नाशपाती" i="753" m="pear" t="n" />
+<w c="fruits" e="अनन्नास" i="754" m="pineapple" t="n" />
+<w c="fruits" e="बेर का फल" i="755" m="plum" t="n" />
+<w c="fruits" e="रसभरी" i="756" m="raspberry" t="n" />
+<w c="fruits" e="हिसालू" i="757" m="strawberry" t="n" />
+<w c="furniture" e="बिस्तर (bistar)" i="758" m="bed" t="n" />
+<w c="furniture" e="कालीन" i="759" m="carpet" t="n" />
+<w c="furniture" e="कुर्सी" i="760" m="chair" t="n" />
+<w c="furniture" e="अलमारी" i="761" m="cupboard" t="n" />
+<w c="furniture" e="पर्दा" i="762" m="curtain" t="n" />
+<w c="furniture" e="मेज" i="763" m="desk" t="n" />
+<w c="furniture" e="दराज" i="764" m="drawer" t="n" />
+<w c="furniture" e="ताक" i="765" m="shelf" t="n" />
+<w c="furniture" e="हौदी" i="766" m="sink" t="n" />
+<w c="furniture" e="मेज" i="767" m="table" t="n" />
+<w c="geography" e="पृथ्वी" i="768" m="Earth" t="n" />
+<w c="geography" e="चन्द्रमा" i="769" m="Moon" t="n" />
+<w c="geography" e="किनारा" i="770" m="bank" t="n" />
+<w c="geography" e="समुद्र तट" i="771" m="beach" t="n" />
+<w c="geography" e="पूर्व दिशा" i="772" m="east" t="n" />
+<w c="geography" e="द्वीप" i="773" m="island" t="n" />
+<w c="geography" e="झील" i="774" m="lake" t="n" />
+<w c="geography" e="जमीन" i="775" m="land" t="n" />
+<w c="geography" e="मानचित्र" i="776" m="map" t="n" />
+<w c="geography" e="उत्तर" i="777" m="north" t="n" />
+<w c="geography" e="मैदानी इलाका" i="778" m="plain" t="n" />
+<w c="geography" e="नदी" i="779" m="river" t="n" />
+<w c="geography" e="समुद्र" i="780" m="sea" t="n" />
+<w c="geography" e="दक्षिण" i="781" m="south" t="n" />
+<w c="geography" e="तारा" i="782" m="star" t="n" />
+<w c="geography" e="सूरज" i="783" m="sun" t="n" />
+<w c="geography" e="पश्चिम" i="784" m="west" t="n" />
+<w c="house" e="पता" i="785" m="address" t="n" />
+<w c="house" e="गुसलख़ाना" i="786" m="bathroom" t="n" />
+<w c="house" e="शयनकक्ष" i="787" m="bedroom" t="n" />
+<w c="house" e="ईंट" i="788" m="brick" t="n" />
+<w c="house" e="द्वार" i="789" m="door" t="n" />
+<w c="house" e="फर्श" i="790" m="floor" t="n" />
+<w c="house" e="तल्ला मंजिल" i="791" m="floor" t="n" />
+<w c="house" e="फर्नीचर" i="792" m="furniture" t="n" />
+<w c="house" e="गैरेज" i="793" m="garage" t="n" />
+<w c="house" e="उद्यान" i="794" m="garden" t="n" />
+<w c="house" e="द्वार" i="795" m="gate" t="n" />
+<w c="house" e="प्रतीक्षा-कक्ष" i="796" m="hall" t="n" />
+<w c="house" e="घर" i="797" m="home" t="n" />
+<w c="house" e="गृह" i="798" m="house" t="n" />
+<w c="house" e="रसोईघर" i="799" m="kitchen" t="n" />
+<w c="house" e="छत" i="800" m="roof" t="n" />
+<w c="house" e="कमरा" i="801" m="room" t="n" />
+<w c="house" e="फुहार में स्नान करना" i="802" m="shower" t="n" />
+<w c="house" e="कार्य" i="803" m="step" t="n" />
+<w c="house" e="शौचालय" i="804" m="toilet" t="n" />
+<w c="house" e="दीवार" i="805" m="wall" t="n" />
+<w c="house" e="कुंआं" i="806" m="well" t="n" />
+<w c="house" e="खिड़की" i="807" m="window" t="n" />
+<w c="languages" e="चीनी" i="808" m="Chinese" t="n" />
+<w c="languages" e="अंग्रेज़ी" i="809" m="English" t="n" />
+<w c="languages" e="फ़्रेंच" i="810" m="French" t="n" />
+<w c="languages" e="जर्मन" i="811" m="German" t="n" />
+<w c="languages" e="हिंदी" i="812" m="Hindi" t="n" />
+<w c="languages" e="इतालवी" i="813" m="Italian" t="n" />
+<w c="languages" e="जापानी" i="814" m="Japanese" t="n" />
+<w c="languages" e="रूसी" i="815" m="Russian" t="n" />
+<w c="languages" e="स्पैनिश" i="816" m="Spanish" t="n" />
+<w c="materials" e="अम्ल" i="817" m="acid" t="n" />
+<w c="materials" e="रसायन" i="818" m="chemical" t="n" />
+<w c="materials" e="रासायनिक तत्व" i="819" m="chemical element" t="n" />
+<w c="materials" e="कोयला" i="820" m="coal" t="n" />
+<w c="materials" e="धूल" i="821" m="dust" t="n" />
+<w c="materials" e="पृथ्वी" i="822" m="earth" t="n" />
+<w c="materials" e="चर्बी" i="823" m="fat" t="n" />
+<w c="materials" e="कांच" i="824" m="glass" t="n" />
+<w c="materials" e="सरेस" i="825" m="glue" t="n" />
+<w c="materials" e="सोना" i="826" m="gold" t="n" />
+<w c="materials" e="बरफ़ (baraf)" i="827" m="ice" t="n" />
+<w c="materials" e="स्याही" i="828" m="ink" t="n" />
+<w c="materials" e="लोहा" i="829" m="iron" t="n" />
+<w c="materials" e="सीसा" i="830" m="lead" t="n" />
+<w c="materials" e="खाल" i="831" m="leather" t="n" />
+<w c="materials" e="द्रव" i="832" m="liquid" t="n" />
+<w c="materials" e="विषय" i="833" m="matter" t="n" />
+<w c="materials" e="धातु" i="834" m="metallic element" t="n" />
+<w c="materials" e="पेट्रोलियम" i="835" m="oil" t="n" />
+<w c="materials" e="कागज" i="836" m="paper" t="n" />
+<w c="materials" e="विष" i="837" m="poison" t="n" />
+<w c="materials" e="चूर्ण" i="838" m="powder" t="n" />
+<w c="materials" e="रेत" i="839" m="sand" t="n" />
+<w c="materials" e="रेशम" i="840" m="silk" t="n" />
+<w c="materials" e="चांदी" i="841" m="silver" t="n" />
+<w c="materials" e="साबुन" i="842" m="soap" t="n" />
+<w c="materials" e="इस्पात" i="843" m="steel" t="n" />
+<w c="materials" e="लकड़ी" i="844" m="wood" t="n" />
+<w c="mathematics" e="जोड़" i="845" m="addition" t="n" />
+<w c="mathematics" e="कोण" i="846" m="angle" t="n" />
+<w c="mathematics" e="क्षेत्रफल" i="847" m="area" t="n" />
+<w c="mathematics" e="केंद्र" i="848" m="center" t="n" />
+<w c="mathematics" e="वृत्त" i="849" m="circle" t="n" />
+<w c="mathematics" e="किसी वस्तु का प्रमुख भाग" i="850" m="component" t="n" />
+<w c="mathematics" e="वक्र रेखा" i="851" m="curve" t="n" />
+<w c="mathematics" e="स्तर" i="852" m="degree" t="n" />
+<w c="mathematics" e="दूरी" i="853" m="distance" t="n" />
+<w c="mathematics" e="बंटवारा" i="854" m="division" t="n" />
+<w c="mathematics" e="किनारा" i="855" m="edge" t="n" />
+<w c="mathematics" e="सामाजिक सम्मेलन" i="856" m="function" t="n" />
+<w c="mathematics" e="आधा" i="857" m="half" t="n" />
+<w c="mathematics" e="सीमा" i="858" m="limit" t="n" />
+<w c="mathematics" e="रेखा" i="859" m="line" t="n" />
+<w c="mathematics" e="जाल" i="860" m="net" t="n" />
+<w c="mathematics" e="हिस्सा" i="861" m="percent" t="n" />
+<w c="mathematics" e="उद्देश्य" i="862" m="purpose" t="n" />
+<w c="mathematics" e="परिणाम" i="863" m="result" t="n" />
+<w c="mathematics" e="नियमावली" i="864" m="rule" t="n" />
+<w c="mathematics" e="तरफ" i="865" m="side" t="n" />
+<w c="mathematics" e="वर्ग" i="866" m="square" t="n" />
+<w c="mathematics" e="ऊपरी तल" i="867" m="surface" t="n" />
+<w c="mathematics" e="रकम" i="868" m="total" t="n" />
+<w c="medicine" e="देख-रेख" i="869" m="care" t="n" />
+<w c="medicine" e="जुकाम" i="870" m="cold" t="n" />
+<w c="medicine" e="खांसी" i="871" m="cough" t="n" />
+<w c="medicine" e="बीमारी" i="872" m="disease" t="n" />
+<w c="medicine" e="डाक्टर" i="873" m="doctor" t="n" />
+<w c="medicine" e="नर्स" i="874" m="nurse" t="n" />
+<w c="medicine" e="अभियान" i="875" m="operation" t="n" />
+<w c="medicine" e="दर्द" i="876" m="pain" t="n" />
+<w c="medicine" e="मरीज़" i="877" m="patient" t="n" />
+<w c="medicine" e="टांका" i="878" m="stitch" t="n" />
+<w c="nature" e="वायु" i="879" m="air" t="n" />
+<w c="nature" e="प्राणी" i="880" m="animal" t="n" />
+<w c="nature" e="शाखा" i="881" m="branch" t="n" />
+<w c="nature" e="क्रम विकास" i="882" m="evolution" t="n" />
+<w c="nature" e="खेत" i="883" m="farm" t="n" />
+<w c="nature" e="मैदान" i="884" m="field" t="n" />
+<w c="nature" e="लपट" i="885" m="fire" t="n" />
+<w c="nature" e="फूल" i="886" m="flower" t="n" />
+<w c="nature" e="जंगल" i="887" m="forest" t="n" />
+<w c="nature" e="घास" i="888" m="grass" t="n" />
+<w c="nature" e="पत्ता" i="889" m="leaf" t="n" />
+<w c="nature" e="जीवन" i="890" m="life" t="n" />
+<w c="nature" e="नमी" i="891" m="moisture" t="n" />
+<w c="nature" e="वनस्पति" i="892" m="plant" t="n" />
+<w c="nature" e="जड़" i="893" m="root" t="n" />
+<w c="nature" e="आसमान" i="894" m="sky" t="n" />
+<w c="nature" e="सोना" i="895" m="sleep" t="n" />
+<w c="nature" e="गन्ध" i="896" m="smell" t="n" />
+<w c="nature" e="सोता" i="897" m="spring" t="n" />
+<w c="nature" e="डंठल" i="898" m="stem" t="n" />
+<w c="nature" e="धारा" i="899" m="stream" t="n" />
+<w c="nature" e="पेड़" i="900" m="tree" t="n" />
+<w c="nature" e="लहर" i="901" m="wave" t="n" />
+<w c="nature" e="मौसम" i="902" m="weather" t="n" />
+<w c="nature" e="धरती" i="903" m="world" t="n" />
+<w c="numbers" e="दो साथी" i="904" m="couple" t="n" />
+<w c="numbers" e="आठ" i="905" m="eight" t="n" />
+<w c="numbers" e="अस्सी" i="906" m="eighty" t="n" />
+<w c="numbers" e="ग्यारह" i="907" m="eleven" t="n" />
+<w c="numbers" e="पंद्रह" i="908" m="fifteen" t="n" />
+<w c="numbers" e="पचास" i="909" m="fifty" t="n" />
+<w c="numbers" e="पांच" i="910" m="five" t="n" />
+<w c="numbers" e="चालीस" i="911" m="forty" t="n" />
+<w c="numbers" e="चौदह" i="912" m="fourteen" t="n" />
+<w c="numbers" e="दस लाख" i="913" m="million" t="n" />
+<w c="numbers" e="नौ" i="914" m="nine" t="n" />
+<w c="numbers" e="उन्नीस" i="915" m="nineteen" t="n" />
+<w c="numbers" e="नब्बे" i="916" m="ninety" t="n" />
+<w c="numbers" e="कुछ नहीं" i="917" m="nothing" t="n" />
+<w c="numbers" e="एक (ek) (numeral: १)" i="918" m="one" t="n" />
+<w c="numbers" e="सत्तर" i="919" m="seventy" t="n" />
+<w c="numbers" e="छः" i="920" m="six" t="n" />
+<w c="numbers" e="सोलह" i="921" m="sixteen" t="n" />
+<w c="numbers" e="साठ" i="922" m="sixty" t="n" />
+<w c="numbers" e="दस (das)" i="923" m="ten" t="n" />
+<w c="numbers" e="तीन" i="924" m="third" t="n" />
+<w c="numbers" e="तेरह" i="925" m="thirteen" t="n" />
+<w c="numbers" e="तीस" i="926" m="thirty" t="n" />
+<w c="numbers" e="हजार" i="927" m="thousand" t="n" />
+<w c="numbers" e="हजार" i="928" m="thousand" t="n" />
+<w c="numbers" e="तीन" i="929" m="three" t="n" />
+<w c="numbers" e="दो (do)" i="930" m="two" t="n" />
+<w c="objects" e="गेंद" i="931" m="ball" t="n" />
+<w c="objects" e="पत्ती" i="932" m="blade" t="n" />
+<w c="objects" e="श्रृंखला" i="933" m="chain" t="n" />
+<w c="objects" e="डंडा" i="934" m="club" t="n" />
+<w c="objects" e="लपेट" i="935" m="coil" t="n" />
+<w c="objects" e="लिफ़ाफ़ा" i="936" m="envelope" t="n" />
+<w c="objects" e="पंख" i="937" m="feather" t="n" />
+<w c="objects" e="झंडा" i="938" m="flag" t="n" />
+<w c="objects" e="चौखट" i="939" m="frame" t="n" />
+<w c="objects" e="मूठ" i="940" m="handle" t="n" />
+<w c="objects" e="लोहे की ढिबरी" i="941" m="nut" t="n" />
+<w c="objects" e="पिन" i="942" m="pin" t="n" />
+<w c="objects" e="नलिका" i="943" m="pipe" t="n" />
+<w c="objects" e="पेश करना" i="944" m="present" t="n" />
+<w c="objects" e="रस्सी" i="945" m="rope" t="n" />
+<w c="objects" e="पाल" i="946" m="sail" t="n" />
+<w c="objects" e="बीज" i="947" m="seed" t="n" />
+<w c="objects" e="डाक शुल्क" i="948" m="stamp" t="n" />
+<w c="objects" e="लकड़ी" i="949" m="stick" t="n" />
+<w c="objects" e="पत्थर" i="950" m="stone" t="n" />
+<w c="objects" e="टिकट" i="951" m="ticket" t="n" />
+<w c="objects" e="पहिया" i="952" m="wheel" t="n" />
+<w c="objects" e="तार" i="953" m="wire" t="n" />
+<w c="physics" e="संतुलन" i="954" m="balance" t="n" />
+<w c="physics" e="बिजली" i="955" m="charge" t="n" />
+<w c="physics" e="ऊर्जा" i="956" m="energy" t="n" />
+<w c="physics" e="प्रकाश" i="957" m="light" t="n" />
+<w c="physics" e="परिमाण" i="958" m="mass" t="n" />
+<w c="physics" e="विशाल" i="959" m="mass" t="n" />
+<w c="physics" e="माप करना" i="960" m="measurement" t="n" />
+<w c="physics" e="दर्पण" i="961" m="mirror" t="n" />
+<w c="physics" e="गति" i="962" m="movement" t="n" />
+<w c="physics" e="दबाव या दाब का बोझ या मात्रा या भार" i="963" m="pressure" t="n" />
+<w c="physics" e="प्रक्रिया" i="964" m="process" t="n" />
+<w c="physics" e="आकार" i="965" m="size" t="n" />
+<w c="physics" e="घोष" i="966" m="sound" t="n" />
+<w c="physics" e="भाप" i="967" m="steam" t="n" />
+<w c="physics" e="बल" i="968" m="strength" t="n" />
+<w c="physics" e="कुछ समय तक" i="969" m="time" t="n" />
+<w c="physics" e="इकाई" i="970" m="unit" t="n" />
+<w c="physics" e="भार" i="971" m="weight" t="n" />
+<w c="prepositions" e="के विरुद्ध" i="972" m="against" t="prep" />
+<w c="prepositions" e="बीच में ही" i="973" m="among" t="prep" />
+<w c="prepositions" e="के दौरान" i="974" m="during" t="prep" />
+<w c="prepositions" e="के लिये" i="975" m="for" t="prep" />
+<w c="prepositions" e="अंदर को" i="976" m="into" t="prep" />
+<w c="prepositions" e="से के बाद से" i="977" m="since" t="prep" />
+<w c="prepositions" e="साथ से" i="978" m="with" t="prep" />
+<w c="prepositions" e="साथ से" i="979" m="with" t="prep" />
+<w c="prepositions" e="के रहित" i="980" m="without" t="prep" />
+<w c="professions" e="अभिनेता" i="981" m="actor" t="n" />
+<w c="professions" e="अभिनेत्री" i="982" m="actress" t="n" />
+<w c="professions" e="कलाकार" i="983" m="artist" t="n" />
+<w c="professions" e="व्यापारी" i="984" m="businessman" t="n" />
+<w c="professions" e="रसोइया" i="985" m="cook" t="n" />
+<w c="professions" e="निपुण" i="986" m="expert" t="n" />
+<w c="professions" e="सेनापति" i="987" m="general" t="n" />
+<w c="professions" e="पत्रकार" i="988" m="journalist" t="n" />
+<w c="professions" e="निर्णायक" i="989" m="judge" t="n" />
+<w c="professions" e="शिक्षा मंत्री" i="990" m="minister" t="n" />
+<w c="professions" e="संगीतकार" i="991" m="musician" t="n" />
+<w c="professions" e="छाया चित्रकार" i="992" m="photographer" t="n" />
+<w c="professions" e="विमान चालक" i="993" m="pilot" t="n" />
+<w c="professions" e="पुलिसमैन" i="994" m="policeman" t="n" />
+<w c="professions" e="राजनीतिज्ञ" i="995" m="politician" t="n" />
+<w c="professions" e="राष्ट्रपति" i="996" m="president" t="n" />
+<w c="professions" e="व्यवसायी" i="997" m="professional" t="n" />
+<w c="professions" e="प्रतिनिधि" i="998" m="representative" t="n" />
+<w c="professions" e="नाविक" i="999" m="sailor" t="n" />
+<w c="professions" e="वैज्ञानिक" i="1000" m="scientist" t="n" />
+<w c="professions" e="मुंशी" i="1001" m="secretary" t="n" />
+<w c="professions" e="नौकर" i="1002" m="servant" t="n" />
+<w c="professions" e="गायक" i="1003" m="singer" t="n" />
+<w c="professions" e="सैनिक" i="1004" m="soldier" t="n" />
+<w c="professions" e="लेखक" i="1005" m="writer" t="n" />
+<w c="pronouns" e="प्रत्येक व्यक्ति" i="1006" m="everybody" t="pron" />
+<w c="pronouns" e="सब कुछ" i="1007" m="everything" t="pron" />
+<w c="pronouns" e="उसका" i="1008" m="her" t="pron" />
+<w c="pronouns" e="खुद को" i="1009" m="herself" t="pron" />
+<w c="pronouns" e="उसका" i="1010" m="his" t="pron" />
+<w c="pronouns" e="मुझको" i="1011" m="me" t="pron" />
+<w c="pronouns" e="मेरा" i="1012" m="my" t="pron" />
+<w c="pronouns" e="हमारा" i="1013" m="our" t="pron" />
+<w c="pronouns" e="वह स्त्री" i="1014" m="she" t="pron" />
+<w c="pronouns" e="उन्हें" i="1015" m="them" t="pron" />
+<w c="pronouns" e="वे" i="1016" m="they" t="pron" />
+<w c="pronouns" e="हमें" i="1017" m="us" t="pron" />
+<w c="pronouns" e="हम" i="1018" m="we" t="pron" />
+<w c="pronouns" e="क्या" i="1019" m="what" t="pron" />
+<w c="pronouns" e="जब" i="1020" m="when" t="pron" />
+<w c="pronouns" e="कौन" i="1021" m="who" t="pron" />
+<w c="pronouns" e="जिसको" i="1022" m="whom" t="pron" />
+<w c="pronouns" e="तुम" i="1023" m="yourself" t="pron" />
+<w c="relations" e="युवा मित्र" i="1024" m="boyfriend" t="n" />
+<w c="relations" e="नियुक्ति" i="1025" m="date" t="n" />
+<w c="relations" e="संकाय अध्यक्ष" i="1026" m="dear" t="n" />
+<w c="relations" e="अतिथि" i="1027" m="guest" t="n" />
+<w c="relations" e="चुम्बन" i="1028" m="kiss" t="n" />
+<w c="relations" e="दावत" i="1029" m="party" t="n" />
+<w c="relations" e="मुस्कान" i="1030" m="smile" t="n" />
+<w c="relations" e="आश्चर्य" i="1031" m="surprise" t="n" />
+<w c="relations" e="मुलाकात" i="1032" m="visit" t="n" />
+<w c="science" e="जीवविज्ञान" i="1033" m="biology" t="n" />
+<w c="science" e="कारण" i="1034" m="cause" t="n" />
+<w c="science" e="तत्व" i="1035" m="center" t="n" />
+<w c="science" e="रसायन शास्त्र" i="1036" m="chemistry" t="n" />
+<w c="science" e="तुलना" i="1037" m="comparison" t="n" />
+<w c="science" e="परिणाम" i="1038" m="consequence" t="n" />
+<w c="science" e="संचालन करना" i="1039" m="control" t="n" />
+<w c="science" e="अनुशासन" i="1040" m="discipline" t="n" />
+<w c="science" e="खोज" i="1041" m="discovery" t="n" />
+<w c="science" e="घटना" i="1042" m="event" t="n" />
+<w c="science" e="साक्ष्य" i="1043" m="evidence" t="n" />
+<w c="science" e="उदाहरण" i="1044" m="example" t="n" />
+<w c="science" e="तथ्य" i="1045" m="fact" t="n" />
+<w c="science" e="प्रणाली" i="1046" m="method" t="n" />
+<w c="science" e="नमूना" i="1047" m="model" t="n" />
+<w c="science" e="विकल्प" i="1048" m="option" t="n" />
+<w c="science" e="चरण" i="1049" m="phase" t="n" />
+<w c="science" e="कार्यविधि" i="1050" m="procedure" t="n" />
+<w c="science" e="उत्पादन" i="1051" m="production" t="n" />
+<w c="science" e="योजना" i="1052" m="program" t="n" />
+<w c="science" e="परियोजना" i="1053" m="project" t="n" />
+<w c="science" e="दायरा" i="1054" m="range" t="n" />
+<w c="science" e="शोध" i="1055" m="research" t="n" />
+<w c="science" e="पूछताछ" i="1056" m="research" t="n" />
+<w c="science" e="विज्ञान" i="1057" m="science" t="n" />
+<w c="science" e="समाज" i="1058" m="society" t="n" />
+<w c="science" e="निकाय" i="1059" m="system" t="n" />
+<w c="science" e="प्रौद्योगिकी" i="1060" m="technology" t="n" />
+<w c="science" e="सिद्धांत" i="1061" m="theory" t="n" />
+<w c="science" e="प्रवृति" i="1062" m="trend" t="n" />
+<w c="science" e="परेशानी" i="1063" m="trouble" t="n" />
+<w c="science" e="उपभोक्ता" i="1064" m="user" t="n" />
+<w c="society" e="सेना" i="1065" m="army" t="n" />
+<w c="society" e="आधार" i="1066" m="base" t="n" />
+<w c="society" e="खेल इत्यादि का क्लब" i="1067" m="club" t="n" />
+<w c="society" e="संगति" i="1068" m="company" t="n" />
+<w c="society" e="देश" i="1069" m="country" t="n" />
+<w c="society" e="अदालत" i="1070" m="court" t="n" />
+<w c="society" e="अनुचित कार्य" i="1071" m="crime" t="n" />
+<w c="society" e="सभ्यता" i="1072" m="culture" t="n" />
+<w c="society" e="गणतंत्र" i="1073" m="democracy" t="n" />
+<w c="society" e="प्रभुत्व" i="1074" m="dominion" t="n" />
+<w c="society" e="चुनाव" i="1075" m="election" t="n" />
+<w c="society" e="अस्तित्व" i="1076" m="existence" t="n" />
+<w c="society" e="शासन" i="1077" m="government" t="n" />
+<w c="society" e="इतिहास" i="1078" m="history" t="n" />
+<w c="society" e="विशिष्ट" i="1079" m="individual" t="n" />
+<w c="society" e="संस्था भवन" i="1080" m="institution" t="n" />
+<w c="society" e="राजा" i="1081" m="king" t="n" />
+<w c="society" e="पथ-प्रदर्शक" i="1082" m="leader" t="n" />
+<w c="society" e="सदस्य" i="1083" m="member" t="n" />
+<w c="society" e="राष्ट्र" i="1084" m="nation" t="n" />
+<w c="society" e="आदेश" i="1085" m="order" t="n" />
+<w c="society" e="संगठन" i="1086" m="organization" t="n" />
+<w c="society" e="पास" i="1087" m="pass" t="n" />
+<w c="society" e="पासपोर्ट" i="1088" m="passport" t="n" />
+<w c="society" e="अमन" i="1089" m="peace" t="n" />
+<w c="society" e="जनता" i="1090" m="people" t="n" />
+<w c="society" e="सिपाहियों का दल" i="1091" m="police" t="n" />
+<w c="society" e="नीति" i="1092" m="policy" t="n" />
+<w c="society" e="आबादी" i="1093" m="population" t="n" />
+<w c="society" e="जन साधारण" i="1094" m="public" t="n" />
+<w c="society" e="दण्ड का तरीका" i="1095" m="punishment" t="n" />
+<w c="society" e="धर्म" i="1096" m="religion" t="n" />
+<w c="society" e="धर्म" i="1097" m="religion" t="n" />
+<w c="society" e="मेल" i="1098" m="union" t="n" />
+<w c="society" e="इच्छा" i="1099" m="will" t="n" />
+<w c="society" e="विधान" i="1100" m="will" t="n" />
+<w c="sports" e="पुरस्कार" i="1101" m="award" t="n" />
+<w c="sports" e="बेसबॉल" i="1102" m="baseball" t="n" />
+<w c="sports" e="प्रतियोगिता" i="1103" m="championship" t="n" />
+<w c="sports" e="प्रतियोगी" i="1104" m="competitor" t="n" />
+<w c="sports" e="मंज़िल" i="1105" m="finish" t="n" />
+<w c="sports" e="गेम" i="1106" m="game" t="n" />
+<w c="sports" e="गोल" i="1107" m="goal" t="n" />
+<w c="sports" e="गोल्फ" i="1108" m="golf" t="n" />
+<w c="sports" e="मैच" i="1109" m="match" t="n" />
+<w c="sports" e="किसी वस्तु या व्यक्ति के सम्बन्धित अतीत का ज्ञान" i="1110" m="record" t="n" />
+<w c="sports" e="टेनिस" i="1111" m="tennis" t="n" />
+<w c="sports" e="फेंकना" i="1112" m="throw" t="n" />
+<w c="sports" e="जीत" i="1113" m="win" t="n" />
+<w c="time" e="अप्रैल" i="1114" m="April" t="n" />
+<w c="time" e="अगस्त" i="1115" m="August" t="n" />
+<w c="time" e="दिसंबर" i="1116" m="December" t="n" />
+<w c="time" e="फरवरी" i="1117" m="February" t="n" />
+<w c="time" e="शुक्रवार" i="1118" m="Friday" t="n" />
+<w c="time" e="जनवरी" i="1119" m="January" t="n" />
+<w c="time" e="जुलाई" i="1120" m="July" t="n" />
+<w c="time" e="जून" i="1121" m="June" t="n" />
+<w c="time" e="मई" i="1122" m="May" t="n" />
+<w c="time" e="सोमवार" i="1123" m="Monday" t="n" />
+<w c="time" e="नवंबर" i="1124" m="November" t="n" />
+<w c="time" e="अक्टूबर" i="1125" m="October" t="n" />
+<w c="time" e="शनिश्चरवार" i="1126" m="Saturday" t="n" />
+<w c="time" e="सितंबर" i="1127" m="September" t="n" />
+<w c="time" e="रविवार" i="1128" m="Sunday" t="n" />
+<w c="time" e="गुरुवार" i="1129" m="Thursday" t="n" />
+<w c="time" e="मंगलवार" i="1130" m="Tuesday" t="n" />
+<w c="time" e="बुधवार" i="1131" m="Wednesday" t="n" />
+<w c="time" e="तीसरा पहर" i="1132" m="afternoon" t="n" />
+<w c="time" e="शरद ऋतु" i="1133" m="autumn" t="n" />
+<w c="time" e="आरम्भ" i="1134" m="beginning" t="n" />
+<w c="time" e="शताब्दी" i="1135" m="century" t="n" />
+<w c="time" e="किसी पत्र में दिन" i="1136" m="date" t="n" />
+<w c="time" e="संध्या" i="1137" m="evening" t="n" />
+<w c="time" e="भविष्य" i="1138" m="future" t="n" />
+<w c="time" e="घंटा" i="1139" m="hour" t="n" />
+<w c="time" e="आधी रात" i="1140" m="midnight" t="n" />
+<w c="time" e="मिनट" i="1141" m="minute" t="n" />
+<w c="time" e="इसी क्षण" i="1142" m="moment" t="n" />
+<w c="time" e="महिना (mahinā)" i="1143" m="month" t="n" />
+<w c="time" e="सुबह" i="1144" m="morning" t="n" />
+<w c="time" e="रात" i="1145" m="night" t="n" />
+<w c="time" e="अब" i="1146" m="now" t="n" />
+<w c="time" e="अतीत" i="1147" m="past" t="n" />
+<w c="time" e="मध्यान्तर" i="1148" m="pause" t="n" />
+<w c="time" e="काल" i="1149" m="period" t="n" />
+<w c="time" e="वर्तमान" i="1150" m="present" t="n" />
+<w c="time" e="मौसम" i="1151" m="season" t="n" />
+<w c="time" e="क्षण" i="1152" m="second" t="n" />
+<w c="time" e="वसन्त" i="1153" m="spring" t="n" />
+<w c="time" e="ग्रीष्म" i="1154" m="summer" t="n" />
+<w c="time" e="सप्ताह" i="1155" m="week" t="n" />
+<w c="time" e="सप्ताहांत" i="1156" m="weekend" t="n" />
+<w c="time" e="समय" i="1157" m="while" t="n" />
+<w c="time" e="जाड़ा" i="1158" m="winter" t="n" />
+<w c="time" e="वर्ष" i="1159" m="year" t="n" />
+<w c="tools" e="घंटा" i="1160" m="bell" t="n" />
+<w c="tools" e="बटन" i="1161" m="button" t="n" />
+<w c="tools" e="तोप" i="1162" m="gun" t="n" />
+<w c="tools" e="घोड़ा" i="1163" m="hammer" t="n" />
+<w c="tools" e="कुंजी" i="1164" m="key" t="n" />
+<w c="tools" e="तालयन्त्र" i="1165" m="lock" t="n" />
+<w c="tools" e="दियासलाई" i="1166" m="match" t="n" />
+<w c="tools" e="कील" i="1167" m="nail" t="n" />
+<w c="tools" e="सुई" i="1168" m="needle" t="n" />
+<w c="tools" e="कलम" i="1169" m="pen" t="n" />
+<w c="tools" e="पेंसिल" i="1170" m="pencil" t="n" />
+<w c="tools" e="पम्प" i="1171" m="pump" t="n" />
+<w c="tools" e="स्प्रिंग" i="1172" m="spring" t="n" />
+<w c="tools" e="मोहर" i="1173" m="stamp" t="n" />
+<w c="tools" e="कोड़ा" i="1174" m="whip" t="n" />
+<w c="transport" e="दुर्घटना" i="1175" m="accident" t="n" />
+<w c="transport" e="साइकिल" i="1176" m="bike" t="n" />
+<w c="transport" e="नाव" i="1177" m="boat" t="n" />
+<w c="transport" e="बस" i="1178" m="bus" t="n" />
+<w c="transport" e="मोटर-गाड़ी" i="1179" m="car" t="n" />
+<w c="transport" e="घुमाव" i="1180" m="curve" t="n" />
+<w c="transport" e="एक्सप्रेस गाड़ी" i="1181" m="express" t="n" />
+<w c="transport" e="उड़ान" i="1182" m="flight" t="n" />
+<w c="transport" e="यात्रा" i="1183" m="journey" t="n" />
+<w c="transport" e="यात्री" i="1184" m="passenger" t="n" />
+<w c="transport" e="वायुयान" i="1185" m="plane" t="n" />
+<w c="transport" e="जहाज" i="1186" m="ship" t="n" />
+<w c="transport" e="पटरी" i="1187" m="track" t="n" />
+<w c="transport" e="रेलगाड़ी" i="1188" m="train" t="n" />
+<w c="transport" e="यातायात" i="1189" m="transport" t="n" />
+<w c="vegetables" e="सेम" i="1190" m="bean" t="n" />
+<w c="vegetables" e="बंदगोभी" i="1191" m="cabbage" t="n" />
+<w c="vegetables" e="गाजर" i="1192" m="carrot" t="n" />
+<w c="vegetables" e="ककड़ी" i="1193" m="cucumber" t="n" />
+<w c="vegetables" e="लहसुन" i="1194" m="garlic" t="n" />
+<w c="vegetables" e="जैतून (jaitūn); ज़ैतून (zaitūn)" i="1195" m="olive" t="n" />
+<w c="vegetables" e="प्याज" i="1196" m="onion" t="n" />
+<w c="vegetables" e="चुकंदर" i="1197" m="parsnip" t="n" />
+<w c="vegetables" e="आलू" i="1198" m="potato" t="n" />
+<w c="vegetables" e="मूली" i="1199" m="radish" t="n" />
+<w c="vegetables" e="चावल (ćāval)" i="1200" m="rice" t="n" />
+<w c="vegetables" e="टमाटर" i="1201" m="tomato" t="n" />
+<w c="verbs" e="स्वीकार करना" i="1202" m="accept" t="v" />
+<w c="verbs" e="आरोप लगाना" i="1203" m="accuse" t="v" />
+<w c="verbs" e="पूरा करना" i="1204" m="achieve" t="v" />
+<w c="verbs" e="काम करना" i="1205" m="act" t="v" />
+<w c="verbs" e="जोड़ना" i="1206" m="add" t="v" />
+<w c="verbs" e="स्वीकार करना" i="1207" m="admit" t="v" />
+<w c="verbs" e="सहमत होना" i="1208" m="agree" t="v" />
+<w c="verbs" e="संभव बनाना" i="1209" m="allow" t="v" />
+<w c="verbs" e="घोषणा करना" i="1210" m="announce" t="v" />
+<w c="verbs" e="बहस करना" i="1211" m="argue" t="v" />
+<w c="verbs" e="पहुंचना" i="1212" m="arrive" t="v" />
+<w c="verbs" e="पूछना" i="1213" m="ask" t="v" />
+<w c="verbs" e="धावा बोलना" i="1214" m="attack" t="v" />
+<w c="verbs" e="से बचना" i="1215" m="avoid" t="v" />
+<w c="verbs" e="जीवित रहना" i="1216" m="be" t="v" />
+<w c="verbs" e="ले जाना" i="1217" m="bear" t="v" />
+<w c="verbs" e="जीतना" i="1218" m="beat" t="v" />
+<w c="verbs" e="बनना" i="1219" m="become" t="v" />
+<w c="verbs" e="पहुंचाना" i="1220" m="bring" t="v" />
+<w c="verbs" e="बनाना" i="1221" m="build" t="v" />
+<w c="verbs" e="टेलीफोन करना" i="1222" m="call" t="v" />
+<w c="verbs" e="ढोना" i="1223" m="carry" t="v" />
+<w c="verbs" e="बदल देना" i="1224" m="change" t="v" />
+<w c="verbs" e="चुनना" i="1225" m="choose" t="v" />
+<w c="verbs" e="वर्गीकरण करना" i="1226" m="classify" t="v" />
+<w c="verbs" e="साफ करना" i="1227" m="clean" t="v" />
+<w c="verbs" e="समानता" i="1228" m="compare" t="v" />
+<w c="verbs" e="से युक्त होना" i="1229" m="contain" t="v" />
+<w c="verbs" e="जारी रहना" i="1230" m="continue" t="v" />
+<w c="verbs" e="पकाना" i="1231" m="cook" t="v" />
+<w c="verbs" e="प्रतिलिपि बनायें" i="1232" m="copy" t="v" />
+<w c="verbs" e="खांसना" i="1233" m="cough" t="v" />
+<w c="verbs" e="मसलना" i="1234" m="crush" t="v" />
+<w c="verbs" e="रोना" i="1235" m="cry" t="v" />
+<w c="verbs" e="निर्णायक होना" i="1236" m="decide" t="v" />
+<w c="verbs" e="वर्णन करना" i="1237" m="describe" t="v" />
+<w c="verbs" e="चाहना" i="1238" m="desire" t="v" />
+<w c="verbs" e="तस्वीर साफ करना" i="1239" m="develop" t="v" />
+<w c="verbs" e="मरना" i="1240" m="die" t="v" />
+<w c="verbs" e="खोजना करना" i="1241" m="discover" t="v" />
+<w c="verbs" e="चर्चा करना" i="1242" m="discuss" t="v" />
+<w c="verbs" e="विभाजन" i="1243" m="divide" t="v" />
+<w c="verbs" e="संदेह करना" i="1244" m="doubt" t="v" />
+<w c="verbs" e="हांकना" i="1245" m="drive" t="v" />
+<w c="verbs" e="समावेश करना" i="1246" m="embrace" t="v" />
+<w c="verbs" e="उत्साहित करना" i="1247" m="encourage" t="v" />
+<w c="verbs" e="पूर्ण करना" i="1248" m="end" t="v" />
+<w c="verbs" e="बढ़ाना" i="1249" m="enhance" t="v" />
+<w c="verbs" e="भीतर आना" i="1250" m="enter" t="v" />
+<w c="verbs" e="अंदाज लगाना" i="1251" m="estimate" t="v" />
+<w c="verbs" e="सिर से ऊपर चला जाना" i="1252" m="exceed" t="v" />
+<w c="verbs" e="अस्तित्व होना" i="1253" m="exist" t="v" />
+<w c="verbs" e="आशा रखना" i="1254" m="expect" t="v" />
+<w c="verbs" e="समझाना" i="1255" m="explain" t="v" />
+<w c="verbs" e="भरना" i="1256" m="fill" t="v" />
+<w c="verbs" e="पकड़ पाना" i="1257" m="find" t="v" />
+<w c="verbs" e="क्षमा करना" i="1258" m="forgive" t="v" />
+<w c="verbs" e="मुक्त करना" i="1259" m="free" t="v" />
+<w c="verbs" e="बढ़ना" i="1260" m="grow" t="v" />
+<w c="verbs" e="घटित होना" i="1261" m="happen" t="v" />
+<w c="verbs" e="घृणा करना" i="1262" m="hate" t="v" />
+<w c="verbs" e="छिपाना" i="1263" m="hide" t="v" />
+<w c="verbs" e="मजबूती से पकड़ना" i="1264" m="hold" t="v" />
+<w c="verbs" e="पहचानना" i="1265" m="identify" t="v" />
+<w c="verbs" e="सम्मिलित करना" i="1266" m="include" t="v" />
+<w c="verbs" e="घायल करना" i="1267" m="injure" t="v" />
+<w c="verbs" e="परिचय कराना" i="1268" m="introduce" t="v" />
+<w c="verbs" e="संयुक्त करना" i="1269" m="join" t="v" />
+<w c="verbs" e="किसी विशेष स्थिति में बनाए रखना" i="1270" m="keep" t="v" />
+<w c="verbs" e="लात मारना" i="1271" m="kick" t="v" />
+<w c="verbs" e="मारना" i="1272" m="kill" t="v" />
+<w c="verbs" e="उतरना" i="1273" m="land" t="v" />
+<w c="verbs" e="चलाना" i="1274" m="lead" t="v" />
+<w c="verbs" e="छोड़ जाना" i="1275" m="leave" t="v" />
+<w c="verbs" e="किराये पर देना" i="1276" m="let" t="v" />
+<w c="verbs" e="ऊपर उठाना" i="1277" m="lift" t="v" />
+<w c="verbs" e="सीमा बद्ध करना" i="1278" m="limit" t="v" />
+<w c="verbs" e="जिम्मेदारी सौंपना" i="1279" m="load" t="v" />
+<w c="verbs" e="तलाशना" i="1280" m="look" t="v" />
+<w c="verbs" e="खो देना" i="1281" m="lose" t="v" />
+<w c="verbs" e="चलाना" i="1282" m="manage" t="v" />
+<w c="verbs" e="विवाह करना" i="1283" m="marry" t="v" />
+<w c="verbs" e="इरादा रखना" i="1284" m="mean" t="v" />
+<w c="verbs" e="नापना" i="1285" m="measure" t="v" />
+<w c="verbs" e="उल्लेख करना" i="1286" m="mention" t="v" />
+<w c="verbs" e="नाम रखना" i="1287" m="name" t="v" />
+<w c="verbs" e="स्वामी होना" i="1288" m="own" t="v" />
+<w c="verbs" e="सौंपना" i="1289" m="pass" t="v" />
+<w c="verbs" e="छीलना" i="1290" m="peel" t="v" />
+<w c="verbs" e="विष देना" i="1291" m="poison" t="v" />
+<w c="verbs" e="चमकाना" i="1292" m="polish" t="v" />
+<w c="verbs" e="तैयार होना" i="1293" m="prepare" t="v" />
+<w c="verbs" e="दबाना" i="1294" m="press" t="v" />
+<w c="verbs" e="रोकना" i="1295" m="prevent" t="v" />
+<w c="verbs" e="छापना" i="1296" m="print" t="v" />
+<w c="verbs" e="संसाधित करना" i="1297" m="process" t="v" />
+<w c="verbs" e="विरोध प्रकट करना" i="1298" m="protest" t="v" />
+<w c="verbs" e="सिद्ध करना" i="1299" m="prove" t="v" />
+<w c="verbs" e="प्रकाशित करना" i="1300" m="publish" t="v" />
+<w c="verbs" e="पालन-पोषण करना" i="1301" m="raise" t="v" />
+<w c="verbs" e="दर नियत करना" i="1302" m="rate" t="v" />
+<w c="verbs" e="पहुंचना" i="1303" m="reach" t="v" />
+<w c="verbs" e="लेना" i="1304" m="receive" t="v" />
+<w c="verbs" e="अंकित करना" i="1305" m="record" t="v" />
+<w c="verbs" e="कम करना" i="1306" m="reduce" t="v" />
+<w c="verbs" e="प्रतिबिम्बित करना" i="1307" m="reflect" t="v" />
+<w c="verbs" e="मना करना" i="1308" m="refuse" t="v" />
+<w c="verbs" e="हटा देना" i="1309" m="remove" t="v" />
+<w c="verbs" e="पुरानी स्थिति में लौट जाना" i="1310" m="render" t="v" />
+<w c="verbs" e="उत्तर देना" i="1311" m="reply" t="v" />
+<w c="verbs" e="हाल लिखना" i="1312" m="report" t="v" />
+<w c="verbs" e="प्रतिनिधित्व करना" i="1313" m="represent" t="v" />
+<w c="verbs" e="अनुरोध करना" i="1314" m="request" t="v" />
+<w c="verbs" e="सम्मान करना" i="1315" m="respect" t="v" />
+<w c="verbs" e="खोलना" i="1316" m="reveal" t="v" />
+<w c="verbs" e="संयोगवश हो जाना" i="1317" m="risk" t="v" />
+<w c="verbs" e="शासन करना" i="1318" m="rule" t="v" />
+<w c="verbs" e="बचाना" i="1319" m="save" t="v" />
+<w c="verbs" e="उबारना" i="1320" m="save" t="v" />
+<w c="verbs" e="देखना" i="1321" m="see" t="v" />
+<w c="verbs" e="करार देना" i="1322" m="see" t="v" />
+<w c="verbs" e="भेजना" i="1323" m="send" t="v" />
+<w c="verbs" e="सीना" i="1324" m="sew" t="v" />
+<w c="verbs" e="चिल्लाना" i="1325" m="shout" t="v" />
+<w c="verbs" e="दिखाना" i="1326" m="show" t="v" />
+<w c="verbs" e="समय गुजारना" i="1327" m="spend" t="v" />
+<w c="verbs" e="खड़ा रहना" i="1328" m="stand" t="v" />
+<w c="verbs" e="बने रहना" i="1329" m="stay" t="v" />
+<w c="verbs" e="चोरी करना" i="1330" m="steal" t="v" />
+<w c="verbs" e="बंद कर देना" i="1331" m="stop" t="v" />
+<w c="verbs" e="पढ़ना" i="1332" m="study" t="v" />
+<w c="verbs" e="प्रस्ताव रखना या करना" i="1333" m="suggest" t="v" />
+<w c="verbs" e="आवश्यक सामग्री देना" i="1334" m="supply" t="v" />
+<w c="verbs" e="समर्थन करना" i="1335" m="support" t="v" />
+<w c="verbs" e="आश्चर्यचकित करना" i="1336" m="surprise" t="v" />
+<w c="verbs" e="जीवित रहना" i="1337" m="survive" t="v" />
+<w c="verbs" e="शिक्षा देना" i="1338" m="teach" t="v" />
+<w c="verbs" e="जांच करना" i="1339" m="test" t="v" />
+<w c="verbs" e="धन्यवाद देना" i="1340" m="thank" t="v" />
+<w c="verbs" e="फेंकना" i="1341" m="throw" t="v" />
+<w c="verbs" e="उपाधि देना" i="1342" m="title" t="v" />
+<w c="verbs" e="व्यापार करना" i="1343" m="trade" t="v" />
+<w c="verbs" e="शिक्षा देना" i="1344" m="train" t="v" />
+<w c="verbs" e="जाना" i="1345" m="travel" t="v" />
+<w c="verbs" e="व्यवहार करना" i="1346" m="treat" t="v" />
+<w c="verbs" e="प्रयास करना" i="1347" m="try" t="v" />
+<w c="verbs" e="घुमाना" i="1348" m="turn" t="v" />
+<w c="verbs" e="देखने जाना" i="1349" m="visit" t="v" />
+<w c="verbs" e="टहलाना" i="1350" m="walk" t="v" />
+<w c="verbs" e="धोना" i="1351" m="wash" t="v" />
+<w c="verbs" e="दृष्टि डालना" i="1352" m="watch" t="v" />
+<w c="verbs" e="पहनना" i="1353" m="wear" t="v" />
+<w c="verbs" e="वजन" i="1354" m="weigh" t="v" />
+<w c="verbs" e="जीतना" i="1355" m="win" t="v" />
+<w c="verbs" e="चाहना" i="1356" m="wish" t="v" />
+<w c="verbs" e="होना" i="1357" m="be" t="v" />
+<w c="verbs" e="बांटना" i="1358" m="break" t="v" />
+<w c="verbs" e="खरीदना" i="1359" m="buy" t="v" />
+<w c="verbs" e="बन्द हो जाना" i="1360" m="close" t="v" />
+<w c="verbs" e="आना" i="1361" m="come" t="v" />
+<w c="verbs" e="चीरना" i="1362" m="cut" t="v" />
+<w c="verbs" e="नृत्य करना" i="1363" m="dance" t="v" />
+<w c="verbs" e="व्यवहार में लाना" i="1364" m="do" t="v" />
+<w c="verbs" e="पीना" i="1365" m="drink" t="v" />
+<w c="verbs" e="खाना" i="1366" m="eat" t="v" />
+<w c="verbs" e="गिरना" i="1367" m="fall" t="v" />
+<w c="verbs" e="पाना" i="1368" m="find" t="v" />
+<w c="verbs" e="गोली चलाना" i="1369" m="fire" t="v" />
+<w c="verbs" e="उड़ाना" i="1370" m="fly" t="v" />
+<w c="verbs" e="अनुसरण करना" i="1371" m="follow" t="v" />
+<w c="verbs" e="भूल जाना" i="1372" m="forget" t="v" />
+<w c="verbs" e="देना" i="1373" m="give" t="v" />
+<w c="verbs" e="सुनना" i="1374" m="hear" t="v" />
+<w c="verbs" e="मदद करना" i="1375" m="help" t="v" />
+<w c="verbs" e="आशा करना" i="1376" m="hope" t="v" />
+<w c="verbs" e="उछलना" i="1377" m="jump" t="v" />
+<w c="verbs" e="चूमना" i="1378" m="kiss" t="v" />
+<w c="verbs" e="हंसना" i="1379" m="laugh" t="v" />
+<w c="verbs" e="सीखना" i="1380" m="learn" t="v" />
+<w c="verbs" e="लेटना" i="1381" m="lie" t="v" />
+<w c="verbs" e="पसंद करना" i="1382" m="like" t="v" />
+<w c="verbs" e="सुनाई देना" i="1383" m="listen" t="v" />
+<w c="verbs" e="देखना" i="1384" m="look" t="v" />
+<w c="verbs" e="मिट जाना" i="1385" m="lose" t="v" />
+<w c="verbs" e="पसन्द करना" i="1386" m="love" t="v" />
+<w c="verbs" e="करना (karnā)" i="1387" m="make" t="v" />
+<w c="verbs" e="सामना होना" i="1388" m="meet" t="v" />
+<w c="verbs" e="चलना" i="1389" m="move" t="v" />
+<w c="verbs" e="मांगना" i="1390" m="need" t="v" />
+<w c="verbs" e="प्रदान करना" i="1391" m="offer" t="v" />
+<w c="verbs" e="खोलना" i="1392" m="open" t="v" />
+<w c="verbs" e="दाम चुकाना" i="1393" m="pay" t="v" />
+<w c="verbs" e="खेलना" i="1394" m="play" t="v" />
+<w c="verbs" e="खींचना" i="1395" m="pull" t="v" />
+<w c="verbs" e="दबाना" i="1396" m="push" t="v" />
+<w c="verbs" e="रखना" i="1397" m="put" t="v" />
+<w c="verbs" e="पढ़ना" i="1398" m="read" t="v" />
+<w c="verbs" e="याद आना" i="1399" m="remember" t="v" />
+<w c="verbs" e="दौड़ाना" i="1400" m="run" t="v" />
+<w c="verbs" e="कहना" i="1401" m="say" t="v" />
+<w c="verbs" e="बेचना" i="1402" m="sell" t="v" />
+<w c="verbs" e="गाना गाना" i="1403" m="sing" t="v" />
+<w c="verbs" e="बैठना" i="1404" m="sit" t="v" />
+<w c="verbs" e="मुस्कराना" i="1405" m="smile" t="v" />
+<w c="verbs" e="लेना" i="1406" m="take" t="v" />
+<w c="verbs" e="कहना" i="1407" m="talk" t="v" />
+<w c="verbs" e="चित्र बनाना" i="1408" m="trace" t="v" />
+<w c="verbs" e="समझना" i="1409" m="understand" t="v" />
+<w c="verbs" e="प्रयोग में लाना" i="1410" m="use" t="v" />
+<w c="verbs" e="प्रतीक्षा करना" i="1411" m="wait" t="v" />
+<w c="verbs" e="लिखना" i="1412" m="write" t="v" />
+<w c="weather" e="बादल" i="1413" m="cloud" t="n" />
+<w c="weather" e="ओस" i="1414" m="dew" t="n" />
+<w c="weather" e="कोहरा" i="1415" m="fog" t="n" />
+<w c="weather" e="पाला" i="1416" m="frost" t="n" />
+<w c="weather" e="बिजली" i="1417" m="lightning" t="n" />
+<w c="weather" e="मेह" i="1418" m="rain" t="n" />
+<w c="weather" e="इन्द्रधनुष" i="1419" m="rainbow" t="n" />
+<w c="weather" e="बर्फ" i="1420" m="snow" t="n" />
+<w c="weather" e="तूफान" i="1421" m="storm" t="n" />
+<w c="weather" e="गड़गड़ाहट बिजली की" i="1422" m="thunder" t="n" />
+<w c="weather" e="हवा" i="1423" m="wind" t="n" />
+</vocb>

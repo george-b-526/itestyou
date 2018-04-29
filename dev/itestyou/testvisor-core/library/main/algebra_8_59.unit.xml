@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b,c}" defaults="{1,6,-16}">
+	<eval>
+		<stmt>d := b^2-4*a*c</stmt>		
+		<stmt>x1 := (-b - Sqrt(d)) / (2*a)</stmt>
+		<stmt>x2 := (-b + Sqrt(d)) / (2*a)</stmt>
+	</eval> 
+	<question>What are the solutions to the equation <draw><echo>a*x*x+b*x</echo>=<echo>-c</echo></draw>?</question>  
+	<choices>   
+		<answer>  
+			<draw><echo>x1</echo></draw> and <draw><echo>x2</echo></draw> 
+		</answer>
+		<decoy>
+			<draw><echo>-x1</echo></draw> and <draw><echo>x2</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>x1</echo></draw> and <draw><echo>-x2</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>-x1</echo></draw> and <draw><echo>-x2</echo></draw> 
+		</decoy>
+	</choices>
+</unit>

@@ -1,0 +1,31 @@
+The Internet Dictionary Project
+Dictionary File Format
+
+File Format
+The dictionary files are lists of pairs of English and other-language words, in the form:
+
+   English-word	Other-language-word
+   English-word	Other-language-word
+   ...
+
+where the pairs are separated by a tab character, and each pair is terminated by a carriage return character. The "Other-language-word" is a translation of the English word (see the Disclaimer). If an English word has more than one translation into the other language, the English word is listed multiple times, each with a different "Other-language-word". For example, in Spanish:
+
+     dog	perro
+     dog	perra
+
+Any comment lines in the file will begin with a pound sign ("#"). The files are not sorted into any particular order.
+Accent Marks
+Because these files are given in plain ASCII format, accented characters usually are not given directly. Certain conventions have been given to people adding to the IDP files for accented characters, and most of the time these conventions were followed.
+
+Spanish/Italian Accents
+    A letter followed by a forward slash ("/") indicates that the letter should have an acute accent over it. 
+    A letter followed by a backward slash ("\") indicates that the letter should have a grave accent over it. 
+    A letter followed by a tilde ("~") indicates that the letter should have a tilde above it. 
+
+German Accents
+    A letter followed by a period (".") indicates that the letter should have an umlaut over it. (This is sometimes approximated by a vowel followed by an "e" instead.) 
+    A letter followed by a caret ("^") indicates that the letter should have a circonflex over it. 
+    Two s characters in a row usually indicates the German double-s character ("B") 
+
+<- Back
+Tyler Chambers 

@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Chinese (&#20013;&#25991;)">
+<!--generated: Sun Jan 29 02:47:28 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="能力 能力 [neng2 li4]; 本領 本领 [ben3 ling3]; 才能 才能 [cai2 neng2]; 才干 才干 [cai2 gan4]; 才 才 [cai2]; 才干 才干 [cai2 gan4]" i="0" m="ability" t="n" />
+<w c="abstract" e="扮演 扮演 [ban4 yan3]; 舉 举 [ju3]; 表演 表演 [biao3 yan3]" i="1" m="act" t="n" />
+<w c="abstract" e="行动" i="2" m="action" t="n" />
+<w c="abstract" e="行動 行动 [xing2 dong4]" i="3" m="activity" t="n" />
+<w c="abstract" e="附加设备" i="4" m="addition" t="n" />
+<w c="abstract" e="数量" i="5" m="amount" t="n" />
+<w c="abstract" e="攻打" i="6" m="attack" t="n" />
+<w c="abstract" e="企图" i="7" m="attempt" t="n" />
+<w c="abstract" e="姿態 姿态 [zi1 tai4]; 態度 态度 [tai4 du5]; 態度 态度 [tai4 du4]" i="8" m="attitude" t="n" />
+<w c="abstract" e="背 背  [bei4]; 後邊 后边 [hou4 bian5]" i="9" m="back" t="n" />
+<w c="abstract" e="行为" i="10" m="behavior" t="n" />
+<w c="abstract" e="比特 [bi3 te4]; 位元 位元 [wei4 yuan2]" i="11" m="bit" t="n" />
+<w c="abstract" e="市场活动; 市场活动" i="12" m="campaign" t="n" />
+<w c="abstract" e="例子 例子 [li4 zi5]; 例 例 [li4]; 事例 shìlì" i="13" m="case" t="n" />
+<w c="abstract" e="机会" i="14" m="chance" t="n" />
+<w c="abstract" e="变化" i="15" m="change" t="n" />
+<w c="abstract" e="选择" i="16" m="choice" t="n" />
+<w c="abstract" e="条件" i="17" m="condition" t="n" />
+<w c="abstract" e="关系  [guan1 xi5]; 聯繫 联系 [lian2 xi4]" i="18" m="connection" t="n" />
+<w c="abstract" e="接口 [jie1 kou3]; 连接器 [lian2 jie1 qi4]" i="19" m="connection" t="n" />
+<w c="abstract" e="裂缝" i="20" m="crack" t="n" />
+<w c="abstract" e="壓碎 压碎 [ya1 sui4]; 軋 轧 [ya4]" i="21" m="crush" t="n" />
+<w c="abstract" e="危险" i="22" m="danger" t="n" />
+<w c="abstract" e="装饰物" i="23" m="decoration" t="n" />
+<w c="abstract" e="防御" i="24" m="defense" t="n" />
+<w c="abstract" e="覆滅 覆灭 [fu4 mie4]" i="25" m="destruction" t="n" />
+<w c="abstract" e="特殊" i="26" m="detail" t="n" />
+<w c="abstract" e="治理 治理 [zhi4 li3]; 治 治 [zhi4];" i="27" m="dominance" t="n" />
+<w c="abstract" e="滴 滴 [di2]; 水滴 水滴 [shui3 di1]" i="28" m="drop" t="n" />
+<w c="abstract" e="義務 义务 [yi4 wu4]; 職 职 [zhi2]; 責任 责任 [ze2 ren4]" i="29" m="duty" t="n" />
+<w c="abstract" e="力氣 力气 [li4 qi5]" i="30" m="effort" t="n" />
+<w c="abstract" e="落下" i="31" m="fall" t="n" />
+<w c="abstract" e="特征" i="32" m="feature" t="n" />
+<w c="abstract" e="斗争" i="33" m="fight" t="n" />
+<w c="abstract" e="前面" i="34" m="front" t="n" />
+<w c="abstract" e="海拔" i="35" m="height" t="n" />
+<w c="abstract" e="掊 掊 [pou3]" i="36" m="hit" t="n" />
+<w c="abstract" e="洞 (Mandarin: dong4; Cantonese: dong3)" i="37" m="hole" t="n" />
+<w c="abstract" e="增加" i="38" m="increase" t="n" />
+<w c="abstract" e="生长" i="39" m="increase" t="n" />
+<w c="abstract" e="互联网" i="40" m="internet" t="n" />
+<w c="abstract" e="震動 震动 [zhen4 dong4]; 震撼 震撼 [zhen4 han4]; 震 震 [zhen4]" i="41" m="jolt" t="n" />
+<w c="abstract" e="蹦  蹦 [beng4]; 跳 跳 [tiao4]" i="42" m="jump" t="n" />
+<w c="abstract" e="踢 踢 [ti1]; 踹 踹 [chuai4]" i="43" m="kick" t="n" />
+<w c="abstract" e="种类" i="44" m="kind" t="n" />
+<w c="abstract" e="结" i="45" m="knot" t="n" />
+<w c="abstract" e="列表" i="46" m="list" t="n" />
+<w c="abstract" e="多数" i="47" m="majority" t="n" />
+<w c="abstract" e="方式" i="48" m="manner" t="n" />
+<w c="abstract" e="事件" i="49" m="matter" t="n" />
+<w c="abstract" e="法儿 法儿 [ fa3 r]; 方法 方法 [fang1 fa3]; 辦法 办法 [ban4 fa3]" i="50" m="means" t="n" />
+<w c="abstract" e="头脑" i="51" m="mind" t="n" />
+<w c="abstract" e="性能" i="52" m="operation" t="n" />
+<w c="abstract" e="逆" i="53" m="opposite" t="n" />
+<w c="abstract" e="突发" i="54" m="outburst" t="n" />
+<w c="abstract" e="部分" i="55" m="part" t="n" />
+<w c="abstract" e="股票 股票 [gu3 piao4]; 份 份 [fen4]; 股 股 [gu3]" i="56" m="part" t="n" />
+<w c="abstract" e="部分" i="57" m="piece" t="n" />
+<w c="abstract" e="地方 地方 [di4 fang5]; 位子 位子 [wei4 zi5]; 位 位 [wei4]; 場所 场所 [chang3 suo3]; 位置 位置 [wei4 zhi5]; 所 所 [suo3]; 所在 所在 [suo3 zai4]" i="58" m="place" t="n" />
+<w c="abstract" e="地位" i="59" m="position" t="n" />
+<w c="abstract" e="势力" i="60" m="power" t="n" />
+<w c="abstract" e="實際 实际 [shi2 ji4]; 操練 操练 [cao1 lian4]; 演練 演练 [yan3 lian4]; 演習 演习 [yan3 xi2]" i="61" m="practice" t="n" />
+<w c="abstract" e="工程" i="62" m="project" t="n" />
+<w c="abstract" e="屬性 属性 [shu3 xing4]; 特性 特性 [te4 xing4]; 產業 产业 [chan3 ye4]" i="63" m="property" t="n" />
+<w c="abstract" e="品质" i="64" m="quality" t="n" />
+<w c="abstract" e="範圍 范围 [fan4 wei2]" i="65" m="reach" t="n" />
+<w c="abstract" e="報 报 [bao4]; 報告 报告 [bao4 gao4]" i="66" m="report" t="n" />
+<w c="abstract" e="可靠性" i="67" m="responsibility" t="n" />
+<w c="abstract" e="休止符 [xiu1 zhi3 fu2];" i="68" m="rest" t="n" />
+<w c="abstract" e="重回" i="69" m="return" t="n" />
+<w c="abstract" e="上升" i="70" m="rise" t="n" />
+<w c="abstract" e="危险" i="71" m="risk" t="n" />
+<w c="abstract" e="位置" i="72" m="seat" t="n" />
+<w c="abstract" e="系列 系列 [xi4 lie4]" i="73" m="serial" t="n" />
+<w c="abstract" e="機組 机组 [ji1 zu3]" i="74" m="set" t="n" />
+<w c="abstract" e="撼 撼 [han4]; 擻 擞 [sou3]; 震蕩 震荡 [zhen4 dang4]" i="75" m="shake" t="n" />
+<w c="abstract" e="震动" i="76" m="shock" t="n" />
+<w c="abstract" e="安静" i="77" m="silence" t="n" />
+<w c="abstract" e="情形 情形 [qing2 xing5]; 情況 情况 [qing2 kuang4]; 局勢 局势 [ju2 shi4]; 場合 场合 [chang3 he2]; 局 局 [ju2]" i="78" m="situation" t="n" />
+<w c="abstract" e="一塊 一块 [yi1 kuai4]; 塊 块 [kuai1]" i="79" m="slice" t="n" />
+<w c="abstract" e="狀 状 [zhuang4]; 狀態 状态 [zhuang4 tai4]; 狀況 状况 [zhuang4 kuang4]" i="80" m="state" t="n" />
+<w c="abstract" e="脚步" i="81" m="step" t="n" />
+<w c="abstract" e="終止 终止 [zhong1 zhi3]; 輟 辍 [chuo4]" i="82" m="stop" t="n" />
+<w c="abstract" e="滋味" i="83" m="taste" t="n" />
+<w c="abstract" e="物" i="84" m="thing" t="n" />
+<w c="abstract" e="上麵 上面 [shang4 mian5]; 蓋子 盖子 [gai4 zi5]; 蓋 盖 [gai4]; 頂 顶 [ding3]; 頂端 顶端 [ding3 duan1]; 尖 尖 [jian1]" i="85" m="top" t="n" />
+<w c="abstract" e="觸 触 [chu4]" i="86" m="touch" t="n" />
+<w c="abstract" e="处理" i="87" m="treatment" t="n" />
+<w c="abstract" e="手法" i="88" m="trick" t="n" />
+<w c="abstract" e="种类" i="89" m="type" t="n" />
+<w c="abstract" e="用途 用途 [yong4 tu2]" i="90" m="use" t="n" />
+<w c="abstract" e="全 全 [quan2]; 全部 全部 [quan2 bu4]; 完全 完全 [wan2 quan2]; 整体 整体 [zheng3 ji3]" i="91" m="whole" t="n" />
+<w c="abstract" e="意志 意志 [yi4 zhi4]" i="92" m="will" t="n" />
+<w c="abstract" e="愿望" i="93" m="wish" t="n" />
+<w c="adjectives" e="以前 (yǐqián)" i="94" m="ago" t="adj" />
+<w c="adjectives" e="全部" i="95" m="all" t="adj" />
+<w c="adjectives" e="自动的; 自动的" i="96" m="automatic" t="adj" />
+<w c="adjectives" e="苦的" i="97" m="bitter" t="adj" />
+<w c="adjectives" e="乏味" i="98" m="boring" t="adj" />
+<w c="adjectives" e="双方" i="99" m="both" t="adj" />
+<w c="adjectives" e="中央" i="100" m="central" t="adj" />
+<w c="adjectives" e="確定;  确定 (quèdìng); 当然 (dāngrán)" i="101" m="certain" t="adj" />
+<w c="adjectives" e="便宜" i="102" m="cheap" t="adj" />
+<w c="adjectives" e="化学的" i="103" m="chemical" t="adj" />
+<w c="adjectives" e="结束" i="104" m="closed" t="adj" />
+<w c="adjectives" e="完全" i="105" m="complete" t="adj" />
+<w c="adjectives" e="野蛮的" i="106" m="cruel" t="adj" />
+<w c="adjectives" e="危險; 危险" i="107" m="dangerous" t="adj" />
+<w c="adjectives" e="不一样" i="108" m="different" t="adj" />
+<w c="adjectives" e="向下" i="109" m="down" t="adj" />
+<w c="adjectives" e="干的" i="110" m="dry" t="adj" />
+<w c="adjectives" e="每" i="111" m="each" t="adj" />
+<w c="adjectives" e="早的" i="112" m="early" t="adj" />
+<w c="adjectives" e="电的" i="113" m="electric" t="adj" />
+<w c="adjectives" e="每一" i="114" m="every" t="adj" />
+<w c="adjectives" e="較遠的 / 较远的 (jiào yuǎn de); 遠 / 远 (yuǎn)" i="115" m="far" t="adj" />
+<w c="adjectives" e="终端" i="116" m="final" t="adj" />
+<w c="adjectives" e="财政的" i="117" m="financial" t="adj" />
+<w c="adjectives" e="平的" i="118" m="flat" t="adj" />
+<w c="adjectives" e="下一个" i="119" m="following" t="adj" />
+<w c="adjectives" e="外國的; 外国的 (wàiguó-de)" i="120" m="foreign" t="adj" />
+<w c="adjectives" e="使自由" i="121" m="free" t="adj" />
+<w c="adjectives" e="頻繁; 频繁" i="122" m="frequent" t="adj" />
+<w c="adjectives" e="充满的" i="123" m="full" t="adj" />
+<w c="adjectives" e="一般" i="124" m="general" t="adj" />
+<w c="adjectives" e="有趣 (yǒuqù); 有意思 (yǒu yìsi)" i="125" m="interesting" t="adj" />
+<w c="adjectives" e="国际" i="126" m="international" t="adj" />
+<w c="adjectives" e="最后的" i="127" m="last" t="adj" />
+<w c="adjectives" e="晚 (wǎn); 迟 (chí)；迟到 (chí dào)" i="128" m="late" t="adj" />
+<w c="adjectives" e="法律的" i="129" m="legal" t="adj" />
+<w c="adjectives" e="当地的" i="130" m="local" t="adj" />
+<w c="adjectives" e="幸运的" i="131" m="lucky" t="adj" />
+<w c="adjectives" e="首要 (shǒuyào); 重要 (zhòngyào)" i="132" m="main" t="adj" />
+<w c="adjectives" e="许多的" i="133" m="many" t="adj" />
+<w c="adjectives" e="軍事" i="134" m="military" t="adj" />
+<w c="adjectives" e="更多" i="135" m="more" t="adj" />
+<w c="adjectives" e="窄的 (zhǎide)" i="136" m="narrow" t="adj" />
+<w c="adjectives" e="国民" i="137" m="national" t="adj" />
+<w c="adjectives" e="无" i="138" m="no" t="adj" />
+<w c="adjectives" e="正常的" i="139" m="normal" t="adj" />
+<w c="adjectives" e="原始的" i="140" m="original" t="adj" />
+<w c="adjectives" e="另外的" i="141" m="other" t="adj" />
+<w c="adjectives" e="自己的" i="142" m="own" t="adj" />
+<w c="adjectives" e="平行" i="143" m="parallel" t="adj" />
+<w c="adjectives" e="个人的" i="144" m="personal" t="adj" />
+<w c="adjectives" e="身体的" i="145" m="physical" t="adj" />
+<w c="adjectives" e="差勁 差劲 [cha1 jin4]" i="146" m="poor" t="adj" />
+<w c="adjectives" e="现在的" i="147" m="present" t="adj" />
+<w c="adjectives" e="私人的" i="148" m="private" t="adj" />
+<w c="adjectives" e="可能" i="149" m="probable" t="adj" />
+<w c="adjectives" e="专业的" i="150" m="professional" t="adj" />
+<w c="adjectives" e="公共的" i="151" m="public" t="adj" />
+<w c="adjectives" e="安静" i="152" m="quiet" t="adj" />
+<w c="adjectives" e="有责任的" i="153" m="responsible" t="adj" />
+<w c="adjectives" e="相同的" i="154" m="same" t="adj" />
+<w c="adjectives" e="简单化" i="155" m="simple" t="adj" />
+<w c="adjectives" e="小 (xiǎo)" i="156" m="small" t="adj" />
+<w c="adjectives" e="光滑的" i="157" m="smooth" t="adj" />
+<w c="adjectives" e="特定的 (tèdìng de)" i="158" m="specific" t="adj" />
+<w c="adjectives" e="方" i="159" m="square" t="adj" />
+<w c="adjectives" e="直" i="160" m="straight" t="adj" />
+<w c="adjectives" e="突然的" i="161" m="sudden" t="adj" />
+<w c="adjectives" e="高的 (gāo-de)" i="162" m="tall" t="adj" />
+<w c="adjectives" e="真实的" i="163" m="true" t="adj" />
+<w c="adjectives" e="難看; 难看 (nánkàn); 醜 (chǒu)" i="164" m="ugly" t="adj" />
+<w c="adjectives" e="在...下面 (zài...xiàmiàn)" i="165" m="under" t="adj" />
+<w c="adjectives" e="通常 (tōngcháng)" i="166" m="usual" t="adj" />
+<w c="adjectives" e="濕 (shī)" i="167" m="wet" t="adj" />
+<w c="adjectives" e="整個; 整个 (zhěnggè)" i="168" m="whole" t="adj" />
+<w c="adjectives" e="宽; 宽广的; 宽阔的" i="169" m="wide" t="adj" />
+<w c="adjectives" e="坏的" i="170" m="bad" t="adj" />
+<w c="adjectives" e="美丽的" i="171" m="beautiful" t="adj" />
+<w c="adjectives" e="最好 (zuì háo)" i="172" m="best" t="adj" />
+<w c="adjectives" e="大" i="173" m="big" t="adj" />
+<w c="adjectives" e="冷的" i="174" m="cold" t="adj" />
+<w c="adjectives" e="黑暗的" i="175" m="dark" t="adj" />
+<w c="adjectives" e="沉重" i="176" m="difficult" t="adj" />
+<w c="adjectives" e="迅速" i="177" m="fast" t="adj" />
+<w c="adjectives" e="好的" i="178" m="good" t="adj" />
+<w c="adjectives" e="伟大的" i="179" m="great" t="adj" />
+<w c="adjectives" e="高興 (gāoxìng)" i="180" m="happy" t="adj" />
+<w c="adjectives" e="沉重" i="181" m="heavy" t="adj" />
+<w c="adjectives" e="热" i="182" m="hot" t="adj" />
+<w c="adjectives" e="左" i="183" m="left" t="adj" />
+<w c="adjectives" e="轻的" i="184" m="light" t="adj" />
+<w c="adjectives" e="长 (cháng)" i="185" m="long" t="adj" />
+<w c="adjectives" e="新的" i="186" m="new" t="adj" />
+<w c="adjectives" e="強的; 强的 (qiángde)" i="187" m="strong" t="adj" />
+<w c="adjectives" e="微弱 (wēiruò)" i="188" m="weak" t="adj" />
+<w c="adjective" e="能够的" i="189" m="able" t="adj" />
+<w c="adjective" e="活着的" i="190" m="alive" t="adj" />
+<w c="adjective" e="寂寞" i="191" m="alone" t="adj" />
+<w c="adjective" e="死" i="192" m="dead" t="adj" />
+<w c="adjective" e="女" i="193" m="female" t="adj" />
+<w c="adjective" e="自由的" i="194" m="free" t="adj" />
+<w c="adjective" e="人的" i="195" m="human" t="adj" />
+<w c="adjective" e="餓/饿 è" i="196" m="hungry" t="adj" />
+<w c="adjective" e="疒; 病" i="197" m="ill" t="adj" />
+<w c="adjective" e="聪明的" i="198" m="intelligent" t="adj" />
+<w c="adjective" e="和蔼的" i="199" m="kind" t="adj" />
+<w c="adjective" e="雄性" i="200" m="male" t="adj" />
+<w c="adjective" e="卑鄙 卑鄙 [bei1 bi3]" i="201" m="mean" t="adj" />
+<w c="adjective" e="医学的" i="202" m="medical" t="adj" />
+<w c="adjective" e="旧的" i="203" m="old" t="adj" />
+<w c="adjective" e="患者" i="204" m="patient" t="adj" />
+<w c="adjective" e="穷" i="205" m="poor" t="adj" />
+<w c="adjective" e="富的; 富裕的" i="206" m="rich" t="adj" />
+<w c="adjective" e="愚蠢的" i="207" m="stupid" t="adj" />
+<w c="adjective" e="累 (lèi)" i="208" m="tired" t="adj" />
+<w c="adjective" e="聪 (cōng)" i="209" m="wise" t="adj" />
+<w c="adjective" e="niánqīng (年轻)" i="210" m="young" t="adj" />
+<w c="adverb" e="上" i="211" m="above" t="adv" />
+<w c="adverb" e="又" i="212" m="again" t="adv" />
+<w c="adverb" e="几乎" i="213" m="almost" t="adv" />
+<w c="adverb" e="已经" i="214" m="already" t="adv" />
+<w c="adverb" e="总是" i="215" m="always" t="adv" />
+<w c="adverb" e="大概" i="216" m="approximately" t="adv" />
+<w c="adverb" e="直接地" i="217" m="directly" t="adv" />
+<w c="adverb" e="足够" i="218" m="enough" t="adv" />
+<w c="adverb" e="恰恰" i="219" m="exactly" t="adv" />
+<w c="adverb" e="在前" i="220" m="forward" t="adv" />
+<w c="adverb" e="这里 (zhèlǐ); 这儿 (zhèr)" i="221" m="here" t="adv" />
+<w c="adverb" e="仍然" i="222" m="however" t="adv" />
+<w c="adverb" e="立刻" i="223" m="immediately" t="adv" />
+<w c="adverb" e="在...里面 (zài...lǐmiàn)" i="224" m="inside" t="adv" />
+<w c="adverb" e="从不" i="225" m="never" t="adv" />
+<w c="adverb" e="不 (bu)" i="226" m="not" t="adv" />
+<w c="adverb" e="现在 (xiànzài)" i="227" m="now" t="adv" />
+<w c="adverb" e="常常" i="228" m="often" t="adv" />
+<w c="adverb" e="一次" i="229" m="once" t="adv" />
+<w c="adverb" e="请 (qǐng)" i="230" m="please" t="adv" />
+<w c="adverb" e="大概" i="231" m="possibly" t="adv" />
+<w c="adverb" e="真实地" i="232" m="really" t="adv" />
+<w c="adverb" e="确实" i="233" m="really" t="adv" />
+<w c="adverb" e="最近" i="234" m="recently" t="adv" />
+<w c="adverb" e="仅仅" i="235" m="simply" t="adv" />
+<w c="adverb" e="有时" i="236" m="sometimes" t="adv" />
+<w c="adverb" e="不久" i="237" m="soon" t="adv" />
+<w c="adverb" e="仍然" i="238" m="still" t="adv" />
+<w c="adverb" e="这样" i="239" m="such" t="adv" />
+<w c="adverb" e="突然 (tūrán)" i="240" m="suddenly" t="adv" />
+<w c="adverb" e="一定" i="241" m="surely" t="adv" />
+<w c="adverb" e="因此" i="242" m="therefore" t="adv" />
+<w c="adverb" e="今天" i="243" m="today" t="adv" />
+<w c="adverb" e="一起" i="244" m="together" t="adv" />
+<w c="adverb" e="明天" i="245" m="tomorrow" t="adv" />
+<w c="adverb" e="今晚 (jīnwǎn)" i="246" m="tonight" t="adv" />
+<w c="adverb" e="也" i="247" m="too" t="adv" />
+<w c="adverb" e="向上 (xiàngshàng)" i="248" m="up" t="adv" />
+<w c="adverb" e="非常" i="249" m="very" t="adv" />
+<w c="adverb" e="好" i="250" m="well" t="adv" />
+<w c="anatomy" e="手臂" i="251" m="arm" t="noun" />
+<w c="anatomy" e="背部" i="252" m="back" t="noun" />
+<w c="anatomy" e="法案" i="253" m="beak" t="noun" />
+<w c="anatomy" e="血" i="254" m="blood" t="noun" />
+<w c="anatomy" e="體 体 [ti3]; 身 身 [shen1]; 物體 物体 [wu4 ti3]; 身体 [shen1 ti3]" i="255" m="body" t="noun" />
+<w c="anatomy" e="骨头" i="256" m="bone" t="noun" />
+<w c="anatomy" e="脑" i="257" m="brain" t="noun" />
+<w c="anatomy" e="鼻息" i="258" m="breath" t="noun" />
+<w c="anatomy" e="細胞 细胞 [xi4 bao1]" i="259" m="cell" t="noun" />
+<w c="anatomy" e="胸部" i="260" m="chest" t="noun" />
+<w c="anatomy" e="胸膛" i="261" m="chest" t="noun" />
+<w c="anatomy" e="颔" i="262" m="chin" t="noun" />
+<w c="anatomy" e="耳" i="263" m="ear" t="noun" />
+<w c="anatomy" e="眼睛" i="264" m="eye" t="noun" />
+<w c="anatomy" e="脸" i="265" m="face" t="noun" />
+<w c="anatomy" e="指" i="266" m="finger" t="noun" />
+<w c="anatomy" e="脚" i="267" m="foot" t="noun" />
+<w c="anatomy" e="额" i="268" m="forehead" t="noun" />
+<w c="anatomy" e="基因" i="269" m="gene" t="noun" />
+<w c="anatomy" e="毛髮 毛发 [mao2 fa4]; 毫 毫 [hao2]; 髮 发 [fa4]; 毛 毛 [mao2]" i="270" m="hair" t="noun" />
+<w c="anatomy" e="毛发" i="271" m="hair" t="noun" />
+<w c="anatomy" e="手" i="272" m="hand" t="noun" />
+<w c="anatomy" e="头" i="273" m="head" t="noun" />
+<w c="anatomy" e="心" i="274" m="heart" t="noun" />
+<w c="anatomy" e="膝" i="275" m="knee" t="noun" />
+<w c="anatomy" e="腿" i="276" m="leg" t="noun" />
+<w c="anatomy" e="唇" i="277" m="lip" t="noun" />
+<w c="anatomy" e="口" i="278" m="mouth" t="noun" />
+<w c="anatomy" e="肌肉" i="279" m="muscle" t="noun" />
+<w c="anatomy" e="指甲 [zhi1 jia5]" i="280" m="nail" t="noun" />
+<w c="anatomy" e="脖子" i="281" m="neck" t="noun" />
+<w c="anatomy" e="胆量" i="282" m="nerve" t="noun" />
+<w c="anatomy" e="鼻子" i="283" m="nose" t="noun" />
+<w c="anatomy" e="皮 皮 [pi2]; 皮膚 皮肤 [pi2 fu1]; 膚 肤 [fu1]" i="284" m="skin" t="noun" />
+<w c="anatomy" e="腹" i="285" m="stomach" t="noun" />
+<w c="anatomy" e="尾巴" i="286" m="tail" t="noun" />
+<w c="anatomy" e="喉咙" i="287" m="throat" t="noun" />
+<w c="anatomy" e="拇指" i="288" m="thumb" t="noun" />
+<w c="anatomy" e="脚趾" i="289" m="toe" t="noun" />
+<w c="anatomy" e="舌头" i="290" m="tongue" t="noun" />
+<w c="anatomy" e="牙" i="291" m="tooth" t="noun" />
+<w c="anatomy" e="翅膀" i="292" m="wing" t="noun" />
+<w c="animals" e="蚂蚁" i="293" m="ant" t="noun" />
+<w c="animals" e="熊" i="294" m="bear" t="noun" />
+<w c="animals" e="蜜蜂" i="295" m="bee" t="noun" />
+<w c="animals" e="鸟" i="296" m="bird" t="noun" />
+<w c="animals" e="猫" i="297" m="cat" t="noun" />
+<w c="animals" e="母牛" i="298" m="cow" t="noun" />
+<w c="animals" e="狗" i="299" m="dog" t="noun" />
+<w c="animals" e="象" i="300" m="elephant" t="noun" />
+<w c="animals" e="鱼" i="301" m="fish" t="noun" />
+<w c="animals" e="苍蝇" i="302" m="fly" t="noun" />
+<w c="animals" e="山羊" i="303" m="goat" t="noun" />
+<w c="animals" e="马" i="304" m="horse" t="noun" />
+<w c="animals" e="虫" i="305" m="insect" t="noun" />
+<w c="animals" e="狮子" i="306" m="lion" t="noun" />
+<w c="animals" e="猴子" i="307" m="monkey" t="noun" />
+<w c="animals" e="猪" i="308" m="pig" t="noun" />
+<w c="animals" e="绵羊" i="309" m="sheep" t="noun" />
+<w c="animals" e="蛇" i="310" m="snake" t="noun" />
+<w c="art" e="艺术" i="311" m="art" t="n" />
+<w c="art" e="帶 带 [dai4]; 帶子 带子 [dai4 zi5]; 樂隊 乐队 [yue4 dui4]" i="312" m="band" t="n" />
+<w c="art" e="颜色" i="313" m="color" t="n" />
+<w c="art" e="音乐会" i="314" m="concert" t="n" />
+<w c="art" e="多样" i="315" m="diversity" t="n" />
+<w c="art" e="娱乐" i="316" m="entertainment" t="n" />
+<w c="art" e="打 打 [da3]" i="317" m="hit" t="n" />
+<w c="art" e="形象 形象 [xing2 xiang4]; 像 像 [xiang4]; 影像 影像 [ying3 xiang4]; 影 影 [ying3]" i="318" m="image" t="n" />
+<w c="art" e="薄膜" i="319" m="movie" t="n" />
+<w c="art" e="音乐" i="320" m="music" t="n" />
+<w c="art" e="音符 [yin1 fu2]" i="321" m="note" t="n" />
+<w c="art" e="乐队" i="322" m="orchestra" t="n" />
+<w c="art" e="颜料" i="323" m="paint" t="n" />
+<w c="art" e="画" i="324" m="painting" t="n" />
+<w c="art" e="图象" i="325" m="picture" t="n" />
+<w c="art" e="诗" i="326" m="poetry" t="n" />
+<w c="art" e="旋律" i="327" m="rhythm" t="n" />
+<w c="art" e="歌曲" i="328" m="song" t="n" />
+<w c="art" e="舞台" i="329" m="stage" t="n" />
+<w c="art" e="样式" i="330" m="style" t="n" />
+<w c="art" e="时髦" i="331" m="vogue" t="n" />
+<w c="article" e="classifier" i="332" m="the" t="" />
+<w c="business" e="帐目" i="333" m="account" t="n" />
+<w c="business" e="好處 好处 [hao3 chu5]; 裨益 裨益 [bi4 yi4]" i="334" m="advantage" t="n" />
+<w c="business" e="廣告" i="335" m="advertisement" t="n" />
+<w c="business" e="忠告" i="336" m="advice" t="n" />
+<w c="business" e="协议" i="337" m="agreement" t="n" />
+<w c="business" e="注意" i="338" m="attention" t="n" />
+<w c="business" e="大權 大权 [da4 quan2]; 柄 柄 [bing3]; 權 权 [quan2]; 權威 权威 [quan2 wei1]; 權柄 权柄 [quan2 bing3]" i="339" m="authority" t="n" />
+<w c="business" e="紙幣" i="340" m="banknote" t="n" />
+<w c="business" e="生意 生意 [sheng1 yi5]; 事情 事情 [shi4 qing5]; 商務 商务 [shang1 wu4]; 商業 商业 [shang1 ye4]; 業務 业务 [ye4 wu4]" i="341" m="business" t="n" />
+<w c="business" e="女实业家 (nu-shiyejia)" i="342" m="businesswoman" t="n" />
+<w c="business" e="资本" i="343" m="capital" t="n" />
+<w c="business" e="支票" i="344" m="check" t="n" />
+<w c="business" e="佣金" i="345" m="committee" t="n" />
+<w c="business" e="公司" i="346" m="company" t="n" />
+<w c="business" e="競爭 竞争 [jing4 zheng1]" i="347" m="competition" t="n" />
+<w c="business" e="控告" i="348" m="complaint" t="n" />
+<w c="business" e="竞争" i="349" m="contest" t="n" />
+<w c="business" e="合同" i="350" m="contract" t="n" />
+<w c="business" e="抄件 [chao1 jian4]" i="351" m="copy" t="n" />
+<w c="business" e="费用" i="352" m="cost" t="n" />
+<w c="business" e="评议会" i="353" m="council" t="n" />
+<w c="business" e="课程" i="354" m="course" t="n" />
+<w c="business" e="客户" i="355" m="customer" t="n" />
+<w c="business" e="待 待 [dai4]; 要有 要有 [yao4 you3]; 需 需 [xu1]" i="356" m="demand" t="n" />
+<w c="business" e="部" i="357" m="department" t="n" />
+<w c="business" e="圖案 图案 [tu2 an4]; 設計 设计 [she4 ji4]" i="358" m="design" t="n" />
+<w c="business" e="蹇 蹇 [jian3]; 難 难 [nan2]; 困難 困难 [kun4 nan5]" i="359" m="difficulty" t="n" />
+<w c="business" e="针对性" i="360" m="direction" t="n" />
+<w c="business" e="管理员" i="361" m="director" t="n" />
+<w c="business" e="经济" i="362" m="economy" t="n" />
+<w c="business" e="环境" i="363" m="environment" t="n" />
+<w c="business" e="经历" i="364" m="experience" t="n" />
+<w c="business" e="公司" i="365" m="firm" t="n" />
+<w c="business" e="表格" i="366" m="form" t="n" />
+<w c="business" e="团体" i="367" m="group" t="n" />
+<w c="business" e="帮助" i="368" m="help" t="n" />
+<w c="business" e="假期" i="369" m="holiday" t="n" />
+<w c="business" e="收入" i="370" m="income" t="n" />
+<w c="business" e="工业" i="371" m="industry" t="n" />
+<w c="business" e="保险" i="372" m="insurance" t="n" />
+<w c="business" e="利息" i="373" m="interest" t="n" />
+<w c="business" e="发票" i="374" m="invoice" t="n" />
+<w c="business" e="工作" i="375" m="job" t="n" />
+<w c="business" e="法" i="376" m="law" t="n" />
+<w c="business" e="败" i="377" m="loss" t="n" />
+<w c="business" e="管理" i="378" m="management" t="n" />
+<w c="business" e="标记" i="379" m="marker" t="n" />
+<w c="business" e="销售" i="380" m="market" t="n" />
+<w c="business" e="材料" i="381" m="material" t="n" />
+<w c="business" e="平均数" i="382" m="mean" t="n" />
+<w c="business" e="會議 会议 [hui4 yi4]" i="383" m="meeting" t="n" />
+<w c="business" e="金钱" i="384" m="money" t="n" />
+<w c="business" e="饭碗" i="385" m="occupation" t="n" />
+<w c="business" e="裁判" i="386" m="offer" t="n" />
+<w c="business" e="辦公室 办公室 [ban4 gong1 shi4]; 辦事處 办事处 [ban4 shi4 chu4]; 職 职 [zhi2]; 處 处 [chu4]; 局 局 [ju2]" i="387" m="office" t="n" />
+<w c="business" e="操作" i="388" m="operation" t="n" />
+<w c="business" e="所有者 所有者 [suo3 you3 zhe1]; 物主 物主 [wu4 zhu3]" i="389" m="owner" t="n" />
+<w c="business" e="包" i="390" m="package" t="n" />
+<w c="business" e="部门" i="391" m="part" t="n" />
+<w c="business" e="付款" i="392" m="payment" t="n" />
+<w c="business" e="计划" i="393" m="plan" t="n" />
+<w c="business" e="價 价 [jia4]; 價格 价格 [jia4 ge2]; 價錢 价钱 [jia4 qian5]" i="394" m="price" t="n" />
+<w c="business" e="问题" i="395" m="problem" t="n" />
+<w c="business" e="产品" i="396" m="product" t="n" />
+<w c="business" e="利润" i="397" m="profit" t="n" />
+<w c="business" e="属性" i="398" m="property" t="n" />
+<w c="business" e="速率" i="399" m="rate" t="n" />
+<w c="business" e="零头" i="400" m="rest" t="n" />
+<w c="business" e="权利" i="401" m="right" t="n" />
+<w c="business" e="销售" i="402" m="sale" t="n" />
+<w c="business" e="阶段" i="403" m="section" t="n" />
+<w c="business" e="服务" i="404" m="service" t="n" />
+<w c="business" e="股份" i="405" m="share" t="n" />
+<w c="business" e="商店" i="406" m="shop" t="n" />
+<w c="business" e="表演" i="407" m="show" t="n" />
+<w c="business" e="一手 一手 [yi1 shou3]; 手法 手法 [shou3 fa3]; 技巧 技巧 [ji4 qiao3]" i="408" m="skill" t="n" />
+<w c="business" e="人员" i="409" m="staff" t="n" />
+<w c="business" e="構造 构造 [gou4 zao4]; 結構 结构 [jie2 gou4]" i="410" m="structure" t="n" />
+<w c="business" e="成功" i="411" m="success" t="n" />
+<w c="business" e="援助" i="412" m="support" t="n" />
+<w c="business" e="表格 表格 [biao3 ge2]" i="413" m="table" t="n" />
+<w c="business" e="税" i="414" m="tax" t="n" />
+<w c="business" e="团队" i="415" m="team" t="n" />
+<w c="business" e="贸" i="416" m="trade" t="n" />
+<w c="business" e="推崇" i="417" m="value" t="n" />
+<w c="business" e="酬劳" i="418" m="wages" t="n" />
+<w c="business" e="工作" i="419" m="work" t="n" />
+<w c="business" e="工人" i="420" m="worker" t="n" />
+<w c="city" e="飞机场" i="421" m="airport" t="n" />
+<w c="city" e="银行" i="422" m="bank" t="n" />
+<w c="city" e="橋" i="423" m="bridge" t="n" />
+<w c="city" e="建筑物" i="424" m="building" t="n" />
+<w c="city" e="首都" i="425" m="capital" t="n" />
+<w c="city" e="城堡" i="426" m="castle" t="n" />
+<w c="city" e="教堂" i="427" m="church" t="n" />
+<w c="city" e="电影院" i="428" m="cinema" t="n" />
+<w c="city" e="城市" i="429" m="city" t="n" />
+<w c="city" e="工厂" i="430" m="factory" t="n" />
+<w c="city" e="公寓" i="431" m="flat" t="n" />
+<w c="city" e="医院" i="432" m="hospital" t="n" />
+<w c="city" e="宾馆" i="433" m="hotel" t="n" />
+<w c="city" e="库" i="434" m="library" t="n" />
+<w c="city" e="博物馆" i="435" m="museum" t="n" />
+<w c="city" e="公园" i="436" m="park" t="n" />
+<w c="city" e="监狱 (jiān yù)" i="437" m="prison" t="n" />
+<w c="city" e="餐厅" i="438" m="restaurant" t="n" />
+<w c="city" e="道路" i="439" m="road" t="n" />
+<w c="city" e="学校" i="440" m="school" t="n" />
+<w c="city" e="火车站" i="441" m="station" t="n" />
+<w c="city" e="道路" i="442" m="street" t="n" />
+<w c="city" e="建筑" i="443" m="structure" t="n" />
+<w c="city" e="地铁" i="444" m="subway" t="n" />
+<w c="city" e="超级市场" i="445" m="supermarket" t="n" />
+<w c="city" e="剧场" i="446" m="theater" t="n" />
+<w c="city" e="镇" i="447" m="town" t="n" />
+<w c="city" e="大學 大学 [da4 xue2]" i="448" m="university" t="n" />
+<w c="city" e="村庄" i="449" m="village" t="n" />
+<w c="clothes" e="靴" i="450" m="boot" t="n" />
+<w c="clothes" e="纺织品" i="451" m="cloth" t="n" />
+<w c="clothes" e="衣服" i="452" m="clothing" t="n" />
+<w c="clothes" e="外衣  [wai4 yi1]; 塗層 涂层 [tu2 ceng2]; 外套 外套 [wai4 tao4]" i="453" m="coat" t="n" />
+<w c="clothes" e="硬領 硬领 [ying4 ling3]; 領子 领子 [ling3 zi5]" i="454" m="collar" t="n" />
+<w c="clothes" e="帽子" i="455" m="hat" t="n" />
+<w c="clothes" e="夹克" i="456" m="jacket" t="n" />
+<w c="clothes" e="珠宝" i="457" m="jewel" t="n" />
+<w c="clothes" e="戒指" i="458" m="ring" t="n" />
+<w c="clothes" e="衬衫" i="459" m="shirt" t="n" />
+<w c="clothes" e="鞋" i="460" m="shoe" t="n" />
+<w c="clothes" e="裙子" i="461" m="skirt" t="n" />
+<w c="clothes" e="短袜" i="462" m="sock" t="n" />
+<w c="clothes" e="手提箱" i="463" m="suitcase" t="n" />
+<w c="clothes" e="领带" i="464" m="tie" t="n" />
+<w c="colors" e="黑色的" i="465" m="black" t="adj" />
+<w c="colors" e="蓝 (lán)" i="466" m="blue" t="adj" />
+<w c="colors" e="褐色" i="467" m="brown" t="adj" />
+<w c="colors" e="灰色的" i="468" m="gray" t="adj" />
+<w c="colors" e="绿色的" i="469" m="green" t="adj" />
+<w c="colors" e="橙 (chéng)" i="470" m="orange" t="adj" />
+<w c="colors" e="玫瑰色" i="471" m="pink" t="adj" />
+<w c="colors" e="紫色" i="472" m="violet" t="adj" />
+<w c="colors" e="白色的" i="473" m="white" t="adj" />
+<w c="colors" e="黄色" i="474" m="yellow" t="adj" />
+<w c="communication" e="通告" i="475" m="announcement" t="n" />
+<w c="communication" e="响应" i="476" m="answer" t="n" />
+<w c="communication" e="吵架" i="477" m="argument" t="n" />
+<w c="communication" e="道理" i="478" m="argument" t="n" />
+<w c="communication" e="书" i="479" m="book" t="n" />
+<w c="communication" e="召喚 召唤 [zhao4 huan4]; 號召 号召 [hao4 zhao4]" i="480" m="call" t="n" />
+<w c="communication" e="文字" i="481" m="character" t="n" />
+<w c="communication" e="叫喊" i="482" m="cry" t="n" />
+<w c="communication" e="数据" i="483" m="data" t="n" />
+<w c="communication" e="判定" i="484" m="decision" t="n" />
+<w c="communication" e="词典" i="485" m="dictionary" t="n" />
+<w c="communication" e="討論 / 讨论 (tǎolùn)" i="486" m="discussion" t="n" />
+<w c="communication" e="不确定" i="487" m="doubt" t="n" />
+<w c="communication" e="色" i="488" m="expression" t="n" />
+<w c="communication" e="幽默" i="489" m="humor" t="n" />
+<w c="communication" e="思想" i="490" m="idea" t="n" />
+<w c="communication" e="信息" i="491" m="information" t="n" />
+<w c="communication" e="兴致" i="492" m="interest" t="n" />
+<w c="communication" e="晤面" i="493" m="interview" t="n" />
+<w c="communication" e="语言学" i="494" m="language" t="n" />
+<w c="communication" e="自然语言" i="495" m="language" t="n" />
+<w c="communication" e="字母" i="496" m="letter" t="n" />
+<w c="communication" e="信件" i="497" m="letter" t="n" />
+<w c="communication" e="谎言" i="498" m="lie" t="n" />
+<w c="communication" e="杂志" i="499" m="magazine" t="n" />
+<w c="communication" e="邮政" i="500" m="mail" t="n" />
+<w c="communication" e="记忆" i="501" m="memory" t="n" />
+<w c="communication" e="記憶" i="502" m="memory" t="n" />
+<w c="communication" e="错误" i="503" m="mistake" t="n" />
+<w c="communication" e="名字" i="504" m="name" t="n" />
+<w c="communication" e="*报纸??" i="505" m="newspaper" t="n" />
+<w c="communication" e="注释" i="506" m="note" t="n" />
+<w c="communication" e="编号" i="507" m="number" t="n" />
+<w c="communication" e="意见" i="508" m="opinion" t="n" />
+<w c="communication" e="页" i="509" m="page" t="n" />
+<w c="communication" e="点" i="510" m="point" t="n" />
+<w c="communication" e="发音" i="511" m="pronunciation" t="n" />
+<w c="communication" e="议案" i="512" m="proposal" t="n" />
+<w c="communication" e="抗议" i="513" m="protest" t="n" />
+<w c="communication" e="查询" i="514" m="question" t="n" />
+<w c="communication" e="反映" i="515" m="reaction" t="n" />
+<w c="communication" e="理由 理由 [li3 you2]; 緣由 缘由 [yuan2 you2]; 情理 情理 [qing2 li3]; 故 故 [gu4]" i="516" m="reason" t="n" />
+<w c="communication" e="親 亲 [qin1]" i="517" m="relation" t="n" />
+<w c="communication" e="请求" i="518" m="request" t="n" />
+<w c="communication" e="奧妙 奥妙 [ao4 miao4]; 密 密 [mi4]; 陰事 阴事 [yin1 shi4]" i="519" m="secret" t="n" />
+<w c="communication" e="句子" i="520" m="sentence" t="n" />
+<w c="communication" e="形像 形像 [xing2 xiang4]; 形式 形式 [xing2 shi4]; 形狀 形状 [xing2 zhuang4]; 養  养 [yang3]; 結成 结成 [jie2 cheng2]; 程限 [cheng2 xian4]; 状貌 [zhuang4 mao4]" i="521" m="shape" t="n" />
+<w c="communication" e="牌子 牌子 [pai2 zi5]; 手勢 手势 [shou3 shi4]; 符號 符号 [fu2 hao4]; 跡象 迹象 [ji1 xiang4]" i="522" m="sign" t="n" />
+<w c="communication" e="拼字" i="523" m="spelling" t="n" />
+<w c="communication" e="标准" i="524" m="standard" t="n" />
+<w c="communication" e="说法" i="525" m="statement" t="n" />
+<w c="communication" e="主题" i="526" m="subject" t="n" />
+<w c="communication" e="建議 建议 [jian4 yi4]" i="527" m="suggestion" t="n" />
+<w c="communication" e="声音" i="528" m="voice" t="n" />
+<w c="communication" e="词" i="529" m="word" t="n" />
+<w c="communication" e="书面语" i="530" m="writing" t="n" />
+<w c="conjunction" e="和" i="531" m="and" t="conj" />
+<w c="conjunction" e="因为" i="532" m="because" t="conj" />
+<w c="conjunction" e="對 对 [dui4]; 對於  对于[ dui4 yu2]; 為 为 [wei4]; 給 给 [gei3]" i="533" m="for" t="conj" />
+<w c="conjunction" e="如果" i="534" m="if" t="conj" />
+<w c="conjunction" e="或" i="535" m="or" t="conj" />
+<w c="conjunction" e="比 (bǐ)" i="536" m="than" t="conj" />
+<w c="conjunction" e="直到" i="537" m="until" t="conj" />
+<w c="conjunction" e="無論何時; 无论何时 (wúlùn héshí)" i="538" m="whenever" t="conj" />
+<w c="containers" e="袋" i="539" m="bag" t="n" />
+<w c="containers" e="簏" i="540" m="basket" t="n" />
+<w c="containers" e="瓶子" i="541" m="bottle" t="n" />
+<w c="containers" e="箱 箱 [xiang1]; 匣 匣 [xia2]" i="542" m="box" t="n" />
+<w c="containers" e="鍍錫 镀锡 [du4 xi1]; 錫 锡 [xi1]" i="543" m="can" t="n" />
+<w c="containers" e="茶杯" i="544" m="cup" t="n" />
+<w c="containers" e="杯子 杯子 [bei1 zi5]; 玻 玻 [bo1]; 玻璃 玻璃 [bo1 li5]" i="545" m="glass" t="n" />
+<w c="containers" e="盘子" i="546" m="plate" t="n" />
+<w c="conversation" e="乾杯" i="547" m="cheers" t="" />
+<w c="conversation" e="早上好 (zǎoshàng hǎo)" i="548" m="good morning" t="" />
+<w c="conversation" e="喂" i="549" m="hello" t="" />
+<w c="conversation" e="万分感谢" i="550" m="many thanks" t="" />
+<w c="conversation" e="我" i="551" m="my name is" t="" />
+<w c="conversation" e="不" i="552" m="no" t="" />
+<w c="conversation" e="是" i="553" m="yes" t="" />
+<w c="countries" e="中国" i="554" m="China" t="n" />
+<w c="countries" e="捷克共和国" i="555" m="Czech Republic" t="n" />
+<w c="countries" e="法兰西共和国" i="556" m="France" t="n" />
+<w c="countries" e="德意志联邦共和国" i="557" m="Germany" t="n" />
+<w c="countries" e="印度共和国" i="558" m="India" t="n" />
+<w c="countries" e="意大利" i="559" m="Italy" t="n" />
+<w c="countries" e="日本" i="560" m="Japan" t="n" />
+<w c="countries" e="西班牙王国" i="561" m="Spain" t="n" />
+<w c="countries" e="英国" i="562" m="United Kingdom" t="n" />
+<w c="countries" e="美国" i="563" m="United States" t="n" />
+<w c="devices" e="照相机" i="564" m="camera" t="n" />
+<w c="devices" e="手机" i="565" m="cellphone" t="n" />
+<w c="devices" e="時鐘" i="566" m="clock" t="n" />
+<w c="devices" e="计算机" i="567" m="computer" t="n" />
+<w c="devices" e="电梯" i="568" m="elevator" t="n" />
+<w c="devices" e="发动机" i="569" m="engine" t="n" />
+<w c="devices" e="工具" i="570" m="instrument" t="n" />
+<w c="devices" e="机器" i="571" m="machine" t="n" />
+<w c="devices" e="炉子" i="572" m="oven" t="n" />
+<w c="devices" e="電視; 电视 (diànshì)" i="573" m="television" t="n" />
+<w c="devices" e="攝像機 摄像机 [she4 xiang4 ji1]; 照相機 照相机 [zhao4 xiang4 ji1]; 攝影機 摄影机 [she4 ying3 ji1]" i="574" m="television camera" t="n" />
+<w c="devices" e="手表" i="575" m="watch" t="n" />
+<w c="drinks" e="啤酒" i="576" m="beer" t="n" />
+<w c="drinks" e="咖啡" i="577" m="coffee" t="n" />
+<w c="drinks" e="饮料" i="578" m="drink" t="n" />
+<w c="drinks" e="牛奶" i="579" m="milk" t="n" />
+<w c="drinks" e="奶昔" i="580" m="milkshake" t="n" />
+<w c="drinks" e="茶" i="581" m="tea" t="n" />
+<w c="drinks" e="水" i="582" m="water" t="n" />
+<w c="drinks" e="葡萄酒" i="583" m="wine" t="n" />
+<w c="education" e="班" i="584" m="class" t="n" />
+<w c="education" e="教育" i="585" m="education" t="n" />
+<w c="education" e="教育" i="586" m="education" t="n" />
+<w c="education" e="教育" i="587" m="education" t="n" />
+<w c="education" e="考试  考試 [kao3 shi4]; 試驗 试验 [shi4 yan4]" i="588" m="examination" t="n" />
+<w c="education" e="標明 标明 [biao1 ming2]; 標記 标记 [biao1 ji4]; 標識 标识 [biao1 zhi4]; 符號 符号 [fu2 hao4]; 馬克 马克 [ma3 ke4]" i="589" m="grade" t="n" />
+<w c="education" e="知道" i="590" m="knowledge" t="n" />
+<w c="education" e="学生" i="591" m="student" t="n" />
+<w c="education" e="老师" i="592" m="teacher" t="n" />
+<w c="education" e="训练" i="593" m="training" t="n" />
+<w c="environment" e="酸雨" i="594" m="acid rain" t="n" />
+<w c="environment" e="大气" i="595" m="atmosphere" t="n" />
+<w c="environment" e="气候变化" i="596" m="climate change" t="n" />
+<w c="environment" e="生態學" i="597" m="ecology" t="n" />
+<w c="environment" e="周围" i="598" m="environment" t="n" />
+<w c="environment" e="化石燃料" i="599" m="fossil fuel" t="n" />
+<w c="environment" e="全球变暖" i="600" m="global warming" t="n" />
+<w c="environment" e="温室效应" i="601" m="greenhouse effect" t="n" />
+<w c="environment" e="矿" i="602" m="mine" t="n" />
+<w c="environment" e="臭氧" i="603" m="ozone" t="n" />
+<w c="environment" e="污染" i="604" m="pollution" t="n" />
+<w c="environment" e="再循环" i="605" m="recycling" t="n" />
+<w c="environment" e="煙霧" i="606" m="smog" t="n" />
+<w c="family" e="婴儿" i="607" m="baby" t="n" />
+<w c="family" e="生日" i="608" m="birthday" t="n" />
+<w c="family" e="男孩" i="609" m="boy" t="n" />
+<w c="family" e="兄弟" i="610" m="brother" t="n" />
+<w c="family" e="子; 子 [zi3]; 孩子 孩子 [hai2 zi5]; 小孩 小孩 [xiao3 hai2]; 伢子 [ya2zi5]; 童稚 [tong2 zhi4]" i="611" m="child" t="n" />
+<w c="family" e="女孩儿" i="612" m="daughter" t="n" />
+<w c="family" e="死亡" i="613" m="death" t="n" />
+<w c="family" e="家庭" i="614" m="family" t="n" />
+<w c="family" e="爸爸" i="615" m="father" t="n" />
+<w c="family" e="朋友" i="616" m="friend" t="n" />
+<w c="family" e="小姐" i="617" m="girl" t="n" />
+<w c="family" e="祖父" i="618" m="grandfather" t="n" />
+<w c="family" e="人" i="619" m="human" t="n" />
+<w c="family" e="夫" i="620" m="husband" t="n" />
+<w c="family" e="性命 性命 [xing4 ming4]; 人生 人生 [ren2 sheng1]; 世 世 [shi4]; 生活 生活 [sheng1 huo2]" i="621" m="life" t="n" />
+<w c="family" e="男人" i="622" m="man" t="n" />
+<w c="family" e="婚姻" i="623" m="marriage" t="n" />
+<w c="family" e="母亲" i="624" m="mother" t="n" />
+<w c="family" e="邻居" i="625" m="neighbor" t="n" />
+<w c="family" e="親本 亲本 [qin1 ben3]" i="626" m="parent" t="n" />
+<w c="family" e="人" i="627" m="person" t="n" />
+<w c="family" e="关系" i="628" m="relationship" t="n" />
+<w c="family" e="姐妹" i="629" m="sister" t="n" />
+<w c="family" e="兒 儿 [er2]; 兒子 儿子 [er2 zi5]; 子 子 [zi3]" i="630" m="son" t="n" />
+<w c="family" e="婚姻" i="631" m="wedding" t="n" />
+<w c="family" e="婚礼" i="632" m="wedding" t="n" />
+<w c="family" e="妻子" i="633" m="wife" t="n" />
+<w c="family" e="女人" i="634" m="woman" t="n" />
+<w c="feelings" e="害怕" i="635" m="fear" t="n" />
+<w c="feelings" e="憎恨" i="636" m="hate" t="n" />
+<w c="feelings" e="爱" i="637" m="love" t="n" />
+<w c="feelings" e="愉快" i="638" m="pleasure" t="n" />
+<w c="feelings" e="期望 期望 [qi1 wang4]; 頭头 想头 [xiang3 tou5]" i="639" m="promise" t="n" />
+<w c="food" e="面包" i="640" m="bread" t="n" />
+<w c="food" e="早餐" i="641" m="breakfast" t="n" />
+<w c="food" e="黄油" i="642" m="butter" t="n" />
+<w c="food" e="蛋糕" i="643" m="cake" t="n" />
+<w c="food" e="奶酪" i="644" m="cheese" t="n" />
+<w c="food" e="巧克力" i="645" m="chocolate" t="n" />
+<w c="food" e="杯子 杯子 [bei1 zi5]; 杯 杯 [bei1]; 杯盞 杯盏 [bei1 zhan3];" i="646" m="cup" t="n" />
+<w c="food" e="蛋" i="647" m="egg" t="n" />
+<w c="food" e="食物" i="648" m="food" t="n" />
+<w c="food" e="叉 叉 [cha1]; 叉子 叉子 [cha1 zi5]" i="649" m="fork" t="n" />
+<w c="food" e="水果" i="650" m="fruit" t="n" />
+<w c="food" e="餐刀" i="651" m="knife" t="n" />
+<w c="food" e="午饭" i="652" m="lunch" t="n" />
+<w c="food" e="饭" i="653" m="meal" t="n" />
+<w c="food" e="肉" i="654" m="meat" t="n" />
+<w c="food" e="油" i="655" m="oil" t="n" />
+<w c="food" e="沙拉" i="656" m="salad" t="n" />
+<w c="food" e="盐" i="657" m="salt" t="n" />
+<w c="food" e="三文治" i="658" m="sandwich" t="n" />
+<w c="food" e="醬" i="659" m="sauce" t="n" />
+<w c="food" e="汤" i="660" m="soup" t="n" />
+<w c="food" e="匙" i="661" m="spoon" t="n" />
+<w c="food" e="糖" i="662" m="sugar" t="n" />
+<w c="food" e="甘 甘 [gan1]; 甜 甜 [tian2]" i="663" m="sweet" t="n" />
+<w c="fruits" e="苹果" i="664" m="apple" t="n" />
+<w c="fruits" e="杏" i="665" m="apricot" t="n" />
+<w c="fruits" e="香蕉" i="666" m="banana" t="n" />
+<w c="fruits" e="黑莓果子" i="667" m="blackberry" t="n" />
+<w c="fruits" e="樱桃" i="668" m="cherry" t="n" />
+<w c="fruits" e="柠檬" i="669" m="lemon" t="n" />
+<w c="fruits" e="坚果" i="670" m="nut" t="n" />
+<w c="fruits" e="橙子" i="671" m="orange" t="n" />
+<w c="fruits" e="桃" i="672" m="peach" t="n" />
+<w c="fruits" e="梨子" i="673" m="pear" t="n" />
+<w c="fruits" e="菠萝" i="674" m="pineapple" t="n" />
+<w c="fruits" e="李子" i="675" m="plum" t="n" />
+<w c="fruits" e="*树莓??" i="676" m="raspberry" t="n" />
+<w c="fruits" e="草莓" i="677" m="strawberry" t="n" />
+<w c="furniture" e="床铺" i="678" m="bed" t="n" />
+<w c="furniture" e="地毯" i="679" m="carpet" t="n" />
+<w c="furniture" e="椅子" i="680" m="chair" t="n" />
+<w c="furniture" e="壁橱" i="681" m="cupboard" t="n" />
+<w c="furniture" e="幔" i="682" m="curtain" t="n" />
+<w c="furniture" e="书桌" i="683" m="desk" t="n" />
+<w c="furniture" e="抽屉" i="684" m="drawer" t="n" />
+<w c="furniture" e="架子" i="685" m="shelf" t="n" />
+<w c="furniture" e="盥洗盆" i="686" m="sink" t="n" />
+<w c="furniture" e="桌子" i="687" m="table" t="n" />
+<w c="geography" e="地球" i="688" m="Earth" t="n" />
+<w c="geography" e="月亮" i="689" m="Moon" t="n" />
+<w c="geography" e="畔" i="690" m="bank" t="n" />
+<w c="geography" e="滩" i="691" m="beach" t="n" />
+<w c="geography" e="东" i="692" m="east" t="n" />
+<w c="geography" e="丘" i="693" m="hill" t="n" />
+<w c="geography" e="岛" i="694" m="island" t="n" />
+<w c="geography" e="湖" i="695" m="lake" t="n" />
+<w c="geography" e="土地" i="696" m="land" t="n" />
+<w c="geography" e="地圖 地图 [di4 tu2]" i="697" m="map" t="n" />
+<w c="geography" e="北方" i="698" m="north" t="n" />
+<w c="geography" e="平原" i="699" m="plain" t="n" />
+<w c="geography" e="一帶 一带 [yi1 dai4]; 區 区 [qu1]; 區域 区域 [qu1 yu4]; 地區 地区 [di4 qu1]; 域 域 [yu4]" i="700" m="region" t="n" />
+<w c="geography" e="河流" i="701" m="river" t="n" />
+<w c="geography" e="大海" i="702" m="sea" t="n" />
+<w c="geography" e="南" i="703" m="south" t="n" />
+<w c="geography" e="空間 空间 [kong1 jian1]; 場地 场地 [chang3 di4]" i="704" m="space" t="n" />
+<w c="geography" e="星" i="705" m="star" t="n" />
+<w c="geography" e="太阳" i="706" m="sun" t="n" />
+<w c="geography" e="西面" i="707" m="west" t="n" />
+<w c="house" e="地址" i="708" m="address" t="n" />
+<w c="house" e="浴室" i="709" m="bathroom" t="n" />
+<w c="house" e="卧室" i="710" m="bedroom" t="n" />
+<w c="house" e="砖" i="711" m="brick" t="n" />
+<w c="house" e="门" i="712" m="door" t="n" />
+<w c="house" e="地板 地板 [di4 ban3]; 地面 地面 [di4 mian4]; 層 层 [ceng2]; 樓 楼 [lou2]" i="713" m="floor" t="n" />
+<w c="house" e="层" i="714" m="floor" t="n" />
+<w c="house" e="家具" i="715" m="furniture" t="n" />
+<w c="house" e="车库" i="716" m="garage" t="n" />
+<w c="house" e="花园" i="717" m="garden" t="n" />
+<w c="house" e="门" i="718" m="gate" t="n" />
+<w c="house" e="休息室" i="719" m="hall" t="n" />
+<w c="house" e="家" i="720" m="home" t="n" />
+<w c="house" e="房子" i="721" m="house" t="n" />
+<w c="house" e="厨房" i="722" m="kitchen" t="n" />
+<w c="house" e="屋顶" i="723" m="roof" t="n" />
+<w c="house" e="房间" i="724" m="room" t="n" />
+<w c="house" e="淋浴器" i="725" m="shower" t="n" />
+<w c="house" e="脚步" i="726" m="step" t="n" />
+<w c="house" e="厕所" i="727" m="toilet" t="n" />
+<w c="house" e="墙壁" i="728" m="wall" t="n" />
+<w c="house" e="井" i="729" m="well" t="n" />
+<w c="house" e="窗口" i="730" m="window" t="n" />
+<w c="languages" e="中文" i="731" m="Chinese" t="n" />
+<w c="languages" e="英语" i="732" m="English" t="n" />
+<w c="languages" e="法语" i="733" m="French" t="n" />
+<w c="languages" e="德语" i="734" m="German" t="n" />
+<w c="languages" e="印地语" i="735" m="Hindi" t="n" />
+<w c="languages" e="意大利语" i="736" m="Italian" t="n" />
+<w c="languages" e="日语" i="737" m="Japanese" t="n" />
+<w c="languages" e="俄语" i="738" m="Russian" t="n" />
+<w c="languages" e="西班牙语" i="739" m="Spanish" t="n" />
+<w c="materials" e="酸 酸 [suan1]" i="740" m="acid" t="n" />
+<w c="materials" e="化学物质" i="741" m="chemical" t="n" />
+<w c="materials" e="元素" i="742" m="chemical element" t="n" />
+<w c="materials" e="煤" i="743" m="coal" t="n" />
+<w c="materials" e="棉 棉 [mian2]; 棉花 棉花 [mian2 hua5]" i="744" m="cotton" t="n" />
+<w c="materials" e="灰尘" i="745" m="dust" t="n" />
+<w c="materials" e="土 土 [tu3]; 泥土 泥土 [ni2 tu3]; 墊腳 垫脚 [dian4 jiao5];" i="746" m="earth" t="n" />
+<w c="materials" e="脂肪" i="747" m="fat" t="n" />
+<w c="materials" e="玻璃" i="748" m="glass" t="n" />
+<w c="materials" e="胶水" i="749" m="glue" t="n" />
+<w c="materials" e="金" i="750" m="gold" t="n" />
+<w c="materials" e=";糧 粮 [liang2]; 羅紋 罗纹 [luo2 wen2]; 穀 谷 [gu3]; 子粒 子粒 [zi3 li4]; 粟 粟 [su4]; 穀類 谷类 [gu3 lei4]" i="751" m="grain" t="n" />
+<w c="materials" e="冰" i="752" m="ice" t="n" />
+<w c="materials" e="墨水" i="753" m="ink" t="n" />
+<w c="materials" e="铁" i="754" m="iron" t="n" />
+<w c="materials" e="铅" i="755" m="lead" t="n" />
+<w c="materials" e="皮革" i="756" m="leather" t="n" />
+<w c="materials" e="液體 (yètǐ)" i="757" m="liquid" t="n" />
+<w c="materials" e="物质" i="758" m="matter" t="n" />
+<w c="materials" e="金属" i="759" m="metallic element" t="n" />
+<w c="materials" e="石油" i="760" m="oil" t="n" />
+<w c="materials" e="纸" i="761" m="paper" t="n" />
+<w c="materials" e="毒药" i="762" m="poison" t="n" />
+<w c="materials" e="细粉" i="763" m="powder" t="n" />
+<w c="materials" e="沙" i="764" m="sand" t="n" />
+<w c="materials" e="丝" i="765" m="silk" t="n" />
+<w c="materials" e="银" i="766" m="silver" t="n" />
+<w c="materials" e="肥皂" i="767" m="soap" t="n" />
+<w c="materials" e="钢" i="768" m="steel" t="n" />
+<w c="materials" e="木材" i="769" m="wood" t="n" />
+<w c="materials" e="羊毛 羊毛 [yang2 mao2]" i="770" m="wool" t="n" />
+<w c="mathematics" e="加" i="771" m="addition" t="n" />
+<w c="mathematics" e="角" i="772" m="angle" t="n" />
+<w c="mathematics" e="區域 区域 [qu1 yu4]; 區 区 [qu1]; 地區 地区 [di4 qu1]; 區位 区位 [qu1 wei4]; 域 域 [yu4]" i="773" m="area" t="n" />
+<w c="mathematics" e="中心" i="774" m="center" t="n" />
+<w c="mathematics" e="循环" i="775" m="circle" t="n" />
+<w c="mathematics" e="成份" i="776" m="component" t="n" />
+<w c="mathematics" e="彎曲 弯曲 [wan1 qu3]" i="777" m="curve" t="n" />
+<w c="mathematics" e="度 度 [du4]; 度數 度数 [du4 shu4]" i="778" m="degree" t="n" />
+<w c="mathematics" e="水准" i="779" m="degree" t="n" />
+<w c="mathematics" e="差别" i="780" m="difference" t="n" />
+<w c="mathematics" e="距离" i="781" m="distance" t="n" />
+<w c="mathematics" e="部门" i="782" m="division" t="n" />
+<w c="mathematics" e="边缘" i="783" m="edge" t="n" />
+<w c="mathematics" e="功能 功能 [gong1 neng2]; 機能 机能 [ji1 neng2]" i="784" m="function" t="n" />
+<w c="mathematics" e="半 (bàn)" i="785" m="half" t="n" />
+<w c="mathematics" e="边际" i="786" m="limit" t="n" />
+<w c="mathematics" e="线" i="787" m="line" t="n" />
+<w c="mathematics" e="渔网" i="788" m="net" t="n" />
+<w c="mathematics" e="序 序 [xu4]; 指令 指令 [zhi3 ling4]" i="789" m="order" t="n" />
+<w c="mathematics" e="表面 表面 [biao3 mian4]; 外 外 [wai4]; 外面 外面 [wai4 mian5]; 外頭 外头 [wai4 tou5]; 外邊 外边 [wai4 bian5]; 外來 外来 [wai4 lai2]" i="790" m="outside" t="n" />
+<w c="mathematics" e="百分比" i="791" m="percent" t="n" />
+<w c="mathematics" e="功能" i="792" m="purpose" t="n" />
+<w c="mathematics" e="結果 结果 [jie2 guo3]" i="793" m="result" t="n" />
+<w c="mathematics" e="根 根 [gen1]" i="794" m="root" t="n" />
+<w c="mathematics" e="尺子 尺子 [chi3 zi5]; 定則 定则 [ding4 zi2]; 法式 法式 [fa3 shi4]" i="795" m="rule" t="n" />
+<w c="mathematics" e="集合" i="796" m="set" t="n" />
+<w c="mathematics" e="边" i="797" m="side" t="n" />
+<w c="mathematics" e="正方形" i="798" m="square" t="n" />
+<w c="mathematics" e="正方形 正方形 [zheng4 fang1 xing2]" i="799" m="square" t="n" />
+<w c="mathematics" e="換 换 [huan4]; 匯兌 汇兑 [hui 4 dui4]; 交换机 [jiao1 hua4 ji1]" i="800" m="substitution" t="n" />
+<w c="mathematics" e="面" i="801" m="surface" t="n" />
+<w c="mathematics" e="总和" i="802" m="total" t="n" />
+<w c="medicine" e="关照" i="803" m="care" t="n" />
+<w c="medicine" e="伤风" i="804" m="cold" t="n" />
+<w c="medicine" e="咳嗽" i="805" m="cough" t="n" />
+<w c="medicine" e="瘥" i="806" m="disease" t="n" />
+<w c="medicine" e="医生" i="807" m="doctor" t="n" />
+<w c="medicine" e="健康" i="808" m="health" t="n" />
+<w c="medicine" e="月經" i="809" m="menstruation" t="n" />
+<w c="medicine" e="护士" i="810" m="nurse" t="n" />
+<w c="medicine" e="手術 手术 [shou3 shu4]" i="811" m="operation" t="n" />
+<w c="medicine" e="痛苦" i="812" m="pain" t="n" />
+<w c="medicine" e="病人" i="813" m="patient" t="n" />
+<w c="medicine" e="線腳 线脚 [xian4 jiao3]; 針腳 针脚 [zhen1 jiao5]" i="814" m="stitch" t="n" />
+<w c="nature" e="空气" i="815" m="air" t="n" />
+<w c="nature" e="动物" i="816" m="animal" t="n" />
+<w c="nature" e="分會 分会 [fen1 hui4]; 分枝 分枝 [fen1 zhi1]; 支 支 [zhi1]; 枝 枝 [zhi1]; 枝椏 枝桠 [zhi1 ya1]; 部門 部门 [bu4 men2]" i="817" m="branch" t="n" />
+<w c="nature" e="潮 潮 [chao2]; 潮流 潮流 [chao2 liu2]; 現時 现时 [xian4 shi2]; 本屆 本届 [ben3 jie4]" i="818" m="current" t="n" />
+<w c="nature" e="进化" i="819" m="evolution" t="n" />
+<w c="nature" e="农场" i="820" m="farm" t="n" />
+<w c="nature" e="领域" i="821" m="field" t="n" />
+<w c="nature" e="火焰" i="822" m="fire" t="n" />
+<w c="nature" e="花" i="823" m="flower" t="n" />
+<w c="nature" e="木材" i="824" m="forest" t="n" />
+<w c="nature" e="青草" i="825" m="grass" t="n" />
+<w c="nature" e="叶子" i="826" m="leaf" t="n" />
+<w c="nature" e="生命" i="827" m="life" t="n" />
+<w c="nature" e="湿气" i="828" m="moisture" t="n" />
+<w c="nature" e="自然" i="829" m="nature" t="n" />
+<w c="nature" e="植物" i="830" m="plant" t="n" />
+<w c="nature" e="根" i="831" m="root" t="n" />
+<w c="nature" e="性 性 [xing4]" i="832" m="sex" t="n" />
+<w c="nature" e="天" i="833" m="sky" t="n" />
+<w c="nature" e="睡眠" i="834" m="sleep" t="n" />
+<w c="nature" e="气味" i="835" m="smell" t="n" />
+<w c="nature" e="烟" i="836" m="smoke" t="n" />
+<w c="nature" e="喷泉" i="837" m="spring" t="n" />
+<w c="nature" e="莖 茎 [jing1]; 頭头 船头 [chua2 tou2]" i="838" m="stem" t="n" />
+<w c="nature" e="流 水流 (shuiliu; shiu3liu2)" i="839" m="stream" t="n" />
+<w c="nature" e="树" i="840" m="tree" t="n" />
+<w c="nature" e="波浪" i="841" m="wave" t="n" />
+<w c="nature" e="天气" i="842" m="weather" t="n" />
+<w c="nature" e="世界" i="843" m="world" t="n" />
+<w c="numbers" e="對 对 [dui4]; 掛鉤 挂钩 [gua4 gou1]" i="844" m="couple" t="n" />
+<w c="numbers" e="八" i="845" m="eight" t="n" />
+<w c="numbers" e="十八 (shíbā)" i="846" m="eighteen" t="n" />
+<w c="numbers" e="八十" i="847" m="eighty" t="n" />
+<w c="numbers" e="十一" i="848" m="eleven" t="n" />
+<w c="numbers" e="十五 (shíwǔ)" i="849" m="fifteen" t="n" />
+<w c="numbers" e="五十 (wǔ shí)" i="850" m="fifty" t="n" />
+<w c="numbers" e="五" i="851" m="five" t="n" />
+<w c="numbers" e="四 十" i="852" m="forty" t="n" />
+<w c="numbers" e="四" i="853" m="four" t="n" />
+<w c="numbers" e="十四" i="854" m="fourteen" t="n" />
+<w c="numbers" e="百万" i="855" m="million" t="n" />
+<w c="numbers" e="九" i="856" m="nine" t="n" />
+<w c="numbers" e="十九" i="857" m="nineteen" t="n" />
+<w c="numbers" e="九 十" i="858" m="ninety" t="n" />
+<w c="numbers" e="無" i="859" m="nothing" t="n" />
+<w c="numbers" e="七" i="860" m="seven" t="n" />
+<w c="numbers" e="十七 (shíqī)" i="861" m="seventeen" t="n" />
+<w c="numbers" e="Æß Ê®&quot;" i="862" m="eventy" t="n" />
+<w c="numbers" e="十六" i="863" m="sixteen" t="n" />
+<w c="numbers" e="Áù Ê®" i="864" m="sixty" t="n" />
+<w c="numbers" e="十 (Pinyin: shí; Cantonese: sap6)" i="865" m="ten" t="n" />
+<w c="numbers" e="十三 (shísān)" i="866" m="thirteen" t="n" />
+<w c="numbers" e="三十 (sānshí)" i="867" m="thirty" t="n" />
+<w c="numbers" e="1000" i="868" m="thousand" t="n" />
+<w c="numbers" e="千 (qiān)" i="869" m="thousand" t="n" />
+<w c="numbers" e="三" i="870" m="three" t="n" />
+<w c="numbers" e="二十 (èrshí)" i="871" m="twenty" t="n" />
+<w c="objects" e="圓球 圆球 [yuan2 qiu2]; 彈 弹 [dan4]; 毬 毬 [qiu2]; 球 球 [qiu2]; 舞會 舞会 [wu3 hui4]" i="872" m="ball" t="n" />
+<w c="objects" e="刀葉 刀叶 [dao1 ye4]" i="873" m="blade" t="n" />
+<w c="objects" e="包飯 包饭 [bao1 fan4]; 木板 木板 [mu4 ban3]; 木版 木版 [mu4 ban3]; 板 板 [ban3]; 板子 板子 [ban3 zi5]; 部 部 [bu4]; 板紙 板纸 [ban3 zhi3]" i="874" m="board" t="n" />
+<w c="objects" e="扑克牌 [pu1 ke4 pai2]; 卡 卡 [ka3]; 卡片 卡片 [ka3 pian4]" i="875" m="card" t="n" />
+<w c="objects" e="链" i="876" m="chain" t="n" />
+<w c="objects" e="棍棒" i="877" m="club" t="n" />
+<w c="objects" e="滚动" i="878" m="coil" t="n" />
+<w c="objects" e="盖子" i="879" m="cover" t="n" />
+<w c="objects" e="信封" i="880" m="envelope" t="n" />
+<w c="objects" e="羽毛" i="881" m="feather" t="n" />
+<w c="objects" e="旗子" i="882" m="flag" t="n" />
+<w c="objects" e="框架" i="883" m="frame" t="n" />
+<w c="objects" e="柄" i="884" m="handle" t="n" />
+<w c="objects" e="菜单" i="885" m="menu" t="n" />
+<w c="objects" e="坚果" i="886" m="nut" t="n" />
+<w c="objects" e="针" i="887" m="pin" t="n" />
+<w c="objects" e="管 管 [guan3]; 管子 管子[guan3 zi5]" i="888" m="pipe" t="n" />
+<w c="objects" e="礼物" i="889" m="present" t="n" />
+<w c="objects" e="绳子" i="890" m="rope" t="n" />
+<w c="objects" e="帆" i="891" m="sail" t="n" />
+<w c="objects" e="播種 播种 [bo1 zhong3]; 種 种 [zhong3]" i="892" m="seed" t="n" />
+<w c="objects" e="邮费" i="893" m="stamp" t="n" />
+<w c="objects" e="棍" i="894" m="stick" t="n" />
+<w c="objects" e="石头" i="895" m="stone" t="n" />
+<w c="objects" e="票" i="896" m="ticket" t="n" />
+<w c="objects" e="轮子" i="897" m="wheel" t="n" />
+<w c="objects" e="电线" i="898" m="wire" t="n" />
+<w c="physics" e="平衡 平衡 [ping2 heng2]; 秤 秤 [cheng4]" i="899" m="balance" t="n" />
+<w c="physics" e="電荷" i="900" m="charge" t="n" />
+<w c="physics" e="精力" i="901" m="energy" t="n" />
+<w c="physics" e="光" i="902" m="light" t="n" />
+<w c="physics" e="质量" i="903" m="mass" t="n" />
+<w c="physics" e="度量衡" i="904" m="measurement" t="n" />
+<w c="physics" e="镜子" i="905" m="mirror" t="n" />
+<w c="physics" e="压力" i="906" m="pressure" t="n" />
+<w c="physics" e="歷程 历程 [li4 cheng2]; 進程 进程 [jin4 cheng2]" i="907" m="process" t="n" />
+<w c="physics" e="個子 个子 [ge4 zi5]; 大小 大小 [da4 xiao3]; 尺寸 尺寸 [chi3 cun5]; 纖度 纤度 [xian1 du4]" i="908" m="size" t="n" />
+<w c="physics" e="声音" i="909" m="sound" t="n" />
+<w c="physics" e="蒸汽" i="910" m="steam" t="n" />
+<w c="physics" e="力" i="911" m="strength" t="n" />
+<w c="physics" e="时间" i="912" m="time" t="n" />
+<w c="physics" e="计价单位; 单位" i="913" m="unit" t="n" />
+<w c="physics" e="重量" i="914" m="weight" t="n" />
+<w c="prepositions" e="靠" i="915" m="against" t="prep" />
+<w c="prepositions" e="中 中 [zhong1]; 其中 其中 [qi2 zhong1]; 之間 之间 [zhi1 jian1]; 在﹍之中 在﹍之中 [zai4 zhi1 zhong1]; 當中 当中 [dang1 zhong1]; 間 间 [jian1]; 際 际 [ji4]" i="916" m="among" t="prep" />
+<w c="prepositions" e=";在 在 [zai4];; 於 于 [yu2]" i="917" m="at" t="prep" />
+<w c="prepositions" e=";在 在 [zai4];; 於 于 [yu2]" i="918" m="at" t="prep" />
+<w c="prepositions" e="在﹍之旁 在﹍之旁 [zai4 zhi1 pang2]; 旁 旁 [pang2]" i="919" m="beside" t="prep" />
+<w c="prepositions" e="在﹍期間 在﹍期间 [zai4 qi2 jian1]; 當 当 [dang1]; 的時候 的时候 [de5 shi2 hou4]" i="920" m="during" t="prep" />
+<w c="prepositions" e="為 为 [wei4]; 給 给 [gei3]; 對 对 [dui4]" i="921" m="for" t="prep" />
+<w c="prepositions" e="從 从 [cong2]; 打-從 打从[da3 cong2];  打 打 [da3]; 於 于 [yu2]; 由 由 [you2]; 自 自 [zi4]; 離 离 [li2]" i="922" m="from" t="prep" />
+<w c="prepositions" e="從 从 [cong2]; 打-從 打从[da3 cong2];  打 打 [da3]; 於 于 [yu2]; 由 由 [you2]; 自 自 [zi4]; 離 离 [li2]" i="923" m="from" t="prep" />
+<w c="prepositions" e="的 的 [de5]" i="924" m="of" t="prep" />
+<w c="prepositions" e="上 上 [shang4]; 在 在 [zai4]" i="925" m="on" t="prep" />
+<w c="prepositions" e="上 上 [shang4]; 在 在 [zai4]" i="926" m="on" t="prep" />
+<w c="prepositions" e="打 打 [da3]; 既 既 [ji4]; 既然 既然 [ji4 ran2]; 自 自 [zi4]" i="927" m="since" t="prep" />
+<w c="prepositions" e="到" i="928" m="to" t="prep" />
+<w c="prepositions" e="和" i="929" m="with" t="prep" />
+<w c="prepositions" e="和" i="930" m="with" t="prep" />
+<w c="prepositions" e="無 无 [wu2]" i="931" m="without" t="prep" />
+<w c="professions" e="艺人" i="932" m="actor" t="n" />
+<w c="professions" e="女演员" i="933" m="actress" t="n" />
+<w c="professions" e="艺术家" i="934" m="artist" t="n" />
+<w c="professions" e="厨师" i="935" m="cook" t="n" />
+<w c="professions" e="专家" i="936" m="expert" t="n" />
+<w c="professions" e="將軍" i="937" m="general" t="n" />
+<w c="professions" e="记者" i="938" m="journalist" t="n" />
+<w c="professions" e="裁判" i="939" m="judge" t="n" />
+<w c="professions" e="部长" i="940" m="minister" t="n" />
+<w c="professions" e="音乐家" i="941" m="musician" t="n" />
+<w c="professions" e="攝影師" i="942" m="photographer" t="n" />
+<w c="professions" e="飞行员" i="943" m="pilot" t="n" />
+<w c="professions" e="*警察??" i="944" m="policeman" t="n" />
+<w c="professions" e="政治家" i="945" m="politician" t="n" />
+<w c="professions" e="总统 (zǒng tǒng)" i="946" m="president" t="n" />
+<w c="professions" e="好手 好手 [hao3 shou3]" i="947" m="professional" t="n" />
+<w c="professions" e="代表" i="948" m="representative" t="n" />
+<w c="professions" e="*水手??" i="949" m="sailor" t="n" />
+<w c="professions" e="科学家" i="950" m="scientist" t="n" />
+<w c="professions" e="書記 书记 [shu1 ji5]; 秘書 秘书 [mi4 shu1]" i="951" m="secretary" t="n" />
+<w c="professions" e="仆人" i="952" m="servant" t="n" />
+<w c="professions" e="士兵" i="953" m="soldier" t="n" />
+<w c="professions" e="作家" i="954" m="writer" t="n" />
+<w c="pronouns" e="任何人 任何人 [ren4 he2 ren2]" i="955" m="anyone" t="pron" />
+<w c="pronouns" e="什麼都 什么都 [shen2 me5 dou1];  無論什麼 无论什么 [wu2 lun4 shen2 me5]" i="956" m="anything" t="pron" />
+<w c="pronouns" e="大家 大家 [da4 jia1]; 眾人 众人 [zhong4 ren2]" i="957" m="everybody" t="pron" />
+<w c="pronouns" e="一切" i="958" m="everything" t="pron" />
+<w c="pronouns" e="他 他 [ta1]; 伊 伊 [yi1]" i="959" m="he" t="pron" />
+<w c="pronouns" e="之 之 [zhi1]; 其 其 [qi2];  她的 [ta1 de5]" i="960" m="her" t="pron" />
+<w c="pronouns" e="她自己" i="961" m="herself" t="pron" />
+<w c="pronouns" e="他" i="962" m="him" t="pron" />
+<w c="pronouns" e="他自己" i="963" m="himself" t="pron" />
+<w c="pronouns" e="其 其 [qi2]; 他的 [ta1 de5]" i="964" m="his" t="pron" />
+<w c="pronouns" e="它" i="965" m="it" t="pron" />
+<w c="pronouns" e="它本身 它本身 [ta1 ben3 shen1]; 本身 本身 [ben3 shen1]" i="966" m="itself" t="pron" />
+<w c="pronouns" e="我" i="967" m="me" t="pron" />
+<w c="pronouns" e="我的" i="968" m="my" t="pron" />
+<w c="pronouns" e="我们的" i="969" m="our" t="pron" />
+<w c="pronouns" e="她" i="970" m="she" t="pron" />
+<w c="pronouns" e="那 那 [na4]; 那 那 [nei4]" i="971" m="that" t="pron" />
+<w c="pronouns" e="他們的; 他们的 (tāmende)" i="972" m="their" t="pron" />
+<w c="pronouns" e="這些" i="973" m="these" t="pron" />
+<w c="pronouns" e="她们" i="974" m="they" t="pron" />
+<w c="pronouns" e="这个" i="975" m="this" t="pron" />
+<w c="pronouns" e="那 那 [na4]; 那些 那些 [na4 xie1]; 彼 彼 [bi3]" i="976" m="those" t="pron" />
+<w c="pronouns" e="我们" i="977" m="us" t="pron" />
+<w c="pronouns" e="我们" i="978" m="we" t="pron" />
+<w c="pronouns" e="甚麼 甚么 [shen2 me5]; 怎麼 怎么[zen3 me5]; 何 何 [he2]; 甚 什 [shen2]" i="979" m="what" t="pron" />
+<w c="pronouns" e="什么时候 [shen2 me5 shi2 hou5]; 何時 何时 [he2 shi2]; 時 时 [shi2]" i="980" m="when" t="pron" />
+<w c="pronouns" e="哪个" i="981" m="which" t="pron" />
+<w c="pronouns" e="哪个" i="982" m="which" t="pron" />
+<w c="pronouns" e="谁" i="983" m="who" t="pron" />
+<w c="pronouns" e="誰" i="984" m="whose" t="pron" />
+<w c="pronouns" e="你 你 [ni3]; 您 [nin2]" i="985" m="you" t="pron" />
+<w c="pronouns" e="你自己 你自己 [ni3 zi4 ji3]" i="986" m="yourself" t="pron" />
+<w c="relations" e="男朋友" i="987" m="boyfriend" t="n" />
+<w c="relations" e="约会" i="988" m="date" t="n" />
+<w c="relations" e="亲爱 [qin1 ai4]; 親 亲 [qin1]" i="989" m="dear" t="n" />
+<w c="relations" e="女朋友" i="990" m="girlfriend" t="n" />
+<w c="relations" e="客人" i="991" m="guest" t="n" />
+<w c="relations" e="吻" i="992" m="kiss" t="n" />
+<w c="relations" e="聚会" i="993" m="party" t="n" />
+<w c="relations" e="性" i="994" m="sex" t="n" />
+<w c="relations" e="露齿而笑" i="995" m="smile" t="n" />
+<w c="relations" e="突然袭击 突然袭击 [tu1 ran2 yi2 ji1]" i="996" m="surprise" t="n" />
+<w c="relations" e="访问" i="997" m="visit" t="n" />
+<w c="science" e="生物学" i="998" m="biology" t="n" />
+<w c="science" e="原因" i="999" m="cause" t="n" />
+<w c="science" e="内核" i="1000" m="center" t="n" />
+<w c="science" e="化学" i="1001" m="chemistry" t="n" />
+<w c="science" e="比拟" i="1002" m="comparison" t="n" />
+<w c="science" e="结果" i="1003" m="consequence" t="n" />
+<w c="science" e="把持 把持 [ba3 chi2]" i="1004" m="control" t="n" />
+<w c="science" e="训练" i="1005" m="discipline" t="n" />
+<w c="science" e="发现" i="1006" m="discovery" t="n" />
+<w c="science" e="事件" i="1007" m="event" t="n" />
+<w c="science" e="信 信 [xin4]; 證據 证据 [zheng4 ju4]" i="1008" m="evidence" t="n" />
+<w c="science" e="例子" i="1009" m="example" t="n" />
+<w c="science" e="事实" i="1010" m="fact" t="n" />
+<w c="science" e="發明 发明 [fa1 ming2]" i="1011" m="invention" t="n" />
+<w c="science" e="问题" i="1012" m="issue" t="n" />
+<w c="science" e="方法" i="1013" m="method" t="n" />
+<w c="science" e="模型 模型 [mo2 xing2]; 榜樣 榜样 [bang3 yang4]; 模范 模范 [mo2 fan4]" i="1014" m="model" t="n" />
+<w c="science" e="期" i="1015" m="phase" t="n" />
+<w c="science" e="程 程 [cheng2]" i="1016" m="procedure" t="n" />
+<w c="science" e="生产" i="1017" m="production" t="n" />
+<w c="science" e="程序" i="1018" m="program" t="n" />
+<w c="science" e="项目" i="1019" m="project" t="n" />
+<w c="science" e="范围" i="1020" m="range" t="n" />
+<w c="science" e="研究" i="1021" m="research" t="n" />
+<w c="science" e="调查" i="1022" m="research" t="n" />
+<w c="science" e="科学" i="1023" m="science" t="n" />
+<w c="science" e="社会" i="1024" m="society" t="n" />
+<w c="science" e="系统" i="1025" m="system" t="n" />
+<w c="science" e="工艺" i="1026" m="technology" t="n" />
+<w c="science" e="理论" i="1027" m="theory" t="n" />
+<w c="science" e="趋势" i="1028" m="trend" t="n" />
+<w c="science" e="问题" i="1029" m="trouble" t="n" />
+<w c="science" e="用户" i="1030" m="user" t="n" />
+<w c="society" e="部队" i="1031" m="army" t="n" />
+<w c="society" e="基础" i="1032" m="base" t="n" />
+<w c="society" e="党" i="1033" m="club" t="n" />
+<w c="society" e="協會 协会 [xie2 hui4]; 社会 [she4 hui4]" i="1034" m="company" t="n" />
+<w c="society" e="国家" i="1035" m="country" t="n" />
+<w c="society" e="法院" i="1036" m="court" t="n" />
+<w c="society" e="犯罪" i="1037" m="crime" t="n" />
+<w c="society" e="文明" i="1038" m="culture" t="n" />
+<w c="society" e="共和国" i="1039" m="democracy" t="n" />
+<w c="society" e="选举" i="1040" m="election" t="n" />
+<w c="society" e="存在" i="1041" m="existence" t="n" />
+<w c="society" e="女 女 [nu:3]; 女子 女子 [nu:3 zi3]; 雌性 雌性 [ci2 xing4]" i="1042" m="female" t="n" />
+<w c="society" e="政府" i="1043" m="government" t="n" />
+<w c="society" e=";歷史 历史 [li4 shi3]; 史 史 [shi3]" i="1044" m="history" t="n" />
+<w c="society" e="個 个 [ge4]; 個人 个人 [ge4 ren2]; 個別 个别 [ge4 bie2]; 個體 个体 [ge4 ti3]" i="1045" m="individual" t="n" />
+<w c="society" e="机构" i="1046" m="institution" t="n" />
+<w c="society" e="王" i="1047" m="king" t="n" />
+<w c="society" e="領導人 领导人 [ling3 dao3 ren2]; 帶頭人 带头人 [dai4 tou2 ren2]" i="1048" m="leader" t="n" />
+<w c="society" e="男 男 [nan2]; 男性 男性 [nan2 xing4]; 牡 牡 [mu3]" i="1049" m="male" t="n" />
+<w c="society" e="員 员 [yuan2]" i="1050" m="member" t="n" />
+<w c="society" e="国家" i="1051" m="nation" t="n" />
+<w c="society" e="消息" i="1052" m="news" t="n" />
+<w c="society" e="噪聲 噪声 [zao4 sheng1]; 噪音 噪音 [zao4 yin1]; 響聲 响声 [xiang3 sheng1];" i="1053" m="noise" t="n" />
+<w c="society" e="训令" i="1054" m="order" t="n" />
+<w c="society" e="團體 团体 [tuan2 ti3]; 機構 机构 [ji1 gou4];" i="1055" m="organization" t="n" />
+<w c="society" e="保結 保结 [bao3 jie2]" i="1056" m="pass" t="n" />
+<w c="society" e="护照" i="1057" m="passport" t="n" />
+<w c="society" e="和平" i="1058" m="peace" t="n" />
+<w c="society" e="萌" i="1059" m="people" t="n" />
+<w c="society" e="警方" i="1060" m="police" t="n" />
+<w c="society" e="政策" i="1061" m="policy" t="n" />
+<w c="society" e="人口" i="1062" m="population" t="n" />
+<w c="society" e="公 公 [gong1]" i="1063" m="public" t="n" />
+<w c="society" e="惩罚" i="1064" m="punishment" t="n" />
+<w c="society" e="宗教" i="1065" m="religion" t="n" />
+<w c="society" e="信仰" i="1066" m="religion" t="n" />
+<w c="society" e="主权国家" i="1067" m="state" t="n" />
+<w c="society" e="標題; 标题 (biāotí)" i="1068" m="title" t="n" />
+<w c="society" e="联合" i="1069" m="union" t="n" />
+<w c="society" e="戰 战 [zhan4]; 戰爭 战争 [zhan4 zheng1]; 兵戈 兵戈 [bing1 ge1]" i="1070" m="war" t="n" />
+<w c="society" e="遗嘱" i="1071" m="will" t="n" />
+<w c="sports" e="奖品" i="1072" m="award" t="n" />
+<w c="sports" e="棒球" i="1073" m="baseball" t="n" />
+<w c="sports" e="竞争对手" i="1074" m="competitor" t="n" />
+<w c="sports" e="目的地" i="1075" m="finish" t="n" />
+<w c="sports" e="足球 (zúqiú)" i="1076" m="football" t="n" />
+<w c="sports" e="球門 球门 [qiu2 men2]; 目標 目标 [mu4 biao1]; 目 目 [mu4]" i="1077" m="goal" t="n" />
+<w c="sports" e="高爾夫球" i="1078" m="golf" t="n" />
+<w c="sports" e="對手 对手 [dui4 shou3]; 相配 相配 [xiang1 pei4]; 賽 赛 [sai4]" i="1079" m="match" t="n" />
+<w c="sports" e="竞赛者" i="1080" m="player" t="n" />
+<w c="sports" e="记载" i="1081" m="record" t="n" />
+<w c="sports" e="网球" i="1082" m="tennis" t="n" />
+<w c="sports" e="撺" i="1083" m="throw" t="n" />
+<w c="sports" e="博得 博得 [bo2 de2]; 嬴 嬴 [ying2]" i="1084" m="win" t="n" />
+<w c="time" e="四月" i="1085" m="April" t="n" />
+<w c="time" e="八月" i="1086" m="August" t="n" />
+<w c="time" e="十二月" i="1087" m="December" t="n" />
+<w c="time" e="二月" i="1088" m="February" t="n" />
+<w c="time" e="星期五" i="1089" m="Friday" t="n" />
+<w c="time" e="一月" i="1090" m="January" t="n" />
+<w c="time" e="七月" i="1091" m="July" t="n" />
+<w c="time" e="六月" i="1092" m="June" t="n" />
+<w c="time" e="五月" i="1093" m="May" t="n" />
+<w c="time" e="星期一" i="1094" m="Monday" t="n" />
+<w c="time" e="十一月" i="1095" m="November" t="n" />
+<w c="time" e="十月" i="1096" m="October" t="n" />
+<w c="time" e="星期六" i="1097" m="Saturday" t="n" />
+<w c="time" e="九月份" i="1098" m="September" t="n" />
+<w c="time" e="星期日" i="1099" m="Sunday" t="n" />
+<w c="time" e="星期四" i="1100" m="Thursday" t="n" />
+<w c="time" e="星期二" i="1101" m="Tuesday" t="n" />
+<w c="time" e="星期三" i="1102" m="Wednesday" t="n" />
+<w c="time" e="下午" i="1103" m="afternoon" t="n" />
+<w c="time" e="年龄" i="1104" m="age" t="n" />
+<w c="time" e="秋天" i="1105" m="autumn" t="n" />
+<w c="time" e="开端 [kai1 duan1]; 初 初 [chu1]; 开首[kai1 shou3]" i="1106" m="beginning" t="n" />
+<w c="time" e="世纪" i="1107" m="century" t="n" />
+<w c="time" e="日期" i="1108" m="date" t="n" />
+<w c="time" e="天" i="1109" m="day" t="n" />
+<w c="time" e="末 末 [mo4]; 告終 告终 [gao4 zhong1]; 屁股 屁股 [pi4 gu5]; 終 终 [zhong1]" i="1110" m="end" t="n" />
+<w c="time" e="晚上" i="1111" m="evening" t="n" />
+<w c="time" e="将来的" i="1112" m="future" t="n" />
+<w c="time" e="钟头" i="1113" m="hour" t="n" />
+<w c="time" e="半夜" i="1114" m="midnight" t="n" />
+<w c="time" e="分" i="1115" m="minute" t="n" />
+<w c="time" e="瞬间" i="1116" m="moment" t="n" />
+<w c="time" e="瞬间" i="1117" m="moment" t="n" />
+<w c="time" e="月份" i="1118" m="month" t="n" />
+<w c="time" e="早上" i="1119" m="morning" t="n" />
+<w c="time" e="夜晚" i="1120" m="night" t="n" />
+<w c="time" e="现在" i="1121" m="now" t="n" />
+<w c="time" e="过去 [guo4 qu5]; 往 往 [wang3]" i="1122" m="past" t="n" />
+<w c="time" e="暂停" i="1123" m="pause" t="n" />
+<w c="time" e="课时" i="1124" m="period" t="n" />
+<w c="time" e="現在 现在 [xian4 zai4]; 今 今 [jin1]; 儀 仪 [yi2]; 當今 当今 [dang1 jin1]; 眼前 眼前 [yan3 qian2]" i="1125" m="present" t="n" />
+<w c="time" e="季节" i="1126" m="season" t="n" />
+<w c="time" e="秒" i="1127" m="second" t="n" />
+<w c="time" e="春天" i="1128" m="spring" t="n" />
+<w c="time" e="夏天" i="1129" m="summer" t="n" />
+<w c="time" e="这天" i="1130" m="today" t="n" />
+<w c="time" e="明天 明天 [ming2 tian1]; 明日 明日 [ming2 ri4]; 來日 来日[lai2 ri4]" i="1131" m="tomorrow" t="n" />
+<w c="time" e="星期" i="1132" m="week" t="n" />
+<w c="time" e="周末" i="1133" m="weekend" t="n" />
+<w c="time" e="当时" i="1134" m="while" t="n" />
+<w c="time" e="冬天" i="1135" m="winter" t="n" />
+<w c="time" e="年" i="1136" m="year" t="n" />
+<w c="tools" e="钟" i="1137" m="bell" t="n" />
+<w c="tools" e="刷 刷 [shua1]; 刷子 刷子 [shua1 zi5]" i="1138" m="brush" t="n" />
+<w c="tools" e="钮扣" i="1139" m="button" t="n" />
+<w c="tools" e="炮 (pao); 枪/槍 (qiāng)" i="1140" m="gun" t="n" />
+<w c="tools" e="槌" i="1141" m="hammer" t="n" />
+<w c="tools" e="钩" i="1142" m="hook" t="n" />
+<w c="tools" e="扳手" i="1143" m="key" t="n" />
+<w c="tools" e="鎖 锁[suo3]" i="1144" m="lock" t="n" />
+<w c="tools" e="火柴" i="1145" m="match" t="n" />
+<w c="tools" e="釘 钉 [ding1]; 釘子 钉子 [ding1 zi5]" i="1146" m="nail" t="n" />
+<w c="tools" e="针" i="1147" m="needle" t="n" />
+<w c="tools" e="筆 笔 [bi3]; 钢笔 [gang1 bi3]; 筆桿 笔杆 [bi3 gan3]" i="1148" m="pen" t="n" />
+<w c="tools" e="铅笔" i="1149" m="pencil" t="n" />
+<w c="tools" e="水泵" i="1150" m="pump" t="n" />
+<w c="tools" e="剪刀" i="1151" m="scissors" t="n" />
+<w c="tools" e="弹簧" i="1152" m="spring" t="n" />
+<w c="tools" e="邮票" i="1153" m="stamp" t="n" />
+<w c="tools" e="鞭子" i="1154" m="whip" t="n" />
+<w c="transport" e="变故" i="1155" m="accident" t="n" />
+<w c="transport" e="自行车" i="1156" m="bike" t="n" />
+<w c="transport" e="帆船" i="1157" m="boat" t="n" />
+<w c="transport" e="公共汽车" i="1158" m="bus" t="n" />
+<w c="transport" e="汽车" i="1159" m="car" t="n" />
+<w c="transport" e="彎曲 弯曲 [wan1 qu1]" i="1160" m="curve" t="n" />
+<w c="transport" e="表 表 [biao3]" i="1161" m="express" t="n" />
+<w c="transport" e="航程 航程 [hang2 cheng2]" i="1162" m="flight" t="n" />
+<w c="transport" e="旅游" i="1163" m="journey" t="n" />
+<w c="transport" e="乘客" i="1164" m="passenger" t="n" />
+<w c="transport" e="班机" i="1165" m="plane" t="n" />
+<w c="transport" e="*船??" i="1166" m="ship" t="n" />
+<w c="transport" e="滑倒 滑倒 [hua1 dao3]" i="1167" m="skid" t="n" />
+<w c="transport" e="軌 轨 [gui3]" i="1168" m="track" t="n" />
+<w c="transport" e="训练" i="1169" m="train" t="n" />
+<w c="transport" e="航运" i="1170" m="transport" t="n" />
+<w c="vegetables" e="豆" i="1171" m="bean" t="n" />
+<w c="vegetables" e="包心菜" i="1172" m="cabbage" t="n" />
+<w c="vegetables" e="胡萝卜" i="1173" m="carrot" t="n" />
+<w c="vegetables" e="黄瓜" i="1174" m="cucumber" t="n" />
+<w c="vegetables" e="大蒜" i="1175" m="garlic" t="n" />
+<w c="vegetables" e="榄" i="1176" m="olive" t="n" />
+<w c="vegetables" e="洋葱" i="1177" m="onion" t="n" />
+<w c="vegetables" e="土豆" i="1178" m="potato" t="n" />
+<w c="vegetables" e="萝卜" i="1179" m="radish" t="n" />
+<w c="vegetables" e="米" i="1180" m="rice" t="n" />
+<w c="vegetables" e="西红柿" i="1181" m="tomato" t="n" />
+<w c="verbs" e="採納 采纳 [cai3 na4]; 接受 接受 [jie1 shou4]" i="1182" m="accept" t="v" />
+<w c="verbs" e="控告" i="1183" m="accuse" t="v" />
+<w c="verbs" e="達到 达到 [da2 dao4]" i="1184" m="achieve" t="v" />
+<w c="verbs" e="表演 表演 [biao3 yan3]" i="1185" m="act" t="v" />
+<w c="verbs" e="波及 波及 [bo1 ji2]" i="1186" m="affect" t="v" />
+<w c="verbs" e="同意 同意 [tong2 yi4]" i="1187" m="agree" t="v" />
+<w c="verbs" e="讓 让 [rang4]; 允許 允许 [yun3 xu3]" i="1188" m="allow" t="v" />
+<w c="verbs" e="宣布 宣布 [xuan1 bu4]; 告 告 [ gao4]" i="1189" m="announce" t="v" />
+<w c="verbs" e="辯 辩 [bian4];" i="1190" m="argue" t="v" />
+<w c="verbs" e="到达" i="1191" m="arrive" t="v" />
+<w c="verbs" e="问 (wèn); 询问 (xúnwèn)" i="1192" m="ask" t="v" />
+<w c="verbs" e="避开" i="1193" m="avoid" t="v" />
+<w c="verbs" e="打" i="1194" m="beat" t="v" />
+<w c="verbs" e="变成" i="1195" m="become" t="v" />
+<w c="verbs" e="相信" i="1196" m="believe" t="v" />
+<w c="verbs" e="建造" i="1197" m="build" t="v" />
+<w c="verbs" e="烧毁" i="1198" m="burn" t="v" />
+<w c="verbs" e="打电话" i="1199" m="call" t="v" />
+<w c="verbs" e="轉變 转变 [zhuan3 bian4]; 變 变 [ bian4]; 轉化 转化 [zhuan3 hua4]; 變化 变化 [bian4 hua4]" i="1200" m="change" t="v" />
+<w c="verbs" e="选择" i="1201" m="choose" t="v" />
+<w c="verbs" e="整理" i="1202" m="classify" t="v" />
+<w c="verbs" e="比较" i="1203" m="compare" t="v" />
+<w c="verbs" e="包含 包含 [bao1 han2]; 含有 含有 [han2 you3]; 包容 包容 [bao1 rong2]" i="1204" m="contain" t="v" />
+<w c="verbs" e="延續 延续 [yan2 xu4]; 持續 持续 [chi2 xu4]; 續 续 [xu4]" i="1205" m="continue" t="v" />
+<w c="verbs" e="掌管" i="1206" m="control" t="v" />
+<w c="verbs" e="弄飯 弄饭 [nong4 fan4]; 掌勺 掌勺 [zhang3 shao2]; 執炊 执炊 [zhi2 chui1]" i="1207" m="cook" t="v" />
+<w c="verbs" e="複本 复本 [fu4 ben3]; 摹本 摹本 [mo2 ben3]" i="1208" m="copy" t="v" />
+<w c="verbs" e="咳嗽 咳嗽 [ke2 sou4]" i="1209" m="cough" t="v" />
+<w c="verbs" e="壓碎 压碎 [ya1 sui4]; 砸 [za2]" i="1210" m="crush" t="v" />
+<w c="verbs" e="挤 [ji3]; 軋 轧 [ya4]" i="1211" m="crush" t="v" />
+<w c="verbs" e="哭" i="1212" m="cry" t="v" />
+<w c="verbs" e="作主 作主 [zuo4 zhu3]; 判定 判定 [pan4 ding4]" i="1213" m="decide" t="v" />
+<w c="verbs" e="形容 形容 [xing2 rong2]; 描寫 描写 [miao2 xie3]" i="1214" m="describe" t="v" />
+<w c="verbs" e="设计" i="1215" m="design" t="v" />
+<w c="verbs" e="要; 想要; 缺乏" i="1216" m="desire" t="v" />
+<w c="verbs" e="發揚 发扬 [fa1 yang2]; 發展 发展 [fa1 zhan3]" i="1217" m="develop" t="v" />
+<w c="verbs" e="卒 卒 [zu2]; 死 死 [si 1]" i="1218" m="die" t="v" />
+<w c="verbs" e="發現 发现 [fa1 xian4]" i="1219" m="discover" t="v" />
+<w c="verbs" e="讨论" i="1220" m="discuss" t="v" />
+<w c="verbs" e="拆分" i="1221" m="divide" t="v" />
+<w c="verbs" e="怀疑" i="1222" m="doubt" t="v" />
+<w c="verbs" e="開車 开车 [kai1 che1]; 駕駛 驾驶 [jia 4 shi3]" i="1223" m="drive" t="v" />
+<w c="verbs" e="蓋 盖 [gai4]; 包羅 包罗 [bao1 luo2]" i="1224" m="embrace" t="v" />
+<w c="verbs" e="助長 助长 [zhu4 zhang3]; 鼓勵  鼓励 [gu3 li4]; 提倡 提倡 [ti2 chang4]" i="1225" m="encourage" t="v" />
+<w c="verbs" e="增高" i="1226" m="enhance" t="v" />
+<w c="verbs" e="進 进 [jin4]" i="1227" m="enter" t="v" />
+<w c="verbs" e="建立" i="1228" m="establish" t="v" />
+<w c="verbs" e="猜測; 猜测" i="1229" m="estimate" t="v" />
+<w c="verbs" e="過 过 [guo4]; 通過 通过 [tong1 guo4]" i="1230" m="exceed" t="v" />
+<w c="verbs" e="存在" i="1231" m="exist" t="v" />
+<w c="verbs" e="等" i="1232" m="expect" t="v" />
+<w c="verbs" e="解釋; 解释" i="1233" m="explain" t="v" />
+<w c="verbs" e="表 表 [biao3]" i="1234" m="express" t="v" />
+<w c="verbs" e="交戰 交战 [jiao1 zhan4]; 戰 战 [zhan4];; 打架 打架 [da3 jia4]; 搏 搏 [bo2]; 鬥 斗 [dou4]" i="1235" m="fight" t="v" />
+<w c="verbs" e="装满" i="1236" m="fill" t="v" />
+<w c="verbs" e="发现" i="1237" m="find" t="v" />
+<w c="verbs" e="完成" i="1238" m="finish" t="v" />
+<w c="verbs" e="平 平 [ping2]; 坦 坦 [tan3]; 層次 层次 [ceng2 ci4];" i="1239" m="flush" t="v" />
+<w c="verbs" e="原谅" i="1240" m="forgive" t="v" />
+<w c="verbs" e="释放" i="1241" m="free" t="v" />
+<w c="verbs" e="投降" i="1242" m="give up" t="v" />
+<w c="verbs" e="增长" i="1243" m="grow" t="v" />
+<w c="verbs" e="發生; 发生" i="1244" m="happen" t="v" />
+<w c="verbs" e="憎恨" i="1245" m="hate" t="v" />
+<w c="verbs" e="隐瞒" i="1246" m="hide" t="v" />
+<w c="verbs" e="识别" i="1247" m="identify" t="v" />
+<w c="verbs" e="增加" i="1248" m="increase" t="v" />
+<w c="verbs" e="伤害" i="1249" m="injure" t="v" />
+<w c="verbs" e="介紹 介绍 [jie4 shao4]; 發凡 发凡 [fa1 fan2]" i="1250" m="introduce" t="v" />
+<w c="verbs" e="维护" i="1251" m="keep" t="v" />
+<w c="verbs" e="踢" i="1252" m="kick" t="v" />
+<w c="verbs" e="杀" i="1253" m="kill" t="v" />
+<w c="verbs" e="带领" i="1254" m="lead" t="v" />
+<w c="verbs" e="举起" i="1255" m="lift" t="v" />
+<w c="verbs" e="约束" i="1256" m="limit" t="v" />
+<w c="verbs" e="瞅 瞅 [chou3]" i="1257" m="look" t="v" />
+<w c="verbs" e="衡量" i="1258" m="measure" t="v" />
+<w c="verbs" e="援引" i="1259" m="mention" t="v" />
+<w c="verbs" e="命名" i="1260" m="name" t="v" />
+<w c="verbs" e="經營 经营 [jing1 ying2]" i="1261" m="operate" t="v" />
+<w c="verbs" e="吩咐" i="1262" m="order" t="v" />
+<w c="verbs" e="所有 所有 [suo3 you3]; 擁有 拥有 [yong1 you3]; 自有 自有 [zi4 you3]" i="1263" m="own" t="v" />
+<w c="verbs" e="使高兴" i="1264" m="please" t="v" />
+<w c="verbs" e="磨光" i="1265" m="polish" t="v" />
+<w c="verbs" e="准备" i="1266" m="prepare" t="v" />
+<w c="verbs" e="按" i="1267" m="press" t="v" />
+<w c="verbs" e="阻止 阻止 [zu3 zhi3]; 預防 预防 [yu4 fang2]; 毖 毖 [bi4]" i="1268" m="prevent" t="v" />
+<w c="verbs" e="打印" i="1269" m="print" t="v" />
+<w c="verbs" e="获利" i="1270" m="profit" t="v" />
+<w c="verbs" e="抗议" i="1271" m="protest" t="v" />
+<w c="verbs" e="证明" i="1272" m="prove" t="v" />
+<w c="verbs" e="列為  列为[lie4 wei2]" i="1273" m="rate" t="v" />
+<w c="verbs" e="收到" i="1274" m="receive" t="v" />
+<w c="verbs" e="反映" i="1275" m="reflect" t="v" />
+<w c="verbs" e="回答" i="1276" m="reply" t="v" />
+<w c="verbs" e="报道" i="1277" m="report" t="v" />
+<w c="verbs" e="代表 代表 [dai4 biao3];" i="1278" m="represent" t="v" />
+<w c="verbs" e="请求" i="1279" m="request" t="v" />
+<w c="verbs" e="尊敬" i="1280" m="respect" t="v" />
+<w c="verbs" e="赌博" i="1281" m="risk" t="v" />
+<w c="verbs" e="统治" i="1282" m="rule" t="v" />
+<w c="verbs" e="节约" i="1283" m="save" t="v" />
+<w c="verbs" e="看" i="1284" m="see" t="v" />
+<w c="verbs" e="睹 睹 [du3]" i="1285" m="see" t="v" />
+<w c="verbs" e="叫喊" i="1286" m="shout" t="v" />
+<w c="verbs" e="展览" i="1287" m="show" t="v" />
+<w c="verbs" e="闻" i="1288" m="smell" t="v" />
+<w c="verbs" e="度过" i="1289" m="spend" t="v" />
+<w c="verbs" e="站住" i="1290" m="stand" t="v" />
+<w c="verbs" e="偷窃" i="1291" m="steal" t="v" />
+<w c="verbs" e="終止 终止 [zhong1 zhi3]; 停止 停止 [ting2 zhi3]" i="1292" m="stop" t="v" />
+<w c="verbs" e="學習; 学习 (xuéxí); 學; 学 (xué)" i="1293" m="study" t="v" />
+<w c="verbs" e="忍受" i="1294" m="suffer" t="v" />
+<w c="verbs" e="建議; 建议 (jiànyì)" i="1295" m="suggest" t="v" />
+<w c="verbs" e="提供" i="1296" m="supply" t="v" />
+<w c="verbs" e="使惊奇" i="1297" m="surprise" t="v" />
+<w c="verbs" e="耐 耐 [nai4]; 忍受 忍受 [ren3 shou4]" i="1298" m="survive" t="v" />
+<w c="verbs" e="讲授" i="1299" m="teach" t="v" />
+<w c="verbs" e="试" i="1300" m="test" t="v" />
+<w c="verbs" e="扔" i="1301" m="throw" t="v" />
+<w c="verbs" e="題目 题目 [ti2 mu4]; 標題 标题 [biao1 ti2]" i="1302" m="title" t="v" />
+<w c="verbs" e="火車 火车 [huo3 che1]; 訓練 训练 [xun4 lian4]" i="1303" m="train" t="v" />
+<w c="verbs" e="去" i="1304" m="travel" t="v" />
+<w c="verbs" e="对待" i="1305" m="treat" t="v" />
+<w c="verbs" e="哄騙 哄骗 [hong3 pian4];" i="1306" m="trick" t="v" />
+<w c="verbs" e="企图" i="1307" m="try" t="v" />
+<w c="verbs" e="转动" i="1308" m="turn" t="v" />
+<w c="verbs" e="訪問; 访问 (fǎngwèn)" i="1309" m="visit" t="v" />
+<w c="verbs" e="走 (zǒu)" i="1310" m="walk" t="v" />
+<w c="verbs" e="洗" i="1311" m="wash" t="v" />
+<w c="verbs" e="穿 穿 [chuan1]" i="1312" m="wear" t="v" />
+<w c="verbs" e="稱 (chèng)" i="1313" m="weigh" t="v" />
+<w c="verbs" e="赢" i="1314" m="win" t="v" />
+<w c="verbs" e="是" i="1315" m="be" t="v" />
+<w c="verbs" e="开始" i="1316" m="begin" t="v" />
+<w c="verbs" e="买" i="1317" m="buy" t="v" />
+<w c="verbs" e="关闭" i="1318" m="close" t="v" />
+<w c="verbs" e="来" i="1319" m="come" t="v" />
+<w c="verbs" e="鍥 锲 [qie4]; 切割 切割 [qie1 ge1]" i="1320" m="cut" t="v" />
+<w c="verbs" e="跳舞" i="1321" m="dance" t="v" />
+<w c="verbs" e="练习" i="1322" m="do" t="v" />
+<w c="verbs" e="喝" i="1323" m="drink" t="v" />
+<w c="verbs" e="吃" i="1324" m="eat" t="v" />
+<w c="verbs" e="落下" i="1325" m="fall" t="v" />
+<w c="verbs" e="感受 感受 [gan3 shou4]; 感覺到 感觉到 [gan3 jue2 dao4]" i="1326" m="feel" t="v" />
+<w c="verbs" e="發覺 发觉 [fa1 jue2]" i="1327" m="find" t="v" />
+<w c="verbs" e="射 射 [she4]" i="1328" m="fire" t="v" />
+<w c="verbs" e="飛 飞 [fei1]" i="1329" m="fly" t="v" />
+<w c="verbs" e="跟从" i="1330" m="follow" t="v" />
+<w c="verbs" e="忘記 忘记 [wang4 ji4]; 諼 谖 [xuan1]" i="1331" m="forget" t="v" />
+<w c="verbs" e="受到 受到 [shou4 dao4]; 得 得 [de2]" i="1332" m="get" t="v" />
+<w c="verbs" e="给予" i="1333" m="give" t="v" />
+<w c="verbs" e="具有" i="1334" m="have" t="v" />
+<w c="verbs" e="聽见 听见 [ting1 jian4]; 聞 闻 [wen2]; 聆 聆 [ling2]" i="1335" m="hear" t="v" />
+<w c="verbs" e="帮助" i="1336" m="help" t="v" />
+<w c="verbs" e="希望" i="1337" m="hope" t="v" />
+<w c="verbs" e="接吻" i="1338" m="kiss" t="v" />
+<w c="verbs" e="笑" i="1339" m="laugh" t="v" />
+<w c="verbs" e="学 (xué)" i="1340" m="learn" t="v" />
+<w c="verbs" e="躺" i="1341" m="lie" t="v" />
+<w c="verbs" e="说谎; 說謊 (shuohuang)" i="1342" m="lie" t="v" />
+<w c="verbs" e="喜欢" i="1343" m="like" t="v" />
+<w c="verbs" e="聆 聆 [ling2]" i="1344" m="listen" t="v" />
+<w c="verbs" e="看" i="1345" m="look" t="v" />
+<w c="verbs" e="爱" i="1346" m="love" t="v" />
+<w c="verbs" e="做 (zuò)" i="1347" m="make" t="v" />
+<w c="verbs" e="会晤" i="1348" m="meet" t="v" />
+<w c="verbs" e="吪 吪 [hua1]; 搬 搬 [ban1]; 搬遷 搬迁 [ban1 qian1]; 步驟 步骤 [bu4 zhou4]; 開動 开动 [kai1 dong4]" i="1349" m="move" t="v" />
+<w c="verbs" e="要求" i="1350" m="need" t="v" />
+<w c="verbs" e="打开" i="1351" m="open" t="v" />
+<w c="verbs" e="支付" i="1352" m="pay" t="v" />
+<w c="verbs" e="演奏" i="1353" m="play" t="v" />
+<w c="verbs" e="扯 扯 [che3]; 挽 挽 [wan3]; 扳 扳 [ban1]" i="1354" m="pull" t="v" />
+<w c="verbs" e="推 推 [tui1]" i="1355" m="push" t="v" />
+<w c="verbs" e="安放" i="1356" m="put" t="v" />
+<w c="verbs" e="读" i="1357" m="read" t="v" />
+<w c="verbs" e="说" i="1358" m="say" t="v" />
+<w c="verbs" e="销售" i="1359" m="sell" t="v" />
+<w c="verbs" e="唱歌" i="1360" m="sing" t="v" />
+<w c="verbs" e="坐" i="1361" m="sit" t="v" />
+<w c="verbs" e="微笑" i="1362" m="smile" t="v" />
+<w c="verbs" e="游泳 (yóuyǒng)" i="1363" m="swim" t="v" />
+<w c="verbs" e="取" i="1364" m="take" t="v" />
+<w c="verbs" e="谈话" i="1365" m="talk" t="v" />
+<w c="verbs" e="画" i="1366" m="trace" t="v" />
+<w c="verbs" e="了解" i="1367" m="understand" t="v" />
+<w c="verbs" e="使用" i="1368" m="use" t="v" />
+<w c="verbs" e="等 (děng)" i="1369" m="wait" t="v" />
+<w c="verbs" e="写" i="1370" m="write" t="v" />
+<w c="weather" e="云" i="1371" m="cloud" t="n" />
+<w c="weather" e="露水" i="1372" m="dew" t="n" />
+<w c="weather" e="霧" i="1373" m="fog" t="n" />
+<w c="weather" e="霜" i="1374" m="frost" t="n" />
+<w c="weather" e="闪" i="1375" m="lightning" t="n" />
+<w c="weather" e="雨 (yǔ)" i="1376" m="rain" t="n" />
+<w c="weather" e="虹" i="1377" m="rainbow" t="n" />
+<w c="weather" e="雪" i="1378" m="snow" t="n" />
+<w c="weather" e="风暴" i="1379" m="storm" t="n" />
+<w c="weather" e="雷" i="1380" m="thunder" t="n" />
+<w c="weather" e="风" i="1381" m="wind" t="n" />
+</vocb>

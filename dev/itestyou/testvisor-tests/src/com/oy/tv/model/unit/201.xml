@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b,c}" defaults="{8,100,5}">
+	<question>Which expression is the result of applying the distributive property to <latex>${a}\times(${b}+${c})</latex>?</question>
+	<choices>      
+		<answer>
+			<latex>${a*b}+${a*c}</latex> 
+		</answer>
+		<decoy>  
+			<latex>${a}\times${b+c}</latex>
+		</decoy>
+		<decoy>  
+			<latex>${a}\times${b+a*c}</latex> 
+		</decoy>
+		<decoy>
+			<latex>${a*b}+${c}</latex> 
+		</decoy>
+	</choices>
+</unit>

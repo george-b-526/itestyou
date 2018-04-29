@@ -1,0 +1,3049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+<category active="1">
+ <name>Chapter 1</name>
+</category>
+<category active="1">
+ <name>Chapter 2</name>
+</category>
+<category active="1">
+ <name>Chapter 3</name>
+</category>
+<category active="1">
+ <name>Chapter 4</name>
+</category>
+<category active="1">
+ <name>Chapter 5</name>
+</category>
+<category active="1">
+ <name>Chapter 6</name>
+</category>
+<category active="1">
+ <name>Chapter 7</name>
+</category>
+<category active="1">
+ <name>Chapter 8</name>
+</category>
+<category active="1">
+ <name>Chapter 9</name>
+</category>
+<category active="1">
+ <name>Chapter 10</name>
+</category>
+<category active="1">
+ <name>Chapter 11</name>
+</category>
+<category active="1">
+ <name>Chapter 12</name>
+</category>
+<item id="_0">
+ <cat>Chapter 1</cat>
+ <Q>あの</Q>
+ <A>あの	um...</A>
+</item>
+<item id="_1">
+ <cat>Chapter 1</cat>
+ <Q>今</Q>
+ <A>いま	now</A>
+</item>
+<item id="_2">
+ <cat>Chapter 1</cat>
+ <Q>英語</Q>
+ <A>えいご	English (language)</A>
+</item>
+<item id="_3">
+ <cat>Chapter 1</cat>
+ <Q>学生</Q>
+ <A>がくせい	student</A>
+</item>
+<item id="_4">
+ <cat>Chapter 1</cat>
+ <Q>〜語</Q>
+ <A>〜ご	language</A>
+</item>
+<item id="_5">
+ <cat>Chapter 1</cat>
+ <Q>高校</Q>
+ <A>こうこう	high school</A>
+</item>
+<item id="_6">
+ <cat>Chapter 1</cat>
+ <Q>午後</Q>
+ <A>ごご	P.M.</A>
+</item>
+<item id="_7">
+ <cat>Chapter 1</cat>
+ <Q>午前</Q>
+ <A>ごぜん	A.M.</A>
+</item>
+<item id="_8">
+ <cat>Chapter 1</cat>
+ <Q>〜歳</Q>
+ <A>〜さい	...years old</A>
+</item>
+<item id="_9">
+ <cat>Chapter 1</cat>
+ <Q>〜さん</Q>
+ <A>〜さん	Mr./Ms....</A>
+</item>
+<item id="_10">
+ <cat>Chapter 1</cat>
+ <Q>〜時</Q>
+ <A>〜じ	o'clock</A>
+</item>
+<item id="_11">
+ <cat>Chapter 1</cat>
+ <Q>〜人</Q>
+ <A>〜じん	people</A>
+</item>
+<item id="_12">
+ <cat>Chapter 1</cat>
+ <Q>先生</Q>
+ <A>せんせい	teacher; Professor ...</A>
+</item>
+<item id="_13">
+ <cat>Chapter 1</cat>
+ <Q>専門</Q>
+ <A>せんもん	major</A>
+</item>
+<item id="_14">
+ <cat>Chapter 1</cat>
+ <Q>そうです</Q>
+ <A>そうです	That's right.</A>
+</item>
+<item id="_15">
+ <cat>Chapter 1</cat>
+ <Q>大学</Q>
+ <A>だいがく	college; university</A>
+</item>
+<item id="_16">
+ <cat>Chapter 1</cat>
+ <Q>電話</Q>
+ <A>でんわ	telephone</A>
+</item>
+<item id="_17">
+ <cat>Chapter 1</cat>
+ <Q>友達</Q>
+ <A>ともだち	friend</A>
+</item>
+<item id="_18">
+ <cat>Chapter 1</cat>
+ <Q>名前</Q>
+ <A>なまえ	name</A>
+</item>
+<item id="_19">
+ <cat>Chapter 1</cat>
+ <Q>何</Q>
+ <A>なん／なに	what</A>
+</item>
+<item id="_20">
+ <cat>Chapter 1</cat>
+ <Q>日本</Q>
+ <A>にほん	Japan</A>
+</item>
+<item id="_21">
+ <cat>Chapter 1</cat>
+ <Q>〜年生</Q>
+ <A>〜ねんせい	...year student</A>
+</item>
+<item id="_22">
+ <cat>Chapter 1</cat>
+ <Q>はい</Q>
+ <A>はい	yes</A>
+</item>
+<item id="_23">
+ <cat>Chapter 1</cat>
+ <Q>半</Q>
+ <A>はん	half</A>
+</item>
+<item id="_24">
+ <cat>Chapter 1</cat>
+ <Q>番号</Q>
+ <A>ばんごう	number</A>
+</item>
+<item id="_25">
+ <cat>Chapter 1</cat>
+ <Q>留学生</Q>
+ <A>りゅうがくせい	international student</A>
+</item>
+<item id="_26">
+ <cat>Chapter 1</cat>
+ <Q>私</Q>
+ <A>わたし	I</A>
+</item>
+<item id="_27">
+ <cat>Chapter 1</cat>
+ <Q>アメリカ</Q>
+ <A>アメリカ	U.S.A.</A>
+</item>
+<item id="_28">
+ <cat>Chapter 1</cat>
+ <Q>イギリス</Q>
+ <A>イギリス	Britain</A>
+</item>
+<item id="_29">
+ <cat>Chapter 1</cat>
+ <Q>オーストラリア</Q>
+ <A>オーストラリア	Australia</A>
+</item>
+<item id="_30">
+ <cat>Chapter 1</cat>
+ <Q>韓国</Q>
+ <A>かんこく	Korea</A>
+</item>
+<item id="_31">
+ <cat>Chapter 1</cat>
+ <Q>スウェーデン</Q>
+ <A>スウェーデン	Sweden</A>
+</item>
+<item id="_32">
+ <cat>Chapter 1</cat>
+ <Q>中国</Q>
+ <A>ちゅうごく	China</A>
+</item>
+<item id="_33">
+ <cat>Chapter 1</cat>
+ <Q>科学</Q>
+ <A>かがく	science</A>
+</item>
+<item id="_34">
+ <cat>Chapter 1</cat>
+ <Q>アジア研究</Q>
+ <A>アジアけんきゅう	Asian studies</A>
+</item>
+<item id="_35">
+ <cat>Chapter 1</cat>
+ <Q>国際関係</Q>
+ <A>こくさいかんけい	international relations</A>
+</item>
+<item id="_36">
+ <cat>Chapter 1</cat>
+ <Q>コンピューター</Q>
+ <A>コンピューター	computer</A>
+</item>
+<item id="_37">
+ <cat>Chapter 1</cat>
+ <Q>人類学</Q>
+ <A>じんるいがく	anthropology</A>
+</item>
+<item id="_38">
+ <cat>Chapter 1</cat>
+ <Q>政治</Q>
+ <A>せいじ	politics</A>
+</item>
+<item id="_39">
+ <cat>Chapter 1</cat>
+ <Q>ビジネス</Q>
+ <A>ビジネス	business</A>
+</item>
+<item id="_40">
+ <cat>Chapter 1</cat>
+ <Q>文学</Q>
+ <A>ぶんがく	literature</A>
+</item>
+<item id="_41">
+ <cat>Chapter 1</cat>
+ <Q>歴史</Q>
+ <A>れきし	history</A>
+</item>
+<item id="_42">
+ <cat>Chapter 1</cat>
+ <Q>仕事</Q>
+ <A>しごと	job; work; occupation</A>
+</item>
+<item id="_43">
+ <cat>Chapter 1</cat>
+ <Q>医者</Q>
+ <A>いしゃ	doctor</A>
+</item>
+<item id="_44">
+ <cat>Chapter 1</cat>
+ <Q>会社員</Q>
+ <A>かいしゃいん	office worker</A>
+</item>
+<item id="_45">
+ <cat>Chapter 1</cat>
+ <Q>高校生</Q>
+ <A>こうこうせい	high school student</A>
+</item>
+<item id="_46">
+ <cat>Chapter 1</cat>
+ <Q>主婦</Q>
+ <A>しゅふ	housewife</A>
+</item>
+<item id="_47">
+ <cat>Chapter 1</cat>
+ <Q>大学院生</Q>
+ <A>だいがくいんせい	graduate student</A>
+</item>
+<item id="_48">
+ <cat>Chapter 1</cat>
+ <Q>大学生</Q>
+ <A>だいがくせい	college student</A>
+</item>
+<item id="_49">
+ <cat>Chapter 1</cat>
+ <Q>弁護士</Q>
+ <A>べんごし	lawyer</A>
+</item>
+<item id="_50">
+ <cat>Chapter 1</cat>
+ <Q>お母さん</Q>
+ <A>おかあさん	mother</A>
+</item>
+<item id="_51">
+ <cat>Chapter 1</cat>
+ <Q>お父さん</Q>
+ <A>おとうさん	father</A>
+</item>
+<item id="_52">
+ <cat>Chapter 1</cat>
+ <Q>お姉さん</Q>
+ <A>おねえさん	older sister</A>
+</item>
+<item id="_53">
+ <cat>Chapter 1</cat>
+ <Q>お兄さん</Q>
+ <A>おにいさん	older brother</A>
+</item>
+<item id="_54">
+ <cat>Chapter 1</cat>
+ <Q>妹</Q>
+ <A>いもうと	younger sister</A>
+</item>
+<item id="_55">
+ <cat>Chapter 1</cat>
+ <Q>弟</Q>
+ <A>おとうと	younger brother</A>
+</item>
+<item id="_56">
+ <cat>Chapter 2</cat>
+ <Q>これ</Q>
+ <A>これ	this one</A>
+</item>
+<item id="_57">
+ <cat>Chapter 2</cat>
+ <Q>それ</Q>
+ <A>それ	that one</A>
+</item>
+<item id="_58">
+ <cat>Chapter 2</cat>
+ <Q>あれ</Q>
+ <A>あれ	that one (over there)</A>
+</item>
+<item id="_59">
+ <cat>Chapter 2</cat>
+ <Q>どれ</Q>
+ <A>どれ	which one</A>
+</item>
+<item id="_60">
+ <cat>Chapter 2</cat>
+ <Q>この</Q>
+ <A>この	this ...</A>
+</item>
+<item id="_61">
+ <cat>Chapter 2</cat>
+ <Q>その</Q>
+ <A>その	that ...</A>
+</item>
+<item id="_62">
+ <cat>Chapter 2</cat>
+ <Q>あの</Q>
+ <A>あの	that ... (over there)</A>
+</item>
+<item id="_63">
+ <cat>Chapter 2</cat>
+ <Q>どの</Q>
+ <A>どの	which ...</A>
+</item>
+<item id="_64">
+ <cat>Chapter 2</cat>
+ <Q>あそこ</Q>
+ <A>あそこ	over there</A>
+</item>
+<item id="_65">
+ <cat>Chapter 2</cat>
+ <Q>どこ</Q>
+ <A>どこ	where</A>
+</item>
+<item id="_66">
+ <cat>Chapter 2</cat>
+ <Q>だれ</Q>
+ <A>だれ	who</A>
+</item>
+<item id="_67">
+ <cat>Chapter 2</cat>
+ <Q>おいしい</Q>
+ <A>おいしい	delicious</A>
+</item>
+<item id="_68">
+ <cat>Chapter 2</cat>
+ <Q>魚</Q>
+ <A>さかな	fish</A>
+</item>
+<item id="_69">
+ <cat>Chapter 2</cat>
+ <Q>とんかつ</Q>
+ <A>とんかつ	pork cutlet</A>
+</item>
+<item id="_70">
+ <cat>Chapter 2</cat>
+ <Q>肉</Q>
+ <A>にく	meat</A>
+</item>
+<item id="_71">
+ <cat>Chapter 2</cat>
+ <Q>メニュー</Q>
+ <A>メニュー	menu</A>
+</item>
+<item id="_72">
+ <cat>Chapter 2</cat>
+ <Q>野菜</Q>
+ <A>やさい	vegetable</A>
+</item>
+<item id="_73">
+ <cat>Chapter 2</cat>
+ <Q>鉛筆</Q>
+ <A>えんぴつ	pencil</A>
+</item>
+<item id="_74">
+ <cat>Chapter 2</cat>
+ <Q>傘</Q>
+ <A>かさ	umbrella</A>
+</item>
+<item id="_75">
+ <cat>Chapter 2</cat>
+ <Q>かばん</Q>
+ <A>かばん	bag</A>
+</item>
+<item id="_76">
+ <cat>Chapter 2</cat>
+ <Q>靴</Q>
+ <A>くつ	shoes</A>
+</item>
+<item id="_77">
+ <cat>Chapter 2</cat>
+ <Q>財布</Q>
+ <A>さいふ	wallet</A>
+</item>
+<item id="_78">
+ <cat>Chapter 2</cat>
+ <Q>ジーンズ</Q>
+ <A>ジーンズ	jeans</A>
+</item>
+<item id="_79">
+ <cat>Chapter 2</cat>
+ <Q>辞書</Q>
+ <A>じしょ	dictionary</A>
+</item>
+<item id="_80">
+ <cat>Chapter 2</cat>
+ <Q>自転車</Q>
+ <A>じてんしゃ	bicycle</A>
+</item>
+<item id="_81">
+ <cat>Chapter 2</cat>
+ <Q>新聞</Q>
+ <A>しんぶん	newspaper</A>
+</item>
+<item id="_82">
+ <cat>Chapter 2</cat>
+ <Q>テープ</Q>
+ <A>テープ	tape</A>
+</item>
+<item id="_83">
+ <cat>Chapter 2</cat>
+ <Q>時計</Q>
+ <A>とけい	watch; clock</A>
+</item>
+<item id="_84">
+ <cat>Chapter 2</cat>
+ <Q>トレーナー</Q>
+ <A>トレーナー	sweat shirt</A>
+</item>
+<item id="_85">
+ <cat>Chapter 2</cat>
+ <Q>ノート</Q>
+ <A>ノート	notebook</A>
+</item>
+<item id="_86">
+ <cat>Chapter 2</cat>
+ <Q>ペン</Q>
+ <A>ペン	pen</A>
+</item>
+<item id="_87">
+ <cat>Chapter 2</cat>
+ <Q>帽子</Q>
+ <A>ぼうし	hat; cap</A>
+</item>
+<item id="_88">
+ <cat>Chapter 2</cat>
+ <Q>本</Q>
+ <A>ほん	book</A>
+</item>
+<item id="_89">
+ <cat>Chapter 2</cat>
+ <Q>お手洗い</Q>
+ <A>おてあらい	restroom</A>
+</item>
+<item id="_90">
+ <cat>Chapter 2</cat>
+ <Q>喫茶店</Q>
+ <A>きっさてん	cafe</A>
+</item>
+<item id="_91">
+ <cat>Chapter 2</cat>
+ <Q>銀行</Q>
+ <A>ぎんこう	bank</A>
+</item>
+<item id="_92">
+ <cat>Chapter 2</cat>
+ <Q>図書館</Q>
+ <A>としょかん	library</A>
+</item>
+<item id="_93">
+ <cat>Chapter 2</cat>
+ <Q>郵便局</Q>
+ <A>ゆうびんきょく	post office</A>
+</item>
+<item id="_94">
+ <cat>Chapter 2</cat>
+ <Q>経済</Q>
+ <A>けいざい	economics</A>
+</item>
+<item id="_95">
+ <cat>Chapter 2</cat>
+ <Q>いくら</Q>
+ <A>いくら	how much</A>
+</item>
+<item id="_96">
+ <cat>Chapter 2</cat>
+ <Q>〜円</Q>
+ <A>〜えん	...yen</A>
+</item>
+<item id="_97">
+ <cat>Chapter 2</cat>
+ <Q>高い</Q>
+ <A>たかい	expensive</A>
+</item>
+<item id="_98">
+ <cat>Chapter 2</cat>
+ <Q>いらっしゃいませ</Q>
+ <A>いらっしゃいませ	Welcome (to our store)</A>
+</item>
+<item id="_99">
+ <cat>Chapter 2</cat>
+ <Q>（〜を）おねがいします</Q>
+ <A>（〜を）おねがいします	..., please.</A>
+</item>
+<item id="_100">
+ <cat>Chapter 2</cat>
+ <Q>（〜を）ください</Q>
+ <A>（〜を）ください	Please give me...</A>
+</item>
+<item id="_101">
+ <cat>Chapter 2</cat>
+ <Q>じゃあ</Q>
+ <A>じゃあ	then...; if that is the case,...</A>
+</item>
+<item id="_102">
+ <cat>Chapter 2</cat>
+ <Q>（〜を）どうぞ</Q>
+ <A>（〜を）どうぞ	Here it is.</A>
+</item>
+<item id="_103">
+ <cat>Chapter 2</cat>
+ <Q>どうも</Q>
+ <A>どうも	Thank you.</A>
+</item>
+<item id="_104">
+ <cat>Chapter 3</cat>
+ <Q>映画</Q>
+ <A>えいが	movie</A>
+</item>
+<item id="_105">
+ <cat>Chapter 3</cat>
+ <Q>音楽</Q>
+ <A>おんがく	music</A>
+</item>
+<item id="_106">
+ <cat>Chapter 3</cat>
+ <Q>雑誌</Q>
+ <A>ざっし	magazine</A>
+</item>
+<item id="_107">
+ <cat>Chapter 3</cat>
+ <Q>スポーツ</Q>
+ <A>スポーツ	sports</A>
+</item>
+<item id="_108">
+ <cat>Chapter 3</cat>
+ <Q>デート</Q>
+ <A>デート	date (romantic, not calendar)</A>
+</item>
+<item id="_109">
+ <cat>Chapter 3</cat>
+ <Q>テニス</Q>
+ <A>テニス	tennis</A>
+</item>
+<item id="_110">
+ <cat>Chapter 3</cat>
+ <Q>テレビ</Q>
+ <A>テレビ	TV</A>
+</item>
+<item id="_111">
+ <cat>Chapter 3</cat>
+ <Q>ビデオ</Q>
+ <A>ビデオ	video tape; VCR</A>
+</item>
+<item id="_112">
+ <cat>Chapter 3</cat>
+ <Q>朝御飯</Q>
+ <A>あさごはん	breakfast</A>
+</item>
+<item id="_113">
+ <cat>Chapter 3</cat>
+ <Q>お酒</Q>
+ <A>おさけ	sake; alcohol</A>
+</item>
+<item id="_114">
+ <cat>Chapter 3</cat>
+ <Q>お茶</Q>
+ <A>おちゃ	green tea</A>
+</item>
+<item id="_115">
+ <cat>Chapter 3</cat>
+ <Q>コーヒー</Q>
+ <A>コーヒー	coffee</A>
+</item>
+<item id="_116">
+ <cat>Chapter 3</cat>
+ <Q>晩御飯</Q>
+ <A>ばんごはん	dinner</A>
+</item>
+<item id="_117">
+ <cat>Chapter 3</cat>
+ <Q>ハンバーガー</Q>
+ <A>ハンバーガー	hamburger</A>
+</item>
+<item id="_118">
+ <cat>Chapter 3</cat>
+ <Q>昼御飯</Q>
+ <A>ひるごはん	lunch</A>
+</item>
+<item id="_119">
+ <cat>Chapter 3</cat>
+ <Q>水</Q>
+ <A>みず	water</A>
+</item>
+<item id="_120">
+ <cat>Chapter 3</cat>
+ <Q>家</Q>
+ <A>いえ	home; house</A>
+</item>
+<item id="_121">
+ <cat>Chapter 3</cat>
+ <Q>家</Q>
+ <A>うち	home; house; my place</A>
+</item>
+<item id="_122">
+ <cat>Chapter 3</cat>
+ <Q>LL（エルエル）</Q>
+ <A>LL（エルエル）	language lab</A>
+</item>
+<item id="_123">
+ <cat>Chapter 3</cat>
+ <Q>学校</Q>
+ <A>がっこう	school</A>
+</item>
+<item id="_124">
+ <cat>Chapter 3</cat>
+ <Q>朝</Q>
+ <A>あさ	morning</A>
+</item>
+<item id="_125">
+ <cat>Chapter 3</cat>
+ <Q>あした</Q>
+ <A>あした	tomorrow</A>
+</item>
+<item id="_126">
+ <cat>Chapter 3</cat>
+ <Q>いつ</Q>
+ <A>いつ	when</A>
+</item>
+<item id="_127">
+ <cat>Chapter 3</cat>
+ <Q>今日</Q>
+ <A>きょう	today</A>
+</item>
+<item id="_128">
+ <cat>Chapter 3</cat>
+ <Q>〜ごろ</Q>
+ <A>〜ごろ	at about</A>
+</item>
+<item id="_129">
+ <cat>Chapter 3</cat>
+ <Q>今晩</Q>
+ <A>こんばん	tonight</A>
+</item>
+<item id="_130">
+ <cat>Chapter 3</cat>
+ <Q>週末</Q>
+ <A>しゅうまつ	weekend</A>
+</item>
+<item id="_131">
+ <cat>Chapter 3</cat>
+ <Q>土曜日</Q>
+ <A>どようび	Saturday</A>
+</item>
+<item id="_132">
+ <cat>Chapter 3</cat>
+ <Q>日曜日</Q>
+ <A>にちようび	Sunday</A>
+</item>
+<item id="_133">
+ <cat>Chapter 3</cat>
+ <Q>毎日</Q>
+ <A>まいにち	every day</A>
+</item>
+<item id="_134">
+ <cat>Chapter 3</cat>
+ <Q>毎晩</Q>
+ <A>まいばん	every night</A>
+</item>
+<item id="_135">
+ <cat>Chapter 3</cat>
+ <Q>行く</Q>
+ <A>いく	to go</A>
+</item>
+<item id="_136">
+ <cat>Chapter 3</cat>
+ <Q>帰る</Q>
+ <A>かえる	to go back; to return</A>
+</item>
+<item id="_137">
+ <cat>Chapter 3</cat>
+ <Q>聞く</Q>
+ <A>きく	to listen; to hear</A>
+</item>
+<item id="_138">
+ <cat>Chapter 3</cat>
+ <Q>飲む</Q>
+ <A>のむ	to drink</A>
+</item>
+<item id="_139">
+ <cat>Chapter 3</cat>
+ <Q>話す</Q>
+ <A>はなす	to speak; to talk</A>
+</item>
+<item id="_140">
+ <cat>Chapter 3</cat>
+ <Q>読む</Q>
+ <A>よむ	to read</A>
+</item>
+<item id="_141">
+ <cat>Chapter 3</cat>
+ <Q>起きる</Q>
+ <A>おきる	to get up</A>
+</item>
+<item id="_142">
+ <cat>Chapter 3</cat>
+ <Q>食べる</Q>
+ <A>たべる	to eat</A>
+</item>
+<item id="_143">
+ <cat>Chapter 3</cat>
+ <Q>寝る</Q>
+ <A>ねる	to sleep; to go to sleep</A>
+</item>
+<item id="_144">
+ <cat>Chapter 3</cat>
+ <Q>見る</Q>
+ <A>みる	to see; to look at; to watch</A>
+</item>
+<item id="_145">
+ <cat>Chapter 3</cat>
+ <Q>来る</Q>
+ <A>くる	to come</A>
+</item>
+<item id="_146">
+ <cat>Chapter 3</cat>
+ <Q>する</Q>
+ <A>する	to do</A>
+</item>
+<item id="_147">
+ <cat>Chapter 3</cat>
+ <Q>勉強する</Q>
+ <A>べんきょうする	to study</A>
+</item>
+<item id="_148">
+ <cat>Chapter 3</cat>
+ <Q>いい</Q>
+ <A>いい	good</A>
+</item>
+<item id="_149">
+ <cat>Chapter 3</cat>
+ <Q>早い</Q>
+ <A>はやい	early</A>
+</item>
+<item id="_150">
+ <cat>Chapter 3</cat>
+ <Q>あまり+ negative</Q>
+ <A>あまり+ negative	not much</A>
+</item>
+<item id="_151">
+ <cat>Chapter 3</cat>
+ <Q>全然</Q>
+ <A>ぜんぜん + negative	not at all</A>
+</item>
+<item id="_152">
+ <cat>Chapter 3</cat>
+ <Q>大抵</Q>
+ <A>たいてい	usually</A>
+</item>
+<item id="_153">
+ <cat>Chapter 3</cat>
+ <Q>ちょっと</Q>
+ <A>ちょっと	a little</A>
+</item>
+<item id="_154">
+ <cat>Chapter 3</cat>
+ <Q>時々</Q>
+ <A>ときどき	sometimes</A>
+</item>
+<item id="_155">
+ <cat>Chapter 3</cat>
+ <Q>よく</Q>
+ <A>よく	often; much</A>
+</item>
+<item id="_156">
+ <cat>Chapter 3</cat>
+ <Q>そうですね</Q>
+ <A>そうですね	That's right.; Let me see.</A>
+</item>
+<item id="_157">
+ <cat>Chapter 3</cat>
+ <Q>でも</Q>
+ <A>でも	but</A>
+</item>
+<item id="_158">
+ <cat>Chapter 3</cat>
+ <Q>どうですか</Q>
+ <A>どうですか	How about...?; How is...?</A>
+</item>
+<item id="_159">
+ <cat>Chapter 4</cat>
+ <Q>アルバイト</Q>
+ <A>アルバイト	part-time job</A>
+</item>
+<item id="_160">
+ <cat>Chapter 4</cat>
+ <Q>買い物</Q>
+ <A>かいもの	shopping</A>
+</item>
+<item id="_161">
+ <cat>Chapter 4</cat>
+ <Q>クラス</Q>
+ <A>クラス	class</A>
+</item>
+<item id="_162">
+ <cat>Chapter 4</cat>
+ <Q>あなた</Q>
+ <A>あなた	you</A>
+</item>
+<item id="_163">
+ <cat>Chapter 4</cat>
+ <Q>犬</Q>
+ <A>いぬ	dog</A>
+</item>
+<item id="_164">
+ <cat>Chapter 4</cat>
+ <Q>お土産</Q>
+ <A>おみやげ	souvenir</A>
+</item>
+<item id="_165">
+ <cat>Chapter 4</cat>
+ <Q>子供</Q>
+ <A>こども	child</A>
+</item>
+<item id="_166">
+ <cat>Chapter 4</cat>
+ <Q>御飯</Q>
+ <A>ごはん	rice; meal</A>
+</item>
+<item id="_167">
+ <cat>Chapter 4</cat>
+ <Q>写真</Q>
+ <A>しゃしん	picture; photograph</A>
+</item>
+<item id="_168">
+ <cat>Chapter 4</cat>
+ <Q>机</Q>
+ <A>つくえ	desk</A>
+</item>
+<item id="_169">
+ <cat>Chapter 4</cat>
+ <Q>手紙</Q>
+ <A>てがみ	letter</A>
+</item>
+<item id="_170">
+ <cat>Chapter 4</cat>
+ <Q>猫</Q>
+ <A>ねこ	cat</A>
+</item>
+<item id="_171">
+ <cat>Chapter 4</cat>
+ <Q>パン</Q>
+ <A>パン	bread</A>
+</item>
+<item id="_172">
+ <cat>Chapter 4</cat>
+ <Q>人</Q>
+ <A>ひと	person</A>
+</item>
+<item id="_173">
+ <cat>Chapter 4</cat>
+ <Q>お寺</Q>
+ <A>おてら	temple</A>
+</item>
+<item id="_174">
+ <cat>Chapter 4</cat>
+ <Q>公園</Q>
+ <A>こうえん	park</A>
+</item>
+<item id="_175">
+ <cat>Chapter 4</cat>
+ <Q>スーパー</Q>
+ <A>スーパー	supermarket</A>
+</item>
+<item id="_176">
+ <cat>Chapter 4</cat>
+ <Q>デパート</Q>
+ <A>デパート	department store</A>
+</item>
+<item id="_177">
+ <cat>Chapter 4</cat>
+ <Q>バス停</Q>
+ <A>バスてい	bus stop</A>
+</item>
+<item id="_178">
+ <cat>Chapter 4</cat>
+ <Q>病院</Q>
+ <A>びょういん	hospital</A>
+</item>
+<item id="_179">
+ <cat>Chapter 4</cat>
+ <Q>ホテル</Q>
+ <A>ホテル	hotel</A>
+</item>
+<item id="_180">
+ <cat>Chapter 4</cat>
+ <Q>本屋</Q>
+ <A>ほんや	bookstore</A>
+</item>
+<item id="_181">
+ <cat>Chapter 4</cat>
+ <Q>町</Q>
+ <A>まち	town; city</A>
+</item>
+<item id="_182">
+ <cat>Chapter 4</cat>
+ <Q>レストラン</Q>
+ <A>レストラン	restaurant</A>
+</item>
+<item id="_183">
+ <cat>Chapter 4</cat>
+ <Q>昨日</Q>
+ <A>きのう	yesterday</A>
+</item>
+<item id="_184">
+ <cat>Chapter 4</cat>
+ <Q>さっき</Q>
+ <A>さっき	a little while ago</A>
+</item>
+<item id="_185">
+ <cat>Chapter 4</cat>
+ <Q>〜時間</Q>
+ <A>〜じかん	hour</A>
+</item>
+<item id="_186">
+ <cat>Chapter 4</cat>
+ <Q>一時間</Q>
+ <A>いちじかん	one hour</A>
+</item>
+<item id="_187">
+ <cat>Chapter 4</cat>
+ <Q>先週</Q>
+ <A>せんしゅう	last week</A>
+</item>
+<item id="_188">
+ <cat>Chapter 4</cat>
+ <Q>時</Q>
+ <A>とき	when...; at the time of...</A>
+</item>
+<item id="_189">
+ <cat>Chapter 4</cat>
+ <Q>火曜日</Q>
+ <A>かようび	Tuesday</A>
+</item>
+<item id="_190">
+ <cat>Chapter 4</cat>
+ <Q>水曜日</Q>
+ <A>すいようび	Wednesday</A>
+</item>
+<item id="_191">
+ <cat>Chapter 4</cat>
+ <Q>木曜日</Q>
+ <A>もくようび	Thursday</A>
+</item>
+<item id="_192">
+ <cat>Chapter 4</cat>
+ <Q>金曜日</Q>
+ <A>きんようび	Friday</A>
+</item>
+<item id="_193">
+ <cat>Chapter 4</cat>
+ <Q>会う</Q>
+ <A>あう	to meet; to see (a person)</A>
+</item>
+<item id="_194">
+ <cat>Chapter 4</cat>
+ <Q>ある</Q>
+ <A>ある	there is ...</A>
+</item>
+<item id="_195">
+ <cat>Chapter 4</cat>
+ <Q>買う</Q>
+ <A>かう	to buy</A>
+</item>
+<item id="_196">
+ <cat>Chapter 4</cat>
+ <Q>書く</Q>
+ <A>かく	to write</A>
+</item>
+<item id="_197">
+ <cat>Chapter 4</cat>
+ <Q>撮る</Q>
+ <A>とる	to take (pictures)</A>
+</item>
+<item id="_198">
+ <cat>Chapter 4</cat>
+ <Q>待つ</Q>
+ <A>まつ	to wait</A>
+</item>
+<item id="_199">
+ <cat>Chapter 4</cat>
+ <Q>わかる</Q>
+ <A>わかる	to understand</A>
+</item>
+<item id="_200">
+ <cat>Chapter 4</cat>
+ <Q>いる</Q>
+ <A>いる	(a person) is in ...; stays at ...</A>
+</item>
+<item id="_201">
+ <cat>Chapter 4</cat>
+ <Q>〜ぐらい</Q>
+ <A>〜ぐらい	about (approximate measurement)</A>
+</item>
+<item id="_202">
+ <cat>Chapter 4</cat>
+ <Q>ごめんなさい</Q>
+ <A>ごめんなさい	I'm sorry.</A>
+</item>
+<item id="_203">
+ <cat>Chapter 4</cat>
+ <Q>だから</Q>
+ <A>だから	so; therefore</A>
+</item>
+<item id="_204">
+ <cat>Chapter 4</cat>
+ <Q>たくさん</Q>
+ <A>たくさん	many; a lot</A>
+</item>
+<item id="_205">
+ <cat>Chapter 4</cat>
+ <Q>〜と</Q>
+ <A>〜と	together with (a person)</A>
+</item>
+<item id="_206">
+ <cat>Chapter 4</cat>
+ <Q>どうして</Q>
+ <A>どうして	why</A>
+</item>
+<item id="_207">
+ <cat>Chapter 4</cat>
+ <Q>一人で</Q>
+ <A>ひとりで	alone</A>
+</item>
+<item id="_208">
+ <cat>Chapter 4</cat>
+ <Q>もしもし</Q>
+ <A>もしもし	Hello? (used on the phone)</A>
+</item>
+<item id="_209">
+ <cat>Chapter 4</cat>
+ <Q>右</Q>
+ <A>みぎ	right</A>
+</item>
+<item id="_210">
+ <cat>Chapter 4</cat>
+ <Q>左</Q>
+ <A>ひだり	left</A>
+</item>
+<item id="_211">
+ <cat>Chapter 4</cat>
+ <Q>前</Q>
+ <A>まえ	front</A>
+</item>
+<item id="_212">
+ <cat>Chapter 4</cat>
+ <Q>後ろ</Q>
+ <A>うしろ	back</A>
+</item>
+<item id="_213">
+ <cat>Chapter 4</cat>
+ <Q>中</Q>
+ <A>なか	inside</A>
+</item>
+<item id="_214">
+ <cat>Chapter 4</cat>
+ <Q>上</Q>
+ <A>うえ	on</A>
+</item>
+<item id="_215">
+ <cat>Chapter 4</cat>
+ <Q>下</Q>
+ <A>した	under</A>
+</item>
+<item id="_216">
+ <cat>Chapter 4</cat>
+ <Q>そば</Q>
+ <A>そば	near</A>
+</item>
+<item id="_217">
+ <cat>Chapter 4</cat>
+ <Q>隣</Q>
+ <A>となり	next</A>
+</item>
+<item id="_218">
+ <cat>Chapter 4</cat>
+ <Q>間</Q>
+ <A>あいだ	between</A>
+</item>
+<item id="_219">
+ <cat>Chapter 4</cat>
+ <Q>そこ</Q>
+ <A>そこ	there</A>
+</item>
+<item id="_220">
+ <cat>Chapter 4</cat>
+ <Q>ここ</Q>
+ <A>ここ	here</A>
+</item>
+<item id="_221">
+ <cat>Chapter 4</cat>
+ <Q>月曜日</Q>
+ <A>げつようび	Monday</A>
+</item>
+<item id="_222">
+ <cat>Chapter 5</cat>
+ <Q>海</Q>
+ <A>うみ	sea</A>
+</item>
+<item id="_223">
+ <cat>Chapter 5</cat>
+ <Q>切手</Q>
+ <A>きって	postal stamps</A>
+</item>
+<item id="_224">
+ <cat>Chapter 5</cat>
+ <Q>切符</Q>
+ <A>きっぷ	ticket</A>
+</item>
+<item id="_225">
+ <cat>Chapter 5</cat>
+ <Q>サーフィン</Q>
+ <A>サーフィン	surfing</A>
+</item>
+<item id="_226">
+ <cat>Chapter 5</cat>
+ <Q>宿題</Q>
+ <A>しゅくだい	homework</A>
+</item>
+<item id="_227">
+ <cat>Chapter 5</cat>
+ <Q>食べ物</Q>
+ <A>たべもの	food</A>
+</item>
+<item id="_228">
+ <cat>Chapter 5</cat>
+ <Q>誕生日</Q>
+ <A>たんじょうび	birthday</A>
+</item>
+<item id="_229">
+ <cat>Chapter 5</cat>
+ <Q>テスト</Q>
+ <A>テスト	test</A>
+</item>
+<item id="_230">
+ <cat>Chapter 5</cat>
+ <Q>天気</Q>
+ <A>てんき	weather</A>
+</item>
+<item id="_231">
+ <cat>Chapter 5</cat>
+ <Q>飲み物</Q>
+ <A>のみもの	drink</A>
+</item>
+<item id="_232">
+ <cat>Chapter 5</cat>
+ <Q>葉書</Q>
+ <A>はがき	postcard</A>
+</item>
+<item id="_233">
+ <cat>Chapter 5</cat>
+ <Q>バス</Q>
+ <A>バス	bus</A>
+</item>
+<item id="_234">
+ <cat>Chapter 5</cat>
+ <Q>飛行機</Q>
+ <A>ひこうき	airplane</A>
+</item>
+<item id="_235">
+ <cat>Chapter 5</cat>
+ <Q>部屋</Q>
+ <A>へや	room</A>
+</item>
+<item id="_236">
+ <cat>Chapter 5</cat>
+ <Q>僕</Q>
+ <A>ぼく	I (used by men)</A>
+</item>
+<item id="_237">
+ <cat>Chapter 5</cat>
+ <Q>休み</Q>
+ <A>やすみ	holiday; day off; absence</A>
+</item>
+<item id="_238">
+ <cat>Chapter 5</cat>
+ <Q>旅行</Q>
+ <A>りょこう	travel</A>
+</item>
+<item id="_239">
+ <cat>Chapter 5</cat>
+ <Q>新しい</Q>
+ <A>あたらしい	new</A>
+</item>
+<item id="_240">
+ <cat>Chapter 5</cat>
+ <Q>暑い</Q>
+ <A>あつい	hot (weather)</A>
+</item>
+<item id="_241">
+ <cat>Chapter 5</cat>
+ <Q>熱い</Q>
+ <A>あつい	hot (objects)</A>
+</item>
+<item id="_242">
+ <cat>Chapter 5</cat>
+ <Q>忙しい</Q>
+ <A>いそがしい	busy (people/days)</A>
+</item>
+<item id="_243">
+ <cat>Chapter 5</cat>
+ <Q>大きい</Q>
+ <A>おおきい	large</A>
+</item>
+<item id="_244">
+ <cat>Chapter 5</cat>
+ <Q>面白い</Q>
+ <A>おもしろい	interesting</A>
+</item>
+<item id="_245">
+ <cat>Chapter 5</cat>
+ <Q>怖い</Q>
+ <A>こわい	frightening</A>
+</item>
+<item id="_246">
+ <cat>Chapter 5</cat>
+ <Q>寒い</Q>
+ <A>さむい	cold (weather-not used for objects)</A>
+</item>
+<item id="_247">
+ <cat>Chapter 5</cat>
+ <Q>楽しい</Q>
+ <A>たのしい	fun</A>
+</item>
+<item id="_248">
+ <cat>Chapter 5</cat>
+ <Q>小さい</Q>
+ <A>ちいさい	small</A>
+</item>
+<item id="_249">
+ <cat>Chapter 5</cat>
+ <Q>つまらない</Q>
+ <A>つまらない	boring</A>
+</item>
+<item id="_250">
+ <cat>Chapter 5</cat>
+ <Q>古い</Q>
+ <A>ふるい	old (thing - not used for people)</A>
+</item>
+<item id="_251">
+ <cat>Chapter 5</cat>
+ <Q>難しい</Q>
+ <A>むずかしい	difficult</A>
+</item>
+<item id="_252">
+ <cat>Chapter 5</cat>
+ <Q>やさしい</Q>
+ <A>やさしい	easy (problem); kind (person)</A>
+</item>
+<item id="_253">
+ <cat>Chapter 5</cat>
+ <Q>安い</Q>
+ <A>やすい	inexpensive; cheap (thing)</A>
+</item>
+<item id="_254">
+ <cat>Chapter 5</cat>
+ <Q>嫌い</Q>
+ <A>きらい（な）	disgusted with; to dislike</A>
+</item>
+<item id="_255">
+ <cat>Chapter 5</cat>
+ <Q>きれい（な）</Q>
+ <A>きれい（な）	beautiful; clean</A>
+</item>
+<item id="_256">
+ <cat>Chapter 5</cat>
+ <Q>元気</Q>
+ <A>げんき（な）	healthy; energetic</A>
+</item>
+<item id="_257">
+ <cat>Chapter 5</cat>
+ <Q>静か</Q>
+ <A>しずか（な）	quiet</A>
+</item>
+<item id="_258">
+ <cat>Chapter 5</cat>
+ <Q>好き</Q>
+ <A>すき（な）	fond of; to like</A>
+</item>
+<item id="_259">
+ <cat>Chapter 5</cat>
+ <Q>大嫌い</Q>
+ <A>だいきらい（な）	to hate</A>
+</item>
+<item id="_260">
+ <cat>Chapter 5</cat>
+ <Q>大好き</Q>
+ <A>だいすき（な）	very fond of; to love</A>
+</item>
+<item id="_261">
+ <cat>Chapter 5</cat>
+ <Q>にぎやか（な）</Q>
+ <A>にぎやか（な）	lively</A>
+</item>
+<item id="_262">
+ <cat>Chapter 5</cat>
+ <Q>ハンサム（な）</Q>
+ <A>ハンサム（な）	handsome</A>
+</item>
+<item id="_263">
+ <cat>Chapter 5</cat>
+ <Q>暇</Q>
+ <A>ひま（な）	not busy; to have a lot of free time</A>
+</item>
+<item id="_264">
+ <cat>Chapter 5</cat>
+ <Q>泳ぐ</Q>
+ <A>およぐ	to swim</A>
+</item>
+<item id="_265">
+ <cat>Chapter 5</cat>
+ <Q>聞く</Q>
+ <A>きく	to ask</A>
+</item>
+<item id="_266">
+ <cat>Chapter 5</cat>
+ <Q>乗る</Q>
+ <A>のる	to ride; to board</A>
+</item>
+<item id="_267">
+ <cat>Chapter 5</cat>
+ <Q>やる</Q>
+ <A>やる	to do; to perform</A>
+</item>
+<item id="_268">
+ <cat>Chapter 5</cat>
+ <Q>出かける</Q>
+ <A>でかける	to go out</A>
+</item>
+<item id="_269">
+ <cat>Chapter 5</cat>
+ <Q>一緒に</Q>
+ <A>いっしょに	together</A>
+</item>
+<item id="_270">
+ <cat>Chapter 5</cat>
+ <Q>それから</Q>
+ <A>それから	and then</A>
+</item>
+<item id="_271">
+ <cat>Chapter 5</cat>
+ <Q>大丈夫</Q>
+ <A>だいじょうぶ	It's okay.; Not to worry.; Everything is under control.</A>
+</item>
+<item id="_272">
+ <cat>Chapter 5</cat>
+ <Q>とても</Q>
+ <A>とても	very</A>
+</item>
+<item id="_273">
+ <cat>Chapter 5</cat>
+ <Q>どんな</Q>
+ <A>どんな	what kind of...</A>
+</item>
+<item id="_274">
+ <cat>Chapter 5</cat>
+ <Q>〜枚</Q>
+ <A>〜まい	[counter for flat objects]</A>
+</item>
+<item id="_275">
+ <cat>Chapter 5</cat>
+ <Q>〜まで</Q>
+ <A>〜まで	to (a place); as far as (a place); till (a time)</A>
+</item>
+<item id="_276">
+ <cat>Chapter 6</cat>
+ <Q>お金</Q>
+ <A>おかね	money</A>
+</item>
+<item id="_277">
+ <cat>Chapter 6</cat>
+ <Q>おばあさん</Q>
+ <A>おばあさん	grandmother; old woman</A>
+</item>
+<item id="_278">
+ <cat>Chapter 6</cat>
+ <Q>お風呂</Q>
+ <A>おふろ	bath</A>
+</item>
+<item id="_279">
+ <cat>Chapter 6</cat>
+ <Q>漢字</Q>
+ <A>かんじ	kanji; Chinese character</A>
+</item>
+<item id="_280">
+ <cat>Chapter 6</cat>
+ <Q>教科書</Q>
+ <A>きょうかしょ	textbook</A>
+</item>
+<item id="_281">
+ <cat>Chapter 6</cat>
+ <Q>今週</Q>
+ <A>こんしゅう	this week</A>
+</item>
+<item id="_282">
+ <cat>Chapter 6</cat>
+ <Q>市民病院</Q>
+ <A>しみんびょういん	Municipal Hospital</A>
+</item>
+<item id="_283">
+ <cat>Chapter 6</cat>
+ <Q>次</Q>
+ <A>つぎ	next</A>
+</item>
+<item id="_284">
+ <cat>Chapter 6</cat>
+ <Q>テレビゲーム</Q>
+ <A>テレビゲーム	video game</A>
+</item>
+<item id="_285">
+ <cat>Chapter 6</cat>
+ <Q>電気</Q>
+ <A>でんき	electricity</A>
+</item>
+<item id="_286">
+ <cat>Chapter 6</cat>
+ <Q>電車</Q>
+ <A>でんしゃ	train</A>
+</item>
+<item id="_287">
+ <cat>Chapter 6</cat>
+ <Q>荷物</Q>
+ <A>にもつ	baggage</A>
+</item>
+<item id="_288">
+ <cat>Chapter 6</cat>
+ <Q>ページ</Q>
+ <A>ページ	page</A>
+</item>
+<item id="_289">
+ <cat>Chapter 6</cat>
+ <Q>窓</Q>
+ <A>まど	window</A>
+</item>
+<item id="_290">
+ <cat>Chapter 6</cat>
+ <Q>夜</Q>
+ <A>よる	night</A>
+</item>
+<item id="_291">
+ <cat>Chapter 6</cat>
+ <Q>来週</Q>
+ <A>らいしゅう	next week</A>
+</item>
+<item id="_292">
+ <cat>Chapter 6</cat>
+ <Q>来年</Q>
+ <A>らいねん	next year</A>
+</item>
+<item id="_293">
+ <cat>Chapter 6</cat>
+ <Q>大変</Q>
+ <A>たいへん（な）	tough (situation)</A>
+</item>
+<item id="_294">
+ <cat>Chapter 6</cat>
+ <Q>遊ぶ</Q>
+ <A>あそぶ	to play; to spend time pleasantly</A>
+</item>
+<item id="_295">
+ <cat>Chapter 6</cat>
+ <Q>急ぐ</Q>
+ <A>いそぐ	to hurry</A>
+</item>
+<item id="_296">
+ <cat>Chapter 6</cat>
+ <Q>お風呂に入る</Q>
+ <A>おふろにはいる	to take a bath</A>
+</item>
+<item id="_297">
+ <cat>Chapter 6</cat>
+ <Q>返す</Q>
+ <A>かえす	to return (things)</A>
+</item>
+<item id="_298">
+ <cat>Chapter 6</cat>
+ <Q>消す</Q>
+ <A>けす	to turn off; to erase</A>
+</item>
+<item id="_299">
+ <cat>Chapter 6</cat>
+ <Q>死ぬ</Q>
+ <A>しぬ	to die</A>
+</item>
+<item id="_300">
+ <cat>Chapter 6</cat>
+ <Q>座る</Q>
+ <A>すわる	to sit down</A>
+</item>
+<item id="_301">
+ <cat>Chapter 6</cat>
+ <Q>立つ</Q>
+ <A>たつ	to stand up</A>
+</item>
+<item id="_302">
+ <cat>Chapter 6</cat>
+ <Q>たばこを吸う</Q>
+ <A>たばこをすう	to smoke</A>
+</item>
+<item id="_303">
+ <cat>Chapter 6</cat>
+ <Q>使う</Q>
+ <A>つかう	to use</A>
+</item>
+<item id="_304">
+ <cat>Chapter 6</cat>
+ <Q>手伝う</Q>
+ <A>てつだう	to help</A>
+</item>
+<item id="_305">
+ <cat>Chapter 6</cat>
+ <Q>入る</Q>
+ <A>はいる	to enter</A>
+</item>
+<item id="_306">
+ <cat>Chapter 6</cat>
+ <Q>持つ</Q>
+ <A>もつ	to carry; to hold</A>
+</item>
+<item id="_307">
+ <cat>Chapter 6</cat>
+ <Q>休む</Q>
+ <A>やすむ	to be absent (from...); to rest</A>
+</item>
+<item id="_308">
+ <cat>Chapter 6</cat>
+ <Q>開ける</Q>
+ <A>あける	to open (something)</A>
+</item>
+<item id="_309">
+ <cat>Chapter 6</cat>
+ <Q>教える</Q>
+ <A>おしえる	to teach; to instruct</A>
+</item>
+<item id="_310">
+ <cat>Chapter 6</cat>
+ <Q>降りる</Q>
+ <A>おりる	to get off</A>
+</item>
+<item id="_311">
+ <cat>Chapter 6</cat>
+ <Q>借りる</Q>
+ <A>かりる	to borrow</A>
+</item>
+<item id="_312">
+ <cat>Chapter 6</cat>
+ <Q>閉める</Q>
+ <A>しめる	to close (something)</A>
+</item>
+<item id="_313">
+ <cat>Chapter 6</cat>
+ <Q>つける</Q>
+ <A>つける	to turn on</A>
+</item>
+<item id="_314">
+ <cat>Chapter 6</cat>
+ <Q>電話をかける</Q>
+ <A>でんわをかける	to make a phone call</A>
+</item>
+<item id="_315">
+ <cat>Chapter 6</cat>
+ <Q>忘れる</Q>
+ <A>わすれる	to forget; to leave behind</A>
+</item>
+<item id="_316">
+ <cat>Chapter 6</cat>
+ <Q>連れてくる</Q>
+ <A>つれてくる	to bring (a person)</A>
+</item>
+<item id="_317">
+ <cat>Chapter 6</cat>
+ <Q>持ってくる</Q>
+ <A>もってくる	to bring (a thing)</A>
+</item>
+<item id="_318">
+ <cat>Chapter 6</cat>
+ <Q>後で</Q>
+ <A>あとで	later on</A>
+</item>
+<item id="_319">
+ <cat>Chapter 6</cat>
+ <Q>遅く</Q>
+ <A>おそく	(do something) late</A>
+</item>
+<item id="_320">
+ <cat>Chapter 6</cat>
+ <Q>〜から</Q>
+ <A>〜から	because ...</A>
+</item>
+<item id="_321">
+ <cat>Chapter 6</cat>
+ <Q>結構です</Q>
+ <A>けっこうです	That would be fine.; That wouldn't be necessary.</A>
+</item>
+<item id="_322">
+ <cat>Chapter 6</cat>
+ <Q>すぐ</Q>
+ <A>すぐ	right away</A>
+</item>
+<item id="_323">
+ <cat>Chapter 6</cat>
+ <Q>本当ですか</Q>
+ <A>ほんとうですか	Really?</A>
+</item>
+<item id="_324">
+ <cat>Chapter 6</cat>
+ <Q>ゆっくり</Q>
+ <A>ゆっくり	slowly; leisurely; unhurriedly</A>
+</item>
+<item id="_325">
+ <cat>Chapter 7</cat>
+ <Q>姉</Q>
+ <A>あね	(my) older sister</A>
+</item>
+<item id="_326">
+ <cat>Chapter 7</cat>
+ <Q>アパート</Q>
+ <A>アパート	apartment</A>
+</item>
+<item id="_327">
+ <cat>Chapter 7</cat>
+ <Q>妹</Q>
+ <A>いもうと	younger sister</A>
+</item>
+<item id="_328">
+ <cat>Chapter 7</cat>
+ <Q>歌</Q>
+ <A>うた	song</A>
+</item>
+<item id="_329">
+ <cat>Chapter 7</cat>
+ <Q>弟</Q>
+ <A>おとうと	younger brother</A>
+</item>
+<item id="_330">
+ <cat>Chapter 7</cat>
+ <Q>男の人</Q>
+ <A>おとこのひと	man</A>
+</item>
+<item id="_331">
+ <cat>Chapter 7</cat>
+ <Q>お兄さん</Q>
+ <A>おにいさん	older brother</A>
+</item>
+<item id="_332">
+ <cat>Chapter 7</cat>
+ <Q>お姉さん</Q>
+ <A>おねえさん	older sister</A>
+</item>
+<item id="_333">
+ <cat>Chapter 7</cat>
+ <Q>女の人</Q>
+ <A>おんなのひと	woman</A>
+</item>
+<item id="_334">
+ <cat>Chapter 7</cat>
+ <Q>会社</Q>
+ <A>かいしゃ	company</A>
+</item>
+<item id="_335">
+ <cat>Chapter 7</cat>
+ <Q>家族</Q>
+ <A>かぞく	family</A>
+</item>
+<item id="_336">
+ <cat>Chapter 7</cat>
+ <Q>髪</Q>
+ <A>かみ	hair</A>
+</item>
+<item id="_337">
+ <cat>Chapter 7</cat>
+ <Q>兄弟</Q>
+ <A>きょうだい	brothers and sisters</A>
+</item>
+<item id="_338">
+ <cat>Chapter 7</cat>
+ <Q>国</Q>
+ <A>くに	country; place of origin</A>
+</item>
+<item id="_339">
+ <cat>Chapter 7</cat>
+ <Q>車</Q>
+ <A>くるま	car</A>
+</item>
+<item id="_340">
+ <cat>Chapter 7</cat>
+ <Q>コンビニ</Q>
+ <A>コンビニ	convenience store</A>
+</item>
+<item id="_341">
+ <cat>Chapter 7</cat>
+ <Q>食堂</Q>
+ <A>しょくどう	cafeteria; dining commons</A>
+</item>
+<item id="_342">
+ <cat>Chapter 7</cat>
+ <Q>父</Q>
+ <A>ちち	(my) father</A>
+</item>
+<item id="_343">
+ <cat>Chapter 7</cat>
+ <Q>Tシャツ</Q>
+ <A>Tシャツ	T-shirt</A>
+</item>
+<item id="_344">
+ <cat>Chapter 7</cat>
+ <Q>目</Q>
+ <A>め	eye</A>
+</item>
+<item id="_345">
+ <cat>Chapter 7</cat>
+ <Q>眼鏡</Q>
+ <A>めがね	glasses</A>
+</item>
+<item id="_346">
+ <cat>Chapter 7</cat>
+ <Q>頭がいい</Q>
+ <A>あたまがいい	bright; smart; clever</A>
+</item>
+<item id="_347">
+ <cat>Chapter 7</cat>
+ <Q>かっこいい</Q>
+ <A>かっこいい	great-looking</A>
+</item>
+<item id="_348">
+ <cat>Chapter 7</cat>
+ <Q>かわいい</Q>
+ <A>かわいい	cute</A>
+</item>
+<item id="_349">
+ <cat>Chapter 7</cat>
+ <Q>背が高い</Q>
+ <A>せがたかい	tall</A>
+</item>
+<item id="_350">
+ <cat>Chapter 7</cat>
+ <Q>背が低い</Q>
+ <A>せがひくい	short (stature)</A>
+</item>
+<item id="_351">
+ <cat>Chapter 7</cat>
+ <Q>長い</Q>
+ <A>ながい	long</A>
+</item>
+<item id="_352">
+ <cat>Chapter 7</cat>
+ <Q>早い</Q>
+ <A>はやい	fast</A>
+</item>
+<item id="_353">
+ <cat>Chapter 7</cat>
+ <Q>短い</Q>
+ <A>みじかい	short (length)</A>
+</item>
+<item id="_354">
+ <cat>Chapter 7</cat>
+ <Q>親切</Q>
+ <A>しんせつ	kind</A>
+</item>
+<item id="_355">
+ <cat>Chapter 7</cat>
+ <Q>便利</Q>
+ <A>べんり	convenient</A>
+</item>
+<item id="_356">
+ <cat>Chapter 7</cat>
+ <Q>歌う</Q>
+ <A>うたう	to sing</A>
+</item>
+<item id="_357">
+ <cat>Chapter 7</cat>
+ <Q>かぶる</Q>
+ <A>かぶる	to put on (a hat)</A>
+</item>
+<item id="_358">
+ <cat>Chapter 7</cat>
+ <Q>知る</Q>
+ <A>しる	to get to know</A>
+</item>
+<item id="_359">
+ <cat>Chapter 7</cat>
+ <Q>知っています</Q>
+ <A>しっています	I know</A>
+</item>
+<item id="_360">
+ <cat>Chapter 7</cat>
+ <Q>知りません</Q>
+ <A>しりません	I do not know</A>
+</item>
+<item id="_361">
+ <cat>Chapter 7</cat>
+ <Q>住む</Q>
+ <A>すむ	to live</A>
+</item>
+<item id="_362">
+ <cat>Chapter 7</cat>
+ <Q>はく</Q>
+ <A>はく	to put on (items below your waist)</A>
+</item>
+<item id="_363">
+ <cat>Chapter 7</cat>
+ <Q>太る</Q>
+ <A>ふとる	to gain weight</A>
+</item>
+<item id="_364">
+ <cat>Chapter 7</cat>
+ <Q>太っています</Q>
+ <A>ふとっています	to be on the heavy side</A>
+</item>
+<item id="_365">
+ <cat>Chapter 7</cat>
+ <Q>めがねをかける</Q>
+ <A>めがねをかける	to put on glasses</A>
+</item>
+<item id="_366">
+ <cat>Chapter 7</cat>
+ <Q>着る</Q>
+ <A>きる	to put on (clothes above your waist)</A>
+</item>
+<item id="_367">
+ <cat>Chapter 7</cat>
+ <Q>やせる</Q>
+ <A>やせる	to lose weight</A>
+</item>
+<item id="_368">
+ <cat>Chapter 7</cat>
+ <Q>やせています</Q>
+ <A>やせています	to be thin</A>
+</item>
+<item id="_369">
+ <cat>Chapter 7</cat>
+ <Q>結婚する</Q>
+ <A>けっこんする	to get married</A>
+</item>
+<item id="_370">
+ <cat>Chapter 7</cat>
+ <Q>が</Q>
+ <A>が	but</A>
+</item>
+<item id="_371">
+ <cat>Chapter 7</cat>
+ <Q>一人</Q>
+ <A>ひとり	one person</A>
+</item>
+<item id="_372">
+ <cat>Chapter 7</cat>
+ <Q>二人</Q>
+ <A>ふたり	two people</A>
+</item>
+<item id="_373">
+ <cat>Chapter 7</cat>
+ <Q>もちろん</Q>
+ <A>もちろん	of course</A>
+</item>
+<item id="_374">
+ <cat>Chapter 7</cat>
+ <Q>よかったら</Q>
+ <A>よかったら	if you like</A>
+</item>
+<item id="_375">
+ <cat>Chapter 8</cat>
+ <Q>残念ですね</Q>
+ <A>ざんねんですね	That's too bad.</A>
+</item>
+<item id="_376">
+ <cat>Chapter 8</cat>
+ <Q>あさって</Q>
+ <A>あさって	the day after tomorrow</A>
+</item>
+<item id="_377">
+ <cat>Chapter 8</cat>
+ <Q>雨</Q>
+ <A>あめ	rain</A>
+</item>
+<item id="_378">
+ <cat>Chapter 8</cat>
+ <Q>会社員</Q>
+ <A>かいしゃいん	office worker</A>
+</item>
+<item id="_379">
+ <cat>Chapter 8</cat>
+ <Q>カメラ</Q>
+ <A>カメラ	camera</A>
+</item>
+<item id="_380">
+ <cat>Chapter 8</cat>
+ <Q>カラオケ</Q>
+ <A>カラオケ	karaoke</A>
+</item>
+<item id="_381">
+ <cat>Chapter 8</cat>
+ <Q>空気</Q>
+ <A>くうき	air</A>
+</item>
+<item id="_382">
+ <cat>Chapter 8</cat>
+ <Q>今朝</Q>
+ <A>けさ	this morning</A>
+</item>
+<item id="_383">
+ <cat>Chapter 8</cat>
+ <Q>今月</Q>
+ <A>こんげつ	this month</A>
+</item>
+<item id="_384">
+ <cat>Chapter 8</cat>
+ <Q>仕事</Q>
+ <A>しごと	job; work; occupation</A>
+</item>
+<item id="_385">
+ <cat>Chapter 8</cat>
+ <Q>大学生</Q>
+ <A>だいがくせい	college student</A>
+</item>
+<item id="_386">
+ <cat>Chapter 8</cat>
+ <Q>ディスコ</Q>
+ <A>ディスコ	disco</A>
+</item>
+<item id="_387">
+ <cat>Chapter 8</cat>
+ <Q>天気予報</Q>
+ <A>てんきよほう	weather forecast</A>
+</item>
+<item id="_388">
+ <cat>Chapter 8</cat>
+ <Q>所</Q>
+ <A>ところ	place</A>
+</item>
+<item id="_389">
+ <cat>Chapter 8</cat>
+ <Q>トマト</Q>
+ <A>トマト	tomato</A>
+</item>
+<item id="_390">
+ <cat>Chapter 8</cat>
+ <Q>夏</Q>
+ <A>なつ	summer</A>
+</item>
+<item id="_391">
+ <cat>Chapter 8</cat>
+ <Q>何か</Q>
+ <A>なにか	something</A>
+</item>
+<item id="_392">
+ <cat>Chapter 8</cat>
+ <Q>パーティー</Q>
+ <A>パーティー	party</A>
+</item>
+<item id="_393">
+ <cat>Chapter 8</cat>
+ <Q>バーベキュー</Q>
+ <A>バーベキュー	barbecue</A>
+</item>
+<item id="_394">
+ <cat>Chapter 8</cat>
+ <Q>はし</Q>
+ <A>はし	chopsticks</A>
+</item>
+<item id="_395">
+ <cat>Chapter 8</cat>
+ <Q>冬</Q>
+ <A>ふゆ	winter</A>
+</item>
+<item id="_396">
+ <cat>Chapter 8</cat>
+ <Q>ホームステイ</Q>
+ <A>ホームステイ	homestay; living with a local family</A>
+</item>
+<item id="_397">
+ <cat>Chapter 8</cat>
+ <Q>毎週</Q>
+ <A>まいしゅう	every week</A>
+</item>
+<item id="_398">
+ <cat>Chapter 8</cat>
+ <Q>来月</Q>
+ <A>らいげつ	next month</A>
+</item>
+<item id="_399">
+ <cat>Chapter 8</cat>
+ <Q>上手</Q>
+ <A>じょうず	skillful; good at...</A>
+</item>
+<item id="_400">
+ <cat>Chapter 8</cat>
+ <Q>下手</Q>
+ <A>へた	clumsy; poor at...</A>
+</item>
+<item id="_401">
+ <cat>Chapter 8</cat>
+ <Q>有名</Q>
+ <A>ゆうめい	famous</A>
+</item>
+<item id="_402">
+ <cat>Chapter 8</cat>
+ <Q>雨が降る</Q>
+ <A>あめがふる	it rains</A>
+</item>
+<item id="_403">
+ <cat>Chapter 8</cat>
+ <Q>洗う</Q>
+ <A>あらう	to wash</A>
+</item>
+<item id="_404">
+ <cat>Chapter 8</cat>
+ <Q>言う</Q>
+ <A>いう	to say</A>
+</item>
+<item id="_405">
+ <cat>Chapter 8</cat>
+ <Q>いる</Q>
+ <A>いる	to need</A>
+</item>
+<item id="_406">
+ <cat>Chapter 8</cat>
+ <Q>遅くなる</Q>
+ <A>おそくなる	to be late (for ...)</A>
+</item>
+<item id="_407">
+ <cat>Chapter 8</cat>
+ <Q>思う</Q>
+ <A>おもう	to think</A>
+</item>
+<item id="_408">
+ <cat>Chapter 8</cat>
+ <Q>切る</Q>
+ <A>きる	to cut</A>
+</item>
+<item id="_409">
+ <cat>Chapter 8</cat>
+ <Q>作る</Q>
+ <A>つくる	to make</A>
+</item>
+<item id="_410">
+ <cat>Chapter 8</cat>
+ <Q>持っていく</Q>
+ <A>もっていく	to take (something)</A>
+</item>
+<item id="_411">
+ <cat>Chapter 8</cat>
+ <Q>じろじろ見る</Q>
+ <A>じろじろみる	to stare (at ...)</A>
+</item>
+<item id="_412">
+ <cat>Chapter 8</cat>
+ <Q>始める</Q>
+ <A>はじめる	to begin</A>
+</item>
+<item id="_413">
+ <cat>Chapter 8</cat>
+ <Q>運転する</Q>
+ <A>うんてんする	to drive</A>
+</item>
+<item id="_414">
+ <cat>Chapter 8</cat>
+ <Q>洗濯する</Q>
+ <A>せんたくする	to do laundry</A>
+</item>
+<item id="_415">
+ <cat>Chapter 8</cat>
+ <Q>掃除する</Q>
+ <A>そうじする	to clean</A>
+</item>
+<item id="_416">
+ <cat>Chapter 8</cat>
+ <Q>料理する</Q>
+ <A>りょうりする	to cook</A>
+</item>
+<item id="_417">
+ <cat>Chapter 8</cat>
+ <Q>ううん</Q>
+ <A>ううん	uh-uh; no</A>
+</item>
+<item id="_418">
+ <cat>Chapter 8</cat>
+ <Q>うん</Q>
+ <A>うん	uh-huh; yes</A>
+</item>
+<item id="_419">
+ <cat>Chapter 8</cat>
+ <Q>乾杯</Q>
+ <A>かんぱい	Cheers! (a toast)</A>
+</item>
+<item id="_420">
+ <cat>Chapter 8</cat>
+ <Q>みんなで</Q>
+ <A>みんなで	all (of the people) together</A>
+</item>
+<item id="_421">
+ <cat>Chapter 9</cat>
+ <Q>いい子</Q>
+ <A>いいこ	good child</A>
+</item>
+<item id="_422">
+ <cat>Chapter 9</cat>
+ <Q>色</Q>
+ <A>いろ	color</A>
+</item>
+<item id="_423">
+ <cat>Chapter 9</cat>
+ <Q>お弁当</Q>
+ <A>おべんとう	boxed lunch</A>
+</item>
+<item id="_424">
+ <cat>Chapter 9</cat>
+ <Q>温泉</Q>
+ <A>おんせん	spa; hot spring</A>
+</item>
+<item id="_425">
+ <cat>Chapter 9</cat>
+ <Q>かぶき</Q>
+ <A>かぶき	Kabuki; traditional Japanese theatrical art</A>
+</item>
+<item id="_426">
+ <cat>Chapter 9</cat>
+ <Q>ギター</Q>
+ <A>ギター	guitar</A>
+</item>
+<item id="_427">
+ <cat>Chapter 9</cat>
+ <Q>薬</Q>
+ <A>くすり	medicine</A>
+</item>
+<item id="_428">
+ <cat>Chapter 9</cat>
+ <Q>薬を飲む</Q>
+ <A>くすりをのむ	to take medicine</A>
+</item>
+<item id="_429">
+ <cat>Chapter 9</cat>
+ <Q>コンサート</Q>
+ <A>コンサート	concert</A>
+</item>
+<item id="_430">
+ <cat>Chapter 9</cat>
+ <Q>今度</Q>
+ <A>こんど	near future</A>
+</item>
+<item id="_431">
+ <cat>Chapter 9</cat>
+ <Q>作文</Q>
+ <A>さくぶん	essay; composition</A>
+</item>
+<item id="_432">
+ <cat>Chapter 9</cat>
+ <Q>試験</Q>
+ <A>しけん	exam</A>
+</item>
+<item id="_433">
+ <cat>Chapter 9</cat>
+ <Q>新幹線</Q>
+ <A>しんかんせん	Shinkansen; "Bullet Train"</A>
+</item>
+<item id="_434">
+ <cat>Chapter 9</cat>
+ <Q>スキー</Q>
+ <A>スキー	ski</A>
+</item>
+<item id="_435">
+ <cat>Chapter 9</cat>
+ <Q>先月</Q>
+ <A>せんげつ	last month</A>
+</item>
+<item id="_436">
+ <cat>Chapter 9</cat>
+ <Q>単語</Q>
+ <A>たんご	word; vocabulary</A>
+</item>
+<item id="_437">
+ <cat>Chapter 9</cat>
+ <Q>ピアノ</Q>
+ <A>ピアノ	piano</A>
+</item>
+<item id="_438">
+ <cat>Chapter 9</cat>
+ <Q>病気</Q>
+ <A>びょうき	illness; sickness</A>
+</item>
+<item id="_439">
+ <cat>Chapter 9</cat>
+ <Q>青い</Q>
+ <A>あおい	blue</A>
+</item>
+<item id="_440">
+ <cat>Chapter 9</cat>
+ <Q>赤い</Q>
+ <A>あかい	red</A>
+</item>
+<item id="_441">
+ <cat>Chapter 9</cat>
+ <Q>黒い</Q>
+ <A>くろい	black</A>
+</item>
+<item id="_442">
+ <cat>Chapter 9</cat>
+ <Q>寂しい</Q>
+ <A>さびしい	lonely</A>
+</item>
+<item id="_443">
+ <cat>Chapter 9</cat>
+ <Q>白い</Q>
+ <A>しろい	white</A>
+</item>
+<item id="_444">
+ <cat>Chapter 9</cat>
+ <Q>若い</Q>
+ <A>わかい	young</A>
+</item>
+<item id="_445">
+ <cat>Chapter 9</cat>
+ <Q>意地悪</Q>
+ <A>いじわる	mean-spirited</A>
+</item>
+<item id="_446">
+ <cat>Chapter 9</cat>
+ <Q>踊る</Q>
+ <A>おどる	to dance</A>
+</item>
+<item id="_447">
+ <cat>Chapter 9</cat>
+ <Q>終わる</Q>
+ <A>おわる	(something) ends</A>
+</item>
+<item id="_448">
+ <cat>Chapter 9</cat>
+ <Q>人気がある</Q>
+ <A>にんきがある	to be popular</A>
+</item>
+<item id="_449">
+ <cat>Chapter 9</cat>
+ <Q>始まる</Q>
+ <A>はじまる	(something) begins</A>
+</item>
+<item id="_450">
+ <cat>Chapter 9</cat>
+ <Q>弾く</Q>
+ <A>ひく	to play (a string instrument or piano)</A>
+</item>
+<item id="_451">
+ <cat>Chapter 9</cat>
+ <Q>もらう</Q>
+ <A>もらう	to get (from somebody)</A>
+</item>
+<item id="_452">
+ <cat>Chapter 9</cat>
+ <Q>覚える</Q>
+ <A>おぼえる	to memorize</A>
+</item>
+<item id="_453">
+ <cat>Chapter 9</cat>
+ <Q>出る</Q>
+ <A>でる	(1) to appear; to attend (2) to exit</A>
+</item>
+<item id="_454">
+ <cat>Chapter 9</cat>
+ <Q>運動する</Q>
+ <A>うんどうする	to do physical exercises</A>
+</item>
+<item id="_455">
+ <cat>Chapter 9</cat>
+ <Q>散歩する</Q>
+ <A>さんぽする	to take a walk</A>
+</item>
+<item id="_456">
+ <cat>Chapter 9</cat>
+ <Q>是非</Q>
+ <A>ぜひ	by all means</A>
+</item>
+<item id="_457">
+ <cat>Chapter 9</cat>
+ <Q>みんな</Q>
+ <A>みんな	all</A>
+</item>
+<item id="_458">
+ <cat>Chapter 9</cat>
+ <Q>もう</Q>
+ <A>もう	already</A>
+</item>
+<item id="_459">
+ <cat>Chapter 9</cat>
+ <Q>一つ</Q>
+ <A>ひとつ	one</A>
+</item>
+<item id="_460">
+ <cat>Chapter 9</cat>
+ <Q>二つ</Q>
+ <A>ふたつ	two</A>
+</item>
+<item id="_461">
+ <cat>Chapter 9</cat>
+ <Q>三つ</Q>
+ <A>みっつ	three</A>
+</item>
+<item id="_462">
+ <cat>Chapter 9</cat>
+ <Q>四つ</Q>
+ <A>よっつ	four</A>
+</item>
+<item id="_463">
+ <cat>Chapter 9</cat>
+ <Q>五つ</Q>
+ <A>いつつ	five</A>
+</item>
+<item id="_464">
+ <cat>Chapter 9</cat>
+ <Q>六つ</Q>
+ <A>むっつ	six</A>
+</item>
+<item id="_465">
+ <cat>Chapter 9</cat>
+ <Q>七つ</Q>
+ <A>ななつ	seven</A>
+</item>
+<item id="_466">
+ <cat>Chapter 9</cat>
+ <Q>八つ</Q>
+ <A>やっつ	eight</A>
+</item>
+<item id="_467">
+ <cat>Chapter 9</cat>
+ <Q>九つ</Q>
+ <A>ここのつ	nine</A>
+</item>
+<item id="_468">
+ <cat>Chapter 9</cat>
+ <Q>十</Q>
+ <A>とお	ten</A>
+</item>
+<item id="_469">
+ <cat>Chapter 10</cat>
+ <Q>秋</Q>
+ <A>あき	fall</A>
+</item>
+<item id="_470">
+ <cat>Chapter 10</cat>
+ <Q>駅</Q>
+ <A>えき	station</A>
+</item>
+<item id="_471">
+ <cat>Chapter 10</cat>
+ <Q>お金持ち</Q>
+ <A>おかねもち	rich person</A>
+</item>
+<item id="_472">
+ <cat>Chapter 10</cat>
+ <Q>顔</Q>
+ <A>かお	face</A>
+</item>
+<item id="_473">
+ <cat>Chapter 10</cat>
+ <Q>季節</Q>
+ <A>きせつ	season</A>
+</item>
+<item id="_474">
+ <cat>Chapter 10</cat>
+ <Q>クレジットカード</Q>
+ <A>クレジットカード	credit card</A>
+</item>
+<item id="_475">
+ <cat>Chapter 10</cat>
+ <Q>今年</Q>
+ <A>ことし	this year</A>
+</item>
+<item id="_476">
+ <cat>Chapter 10</cat>
+ <Q>サッカー</Q>
+ <A>サッカー	soccer</A>
+</item>
+<item id="_477">
+ <cat>Chapter 10</cat>
+ <Q>シャツ</Q>
+ <A>シャツ	shirt</A>
+</item>
+<item id="_478">
+ <cat>Chapter 10</cat>
+ <Q>生活</Q>
+ <A>せいかつ	life; living</A>
+</item>
+<item id="_479">
+ <cat>Chapter 10</cat>
+ <Q>世界</Q>
+ <A>せかい	world</A>
+</item>
+<item id="_480">
+ <cat>Chapter 10</cat>
+ <Q>地下鉄</Q>
+ <A>ちかてつ	subway</A>
+</item>
+<item id="_481">
+ <cat>Chapter 10</cat>
+ <Q>手袋</Q>
+ <A>てぶくろ	gloves</A>
+</item>
+<item id="_482">
+ <cat>Chapter 10</cat>
+ <Q>床屋</Q>
+ <A>とこや	barber's</A>
+</item>
+<item id="_483">
+ <cat>Chapter 10</cat>
+ <Q>春</Q>
+ <A>はる	spring</A>
+</item>
+<item id="_484">
+ <cat>Chapter 10</cat>
+ <Q>パンツ</Q>
+ <A>パンツ	pants</A>
+</item>
+<item id="_485">
+ <cat>Chapter 10</cat>
+ <Q>美容院</Q>
+ <A>びよういん	beauty parlor</A>
+</item>
+<item id="_486">
+ <cat>Chapter 10</cat>
+ <Q>便</Q>
+ <A>びん	flight</A>
+</item>
+<item id="_487">
+ <cat>Chapter 10</cat>
+ <Q>船</Q>
+ <A>ふね	ship; boat</A>
+</item>
+<item id="_488">
+ <cat>Chapter 10</cat>
+ <Q>野球</Q>
+ <A>やきゅう	baseball</A>
+</item>
+<item id="_489">
+ <cat>Chapter 10</cat>
+ <Q>有名人</Q>
+ <A>ゆうめいじん	celebrity</A>
+</item>
+<item id="_490">
+ <cat>Chapter 10</cat>
+ <Q>予約</Q>
+ <A>よやく	reservation</A>
+</item>
+<item id="_491">
+ <cat>Chapter 10</cat>
+ <Q>来学期</Q>
+ <A>らいがっき	next semester</A>
+</item>
+<item id="_492">
+ <cat>Chapter 10</cat>
+ <Q>りんご</Q>
+ <A>りんご	apple</A>
+</item>
+<item id="_493">
+ <cat>Chapter 10</cat>
+ <Q>暖かい</Q>
+ <A>あたたかい	warm</A>
+</item>
+<item id="_494">
+ <cat>Chapter 10</cat>
+ <Q>遅い</Q>
+ <A>おそい	slow; late</A>
+</item>
+<item id="_495">
+ <cat>Chapter 10</cat>
+ <Q>涼しい</Q>
+ <A>すずしい	cool (weather)</A>
+</item>
+<item id="_496">
+ <cat>Chapter 10</cat>
+ <Q>冷たい</Q>
+ <A>つめたい	cold (thing/people)</A>
+</item>
+<item id="_497">
+ <cat>Chapter 10</cat>
+ <Q>眠い</Q>
+ <A>ねむい	sleepy</A>
+</item>
+<item id="_498">
+ <cat>Chapter 10</cat>
+ <Q>簡単</Q>
+ <A>かんたん	easy; simple</A>
+</item>
+<item id="_499">
+ <cat>Chapter 10</cat>
+ <Q>かかる</Q>
+ <A>かかる	to take (amount of time / money)</A>
+</item>
+<item id="_500">
+ <cat>Chapter 10</cat>
+ <Q>泊まる</Q>
+ <A>とまる	to stay (at a hotel, etc.)</A>
+</item>
+<item id="_501">
+ <cat>Chapter 10</cat>
+ <Q>なる</Q>
+ <A>なる	to become</A>
+</item>
+<item id="_502">
+ <cat>Chapter 10</cat>
+ <Q>払う</Q>
+ <A>はらう	to pay</A>
+</item>
+<item id="_503">
+ <cat>Chapter 10</cat>
+ <Q>決める</Q>
+ <A>きめる	to decide</A>
+</item>
+<item id="_504">
+ <cat>Chapter 10</cat>
+ <Q>練習する</Q>
+ <A>れんしゅうする	to practice</A>
+</item>
+<item id="_505">
+ <cat>Chapter 10</cat>
+ <Q>歩いて</Q>
+ <A>あるいて	on foot</A>
+</item>
+<item id="_506">
+ <cat>Chapter 10</cat>
+ <Q>一番</Q>
+ <A>いちばん	best</A>
+</item>
+<item id="_507">
+ <cat>Chapter 10</cat>
+ <Q>このごろ</Q>
+ <A>このごろ	these days</A>
+</item>
+<item id="_508">
+ <cat>Chapter 10</cat>
+ <Q>どうやって</Q>
+ <A>どうやって	how; by what means</A>
+</item>
+<item id="_509">
+ <cat>Chapter 10</cat>
+ <Q>どちら</Q>
+ <A>どちら	which</A>
+</item>
+<item id="_510">
+ <cat>Chapter 10</cat>
+ <Q>どのぐらい</Q>
+ <A>どのぐらい	how much; how long</A>
+</item>
+<item id="_511">
+ <cat>Chapter 10</cat>
+ <Q>早く</Q>
+ <A>はやく	(do something) early; fast</A>
+</item>
+<item id="_512">
+ <cat>Chapter 11</cat>
+ <Q>お菓子</Q>
+ <A>おかし	snack; sweets</A>
+</item>
+<item id="_513">
+ <cat>Chapter 11</cat>
+ <Q>お正月</Q>
+ <A>おしょうがつ	New Year's</A>
+</item>
+<item id="_514">
+ <cat>Chapter 11</cat>
+ <Q>男の子</Q>
+ <A>おとこのこ	boy</A>
+</item>
+<item id="_515">
+ <cat>Chapter 11</cat>
+ <Q>おもちゃ</Q>
+ <A>おもちゃ	toy</A>
+</item>
+<item id="_516">
+ <cat>Chapter 11</cat>
+ <Q>女の子</Q>
+ <A>おんなのこ	girl</A>
+</item>
+<item id="_517">
+ <cat>Chapter 11</cat>
+ <Q>外国</Q>
+ <A>がいこく	foreign country</A>
+</item>
+<item id="_518">
+ <cat>Chapter 11</cat>
+ <Q>歌手</Q>
+ <A>かしゅ	singer</A>
+</item>
+<item id="_519">
+ <cat>Chapter 11</cat>
+ <Q>キャンプ</Q>
+ <A>キャンプ	camp</A>
+</item>
+<item id="_520">
+ <cat>Chapter 11</cat>
+ <Q>こちら</Q>
+ <A>こちら	this person (polite)</A>
+</item>
+<item id="_521">
+ <cat>Chapter 11</cat>
+ <Q>今学期</Q>
+ <A>こんがっき	this semester</A>
+</item>
+<item id="_522">
+ <cat>Chapter 11</cat>
+ <Q>社長</Q>
+ <A>しゃちょう	president of a company</A>
+</item>
+<item id="_523">
+ <cat>Chapter 11</cat>
+ <Q>授業</Q>
+ <A>じゅぎょう	class</A>
+</item>
+<item id="_524">
+ <cat>Chapter 11</cat>
+ <Q>将来</Q>
+ <A>しょうらい	future</A>
+</item>
+<item id="_525">
+ <cat>Chapter 11</cat>
+ <Q>ドライブ</Q>
+ <A>ドライブ	drive</A>
+</item>
+<item id="_526">
+ <cat>Chapter 11</cat>
+ <Q>ビール</Q>
+ <A>ビール	beer</A>
+</item>
+<item id="_527">
+ <cat>Chapter 11</cat>
+ <Q>美術館</Q>
+ <A>びじゅつかん	art museum</A>
+</item>
+<item id="_528">
+ <cat>Chapter 11</cat>
+ <Q>ホストファミリー</Q>
+ <A>ホストファミリー	host family</A>
+</item>
+<item id="_529">
+ <cat>Chapter 11</cat>
+ <Q>湖</Q>
+ <A>みずうみ	lake</A>
+</item>
+<item id="_530">
+ <cat>Chapter 11</cat>
+ <Q>山</Q>
+ <A>やま	mountain</A>
+</item>
+<item id="_531">
+ <cat>Chapter 11</cat>
+ <Q>夢</Q>
+ <A>ゆめ	dream</A>
+</item>
+<item id="_532">
+ <cat>Chapter 11</cat>
+ <Q>ルームメート</Q>
+ <A>ルームメート	roommate</A>
+</item>
+<item id="_533">
+ <cat>Chapter 11</cat>
+ <Q>うそをつく</Q>
+ <A>うそをつく	to tell a lie</A>
+</item>
+<item id="_534">
+ <cat>Chapter 11</cat>
+ <Q>おなかがすく</Q>
+ <A>おなかがすく	to become hungry</A>
+</item>
+<item id="_535">
+ <cat>Chapter 11</cat>
+ <Q>飼う</Q>
+ <A>かう	to own (a pet)</A>
+</item>
+<item id="_536">
+ <cat>Chapter 11</cat>
+ <Q>サボる</Q>
+ <A>サボる	to cut classes</A>
+</item>
+<item id="_537">
+ <cat>Chapter 11</cat>
+ <Q>取る</Q>
+ <A>とる	to take (a class); to get (a grade)</A>
+</item>
+<item id="_538">
+ <cat>Chapter 11</cat>
+ <Q>習う</Q>
+ <A>ならう	to learn</A>
+</item>
+<item id="_539">
+ <cat>Chapter 11</cat>
+ <Q>登る</Q>
+ <A>のぼる	to climb</A>
+</item>
+<item id="_540">
+ <cat>Chapter 11</cat>
+ <Q>働く</Q>
+ <A>はたらく	to work</A>
+</item>
+<item id="_541">
+ <cat>Chapter 11</cat>
+ <Q>疲れる</Q>
+ <A>つかれる	to get tired</A>
+</item>
+<item id="_542">
+ <cat>Chapter 11</cat>
+ <Q>やめる</Q>
+ <A>やめる	to quit</A>
+</item>
+<item id="_543">
+ <cat>Chapter 11</cat>
+ <Q>けんかする</Q>
+ <A>けんかする	to have a fight; to quarrel</A>
+</item>
+<item id="_544">
+ <cat>Chapter 11</cat>
+ <Q>紹介する</Q>
+ <A>しょうかいする	to introduce</A>
+</item>
+<item id="_545">
+ <cat>Chapter 11</cat>
+ <Q>ダイエットする</Q>
+ <A>ダイエットする	to go on a diet</A>
+</item>
+<item id="_546">
+ <cat>Chapter 11</cat>
+ <Q>遅刻する</Q>
+ <A>ちこくする	to be late (for an appointment)</A>
+</item>
+<item id="_547">
+ <cat>Chapter 11</cat>
+ <Q>留学する</Q>
+ <A>りゅうがくする	to study abroad</A>
+</item>
+<item id="_548">
+ <cat>Chapter 11</cat>
+ <Q>後</Q>
+ <A>あと	after (an event)</A>
+</item>
+<item id="_549">
+ <cat>Chapter 11</cat>
+ <Q>出身</Q>
+ <A>しゅっしん	coming from</A>
+</item>
+<item id="_550">
+ <cat>Chapter 11</cat>
+ <Q>すごく</Q>
+ <A>すごく	very</A>
+</item>
+<item id="_551">
+ <cat>Chapter 11</cat>
+ <Q>そして</Q>
+ <A>そして	and then</A>
+</item>
+<item id="_552">
+ <cat>Chapter 11</cat>
+ <Q>久しぶり</Q>
+ <A>ひさしぶり	it has been a long time</A>
+</item>
+<item id="_553">
+ <cat>Chapter 11</cat>
+ <Q>まあまあ</Q>
+ <A>まあまあ	okay; so-so</A>
+</item>
+<item id="_554">
+ <cat>Chapter 11</cat>
+ <Q>もっと</Q>
+ <A>もっと	more</A>
+</item>
+<item id="_555">
+ <cat>Chapter 12</cat>
+ <Q>足</Q>
+ <A>あし	leg; foot</A>
+</item>
+<item id="_556">
+ <cat>Chapter 12</cat>
+ <Q>意味</Q>
+ <A>いみ	meaning</A>
+</item>
+<item id="_557">
+ <cat>Chapter 12</cat>
+ <Q>おなか</Q>
+ <A>おなか	stomach</A>
+</item>
+<item id="_558">
+ <cat>Chapter 12</cat>
+ <Q>風</Q>
+ <A>かぜ	cold</A>
+</item>
+<item id="_559">
+ <cat>Chapter 12</cat>
+ <Q>彼女</Q>
+ <A>かのじょ	girlfriend</A>
+</item>
+<item id="_560">
+ <cat>Chapter 12</cat>
+ <Q>彼</Q>
+ <A>かれ	boyfriend</A>
+</item>
+<item id="_561">
+ <cat>Chapter 12</cat>
+ <Q>気温</Q>
+ <A>きおん	temperature (weather)</A>
+</item>
+<item id="_562">
+ <cat>Chapter 12</cat>
+ <Q>曇り</Q>
+ <A>くもり	cloudy weather</A>
+</item>
+<item id="_563">
+ <cat>Chapter 12</cat>
+ <Q>試合</Q>
+ <A>しあい	match; game</A>
+</item>
+<item id="_564">
+ <cat>Chapter 12</cat>
+ <Q>ジュース</Q>
+ <A>ジュース	juice</A>
+</item>
+<item id="_565">
+ <cat>Chapter 12</cat>
+ <Q>成績</Q>
+ <A>せいせき	grade (on a test, etc.)</A>
+</item>
+<item id="_566">
+ <cat>Chapter 12</cat>
+ <Q>咳</Q>
+ <A>せき	cough</A>
+</item>
+<item id="_567">
+ <cat>Chapter 12</cat>
+ <Q>のど</Q>
+ <A>のど	throat</A>
+</item>
+<item id="_568">
+ <cat>Chapter 12</cat>
+ <Q>歯</Q>
+ <A>は	tooth</A>
+</item>
+<item id="_569">
+ <cat>Chapter 12</cat>
+ <Q>花</Q>
+ <A>はな	flower</A>
+</item>
+<item id="_570">
+ <cat>Chapter 12</cat>
+ <Q>晴れ</Q>
+ <A>はれ	sunny weather</A>
+</item>
+<item id="_571">
+ <cat>Chapter 12</cat>
+ <Q>服</Q>
+ <A>ふく	clothes</A>
+</item>
+<item id="_572">
+ <cat>Chapter 12</cat>
+ <Q>二日酔い</Q>
+ <A>ふつかよい	hangover</A>
+</item>
+<item id="_573">
+ <cat>Chapter 12</cat>
+ <Q>プレゼント</Q>
+ <A>プレゼント	present</A>
+</item>
+<item id="_574">
+ <cat>Chapter 12</cat>
+ <Q>ホームシック</Q>
+ <A>ホームシック	homesickness</A>
+</item>
+<item id="_575">
+ <cat>Chapter 12</cat>
+ <Q>物</Q>
+ <A>もの	thing (concrete object)</A>
+</item>
+<item id="_576">
+ <cat>Chapter 12</cat>
+ <Q>雪</Q>
+ <A>ゆき	snow</A>
+</item>
+<item id="_577">
+ <cat>Chapter 12</cat>
+ <Q>用事</Q>
+ <A>ようじ	business to take care of</A>
+</item>
+<item id="_578">
+ <cat>Chapter 12</cat>
+ <Q>甘い</Q>
+ <A>あまい	sweet</A>
+</item>
+<item id="_579">
+ <cat>Chapter 12</cat>
+ <Q>痛い</Q>
+ <A>いたい	hurt; painful</A>
+</item>
+<item id="_580">
+ <cat>Chapter 12</cat>
+ <Q>多い</Q>
+ <A>おおい	there are many...</A>
+</item>
+<item id="_581">
+ <cat>Chapter 12</cat>
+ <Q>狭い</Q>
+ <A>せまい	narrow; not spacious</A>
+</item>
+<item id="_582">
+ <cat>Chapter 12</cat>
+ <Q>都合が悪い</Q>
+ <A>つごうがわるい	inconvenient; to have a scheduling conflict</A>
+</item>
+<item id="_583">
+ <cat>Chapter 12</cat>
+ <Q>悪い</Q>
+ <A>わるい	bad</A>
+</item>
+<item id="_584">
+ <cat>Chapter 12</cat>
+ <Q>素敵</Q>
+ <A>すてき	fantastic</A>
+</item>
+<item id="_585">
+ <cat>Chapter 12</cat>
+ <Q>風邪をひく</Q>
+ <A>かぜをひく	to catch a cold</A>
+</item>
+<item id="_586">
+ <cat>Chapter 12</cat>
+ <Q>興味がある</Q>
+ <A>きょうみがある	to be interested (in ...)</A>
+</item>
+<item id="_587">
+ <cat>Chapter 12</cat>
+ <Q>なくす</Q>
+ <A>なくす	to lose</A>
+</item>
+<item id="_588">
+ <cat>Chapter 12</cat>
+ <Q>のどが渇く</Q>
+ <A>のどがかわく	to become thirsty</A>
+</item>
+<item id="_589">
+ <cat>Chapter 12</cat>
+ <Q>熱がある</Q>
+ <A>ねつがある	to have a fever</A>
+</item>
+<item id="_590">
+ <cat>Chapter 12</cat>
+ <Q>せきが出る</Q>
+ <A>せきがでる	to cough</A>
+</item>
+<item id="_591">
+ <cat>Chapter 12</cat>
+ <Q>別れる</Q>
+ <A>わかれる	to break up; to separate</A>
+</item>
+<item id="_592">
+ <cat>Chapter 12</cat>
+ <Q>緊張する</Q>
+ <A>きんちょうする	to get nervous</A>
+</item>
+<item id="_593">
+ <cat>Chapter 12</cat>
+ <Q>心配する</Q>
+ <A>しんぱいする	to worry</A>
+</item>
+<item id="_594">
+ <cat>Chapter 12</cat>
+ <Q>いつも</Q>
+ <A>いつも	always</A>
+</item>
+<item id="_595">
+ <cat>Chapter 12</cat>
+ <Q>お大事に</Q>
+ <A>おだいじに	Get well soon.</A>
+</item>
+<item id="_596">
+ <cat>Chapter 12</cat>
+ <Q>元気がない</Q>
+ <A>げんきがない	don't look well</A>
+</item>
+<item id="_597">
+ <cat>Chapter 12</cat>
+ <Q>多分</Q>
+ <A>たぶん	probably; maybe</A>
+</item>
+<item id="_598">
+ <cat>Chapter 12</cat>
+ <Q>できるだけ</Q>
+ <A>できるだけ	as much as possible</A>
+</item>
+<item id="_599">
+ <cat>Chapter 12</cat>
+ <Q>二三日</Q>
+ <A>にさんにち	for two to three days</A>
+</item>
+<item id="_600">
+ <cat>Chapter 12</cat>
+ <Q>初めて</Q>
+ <A>はじめて	for the first time</A>
+</item>
+<item id="_601">
+ <cat>Chapter 12</cat>
+ <Q>もうすぐ</Q>
+ <A>もうすぐ	very soon; in a few moments/days</A>
+</item>
+</mnemosyne>

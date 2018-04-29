@@ -1,0 +1,280 @@
+BODY, P {
+	font-family: Helvetica;
+	font-size: 11pt;
+	padding: 0px;
+	margin: 0px;
+}  
+
+BODY {
+	margin: 0px;
+	padding: 4px;
+}
+ 
+/*
+	Removes horz scrollbar for IE
+*/
+HTML, BODY {
+	overflow-x: hidden;
+}
+  
+P {
+	margin: 0px;
+	padding: 4px;
+}
+
+OL {
+	margin: 4px;
+	margin-left: 12px;
+	margin-bottom: 8px;
+}
+
+UL {
+  padding: 0px;
+  margin: 0px;
+}
+
+LI {
+	margin: 0px;
+	padding: 8px;
+	list-style: none;
+}
+
+P.incorrect {
+	margin-left: 16px;
+	margin-right: 16px;
+	background-color: #E72818; 
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+
+P.warning {
+	margin-left: 16px;
+	margin-right: 16px;
+	background-color: #FFFF00;
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+  
+P.correct {
+	margin-left: 16px;
+	margin-right: 16px;  
+	background-color: #92D636; 
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+
+DIV.response {
+	padding-top:24px;
+}
+
+DIV.container {
+	width: 100%; 
+	text-align: center;
+}
+    
+DIV.vocb {
+	margin-left:auto; 
+	margin-right:auto;
+	margin-bottom: 4px;
+ 	text-align: left;
+	width: 100%;
+	max-width: 400px;  
+	width: expression(document.body.clientWidth > 400? "400px": "auto" );
+}
+
+DIV.word {
+   padding: 8px;
+   padding-top: 2px;
+   border-bottom: solid 1px #E0E0E0;	
+   font-weight: bold;
+   font-size: 1.15em;
+   line-height: 90%;
+}
+
+P.quest {
+	text-align: center;
+	font-weight: 800;
+	border-bottom: solid 1px #E0E0E0;
+}
+
+FORM {
+	margin: 0px;
+}
+
+INPUT.vote {
+    padding: 8px;
+	text-align: left;
+	width: 100%;
+	white-space: normal;
+	-webkit-appearance: none;
+}
+
+INPUT.vote, FORM INPUT {
+    background-color: #E4E4E4;
+	border: none;
+	border-left: solid 8px #00FFFF;
+	-webkit-appearance: none;
+}
+
+INPUT.incorrect {
+    text-decoration: line-through;
+	background-color: #FF8080;
+}
+
+INPUT.correct {
+	background-color: #80FF80;
+}
+
+/*
+	Note the use of "max-width" for FF, and "expression()" for IE
+*/    
+IMG.graph {
+	width: 100%;
+	max-width: 400px;  
+	width: expression(document.body.clientWidth > 400? "400px": "auto" );
+}  
+
+DIV.bar {
+	font-size: 10px;
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	text-align: center;
+	border-bottom: solid 1px #E0E0E0;
+}
+
+DIV.header {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	position: absolute; 
+	top: 0px; 
+	text-align: left;
+}
+
+DIV.menu {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;   
+	position: absolute; 
+	top: 0px; 
+	right: 0px;
+	text-align: right;
+}
+  
+DIV.footer {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	position: absolute; 
+	bottom: 0px; 
+	width: 100%;   
+	text-align: center;
+}
+
+A.atext {
+	color: #808080;
+	text-decoration: none;
+}
+
+A.atext:visited {
+	color: #808080;
+	text-decoration: none;
+}
+
+A.atext:hover {
+	color: #808080;
+	text-decoration: underline;
+}
+
+/*
+	Cartoons
+*/
+
+IMG.obj {
+	vertical-align: middle;
+}
+
+/*
+	Toolbar
+*/
+DIV#tbrMain {
+	width: 100%;
+	text-align: center;
+	margin: 0px; 
+	margin-bottom: 6px;
+	padding: 4px;
+	padding-top: 8px;
+	font-weight: bold;
+	border-bottom: solid 1px #C0C0C0;
+}
+
+DIV#tbrOne, DIV#tbrTwo {
+	float: left;
+	text-align: center;
+	padding-top: 4px;
+	width: 25%;
+}
+
+DIV#tbrThree { 
+    float: right;
+	width: 45%;
+}
+
+SPAN#tbrPass {
+	font-size: 16px;
+    padding-left: 8px;
+	padding-right: 8px;
+	background-color: #80FF80;
+}
+
+SPAN#tbrFail {
+	font-size: 16px;
+	padding-left: 8px;
+    padding-right: 8px;
+	background-color: #FF8080;
+}
+
+SPAN#tbrClock {
+	font-size: 16px;
+	background-color: #00FFFF;
+}
+
+DIV#vocb_intra {
+	text-align: center;
+	height: 132px;
+	padding-bottom: 32px;
+}
+
+SPAN#vocb_intra_1 {
+    padding-top: 16px;
+	display: block;
+	font-size: 150%;
+	font-weight: bold;
+}
+
+SPAN#vocb_intra_2 {
+	display: block;
+	margin: 0px;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+DIV#vocb_intra INPUT {
+    vertical-align: top; 
+	height: 32px;
+	background-color: #00FFFF;
+	border: solid 2px;
+	border-color: #AAFFFF #444444 #444444 #AAFFFF;
+	font-weight: bold;
+	-webkit-appearance: none;
+}

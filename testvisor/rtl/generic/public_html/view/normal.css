@@ -1,0 +1,85 @@
+BODY, TABLE, P, FORM {
+	font-family: Arial;
+	font-size: 12px;
+}
+
+FORM {
+	padding: 0px;
+	margin: 0px;
+	display: inline;
+}
+
+TABLE.myscore {
+    border-collapse: collapse;
+    padding: 16px;
+}
+
+TABLE.myscore TD {
+    border: 1px dotted #E0E0E0;
+    padding: 2px;
+    text-align: left;
+}
+
+TABLE.myscore TD.r {
+    padding: 2px;
+    text-align: right;
+}
+
+TABLE.myscore TD.c {
+    padding: 2px;
+    text-align: center;
+}
+
+TABLE.myscore TR.hdr {
+    background-color: #F0F0F0;
+    font-weight: bold;
+}
+
+TABLE.myscore TD.s_r {
+    padding: 2px;
+    text-align: center;
+	background-color: #FF9999;
+}
+
+TABLE.myscore TD.s_y {
+    padding: 2px;
+    text-align: center;
+    background-color: #FFFF99;
+}
+
+TABLE.myscore TD.s_g {
+    padding: 2px;
+    text-align: center;
+    background-color: #99FF99;
+}
+
+TABLE {
+	width: 100%;
+}
+
+TABLE.myscore {
+   border-collapse: collapse;
+}
+
+TABLE.myscore TR.hdr {
+	background-color: #F0F0F0;
+	font-weight: bold;
+}
+
+TABLE.myscore TD {
+	border: 1px dotted #E0E0E0;
+	padding: 2px;
+	text-align: left;
+}
+
+INPUT.vote, TABLE.myscore INPUT {
+    background-color: #00FFFF;
+	border: solid 2px;
+	border-color: #AAFFFF #444444 #444444 #AAFFFF;
+	font-weight: bold;
+}
+
+INPUT.vote:hover, TABLE.myscore INPUT:hover {
+	border-color: #FFFFAA #444444 #444444 #FFFFAA;
+	background-color: #FFFF00;
+}

@@ -1,0 +1,33 @@
+<project default="run" basedir=".">
+
+	<import file="./build.xml"/>
+
+	<target name="inherited">
+		<ant antfile="../testvisor-core/build.xml" dir="../testvisor-core"/>
+	</target>
+	
+	<target name="run" depends="inherited, build">
+		<exec dir="d:/root/testvisor/rtl/sbin" executable="cmd">
+		    <arg value="/c"/>
+			<arg value="tomcat.stop.bat"/>
+		</exec>
+		
+		<sleep seconds="5"/>
+		
+		<delete dir="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/publish" />
+		<delete file="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/publish.war" />		
+		<copy todir="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/" 
+			file="dist/publish.war" />
+			
+		<delete dir="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/admin" />
+		<delete file="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/admin.war" />
+		<copy todir="D:/root/testvisor/rtl/apache-tomcat-5.5.25/webapps/" 
+			file="dist/admin.war" />		
+			
+		<exec dir="d:/root/testvisor/rtl/sbin" executable="cmd" spawn="true">
+		    <arg value="/c"/>
+			<arg value="tomcat.start.bat"/>
+		</exec>
+	</target>
+
+</project>

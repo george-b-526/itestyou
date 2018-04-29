@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b,c,d}" defaults="{4,2,6,5}">
+	<eval>      
+		<stmt>eq := Hold((a * x^b) / (c * x^d))</stmt> 
+	</eval>   
+	<question>Which of the following expressions is equal to <draw><echo>Eval(eq)</echo></draw>?</question>  
+	<choices>      
+		<answer>  
+			<draw><echo>Simplify(eq)</echo></draw> 
+		</answer>
+		<decoy>  
+			<draw><echo>Simplify(1/eq)</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Simplify(x^b / ((c - a) * x^d))</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Simplify(x^(d - b) / (c - a))</echo></draw> 
+		</decoy>
+	</choices>
+</unit>

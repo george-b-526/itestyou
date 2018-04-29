@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Russian (&#x0420;&#x0443;&#x0441;&#x0441;&#x043A;&#x0438;&#x0439;)">
+<!--generated: Sun Jan 29 02:47:56 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="способность" i="0" m="ability" t="n" />
+<w c="abstract" e="дело" i="1" m="act" t="n" />
+<w c="abstract" e="поступок; действие" i="2" m="action" t="n" />
+<w c="abstract" e="деятельность" i="3" m="activity" t="n" />
+<w c="abstract" e="дополнение" i="4" m="addition" t="n" />
+<w c="abstract" e="количество" i="5" m="amount" t="n" />
+<w c="abstract" e="набег" i="6" m="attack" t="n" />
+<w c="abstract" e="надсада" i="7" m="attempt" t="n" />
+<w c="abstract" e="точка зрения" i="8" m="attitude" t="n" />
+<w c="abstract" e="задняя страница" i="9" m="back" t="n" />
+<w c="abstract" e="поведения" i="10" m="behavior" t="n" />
+<w c="abstract" e="кусок" i="11" m="bit" t="n" />
+<w c="abstract" e="удар" i="12" m="blow" t="n" />
+<w c="abstract" e="пауза; перерыв" i="13" m="break" t="n" />
+<w c="abstract" e="кампания" i="14" m="campaign" t="n" />
+<w c="abstract" e="случай" i="15" m="case" t="n" />
+<w c="abstract" e="возможность" i="16" m="chance" t="n" />
+<w c="abstract" e="перемена" i="17" m="change" t="n" />
+<w c="abstract" e="выбор" i="18" m="choice" t="n" />
+<w c="abstract" e="состояние" i="19" m="condition" t="n" />
+<w c="abstract" e="соединение" i="20" m="connection" t="n" />
+<w c="abstract" e="подключение" i="21" m="connection" t="n" />
+<w c="abstract" e="брешь" i="22" m="crack" t="n" />
+<w c="abstract" e="раздробление" i="23" m="crush" t="n" />
+<w c="abstract" e="срез" i="24" m="cut" t="n" />
+<w c="abstract" e="поломка" i="25" m="damage" t="n" />
+<w c="abstract" e="опасность" i="26" m="danger" t="n" />
+<w c="abstract" e="смерть" i="27" m="death" t="n" />
+<w c="abstract" e="декорация" i="28" m="decoration" t="n" />
+<w c="abstract" e="оборона" i="29" m="defense" t="n" />
+<w c="abstract" e="разрушение" i="30" m="destruction" t="n" />
+<w c="abstract" e="подробность; деталь" i="31" m="detail" t="n" />
+<w c="abstract" e="перевес" i="32" m="dominance" t="n" />
+<w c="abstract" e="капля" i="33" m="drop" t="n" />
+<w c="abstract" e="повинность" i="34" m="duty" t="n" />
+<w c="abstract" e="старание" i="35" m="effort" t="n" />
+<w c="abstract" e="падение" i="36" m="fall" t="n" />
+<w c="abstract" e="способность" i="37" m="feature" t="n" />
+<w c="abstract" e="борьба" i="38" m="fight" t="n" />
+<w c="abstract" e="передняя часть" i="39" m="front" t="n" />
+<w c="abstract" e="высота" i="40" m="height" t="n" />
+<w c="abstract" e="удар" i="41" m="hit" t="n" />
+<w c="abstract" e="дыра" i="42" m="hole" t="n" />
+<w c="abstract" e="прирост" i="43" m="increase" t="n" />
+<w c="abstract" e="рост" i="44" m="increase" t="n" />
+<w c="abstract" e="интернет" i="45" m="internet" t="n" />
+<w c="abstract" e="удар" i="46" m="jolt" t="n" />
+<w c="abstract" e="скачок; прыжок" i="47" m="jump" t="n" />
+<w c="abstract" e="пинок" i="48" m="kick" t="n" />
+<w c="abstract" e="вид" i="49" m="kind" t="n" />
+<w c="abstract" e="узел" i="50" m="knot" t="n" />
+<w c="abstract" e="перечень" i="51" m="list" t="n" />
+<w c="abstract" e="большинство" i="52" m="majority" t="n" />
+<w c="abstract" e="способ; метод; стиль" i="53" m="manner" t="n" />
+<w c="abstract" e="дело" i="54" m="matter" t="n" />
+<w c="abstract" e="способ" i="55" m="means" t="n" />
+<w c="abstract" e="ум, мысль" i="56" m="mind" t="n" />
+<w c="abstract" e="действие" i="57" m="operation" t="n" />
+<w c="abstract" e="противоположность" i="58" m="opposite" t="n" />
+<w c="abstract" e="извержение" i="59" m="outburst" t="n" />
+<w c="abstract" e="часть" i="60" m="part" t="n" />
+<w c="abstract" e="часть" i="61" m="part" t="n" />
+<w c="abstract" e="характер" i="62" m="personality" t="n" />
+<w c="abstract" e="кусок" i="63" m="piece" t="n" />
+<w c="abstract" e="место" i="64" m="place" t="n" />
+<w c="abstract" e="позиция; положение" i="65" m="position" t="n" />
+<w c="abstract" e="сила" i="66" m="power" t="n" />
+<w c="abstract" e="практика" i="67" m="practice" t="n" />
+<w c="abstract" e="проект" i="68" m="project" t="n" />
+<w c="abstract" e="способность" i="69" m="property" t="n" />
+<w c="abstract" e="качество" i="70" m="quality" t="n" />
+<w c="abstract" e="спокойствие" i="71" m="quiet" t="n" />
+<w c="abstract" e="досягаемость" i="72" m="reach" t="n" />
+<w c="abstract" e="рапорт" i="73" m="report" t="n" />
+<w c="abstract" e="ответственность" i="74" m="responsibility" t="n" />
+<w c="abstract" e="отдых" i="75" m="rest" t="n" />
+<w c="abstract" e="возврат" i="76" m="return" t="n" />
+<w c="abstract" e="подъём" i="77" m="rise" t="n" />
+<w c="abstract" e="риск" i="78" m="risk" t="n" />
+<w c="abstract" e="место" i="79" m="seat" t="n" />
+<w c="abstract" e="сериал; многосерийный фильм" i="80" m="serial" t="n" />
+<w c="abstract" e="комплект" i="81" m="set" t="n" />
+<w c="abstract" e="дрожание" i="82" m="shake" t="n" />
+<w c="abstract" e="шок" i="83" m="shock" t="n" />
+<w c="abstract" e="тишина" i="84" m="silence" t="n" />
+<w c="abstract" e="ситуация" i="85" m="situation" t="n" />
+<w c="abstract" e="кусок" i="86" m="slice" t="n" />
+<w c="abstract" e="состояние" i="87" m="state" t="n" />
+<w c="abstract" e="шаг; поступь" i="88" m="step" t="n" />
+<w c="abstract" e="остановить" i="89" m="stop" t="n" />
+<w c="abstract" e="вкус" i="90" m="taste" t="n" />
+<w c="abstract" e="предмет; вещь" i="91" m="thing" t="n" />
+<w c="abstract" e="верхушка" i="92" m="top" t="n" />
+<w c="abstract" e="прикосновение" i="93" m="touch" t="n" />
+<w c="abstract" e="обхождение" i="94" m="treatment" t="n" />
+<w c="abstract" e="трюк" i="95" m="trick" t="n" />
+<w c="abstract" e="тип" i="96" m="type" t="n" />
+<w c="abstract" e="употребление" i="97" m="use" t="n" />
+<w c="abstract" e="износ" i="98" m="wear" t="n" />
+<w c="abstract" e="целое" i="99" m="whole" t="n" />
+<w c="abstract" e="воля" i="100" m="will" t="n" />
+<w c="abstract" e="желание" i="101" m="wish" t="n" />
+<w c="adjectives" e="кислый" i="102" m="acid" t="adj" />
+<w c="adjectives" e="после; потом" i="103" m="after" t="adj" />
+<w c="adjectives" e="перед" i="104" m="ago" t="adj" />
+<w c="adjectives" e="все; бсё" i="105" m="all" t="adj" />
+<w c="adjectives" e="любой" i="106" m="any" t="adj" />
+<w c="adjectives" e="автоматический" i="107" m="automatic" t="adj" />
+<w c="adjectives" e="доступный" i="108" m="available" t="adj" />
+<w c="adjectives" e="горький" i="109" m="bitter" t="adj" />
+<w c="adjectives" e="нудный" i="110" m="boring" t="adj" />
+<w c="adjectives" e="обе" i="111" m="both" t="adj" />
+<w c="adjectives" e="светлый" i="112" m="bright" t="adj" />
+<w c="adjectives" e="разбитый" i="113" m="broken" t="adj" />
+<w c="adjectives" e="центральный" i="114" m="central" t="adj" />
+<w c="adjectives" e="верный" i="115" m="certain" t="adj" />
+<w c="adjectives" e="дешевый" i="116" m="cheap" t="adj" />
+<w c="adjectives" e="химический" i="117" m="chemical" t="adj" />
+<w c="adjectives" e="явный" i="118" m="clear" t="adj" />
+<w c="adjectives" e="закрытый" i="119" m="closed" t="adj" />
+<w c="adjectives" e="цветной" i="120" m="color" t="adj" />
+<w c="adjectives" e="обычный" i="121" m="common" t="adj" />
+<w c="adjectives" e="совместный" i="122" m="common" t="adj" />
+<w c="adjectives" e="комплектный" i="123" m="complete" t="adj" />
+<w c="adjectives" e="сознающий" i="124" m="conscious" t="adj" />
+<w c="adjectives" e="жестокий" i="125" m="cruel" t="adj" />
+<w c="adjectives" e="современный" i="126" m="current" t="adj" />
+<w c="adjectives" e="щепетильный" i="127" m="dainty" t="adj" />
+<w c="adjectives" e="опасный" i="128" m="dangerous" t="adj" />
+<w c="adjectives" e="деликатный; щекотливый" i="129" m="delicate" t="adj" />
+<w c="adjectives" e="другой" i="130" m="different" t="adj" />
+<w c="adjectives" e="другой" i="131" m="different" t="adj" />
+<w c="adjectives" e="непохожий" i="132" m="different" t="adj" />
+<w c="adjectives" e="понизу" i="133" m="down" t="adj" />
+<w c="adjectives" e="сухой" i="134" m="dry" t="adj" />
+<w c="adjectives" e="каждый" i="135" m="each" t="adj" />
+<w c="adjectives" e="ранний; скорый" i="136" m="early" t="adj" />
+<w c="adjectives" e="лёгкий" i="137" m="easy" t="adj" />
+<w c="adjectives" e="экономический" i="138" m="economic" t="adj" />
+<w c="adjectives" e="экономический" i="139" m="economic" t="adj" />
+<w c="adjectives" e="электрический" i="140" m="electric" t="adj" />
+<w c="adjectives" e="равный; одинаковый" i="141" m="equal" t="adj" />
+<w c="adjectives" e="чётный" i="142" m="even" t="adj" />
+<w c="adjectives" e="ровный" i="143" m="even" t="adj" />
+<w c="adjectives" e="каждый" i="144" m="every" t="adj" />
+<w c="adjectives" e="замечательный" i="145" m="excellent" t="adj" />
+<w c="adjectives" e="фальшивый" i="146" m="fake" t="adj" />
+<w c="adjectives" e="неправильный" i="147" m="false" t="adj" />
+<w c="adjectives" e="далёкий" i="148" m="far" t="adj" />
+<w c="adjectives" e="толстый" i="149" m="fat" t="adj" />
+<w c="adjectives" e="жирный" i="150" m="fat" t="adj" />
+<w c="adjectives" e="немного; мало" i="151" m="few" t="adj" />
+<w c="adjectives" e="конечный" i="152" m="final" t="adj" />
+<w c="adjectives" e="финансовый" i="153" m="financial" t="adj" />
+<w c="adjectives" e="твёрдый; жёсткий" i="154" m="firm" t="adj" />
+<w c="adjectives" e="первый" i="155" m="first" t="adj" />
+<w c="adjectives" e="данный; установленный" i="156" m="fixed" t="adj" />
+<w c="adjectives" e="плоский" i="157" m="flat" t="adj" />
+<w c="adjectives" e="следующий" i="158" m="following" t="adj" />
+<w c="adjectives" e="иностранный" i="159" m="foreign" t="adj" />
+<w c="adjectives" e="бывший" i="160" m="former" t="adj" />
+<w c="adjectives" e="хрупкий" i="161" m="fragile" t="adj" />
+<w c="adjectives" e="бесплатный" i="162" m="free" t="adj" />
+<w c="adjectives" e="частый" i="163" m="frequent" t="adj" />
+<w c="adjectives" e="свежий" i="164" m="fresh" t="adj" />
+<w c="adjectives" e="передний" i="165" m="front" t="adj" />
+<w c="adjectives" e="полный" i="166" m="full" t="adj" />
+<w c="adjectives" e="весь; целый" i="167" m="full" t="adj" />
+<w c="adjectives" e="дальше" i="168" m="further" t="adj" />
+<w c="adjectives" e="будущий" i="169" m="future" t="adj" />
+<w c="adjectives" e="всеобщий; общий" i="170" m="general" t="adj" />
+<w c="adjectives" e="честный" i="171" m="good" t="adj" />
+<w c="adjectives" e="промышленный; индустриальный" i="172" m="industrial" t="adj" />
+<w c="adjectives" e="интересный" i="173" m="interesting" t="adj" />
+<w c="adjectives" e="международный" i="174" m="international" t="adj" />
+<w c="adjectives" e="прошлый" i="175" m="last" t="adj" />
+<w c="adjectives" e="опоздавший" i="176" m="late" t="adj" />
+<w c="adjectives" e="законный" i="177" m="legal" t="adj" />
+<w c="adjectives" e="диетический" i="178" m="light" t="adj" />
+<w c="adjectives" e="жидкий" i="179" m="liquid" t="adj" />
+<w c="adjectives" e="местный" i="180" m="local" t="adj" />
+<w c="adjectives" e="громкий" i="181" m="loud" t="adj" />
+<w c="adjectives" e="низкий; невысокий" i="182" m="low" t="adj" />
+<w c="adjectives" e="счастливый" i="183" m="lucky" t="adj" />
+<w c="adjectives" e="главный" i="184" m="main" t="adj" />
+<w c="adjectives" e="главный" i="185" m="major" t="adj" />
+<w c="adjectives" e="много" i="186" m="many" t="adj" />
+<w c="adjectives" e="металлический" i="187" m="metal" t="adj" />
+<w c="adjectives" e="военный" i="188" m="military" t="adj" />
+<w c="adjectives" e="небольшой" i="189" m="minute" t="adj" />
+<w c="adjectives" e="современный" i="190" m="modern" t="adj" />
+<w c="adjectives" e="более; болше" i="191" m="more" t="adj" />
+<w c="adjectives" e="много" i="192" m="much" t="adj" />
+<w c="adjectives" e="узкий" i="193" m="narrow" t="adj" />
+<w c="adjectives" e="национальный; народный" i="194" m="national" t="adj" />
+<w c="adjectives" e="натуральный" i="195" m="natural" t="adj" />
+<w c="adjectives" e="необходимый" i="196" m="necessary" t="adj" />
+<w c="adjectives" e="соседний" i="197" m="next" t="adj" />
+<w c="adjectives" e="никакой; никто" i="198" m="no" t="adj" />
+<w c="adjectives" e="нормальный" i="199" m="normal" t="adj" />
+<w c="adjectives" e="выключенный" i="200" m="off" t="adj" />
+<w c="adjectives" e="включённый" i="201" m="on" t="adj" />
+<w c="adjectives" e="противоположный" i="202" m="opposite" t="adj" />
+<w c="adjectives" e="исходный; оригинальный" i="203" m="original" t="adj" />
+<w c="adjectives" e="другой" i="204" m="other" t="adj" />
+<w c="adjectives" e="свой" i="205" m="own" t="adj" />
+<w c="adjectives" e="параллельный" i="206" m="parallel" t="adj" />
+<w c="adjectives" e="определённый" i="207" m="particular" t="adj" />
+<w c="adjectives" e="прошлый" i="208" m="past" t="adj" />
+<w c="adjectives" e="личный" i="209" m="personal" t="adj" />
+<w c="adjectives" e="телесный; физический" i="210" m="physical" t="adj" />
+<w c="adjectives" e="политический" i="211" m="political" t="adj" />
+<w c="adjectives" e="жалкий; жалобный" i="212" m="poor" t="adj" />
+<w c="adjectives" e="популярный" i="213" m="popular" t="adj" />
+<w c="adjectives" e="возможный" i="214" m="possible" t="adj" />
+<w c="adjectives" e="современный; настойащий" i="215" m="present" t="adj" />
+<w c="adjectives" e="предыдущий" i="216" m="previous" t="adj" />
+<w c="adjectives" e="скромный" i="217" m="private" t="adj" />
+<w c="adjectives" e="вероятный" i="218" m="probable" t="adj" />
+<w c="adjectives" e="профессиональный" i="219" m="professional" t="adj" />
+<w c="adjectives" e="общественный" i="220" m="public" t="adj" />
+<w c="adjectives" e="тихий" i="221" m="quiet" t="adj" />
+<w c="adjectives" e="готовый; приготовленный" i="222" m="ready" t="adj" />
+<w c="adjectives" e="недавний" i="223" m="recent" t="adj" />
+<w c="adjectives" e="регулярный" i="224" m="regular" t="adj" />
+<w c="adjectives" e="ответственный" i="225" m="responsible" t="adj" />
+<w c="adjectives" e="правильный" i="226" m="right" t="adj" />
+<w c="adjectives" e="жёсткий; негнущийся" i="227" m="rigid" t="adj" />
+<w c="adjectives" e="грубый" i="228" m="rough" t="adj" />
+<w c="adjectives" e="круглый" i="229" m="round" t="adj" />
+<w c="adjectives" e="грустный" i="230" m="sad" t="adj" />
+<w c="adjectives" e="обеспеченный" i="231" m="safe" t="adj" />
+<w c="adjectives" e="одинаковый" i="232" m="same" t="adj" />
+<w c="adjectives" e="второй" i="233" m="second" t="adj" />
+<w c="adjectives" e="секретный" i="234" m="secret" t="adj" />
+<w c="adjectives" e="отдельный" i="235" m="separate" t="adj" />
+<w c="adjectives" e="серьёзный" i="236" m="serious" t="adj" />
+<w c="adjectives" e="установленный" i="237" m="set" t="adj" />
+<w c="adjectives" e="несколько" i="238" m="several" t="adj" />
+<w c="adjectives" e="короткий" i="239" m="short" t="adj" />
+<w c="adjectives" e="тихий" i="240" m="silent" t="adj" />
+<w c="adjectives" e="серебряный" i="241" m="silver" t="adj" />
+<w c="adjectives" e="простой" i="242" m="simple" t="adj" />
+<w c="adjectives" e="единственный" i="243" m="single" t="adj" />
+<w c="adjectives" e="маленький" i="244" m="small" t="adj" />
+<w c="adjectives" e="гладкий" i="245" m="smooth" t="adj" />
+<w c="adjectives" e="общественный" i="246" m="social" t="adj" />
+<w c="adjectives" e="жёсткий" i="247" m="solid" t="adj" />
+<w c="adjectives" e="редкий" i="248" m="sparse" t="adj" />
+<w c="adjectives" e="особенный" i="249" m="special" t="adj" />
+<w c="adjectives" e="специфический" i="250" m="specific" t="adj" />
+<w c="adjectives" e="квадратный" i="251" m="square" t="adj" />
+<w c="adjectives" e="стандартный" i="252" m="standard" t="adj" />
+<w c="adjectives" e="клейкий" i="253" m="sticky" t="adj" />
+<w c="adjectives" e="прямой" i="254" m="straight" t="adj" />
+<w c="adjectives" e="странный" i="255" m="strange" t="adj" />
+<w c="adjectives" e="элегантный" i="256" m="stylish" t="adj" />
+<w c="adjectives" e="неожиданный" i="257" m="sudden" t="adj" />
+<w c="adjectives" e="сладкое" i="258" m="sweet" t="adj" />
+<w c="adjectives" e="высокий" i="259" m="tall" t="adj" />
+<w c="adjectives" e="густой" i="260" m="thick" t="adj" />
+<w c="adjectives" e="узкий" i="261" m="thin" t="adj" />
+<w c="adjectives" e="тесный" i="262" m="tight" t="adj" />
+<w c="adjectives" e="правильный" i="263" m="true" t="adj" />
+<w c="adjectives" e="безобразный; некрасивый" i="264" m="ugly" t="adj" />
+<w c="adjectives" e="нижний" i="265" m="under" t="adj" />
+<w c="adjectives" e="необыкновенный; необычный" i="266" m="unusual" t="adj" />
+<w c="adjectives" e="подержанный" i="267" m="used" t="adj" />
+<w c="adjectives" e="полезный; пригодный" i="268" m="useful" t="adj" />
+<w c="adjectives" e="обычный" i="269" m="usual" t="adj" />
+<w c="adjectives" e="обычный" i="270" m="usual" t="adj" />
+<w c="adjectives" e="различный" i="271" m="various" t="adj" />
+<w c="adjectives" e="тёплый" i="272" m="warm" t="adj" />
+<w c="adjectives" e="мокрый" i="273" m="wet" t="adj" />
+<w c="adjectives" e="весь; целый" i="274" m="whole" t="adj" />
+<w c="adjectives" e="широкий" i="275" m="wide" t="adj" />
+<w c="adjectives" e="другой" i="276" m="another" t="adj" />
+<w c="adjectives" e="плохой" i="277" m="bad" t="adj" />
+<w c="adjectives" e="основной" i="278" m="basic" t="adj" />
+<w c="adjectives" e="красивый" i="279" m="beautiful" t="adj" />
+<w c="adjectives" e="лучший" i="280" m="best" t="adj" />
+<w c="adjectives" e="лучший" i="281" m="better" t="adj" />
+<w c="adjectives" e="крупный; большой" i="282" m="big" t="adj" />
+<w c="adjectives" e="чистый" i="283" m="clean" t="adj" />
+<w c="adjectives" e="холодный" i="284" m="cold" t="adj" />
+<w c="adjectives" e="правильный" i="285" m="correct" t="adj" />
+<w c="adjectives" e="тёмный" i="286" m="dark" t="adj" />
+<w c="adjectives" e="глубокий" i="287" m="deep" t="adj" />
+<w c="adjectives" e="трудный" i="288" m="difficult" t="adj" />
+<w c="adjectives" e="грязный" i="289" m="dirty" t="adj" />
+<w c="adjectives" e="быстрый" i="290" m="fast" t="adj" />
+<w c="adjectives" e="хороший; хорошо" i="291" m="good" t="adj" />
+<w c="adjectives" e="большой; великий" i="292" m="great" t="adj" />
+<w c="adjectives" e="замечательный" i="293" m="great" t="adj" />
+<w c="adjectives" e="счастливый" i="294" m="happy" t="adj" />
+<w c="adjectives" e="здоровый" i="295" m="healthy" t="adj" />
+<w c="adjectives" e="трудный" i="296" m="heavy" t="adj" />
+<w c="adjectives" e="высокий" i="297" m="high" t="adj" />
+<w c="adjectives" e="горячий" i="298" m="hot" t="adj" />
+<w c="adjectives" e="важный" i="299" m="important" t="adj" />
+<w c="adjectives" e="левый" i="300" m="left" t="adj" />
+<w c="adjectives" e="лёгкий" i="301" m="light" t="adj" />
+<w c="adjectives" e="малый" i="302" m="little" t="adj" />
+<w c="adjectives" e="длинный" i="303" m="long" t="adj" />
+<w c="adjectives" e="близкий; недалёкий" i="304" m="near" t="adj" />
+<w c="adjectives" e="новый" i="305" m="new" t="adj" />
+<w c="adjectives" e="красивый; хороший" i="306" m="nice" t="adj" />
+<w c="adjectives" e="открытый" i="307" m="open" t="adj" />
+<w c="adjectives" e="действительный" i="308" m="real" t="adj" />
+<w c="adjectives" e="правый" i="309" m="right" t="adj" />
+<w c="adjectives" e="острый" i="310" m="sharp" t="adj" />
+<w c="adjectives" e="подобный" i="311" m="similar" t="adj" />
+<w c="adjectives" e="медленный" i="312" m="slow" t="adj" />
+<w c="adjectives" e="мягкий" i="313" m="soft" t="adj" />
+<w c="adjectives" e="сильный" i="314" m="strong" t="adj" />
+<w c="adjectives" e="слабый" i="315" m="weak" t="adj" />
+<w c="adjectives" e="неправильный" i="316" m="wrong" t="adj" />
+<w c="adjective" e="способный" i="317" m="able" t="adj" />
+<w c="adjective" e="живой" i="318" m="alive" t="adj" />
+<w c="adjective" e="одинокий" i="319" m="alone" t="adj" />
+<w c="adjective" e="разозлённый" i="320" m="angry" t="adj" />
+<w c="adjective" e="бдительный" i="321" m="awake" t="adj" />
+<w c="adjective" e="мёртвый" i="322" m="dead" t="adj" />
+<w c="adjective" e="женский" i="323" m="female" t="adj" />
+<w c="adjective" e="свободный" i="324" m="free" t="adj" />
+<w c="adjective" e="дружеский" i="325" m="friendly" t="adj" />
+<w c="adjective" e="здоровый" i="326" m="healthy" t="adj" />
+<w c="adjective" e="гуманный" i="327" m="human" t="adj" />
+<w c="adjective" e="голодный" i="328" m="hungry" t="adj" />
+<w c="adjective" e="больной" i="329" m="ill" t="adj" />
+<w c="adjective" e="нетерпеливый" i="330" m="impatient" t="adj" />
+<w c="adjective" e="разумный; интеллигентный" i="331" m="intelligent" t="adj" />
+<w c="adjective" e="справедливый" i="332" m="just" t="adj" />
+<w c="adjective" e="любезный" i="333" m="kind" t="adj" />
+<w c="adjective" e="мужской" i="334" m="male" t="adj" />
+<w c="adjective" e="мужественный" i="335" m="male" t="adj" />
+<w c="adjective" e="женатый" i="336" m="married" t="adj" />
+<w c="adjective" e="скверный" i="337" m="mean" t="adj" />
+<w c="adjective" e="лечебный" i="338" m="medical" t="adj" />
+<w c="adjective" e="старый" i="339" m="old" t="adj" />
+<w c="adjective" e="терпеливый" i="340" m="patient" t="adj" />
+<w c="adjective" e="бедный" i="341" m="poor" t="adj" />
+<w c="adjective" e="единочный" i="342" m="private" t="adj" />
+<w c="adjective" e="богатый" i="343" m="rich" t="adj" />
+<w c="adjective" e="королевский" i="344" m="royal" t="adj" />
+<w c="adjective" e="печальный" i="345" m="sad" t="adj" />
+<w c="adjective" e="проницательный" i="346" m="sharp" t="adj" />
+<w c="adjective" e="глупый" i="347" m="silly" t="adj" />
+<w c="adjective" e="искренний" i="348" m="sincere" t="adj" />
+<w c="adjective" e="холостой; незамужняя" i="349" m="single" t="adj" />
+<w c="adjective" e="опытный" i="350" m="skilful" t="adj" />
+<w c="adjective" e="глупый" i="351" m="stupid" t="adj" />
+<w c="adjective" e="подчиненный" i="352" m="subject" t="adj" />
+<w c="adjective" e="успешный" i="353" m="successful" t="adj" />
+<w c="adjective" e="жаждущий" i="354" m="thirsty" t="adj" />
+<w c="adjective" e="усталый" i="355" m="tired" t="adj" />
+<w c="adjective" e="безработный" i="356" m="unemployed" t="adj" />
+<w c="adjective" e="насильственный" i="357" m="violent" t="adj" />
+<w c="adjective" e="мудрый" i="358" m="wise" t="adj" />
+<w c="adjective" e="молодой" i="359" m="young" t="adj" />
+<w c="adverb" e="кругом; вокруг" i="360" m="about" t="adv" />
+<w c="adverb" e="над" i="361" m="above" t="adv" />
+<w c="adverb" e="поперёк" i="362" m="across" t="adv" />
+<w c="adverb" e="скворзь" i="363" m="across" t="adv" />
+<w c="adverb" e="опять" i="364" m="again" t="adv" />
+<w c="adverb" e="почти" i="365" m="almost" t="adv" />
+<w c="adverb" e="вдоль" i="366" m="along" t="adv" />
+<w c="adverb" e="уже" i="367" m="already" t="adv" />
+<w c="adverb" e="всегда" i="368" m="always" t="adv" />
+<w c="adverb" e="приблизительно" i="369" m="approximately" t="adv" />
+<w c="adverb" e="впереди" i="370" m="before" t="adv" />
+<w c="adverb" e="вперед" i="371" m="before" t="adv" />
+<w c="adverb" e="сзади; позади" i="372" m="behind" t="adv" />
+<w c="adverb" e="между" i="373" m="between" t="adv" />
+<w c="adverb" e="за" i="374" m="beyond" t="adv" />
+<w c="adverb" e="мимо" i="375" m="by" t="adv" />
+<w c="adverb" e="ясно" i="376" m="clearly" t="adv" />
+<w c="adverb" e="прямо" i="377" m="directly" t="adv" />
+<w c="adverb" e="книзу; вниз" i="378" m="down" t="adv" />
+<w c="adverb" e="скоро" i="379" m="early" t="adv" />
+<w c="adverb" e="либо" i="380" m="either" t="adv" />
+<w c="adverb" e="довольно" i="381" m="enough" t="adv" />
+<w c="adverb" e="сам" i="382" m="entirely" t="adv" />
+<w c="adverb" e="как" i="383" m="equally" t="adv" />
+<w c="adverb" e="даже" i="384" m="even" t="adv" />
+<w c="adverb" e="точно" i="385" m="exactly" t="adv" />
+<w c="adverb" e="наконец" i="386" m="finally" t="adv" />
+<w c="adverb" e="сначала" i="387" m="first" t="adv" />
+<w c="adverb" e="вперёд" i="388" m="forward" t="adv" />
+<w c="adverb" e="здесь; тут" i="389" m="here" t="adv" />
+<w c="adverb" e="сюда" i="390" m="here" t="adv" />
+<w c="adverb" e="хотя" i="391" m="however" t="adv" />
+<w c="adverb" e="немедленно" i="392" m="immediately" t="adv" />
+<w c="adverb" e="внутрь; в; до" i="393" m="in" t="adv" />
+<w c="adverb" e="действительно; серьезно" i="394" m="indeed" t="adv" />
+<w c="adverb" e="внутри" i="395" m="inside" t="adv" />
+<w c="adverb" e="вместо" i="396" m="instead" t="adv" />
+<w c="adverb" e="поздно" i="397" m="late" t="adv" />
+<w c="adverb" e="потом" i="398" m="later" t="adv" />
+<w c="adverb" e="наименее" i="399" m="least" t="adv" />
+<w c="adverb" e="немного; мало" i="400" m="little" t="adv" />
+<w c="adverb" e="более; болше" i="401" m="more" t="adv" />
+<w c="adverb" e="обычно" i="402" m="mostly" t="adv" />
+<w c="adverb" e="никогда" i="403" m="never" t="adv" />
+<w c="adverb" e="нет" i="404" m="not" t="adv" />
+<w c="adverb" e="теперь; сейчас" i="405" m="now" t="adv" />
+<w c="adverb" e="очевидно" i="406" m="obviously" t="adv" />
+<w c="adverb" e="часто" i="407" m="often" t="adv" />
+<w c="adverb" e="раз" i="408" m="once" t="adv" />
+<w c="adverb" e="снаружи" i="409" m="outside" t="adv" />
+<w c="adverb" e="особенно" i="410" m="particularly" t="adv" />
+<w c="adverb" e="пожалуйста" i="411" m="please" t="adv" />
+<w c="adverb" e="может быть" i="412" m="possibly" t="adv" />
+<w c="adverb" e="лучше" i="413" m="preferably" t="adv" />
+<w c="adverb" e="вероятно" i="414" m="probably" t="adv" />
+<w c="adverb" e="быстро" i="415" m="quickly" t="adv" />
+<w c="adverb" e="довольно" i="416" m="quite" t="adv" />
+<w c="adverb" e="действительно" i="417" m="really" t="adv" />
+<w c="adverb" e="всерьёз" i="418" m="really" t="adv" />
+<w c="adverb" e="недавно" i="419" m="recently" t="adv" />
+<w c="adverb" e="просто; только" i="420" m="simply" t="adv" />
+<w c="adverb" e="медленно" i="421" m="slowly" t="adv" />
+<w c="adverb" e="так; таким образом" i="422" m="so" t="adv" />
+<w c="adverb" e="иногда" i="423" m="sometimes" t="adv" />
+<w c="adverb" e="скоро" i="424" m="soon" t="adv" />
+<w c="adverb" e="постоянно" i="425" m="still" t="adv" />
+<w c="adverb" e="такой" i="426" m="such" t="adv" />
+<w c="adverb" e="вдруг" i="427" m="suddenly" t="adv" />
+<w c="adverb" e="непременно" i="428" m="surely" t="adv" />
+<w c="adverb" e="потом; после" i="429" m="then" t="adv" />
+<w c="adverb" e="там" i="430" m="there" t="adv" />
+<w c="adverb" e="поэтому" i="431" m="therefore" t="adv" />
+<w c="adverb" e="насквозь" i="432" m="through" t="adv" />
+<w c="adverb" e="сегодня" i="433" m="today" t="adv" />
+<w c="adverb" e="вместе" i="434" m="together" t="adv" />
+<w c="adverb" e="завтра" i="435" m="tomorrow" t="adv" />
+<w c="adverb" e="сегодня вечером" i="436" m="tonight" t="adv" />
+<w c="adverb" e="tакже; тоже" i="437" m="too" t="adv" />
+<w c="adverb" e="вверх" i="438" m="up" t="adv" />
+<w c="adverb" e="обычно" i="439" m="usually" t="adv" />
+<w c="adverb" e="очень" i="440" m="very" t="adv" />
+<w c="adverb" e="хорошо" i="441" m="well" t="adv" />
+<w c="adverb" e="почему" i="442" m="why" t="adv" />
+<w c="anatomy" e="рука" i="443" m="arm" t="noun" />
+<w c="anatomy" e="большой чан; спина" i="444" m="back" t="noun" />
+<w c="anatomy" e="клюв" i="445" m="beak" t="noun" />
+<w c="anatomy" e="кровь" i="446" m="blood" t="noun" />
+<w c="anatomy" e="торс" i="447" m="body" t="noun" />
+<w c="anatomy" e="кость" i="448" m="bone" t="noun" />
+<w c="anatomy" e="мозг" i="449" m="brain" t="noun" />
+<w c="anatomy" e="дыхание" i="450" m="breath" t="noun" />
+<w c="anatomy" e="ячейка; клетка" i="451" m="cell" t="noun" />
+<w c="anatomy" e="грудь" i="452" m="chest" t="noun" />
+<w c="anatomy" e="грудная клетка; грудь" i="453" m="chest" t="noun" />
+<w c="anatomy" e="подбородок" i="454" m="chin" t="noun" />
+<w c="anatomy" e="ухо" i="455" m="ear" t="noun" />
+<w c="anatomy" e="глаз" i="456" m="eye" t="noun" />
+<w c="anatomy" e="лицо" i="457" m="face" t="noun" />
+<w c="anatomy" e="палец" i="458" m="finger" t="noun" />
+<w c="anatomy" e="подошва" i="459" m="foot" t="noun" />
+<w c="anatomy" e="лоб; чело" i="460" m="forehead" t="noun" />
+<w c="anatomy" e="ген" i="461" m="gene" t="noun" />
+<w c="anatomy" e="волосы" i="462" m="hair" t="noun" />
+<w c="anatomy" e="волос; ворс" i="463" m="hair" t="noun" />
+<w c="anatomy" e="рука" i="464" m="hand" t="noun" />
+<w c="anatomy" e="голова" i="465" m="head" t="noun" />
+<w c="anatomy" e="сердце" i="466" m="heart" t="noun" />
+<w c="anatomy" e="колено" i="467" m="knee" t="noun" />
+<w c="anatomy" e="нога" i="468" m="leg" t="noun" />
+<w c="anatomy" e="губа" i="469" m="lip" t="noun" />
+<w c="anatomy" e="уста; рот" i="470" m="mouth" t="noun" />
+<w c="anatomy" e="мускул; мышца" i="471" m="muscle" t="noun" />
+<w c="anatomy" e="ноготь" i="472" m="nail" t="noun" />
+<w c="anatomy" e="шея; горло" i="473" m="neck" t="noun" />
+<w c="anatomy" e="нерв" i="474" m="nerve" t="noun" />
+<w c="anatomy" e="нос" i="475" m="nose" t="noun" />
+<w c="anatomy" e="кожа" i="476" m="skin" t="noun" />
+<w c="anatomy" e="желудок" i="477" m="stomach" t="noun" />
+<w c="anatomy" e="хвост" i="478" m="tail" t="noun" />
+<w c="anatomy" e="глотка; зев; горло" i="479" m="throat" t="noun" />
+<w c="anatomy" e="большой палец" i="480" m="thumb" t="noun" />
+<w c="anatomy" e="палец на ноге" i="481" m="toe" t="noun" />
+<w c="anatomy" e="язык" i="482" m="tongue" t="noun" />
+<w c="anatomy" e="зуб" i="483" m="tooth" t="noun" />
+<w c="anatomy" e="крыло" i="484" m="wing" t="noun" />
+<w c="animals" e="муравей" i="485" m="ant" t="noun" />
+<w c="animals" e="медведь" i="486" m="bear" t="noun" />
+<w c="animals" e="пчела" i="487" m="bee" t="noun" />
+<w c="animals" e="птица" i="488" m="bird" t="noun" />
+<w c="animals" e="кот; кошка" i="489" m="cat" t="noun" />
+<w c="animals" e="корова" i="490" m="cow" t="noun" />
+<w c="animals" e="собака" i="491" m="dog" t="noun" />
+<w c="animals" e="слон" i="492" m="elephant" t="noun" />
+<w c="animals" e="рыба" i="493" m="fish" t="noun" />
+<w c="animals" e="муха" i="494" m="fly" t="noun" />
+<w c="animals" e="козёл; коза" i="495" m="goat" t="noun" />
+<w c="animals" e="лошадь;  конь" i="496" m="horse" t="noun" />
+<w c="animals" e="насекомые" i="497" m="insect" t="noun" />
+<w c="animals" e="лев" i="498" m="lion" t="noun" />
+<w c="animals" e="обезьяна" i="499" m="monkey" t="noun" />
+<w c="animals" e="свинья" i="500" m="pig" t="noun" />
+<w c="animals" e="овца" i="501" m="sheep" t="noun" />
+<w c="animals" e="змея" i="502" m="snake" t="noun" />
+<w c="art" e="искусство" i="503" m="art" t="n" />
+<w c="art" e="оркестр" i="504" m="band" t="n" />
+<w c="art" e="краска" i="505" m="color" t="n" />
+<w c="art" e="концерт" i="506" m="concert" t="n" />
+<w c="art" e="разнообразность; разнообразие; пестрота" i="507" m="diversity" t="n" />
+<w c="art" e="веселье; развлечение; забава; увеселение" i="508" m="entertainment" t="n" />
+<w c="art" e="хит" i="509" m="hit" t="n" />
+<w c="art" e="имидж" i="510" m="image" t="n" />
+<w c="art" e="фильм; кинокартина" i="511" m="movie" t="n" />
+<w c="art" e="музыка" i="512" m="music" t="n" />
+<w c="art" e="нота" i="513" m="note" t="n" />
+<w c="art" e="оркестр" i="514" m="orchestra" t="n" />
+<w c="art" e="краска" i="515" m="paint" t="n" />
+<w c="art" e="картина" i="516" m="painting" t="n" />
+<w c="art" e="изображение" i="517" m="picture" t="n" />
+<w c="art" e="стихотворение; поэма" i="518" m="poem" t="n" />
+<w c="art" e="поэзия" i="519" m="poetry" t="n" />
+<w c="art" e="ритм" i="520" m="rhythm" t="n" />
+<w c="art" e="песня" i="521" m="song" t="n" />
+<w c="art" e="сцена" i="522" m="stage" t="n" />
+<w c="art" e="стиль" i="523" m="style" t="n" />
+<w c="art" e="мода" i="524" m="vogue" t="n" />
+<w c="society" e="конституция" i="525" m="constitution" t="" />
+<w c="business" e="счёт" i="526" m="account" t="n" />
+<w c="business" e="преимущество" i="527" m="advantage" t="n" />
+<w c="business" e="пропаганда; реклама; объявление" i="528" m="advertisement" t="n" />
+<w c="business" e="совет" i="529" m="advice" t="n" />
+<w c="business" e="соглашение; договор;контракт; урегулирование" i="530" m="agreement" t="n" />
+<w c="business" e="внимание" i="531" m="attention" t="n" />
+<w c="business" e="авторитет" i="532" m="authority" t="n" />
+<w c="business" e="банкнот; кредитный билет" i="533" m="banknote" t="n" />
+<w c="business" e="сделка" i="534" m="bargain" t="n" />
+<w c="business" e="марка" i="535" m="brand" t="n" />
+<w c="business" e="коммерция; бизнес" i="536" m="business" t="n" />
+<w c="business" e="предприниматель" i="537" m="businesswoman" t="n" />
+<w c="business" e="капитал" i="538" m="capital" t="n" />
+<w c="business" e="мелочь" i="539" m="change" t="n" />
+<w c="business" e="чек" i="540" m="check" t="n" />
+<w c="business" e="комитет; комиссия" i="541" m="committee" t="n" />
+<w c="business" e="предприятие" i="542" m="company" t="n" />
+<w c="business" e="конкуренция; соревнование" i="543" m="competition" t="n" />
+<w c="business" e="нарекание" i="544" m="complaint" t="n" />
+<w c="business" e="соревнование; состязание" i="545" m="contest" t="n" />
+<w c="business" e="контракт" i="546" m="contract" t="n" />
+<w c="business" e="копия" i="547" m="copy" t="n" />
+<w c="business" e="расход" i="548" m="cost" t="n" />
+<w c="business" e="совет" i="549" m="council" t="n" />
+<w c="business" e="курс" i="550" m="course" t="n" />
+<w c="business" e="покупатель; заказчик; клиент" i="551" m="customer" t="n" />
+<w c="business" e="потребность" i="552" m="demand" t="n" />
+<w c="business" e="отделение" i="553" m="department" t="n" />
+<w c="business" e="проект" i="554" m="design" t="n" />
+<w c="business" e="трудность" i="555" m="difficulty" t="n" />
+<w c="business" e="направление" i="556" m="direction" t="n" />
+<w c="business" e="директор" i="557" m="director" t="n" />
+<w c="business" e="хозяйство; экономика" i="558" m="economy" t="n" />
+<w c="business" e="окружение" i="559" m="environment" t="n" />
+<w c="business" e="опыт" i="560" m="experience" t="n" />
+<w c="business" e="фирма; торговый дом" i="561" m="firm" t="n" />
+<w c="business" e="формуляр" i="562" m="form" t="n" />
+<w c="business" e="группа" i="563" m="group" t="n" />
+<w c="business" e="помощь; содействие" i="564" m="help" t="n" />
+<w c="business" e="каникулы" i="565" m="holiday" t="n" />
+<w c="business" e="оклад; заработок; плата" i="566" m="income" t="n" />
+<w c="business" e="промышленность" i="567" m="industry" t="n" />
+<w c="business" e="страховка" i="568" m="insurance" t="n" />
+<w c="business" e="процент" i="569" m="interest" t="n" />
+<w c="business" e="фактура; счёт" i="570" m="invoice" t="n" />
+<w c="business" e="дело; труда; работа" i="571" m="job" t="n" />
+<w c="business" e="закон" i="572" m="law" t="n" />
+<w c="business" e="отпуск" i="573" m="leave" t="n" />
+<w c="business" e="утрата; пропадание; урон" i="574" m="loss" t="n" />
+<w c="business" e="руководство; предводительство" i="575" m="management" t="n" />
+<w c="business" e="марка" i="576" m="marker" t="n" />
+<w c="business" e="рынок; базар" i="577" m="market" t="n" />
+<w c="business" e="материал" i="578" m="material" t="n" />
+<w c="business" e="среднее" i="579" m="mean" t="n" />
+<w c="business" e="встреча" i="580" m="meeting" t="n" />
+<w c="business" e="деньги" i="581" m="money" t="n" />
+<w c="business" e="профессия; работа" i="582" m="occupation" t="n" />
+<w c="business" e="предложение" i="583" m="offer" t="n" />
+<w c="business" e="офис; контора; канцелярия" i="584" m="office" t="n" />
+<w c="business" e="чиновник" i="585" m="officer" t="n" />
+<w c="business" e="операция" i="586" m="operation" t="n" />
+<w c="business" e="собственник; владелец; обладатель" i="587" m="owner" t="n" />
+<w c="business" e="пакет" i="588" m="package" t="n" />
+<w c="business" e="секция; отделение" i="589" m="part" t="n" />
+<w c="business" e="плата; платёж; уплата" i="590" m="payment" t="n" />
+<w c="business" e="план" i="591" m="plan" t="n" />
+<w c="business" e="стоимость; цена" i="592" m="price" t="n" />
+<w c="business" e="проблема" i="593" m="problem" t="n" />
+<w c="business" e="продукт" i="594" m="product" t="n" />
+<w c="business" e="прибыль; нажива" i="595" m="profit" t="n" />
+<w c="business" e="имущество" i="596" m="property" t="n" />
+<w c="business" e="расценка; тариф" i="597" m="rate" t="n" />
+<w c="business" e="остаток" i="598" m="rest" t="n" />
+<w c="business" e="право" i="599" m="right" t="n" />
+<w c="business" e="продажа; сбыт" i="600" m="sale" t="n" />
+<w c="business" e="секция; участок" i="601" m="section" t="n" />
+<w c="business" e="услуга" i="602" m="service" t="n" />
+<w c="business" e="акция" i="603" m="share" t="n" />
+<w c="business" e="лавка; магазин" i="604" m="shop" t="n" />
+<w c="business" e="шоу" i="605" m="show" t="n" />
+<w c="business" e="искусство" i="606" m="skill" t="n" />
+<w c="business" e="персонал" i="607" m="staff" t="n" />
+<w c="business" e="структура" i="608" m="structure" t="n" />
+<w c="business" e="успех" i="609" m="success" t="n" />
+<w c="business" e="поддержка; опора" i="610" m="support" t="n" />
+<w c="business" e="таблица" i="611" m="table" t="n" />
+<w c="business" e="налогообложение; налог" i="612" m="tax" t="n" />
+<w c="business" e="команда" i="613" m="team" t="n" />
+<w c="business" e="занятие; торговля" i="614" m="trade" t="n" />
+<w c="business" e="ценность" i="615" m="value" t="n" />
+<w c="business" e="оплата" i="616" m="wages" t="n" />
+<w c="business" e="работа" i="617" m="work" t="n" />
+<w c="business" e="рабочий" i="618" m="worker" t="n" />
+<w c="city" e="аэродром; аэропорт" i="619" m="airport" t="n" />
+<w c="city" e="банк" i="620" m="bank" t="n" />
+<w c="city" e="мост" i="621" m="bridge" t="n" />
+<w c="city" e="здание" i="622" m="building" t="n" />
+<w c="city" e="столица" i="623" m="capital" t="n" />
+<w c="city" e="замок; кремль" i="624" m="castle" t="n" />
+<w c="city" e="церковь; храм" i="625" m="church" t="n" />
+<w c="city" e="кино; кинотеатр" i="626" m="cinema" t="n" />
+<w c="city" e="мегаполис" i="627" m="city" t="n" />
+<w c="city" e="завод" i="628" m="factory" t="n" />
+<w c="city" e="квартира" i="629" m="flat" t="n" />
+<w c="city" e="больница" i="630" m="hospital" t="n" />
+<w c="city" e="гостиница; отель" i="631" m="hotel" t="n" />
+<w c="city" e="библиотека" i="632" m="library" t="n" />
+<w c="city" e="музей" i="633" m="museum" t="n" />
+<w c="city" e="парк; сад" i="634" m="park" t="n" />
+<w c="city" e="тюрьма; заточение" i="635" m="prison" t="n" />
+<w c="city" e="ресторан" i="636" m="restaurant" t="n" />
+<w c="city" e="дорога; путь" i="637" m="road" t="n" />
+<w c="city" e="школа" i="638" m="school" t="n" />
+<w c="city" e="станция" i="639" m="station" t="n" />
+<w c="city" e="улица" i="640" m="street" t="n" />
+<w c="city" e="стройка" i="641" m="structure" t="n" />
+<w c="city" e="метро" i="642" m="subway" t="n" />
+<w c="city" e="супермаркет; универсам" i="643" m="supermarket" t="n" />
+<w c="city" e="театр" i="644" m="theater" t="n" />
+<w c="city" e="город" i="645" m="town" t="n" />
+<w c="city" e="университет; вуз" i="646" m="university" t="n" />
+<w c="city" e="деревня" i="647" m="village" t="n" />
+<w c="clothes" e="сумка; сумочка" i="648" m="bag" t="n" />
+<w c="clothes" e="ботинок" i="649" m="boot" t="n" />
+<w c="clothes" e="ткань" i="650" m="cloth" t="n" />
+<w c="clothes" e="одежда" i="651" m="clothing" t="n" />
+<w c="clothes" e="пальто; пиджак" i="652" m="coat" t="n" />
+<w c="clothes" e="воротник; туфля" i="653" m="collar" t="n" />
+<w c="clothes" e="шляпа" i="654" m="hat" t="n" />
+<w c="clothes" e="куртка; пиджак" i="655" m="jacket" t="n" />
+<w c="clothes" e="драгоценность" i="656" m="jewel" t="n" />
+<w c="clothes" e="кольцо" i="657" m="ring" t="n" />
+<w c="clothes" e="рубашка" i="658" m="shirt" t="n" />
+<w c="clothes" e="ботинок" i="659" m="shoe" t="n" />
+<w c="clothes" e="юбка" i="660" m="skirt" t="n" />
+<w c="clothes" e="носок; гольфы = чулки до колен" i="661" m="sock" t="n" />
+<w c="clothes" e="чемодан" i="662" m="suitcase" t="n" />
+<w c="clothes" e="галстук" i="663" m="tie" t="n" />
+<w c="colors" e="чёрный" i="664" m="black" t="adj" />
+<w c="colors" e="голубой" i="665" m="blue" t="adj" />
+<w c="colors" e="коричневый" i="666" m="brown" t="adj" />
+<w c="colors" e="серый" i="667" m="gray" t="adj" />
+<w c="colors" e="зелёный" i="668" m="green" t="adj" />
+<w c="colors" e="оранжевый" i="669" m="orange" t="adj" />
+<w c="colors" e="розоватый; розовый" i="670" m="pink" t="adj" />
+<w c="colors" e="красный" i="671" m="red" t="adj" />
+<w c="colors" e="фиолетовый; тёмно-лиловый" i="672" m="violet" t="adj" />
+<w c="colors" e="белый" i="673" m="white" t="adj" />
+<w c="colors" e="жёлтый" i="674" m="yellow" t="adj" />
+<w c="communication" e="провозглашение; объявление" i="675" m="announcement" t="n" />
+<w c="communication" e="ответ" i="676" m="answer" t="n" />
+<w c="communication" e="одобрение; согласие" i="677" m="approval" t="n" />
+<w c="communication" e="спор" i="678" m="argument" t="n" />
+<w c="communication" e="аргумент" i="679" m="argument" t="n" />
+<w c="communication" e="книга" i="680" m="book" t="n" />
+<w c="communication" e="звонок; зов; оклик" i="681" m="call" t="n" />
+<w c="communication" e="знак" i="682" m="character" t="n" />
+<w c="communication" e="крик; возглас" i="683" m="cry" t="n" />
+<w c="communication" e="сведениe; информация" i="684" m="data" t="n" />
+<w c="communication" e="заключение; решение" i="685" m="decision" t="n" />
+<w c="communication" e="словарь" i="686" m="dictionary" t="n" />
+<w c="communication" e="диспут; прения; беседа" i="687" m="discussion" t="n" />
+<w c="communication" e="сомнение; неуверенность" i="688" m="doubt" t="n" />
+<w c="communication" e="впечатление" i="689" m="experience" t="n" />
+<w c="communication" e="вид; взгляд" i="690" m="expression" t="n" />
+<w c="communication" e="ощущение" i="691" m="feeling" t="n" />
+<w c="communication" e="юмор" i="692" m="humor" t="n" />
+<w c="communication" e="мысль" i="693" m="idea" t="n" />
+<w c="communication" e="сведениe; информация" i="694" m="information" t="n" />
+<w c="communication" e="интерес" i="695" m="interest" t="n" />
+<w c="communication" e="разговор; беседа; диалог" i="696" m="interview" t="n" />
+<w c="communication" e="язык" i="697" m="language" t="n" />
+<w c="communication" e="язык" i="698" m="language" t="n" />
+<w c="communication" e="буква" i="699" m="letter" t="n" />
+<w c="communication" e="письмо" i="700" m="letter" t="n" />
+<w c="communication" e="ложь" i="701" m="lie" t="n" />
+<w c="communication" e="журнал" i="702" m="magazine" t="n" />
+<w c="communication" e="почта" i="703" m="mail" t="n" />
+<w c="communication" e="воспоминание" i="704" m="memory" t="n" />
+<w c="communication" e="память" i="705" m="memory" t="n" />
+<w c="communication" e="ошибка" i="706" m="mistake" t="n" />
+<w c="communication" e="имя" i="707" m="name" t="n" />
+<w c="communication" e="газета" i="708" m="newspaper" t="n" />
+<w c="communication" e="заметка" i="709" m="note" t="n" />
+<w c="communication" e="количество; число" i="710" m="number" t="n" />
+<w c="communication" e="мнение; суждение" i="711" m="opinion" t="n" />
+<w c="communication" e="страница" i="712" m="page" t="n" />
+<w c="communication" e="точка" i="713" m="point" t="n" />
+<w c="communication" e="произношение" i="714" m="pronunciation" t="n" />
+<w c="communication" e="предложение" i="715" m="proposal" t="n" />
+<w c="communication" e="протест" i="716" m="protest" t="n" />
+<w c="communication" e="вопрос" i="717" m="question" t="n" />
+<w c="communication" e="реакция" i="718" m="reaction" t="n" />
+<w c="communication" e="основание; мотив" i="719" m="reason" t="n" />
+<w c="communication" e="соотношение" i="720" m="relation" t="n" />
+<w c="communication" e="просьба" i="721" m="request" t="n" />
+<w c="communication" e="секрет; тайна" i="722" m="secret" t="n" />
+<w c="communication" e="предложение" i="723" m="sentence" t="n" />
+<w c="communication" e="конфигурация, форма" i="724" m="shape" t="n" />
+<w c="communication" e="знак" i="725" m="sign" t="n" />
+<w c="communication" e="язык" i="726" m="speech" t="n" />
+<w c="communication" e="правописание; орфография" i="727" m="spelling" t="n" />
+<w c="communication" e="критерий" i="728" m="standard" t="n" />
+<w c="communication" e="утверждения" i="729" m="statement" t="n" />
+<w c="communication" e="сюжет; тема" i="730" m="subject" t="n" />
+<w c="communication" e="проект" i="731" m="suggestion" t="n" />
+<w c="communication" e="голос" i="732" m="voice" t="n" />
+<w c="communication" e="слово" i="733" m="word" t="n" />
+<w c="communication" e="почерк" i="734" m="writing" t="n" />
+<w c="conjunction" e="и" i="735" m="and" t="conj" />
+<w c="conjunction" e="потому что" i="736" m="because" t="conj" />
+<w c="conjunction" e="так как" i="737" m="for" t="conj" />
+<w c="conjunction" e="если" i="738" m="if" t="conj" />
+<w c="conjunction" e="или" i="739" m="or" t="conj" />
+<w c="conjunction" e="чем" i="740" m="than" t="conj" />
+<w c="conjunction" e="до" i="741" m="until" t="conj" />
+<w c="containers" e="мешок" i="742" m="bag" t="n" />
+<w c="containers" e="корзина" i="743" m="basket" t="n" />
+<w c="containers" e="бутылка" i="744" m="bottle" t="n" />
+<w c="containers" e="коробка" i="745" m="box" t="n" />
+<w c="containers" e="консерва" i="746" m="can" t="n" />
+<w c="containers" e="чашка" i="747" m="cup" t="n" />
+<w c="containers" e="стакан" i="748" m="glass" t="n" />
+<w c="containers" e="тарелка" i="749" m="plate" t="n" />
+<w c="conversation" e="не знаю" i="750" m="I don't know" t="" />
+<w c="conversation" e="не понимаю" i="751" m="I don't understand" t="" />
+<w c="conversation" e="за ваше здоровье" i="752" m="cheers" t="" />
+<w c="conversation" e="Вы говорите по-английски" i="753" m="do you speak English" t="" />
+<w c="conversation" e="добрый день" i="754" m="good day" t="" />
+<w c="conversation" e="удачи" i="755" m="good luck" t="" />
+<w c="conversation" e="с днём рождения" i="756" m="happy birthday" t="" />
+<w c="conversation" e="привет" i="757" m="hello" t="" />
+<w c="conversation" e="как дела" i="758" m="how are you" t="" />
+<w c="conversation" e="сколько это стоит" i="759" m="how much is it" t="" />
+<w c="conversation" e="большое спасибо" i="760" m="many thanks" t="" />
+<w c="conversation" e="меня зовут" i="761" m="my name is" t="" />
+<w c="conversation" e="нет" i="762" m="no" t="" />
+<w c="conversation" e="простить" i="763" m="sorry" t="" />
+<w c="conversation" e="прошу прощения" i="764" m="sorry" t="" />
+<w c="conversation" e="большое спасибо" i="765" m="thank you very much" t="" />
+<w c="conversation" e="да" i="766" m="yes" t="" />
+<w c="conversation" e="не за что" i="767" m="you're welcome" t="" />
+<w c="countries" e="китай" i="768" m="China" t="n" />
+<w c="countries" e="Чехия; Чешская Республика" i="769" m="Czech Republic" t="n" />
+<w c="countries" e="Франция" i="770" m="France" t="n" />
+<w c="countries" e="Германия" i="771" m="Germany" t="n" />
+<w c="countries" e="Индия" i="772" m="India" t="n" />
+<w c="countries" e="Италия" i="773" m="Italy" t="n" />
+<w c="countries" e="Япония" i="774" m="Japan" t="n" />
+<w c="countries" e="Испания" i="775" m="Spain" t="n" />
+<w c="countries" e="Англия; Великобритания" i="776" m="United Kingdom" t="n" />
+<w c="countries" e="США; Соединенные Штаты Америки" i="777" m="United States" t="n" />
+<w c="devices" e="фотоаппарат" i="778" m="camera" t="n" />
+<w c="devices" e="мобильный телефон; мобильник" i="779" m="cellphone" t="n" />
+<w c="devices" e="часы" i="780" m="clock" t="n" />
+<w c="devices" e="компьютер" i="781" m="computer" t="n" />
+<w c="devices" e="лифт" i="782" m="elevator" t="n" />
+<w c="devices" e="двигатель" i="783" m="engine" t="n" />
+<w c="devices" e="инструмент; орудие" i="784" m="instrument" t="n" />
+<w c="devices" e="станок" i="785" m="machine" t="n" />
+<w c="devices" e="печь" i="786" m="oven" t="n" />
+<w c="devices" e="телевизор" i="787" m="television" t="n" />
+<w c="devices" e="камера" i="788" m="television camera" t="n" />
+<w c="devices" e="часы" i="789" m="watch" t="n" />
+<w c="drinks" e="пиво" i="790" m="beer" t="n" />
+<w c="drinks" e="кофе" i="791" m="coffee" t="n" />
+<w c="drinks" e="напиток" i="792" m="drink" t="n" />
+<w c="drinks" e="молоко" i="793" m="milk" t="n" />
+<w c="drinks" e="коктейль" i="794" m="milkshake" t="n" />
+<w c="drinks" e="чай" i="795" m="tea" t="n" />
+<w c="drinks" e="вода" i="796" m="water" t="n" />
+<w c="drinks" e="вино" i="797" m="wine" t="n" />
+<w c="education" e="ранг; класс" i="798" m="class" t="n" />
+<w c="education" e="образование" i="799" m="education" t="n" />
+<w c="education" e="воспитание" i="800" m="education" t="n" />
+<w c="education" e="образование" i="801" m="education" t="n" />
+<w c="education" e="экзамен" i="802" m="examination" t="n" />
+<w c="education" e="отметка" i="803" m="grade" t="n" />
+<w c="education" e="знание" i="804" m="knowledge" t="n" />
+<w c="education" e="студент; ученик" i="805" m="student" t="n" />
+<w c="education" e="учитель" i="806" m="teacher" t="n" />
+<w c="education" e="обучение" i="807" m="training" t="n" />
+<w c="environment" e="кислотный дождь" i="808" m="acid rain" t="n" />
+<w c="environment" e="атмосфера" i="809" m="atmosphere" t="n" />
+<w c="environment" e="изменение климата" i="810" m="climate change" t="n" />
+<w c="environment" e="свалка; груда хлама" i="811" m="dump" t="n" />
+<w c="environment" e="экология" i="812" m="ecology" t="n" />
+<w c="environment" e="среда; окружающая среда" i="813" m="environment" t="n" />
+<w c="environment" e="ископаемое топливо" i="814" m="fossil fuel" t="n" />
+<w c="environment" e="глобальное потепление" i="815" m="global warming" t="n" />
+<w c="environment" e="парниковый эффект" i="816" m="greenhouse effect" t="n" />
+<w c="environment" e="шахта" i="817" m="mine" t="n" />
+<w c="environment" e="озон" i="818" m="ozone" t="n" />
+<w c="environment" e="загрязнение" i="819" m="pollution" t="n" />
+<w c="environment" e="вторичное сырьё" i="820" m="recycling" t="n" />
+<w c="environment" e="смог" i="821" m="smog" t="n" />
+<w c="environment" e="отходы" i="822" m="waste" t="n" />
+<w c="family" e="ребёнок" i="823" m="baby" t="n" />
+<w c="family" e="рождение" i="824" m="birth" t="n" />
+<w c="family" e="день рождения" i="825" m="birthday" t="n" />
+<w c="family" e="мальчик; парень" i="826" m="boy" t="n" />
+<w c="family" e="брат" i="827" m="brother" t="n" />
+<w c="family" e="ребёнок" i="828" m="child" t="n" />
+<w c="family" e="дочь" i="829" m="daughter" t="n" />
+<w c="family" e="смерть" i="830" m="death" t="n" />
+<w c="family" e="семья" i="831" m="family" t="n" />
+<w c="family" e="папа; отец" i="832" m="father" t="n" />
+<w c="family" e="друг" i="833" m="friend" t="n" />
+<w c="family" e="девушка; девочка" i="834" m="girl" t="n" />
+<w c="family" e="дедушка" i="835" m="grandfather" t="n" />
+<w c="family" e="лицо; человек" i="836" m="human" t="n" />
+<w c="family" e="муж" i="837" m="husband" t="n" />
+<w c="family" e="жизнь" i="838" m="life" t="n" />
+<w c="family" e="мужчина; человек" i="839" m="man" t="n" />
+<w c="family" e="брак" i="840" m="marriage" t="n" />
+<w c="family" e="мамочка" i="841" m="mother" t="n" />
+<w c="family" e="сосед" i="842" m="neighbor" t="n" />
+<w c="family" e="родитель" i="843" m="parent" t="n" />
+<w c="family" e="лицо; человек" i="844" m="person" t="n" />
+<w c="family" e="родство" i="845" m="relationship" t="n" />
+<w c="family" e="сестра" i="846" m="sister" t="n" />
+<w c="family" e="сын" i="847" m="son" t="n" />
+<w c="family" e="брак" i="848" m="wedding" t="n" />
+<w c="family" e="брак" i="849" m="wedding" t="n" />
+<w c="family" e="жена" i="850" m="wife" t="n" />
+<w c="family" e="женщина" i="851" m="woman" t="n" />
+<w c="feelings" e="страх" i="852" m="fear" t="n" />
+<w c="feelings" e="ненависть" i="853" m="hate" t="n" />
+<w c="feelings" e="любовь" i="854" m="love" t="n" />
+<w c="feelings" e="удовольствие" i="855" m="pleasure" t="n" />
+<w c="feelings" e="надежда" i="856" m="promise" t="n" />
+<w c="food" e="хлеб" i="857" m="bread" t="n" />
+<w c="food" e="завтрак" i="858" m="breakfast" t="n" />
+<w c="food" e="масло" i="859" m="butter" t="n" />
+<w c="food" e="сладкое; пирожное" i="860" m="cake" t="n" />
+<w c="food" e="сыр" i="861" m="cheese" t="n" />
+<w c="food" e="шоколад" i="862" m="chocolate" t="n" />
+<w c="food" e="кубок" i="863" m="cup" t="n" />
+<w c="food" e="яйцо" i="864" m="egg" t="n" />
+<w c="food" e="блюдо; питание" i="865" m="food" t="n" />
+<w c="food" e="вилка" i="866" m="fork" t="n" />
+<w c="food" e="фрукты" i="867" m="fruit" t="n" />
+<w c="food" e="нож" i="868" m="knife" t="n" />
+<w c="food" e="обед" i="869" m="lunch" t="n" />
+<w c="food" e="блюдо; еда" i="870" m="meal" t="n" />
+<w c="food" e="мясо" i="871" m="meat" t="n" />
+<w c="food" e="масло" i="872" m="oil" t="n" />
+<w c="food" e="салат" i="873" m="salad" t="n" />
+<w c="food" e="соль" i="874" m="salt" t="n" />
+<w c="food" e="сандвич; бутерброд" i="875" m="sandwich" t="n" />
+<w c="food" e="соус" i="876" m="sauce" t="n" />
+<w c="food" e="суп" i="877" m="soup" t="n" />
+<w c="food" e="ложка" i="878" m="spoon" t="n" />
+<w c="food" e="сахар" i="879" m="sugar" t="n" />
+<w c="food" e="сладость" i="880" m="sweet" t="n" />
+<w c="fruits" e="яблоко" i="881" m="apple" t="n" />
+<w c="fruits" e="абрикос" i="882" m="apricot" t="n" />
+<w c="fruits" e="банан" i="883" m="banana" t="n" />
+<w c="fruits" e="ежевика" i="884" m="blackberry" t="n" />
+<w c="fruits" e="вишня" i="885" m="cherry" t="n" />
+<w c="fruits" e="лимон" i="886" m="lemon" t="n" />
+<w c="fruits" e="орех" i="887" m="nut" t="n" />
+<w c="fruits" e="апельсин" i="888" m="orange" t="n" />
+<w c="fruits" e="персик" i="889" m="peach" t="n" />
+<w c="fruits" e="груша" i="890" m="pear" t="n" />
+<w c="fruits" e="ананас" i="891" m="pineapple" t="n" />
+<w c="fruits" e="слива" i="892" m="plum" t="n" />
+<w c="fruits" e="малина" i="893" m="raspberry" t="n" />
+<w c="fruits" e="земляника" i="894" m="strawberry" t="n" />
+<w c="furniture" e="кровать; постель" i="895" m="bed" t="n" />
+<w c="furniture" e="ковёр" i="896" m="carpet" t="n" />
+<w c="furniture" e="стул" i="897" m="chair" t="n" />
+<w c="furniture" e="шкаф" i="898" m="cupboard" t="n" />
+<w c="furniture" e="занавеска" i="899" m="curtain" t="n" />
+<w c="furniture" e="письменный стол" i="900" m="desk" t="n" />
+<w c="furniture" e="ящик" i="901" m="drawer" t="n" />
+<w c="furniture" e="кресло" i="902" m="seat" t="n" />
+<w c="furniture" e="полка" i="903" m="shelf" t="n" />
+<w c="furniture" e="лохань" i="904" m="sink" t="n" />
+<w c="furniture" e="стол" i="905" m="table" t="n" />
+<w c="geography" e="Земля" i="906" m="Earth" t="n" />
+<w c="geography" e="месяц" i="907" m="Moon" t="n" />
+<w c="geography" e="берег" i="908" m="bank" t="n" />
+<w c="geography" e="пляж" i="909" m="beach" t="n" />
+<w c="geography" e="выход" i="910" m="east" t="n" />
+<w c="geography" e="взгорье; холм" i="911" m="hill" t="n" />
+<w c="geography" e="остров" i="912" m="island" t="n" />
+<w c="geography" e="озеро" i="913" m="lake" t="n" />
+<w c="geography" e="земля; почва" i="914" m="land" t="n" />
+<w c="geography" e="карта" i="915" m="map" t="n" />
+<w c="geography" e="север" i="916" m="north" t="n" />
+<w c="geography" e="равнина" i="917" m="plain" t="n" />
+<w c="geography" e="район" i="918" m="region" t="n" />
+<w c="geography" e="река" i="919" m="river" t="n" />
+<w c="geography" e="море" i="920" m="sea" t="n" />
+<w c="geography" e="юг" i="921" m="south" t="n" />
+<w c="geography" e="космос" i="922" m="space" t="n" />
+<w c="geography" e="звезда" i="923" m="star" t="n" />
+<w c="geography" e="солнце" i="924" m="sun" t="n" />
+<w c="geography" e="запад" i="925" m="west" t="n" />
+<w c="house" e="адрес" i="926" m="address" t="n" />
+<w c="house" e="ванная" i="927" m="bathroom" t="n" />
+<w c="house" e="спальня" i="928" m="bedroom" t="n" />
+<w c="house" e="кирпич" i="929" m="brick" t="n" />
+<w c="house" e="дверь; створка" i="930" m="door" t="n" />
+<w c="house" e="настил; пол" i="931" m="floor" t="n" />
+<w c="house" e="этаж" i="932" m="floor" t="n" />
+<w c="house" e="мебель" i="933" m="furniture" t="n" />
+<w c="house" e="гараж" i="934" m="garage" t="n" />
+<w c="house" e="сад" i="935" m="garden" t="n" />
+<w c="house" e="ворота; калитка" i="936" m="gate" t="n" />
+<w c="house" e="прихожая; вестибюль; передняя" i="937" m="hall" t="n" />
+<w c="house" e="жилище; дом" i="938" m="home" t="n" />
+<w c="house" e="дом" i="939" m="house" t="n" />
+<w c="house" e="кухня" i="940" m="kitchen" t="n" />
+<w c="house" e="крыша" i="941" m="roof" t="n" />
+<w c="house" e="комната" i="942" m="room" t="n" />
+<w c="house" e="душ" i="943" m="shower" t="n" />
+<w c="house" e="ступень" i="944" m="step" t="n" />
+<w c="house" e="уборная; туалет" i="945" m="toilet" t="n" />
+<w c="house" e="стена" i="946" m="wall" t="n" />
+<w c="house" e="колодец" i="947" m="well" t="n" />
+<w c="house" e="окно" i="948" m="window" t="n" />
+<w c="languages" e="китайский язык" i="949" m="Chinese" t="n" />
+<w c="languages" e="английский язык" i="950" m="English" t="n" />
+<w c="languages" e="французский язык" i="951" m="French" t="n" />
+<w c="languages" e="немецкий язык" i="952" m="German" t="n" />
+<w c="languages" e="хинди" i="953" m="Hindi" t="n" />
+<w c="languages" e="итальянский язык" i="954" m="Italian" t="n" />
+<w c="languages" e="японский язык" i="955" m="Japanese" t="n" />
+<w c="languages" e="русский язык" i="956" m="Russian" t="n" />
+<w c="languages" e="испанский язык" i="957" m="Spanish" t="n" />
+<w c="materials" e="кислота" i="958" m="acid" t="n" />
+<w c="materials" e="химикат" i="959" m="chemical" t="n" />
+<w c="materials" e="элемент" i="960" m="chemical element" t="n" />
+<w c="materials" e="уголь" i="961" m="coal" t="n" />
+<w c="materials" e="хлопок" i="962" m="cotton" t="n" />
+<w c="materials" e="пыль" i="963" m="dust" t="n" />
+<w c="materials" e="земля" i="964" m="earth" t="n" />
+<w c="materials" e="жир" i="965" m="fat" t="n" />
+<w c="materials" e="стекло" i="966" m="glass" t="n" />
+<w c="materials" e="клей" i="967" m="glue" t="n" />
+<w c="materials" e="золото" i="968" m="gold" t="n" />
+<w c="materials" e="зерно" i="969" m="grain" t="n" />
+<w c="materials" e="лёд" i="970" m="ice" t="n" />
+<w c="materials" e="чернила" i="971" m="ink" t="n" />
+<w c="materials" e="железо" i="972" m="iron" t="n" />
+<w c="materials" e="свинец" i="973" m="lead" t="n" />
+<w c="materials" e="кожа" i="974" m="leather" t="n" />
+<w c="materials" e="жидкость" i="975" m="liquid" t="n" />
+<w c="materials" e="вещество" i="976" m="matter" t="n" />
+<w c="materials" e="металл" i="977" m="metallic element" t="n" />
+<w c="materials" e="нефть" i="978" m="oil" t="n" />
+<w c="materials" e="бумага" i="979" m="paper" t="n" />
+<w c="materials" e="яд; отрава" i="980" m="poison" t="n" />
+<w c="materials" e="порошок" i="981" m="powder" t="n" />
+<w c="materials" e="песок" i="982" m="sand" t="n" />
+<w c="materials" e="шёлк; шелк" i="983" m="silk" t="n" />
+<w c="materials" e="серебро" i="984" m="silver" t="n" />
+<w c="materials" e="мыло" i="985" m="soap" t="n" />
+<w c="materials" e="сталь" i="986" m="steel" t="n" />
+<w c="materials" e="дерево" i="987" m="wood" t="n" />
+<w c="materials" e="волна; шерсть" i="988" m="wool" t="n" />
+<w c="mathematics" e="сложение" i="989" m="addition" t="n" />
+<w c="mathematics" e="угол" i="990" m="angle" t="n" />
+<w c="mathematics" e="пространство" i="991" m="area" t="n" />
+<w c="mathematics" e="центр" i="992" m="center" t="n" />
+<w c="mathematics" e="круг" i="993" m="circle" t="n" />
+<w c="mathematics" e="элемент" i="994" m="component" t="n" />
+<w c="mathematics" e="кривая; дуга" i="995" m="curve" t="n" />
+<w c="mathematics" e="степень" i="996" m="degree" t="n" />
+<w c="mathematics" e="уровень" i="997" m="degree" t="n" />
+<w c="mathematics" e="разница" i="998" m="difference" t="n" />
+<w c="mathematics" e="расстояние" i="999" m="distance" t="n" />
+<w c="mathematics" e="разделение" i="1000" m="division" t="n" />
+<w c="mathematics" e="кромка; край" i="1001" m="edge" t="n" />
+<w c="mathematics" e="функция" i="1002" m="function" t="n" />
+<w c="mathematics" e="половина" i="1003" m="half" t="n" />
+<w c="mathematics" e="граница; лимит" i="1004" m="limit" t="n" />
+<w c="mathematics" e="черта; линия" i="1005" m="line" t="n" />
+<w c="mathematics" e="сплетение" i="1006" m="net" t="n" />
+<w c="mathematics" e="порядок" i="1007" m="order" t="n" />
+<w c="mathematics" e="наружность; внешность" i="1008" m="outside" t="n" />
+<w c="mathematics" e="процент" i="1009" m="percent" t="n" />
+<w c="mathematics" e="намерение; цель" i="1010" m="purpose" t="n" />
+<w c="mathematics" e="результат" i="1011" m="result" t="n" />
+<w c="mathematics" e="корень" i="1012" m="root" t="n" />
+<w c="mathematics" e="правило; предписание" i="1013" m="rule" t="n" />
+<w c="mathematics" e="множество" i="1014" m="set" t="n" />
+<w c="mathematics" e="сторона" i="1015" m="side" t="n" />
+<w c="mathematics" e="квадрат" i="1016" m="square" t="n" />
+<w c="mathematics" e="вторая степень" i="1017" m="square" t="n" />
+<w c="mathematics" e="замена" i="1018" m="substitution" t="n" />
+<w c="mathematics" e="поверхность" i="1019" m="surface" t="n" />
+<w c="mathematics" e="итог; сумма" i="1020" m="total" t="n" />
+<w c="medicine" e="попечение" i="1021" m="care" t="n" />
+<w c="medicine" e="простуда; насморк" i="1022" m="cold" t="n" />
+<w c="medicine" e="кашель" i="1023" m="cough" t="n" />
+<w c="medicine" e="болезнь" i="1024" m="disease" t="n" />
+<w c="medicine" e="врач; доктор" i="1025" m="doctor" t="n" />
+<w c="medicine" e="здоровье" i="1026" m="health" t="n" />
+<w c="medicine" e="менструация" i="1027" m="menstruation" t="n" />
+<w c="medicine" e="медсестра; няня" i="1028" m="nurse" t="n" />
+<w c="medicine" e="операция" i="1029" m="operation" t="n" />
+<w c="medicine" e="боль" i="1030" m="pain" t="n" />
+<w c="medicine" e="пациент; больной" i="1031" m="patient" t="n" />
+<w c="medicine" e="стежок" i="1032" m="stitch" t="n" />
+<w c="nature" e="воздух" i="1033" m="air" t="n" />
+<w c="nature" e="животное" i="1034" m="animal" t="n" />
+<w c="nature" e="ветвь" i="1035" m="branch" t="n" />
+<w c="nature" e="течение; поток" i="1036" m="current" t="n" />
+<w c="nature" e="эволюция; развитие" i="1037" m="evolution" t="n" />
+<w c="nature" e="ферма" i="1038" m="farm" t="n" />
+<w c="nature" e="поле" i="1039" m="field" t="n" />
+<w c="nature" e="огонь; пламя" i="1040" m="fire" t="n" />
+<w c="nature" e="цветок" i="1041" m="flower" t="n" />
+<w c="nature" e="лес" i="1042" m="forest" t="n" />
+<w c="nature" e="трава" i="1043" m="grass" t="n" />
+<w c="nature" e="листва" i="1044" m="leaf" t="n" />
+<w c="nature" e="жизнь" i="1045" m="life" t="n" />
+<w c="nature" e="влажность" i="1046" m="moisture" t="n" />
+<w c="nature" e="природа" i="1047" m="nature" t="n" />
+<w c="nature" e="растение" i="1048" m="plant" t="n" />
+<w c="nature" e="корень" i="1049" m="root" t="n" />
+<w c="nature" e="пол" i="1050" m="sex" t="n" />
+<w c="nature" e="небо" i="1051" m="sky" t="n" />
+<w c="nature" e="сон" i="1052" m="sleep" t="n" />
+<w c="nature" e="запах" i="1053" m="smell" t="n" />
+<w c="nature" e="дым" i="1054" m="smoke" t="n" />
+<w c="nature" e="источник" i="1055" m="spring" t="n" />
+<w c="nature" e="стебель" i="1056" m="stem" t="n" />
+<w c="nature" e="поток" i="1057" m="stream" t="n" />
+<w c="nature" e="дерево" i="1058" m="tree" t="n" />
+<w c="nature" e="волна" i="1059" m="wave" t="n" />
+<w c="nature" e="погода" i="1060" m="weather" t="n" />
+<w c="nature" e="свет; мир" i="1061" m="world" t="n" />
+<w c="numbers" e="пара" i="1062" m="couple" t="n" />
+<w c="numbers" e="восемь" i="1063" m="eight" t="n" />
+<w c="numbers" e="восемнадцать" i="1064" m="eighteen" t="n" />
+<w c="numbers" e="восемьдесят" i="1065" m="eighty" t="n" />
+<w c="numbers" e="одиннадцать" i="1066" m="eleven" t="n" />
+<w c="numbers" e="пятнадцать" i="1067" m="fifteen" t="n" />
+<w c="numbers" e="пятьдесят" i="1068" m="fifty" t="n" />
+<w c="numbers" e="первый" i="1069" m="first" t="n" />
+<w c="numbers" e="пять" i="1070" m="five" t="n" />
+<w c="numbers" e="сорок" i="1071" m="forty" t="n" />
+<w c="numbers" e="четыре" i="1072" m="four" t="n" />
+<w c="numbers" e="четырнадцать" i="1073" m="fourteen" t="n" />
+<w c="numbers" e="сто" i="1074" m="hundred" t="n" />
+<w c="numbers" e="миллион" i="1075" m="million" t="n" />
+<w c="numbers" e="девять" i="1076" m="nine" t="n" />
+<w c="numbers" e="девятнадцать" i="1077" m="nineteen" t="n" />
+<w c="numbers" e="девяносто" i="1078" m="ninety" t="n" />
+<w c="numbers" e="нуль; ничто; ничего" i="1079" m="nothing" t="n" />
+<w c="numbers" e="один" i="1080" m="one" t="n" />
+<w c="numbers" e="семь" i="1081" m="seven" t="n" />
+<w c="numbers" e="семнадцать" i="1082" m="seventeen" t="n" />
+<w c="numbers" e="семьдесят" i="1083" m="seventy" t="n" />
+<w c="numbers" e="шесть" i="1084" m="six" t="n" />
+<w c="numbers" e="шестнадцать" i="1085" m="sixteen" t="n" />
+<w c="numbers" e="шестьдесят" i="1086" m="sixty" t="n" />
+<w c="numbers" e="десять" i="1087" m="ten" t="n" />
+<w c="numbers" e="третий" i="1088" m="third" t="n" />
+<w c="numbers" e="тринадцать" i="1089" m="thirteen" t="n" />
+<w c="numbers" e="тридцать" i="1090" m="thirty" t="n" />
+<w c="numbers" e="тысяча" i="1091" m="thousand" t="n" />
+<w c="numbers" e="тысяча" i="1092" m="thousand" t="n" />
+<w c="numbers" e="три" i="1093" m="three" t="n" />
+<w c="numbers" e="двадцать" i="1094" m="twenty" t="n" />
+<w c="numbers" e="два" i="1095" m="two" t="n" />
+<w c="objects" e="мяч" i="1096" m="ball" t="n" />
+<w c="objects" e="лезвие" i="1097" m="blade" t="n" />
+<w c="objects" e="доска" i="1098" m="board" t="n" />
+<w c="objects" e="карточка" i="1099" m="card" t="n" />
+<w c="objects" e="цепь" i="1100" m="chain" t="n" />
+<w c="objects" e="дубинка" i="1101" m="club" t="n" />
+<w c="objects" e="круг" i="1102" m="coil" t="n" />
+<w c="objects" e="крышка" i="1103" m="cover" t="n" />
+<w c="objects" e="конверт" i="1104" m="envelope" t="n" />
+<w c="objects" e="перо" i="1105" m="feather" t="n" />
+<w c="objects" e="флаг" i="1106" m="flag" t="n" />
+<w c="objects" e="рамка" i="1107" m="frame" t="n" />
+<w c="objects" e="ручка" i="1108" m="handle" t="n" />
+<w c="objects" e="меню" i="1109" m="menu" t="n" />
+<w c="objects" e="гайка" i="1110" m="nut" t="n" />
+<w c="objects" e="булавка" i="1111" m="pin" t="n" />
+<w c="objects" e="труба" i="1112" m="pipe" t="n" />
+<w c="objects" e="подарок" i="1113" m="present" t="n" />
+<w c="objects" e="канат" i="1114" m="rope" t="n" />
+<w c="objects" e="парус" i="1115" m="sail" t="n" />
+<w c="objects" e="зерно; семя" i="1116" m="seed" t="n" />
+<w c="objects" e="почтовая марка" i="1117" m="stamp" t="n" />
+<w c="objects" e="палка" i="1118" m="stick" t="n" />
+<w c="objects" e="скала" i="1119" m="stone" t="n" />
+<w c="objects" e="билет" i="1120" m="ticket" t="n" />
+<w c="objects" e="колесо" i="1121" m="wheel" t="n" />
+<w c="objects" e="провод" i="1122" m="wire" t="n" />
+<w c="physics" e="баланц" i="1123" m="balance" t="n" />
+<w c="physics" e="заряд" i="1124" m="charge" t="n" />
+<w c="physics" e="энергия" i="1125" m="energy" t="n" />
+<w c="physics" e="свет" i="1126" m="light" t="n" />
+<w c="physics" e="масса" i="1127" m="mass" t="n" />
+<w c="physics" e="количество" i="1128" m="mass" t="n" />
+<w c="physics" e="измерение" i="1129" m="measurement" t="n" />
+<w c="physics" e="зеркало" i="1130" m="mirror" t="n" />
+<w c="physics" e="движение" i="1131" m="movement" t="n" />
+<w c="physics" e="давление" i="1132" m="pressure" t="n" />
+<w c="physics" e="процесс" i="1133" m="process" t="n" />
+<w c="physics" e="размер" i="1134" m="size" t="n" />
+<w c="physics" e="звук" i="1135" m="sound" t="n" />
+<w c="physics" e="пар" i="1136" m="steam" t="n" />
+<w c="physics" e="сила" i="1137" m="strength" t="n" />
+<w c="physics" e="время" i="1138" m="time" t="n" />
+<w c="physics" e="единица" i="1139" m="unit" t="n" />
+<w c="physics" e="вес" i="1140" m="weight" t="n" />
+<w c="prepositions" e="против" i="1141" m="against" t="prep" />
+<w c="prepositions" e="среди" i="1142" m="among" t="prep" />
+<w c="prepositions" e="на" i="1143" m="at" t="prep" />
+<w c="prepositions" e="на" i="1144" m="at" t="prep" />
+<w c="prepositions" e="во время" i="1145" m="during" t="prep" />
+<w c="prepositions" e="для" i="1146" m="for" t="prep" />
+<w c="prepositions" e="из" i="1147" m="from" t="prep" />
+<w c="prepositions" e="из" i="1148" m="from" t="prep" />
+<w c="prepositions" e="в" i="1149" m="into" t="prep" />
+<w c="prepositions" e="о" i="1150" m="of" t="prep" />
+<w c="prepositions" e="с" i="1151" m="since" t="prep" />
+<w c="prepositions" e="на" i="1152" m="to" t="prep" />
+<w c="prepositions" e="с" i="1153" m="with" t="prep" />
+<w c="prepositions" e="с" i="1154" m="with" t="prep" />
+<w c="prepositions" e="без" i="1155" m="without" t="prep" />
+<w c="professions" e="актёр" i="1156" m="actor" t="n" />
+<w c="professions" e="актриса" i="1157" m="actress" t="n" />
+<w c="professions" e="художник" i="1158" m="artist" t="n" />
+<w c="professions" e="бизнесмен" i="1159" m="businessman" t="n" />
+<w c="professions" e="повар; кухарка" i="1160" m="cook" t="n" />
+<w c="professions" e="специалист" i="1161" m="expert" t="n" />
+<w c="professions" e="генерал" i="1162" m="general" t="n" />
+<w c="professions" e="журналист; газетный сотрудник" i="1163" m="journalist" t="n" />
+<w c="professions" e="судья" i="1164" m="judge" t="n" />
+<w c="professions" e="министр" i="1165" m="minister" t="n" />
+<w c="professions" e="музыкант" i="1166" m="musician" t="n" />
+<w c="professions" e="фотограф" i="1167" m="photographer" t="n" />
+<w c="professions" e="пилот" i="1168" m="pilot" t="n" />
+<w c="professions" e="милиционер" i="1169" m="policeman" t="n" />
+<w c="professions" e="политик" i="1170" m="politician" t="n" />
+<w c="professions" e="президент" i="1171" m="president" t="n" />
+<w c="professions" e="профессионал" i="1172" m="professional" t="n" />
+<w c="professions" e="заместитель" i="1173" m="representative" t="n" />
+<w c="professions" e="матрос; моряк" i="1174" m="sailor" t="n" />
+<w c="professions" e="учёный" i="1175" m="scientist" t="n" />
+<w c="professions" e="секретарь; секретарша" i="1176" m="secretary" t="n" />
+<w c="professions" e="слуга" i="1177" m="servant" t="n" />
+<w c="professions" e="певец" i="1178" m="singer" t="n" />
+<w c="professions" e="солдат" i="1179" m="soldier" t="n" />
+<w c="professions" e="писатель" i="1180" m="writer" t="n" />
+<w c="pronouns" e="каждый" i="1181" m="everybody" t="pron" />
+<w c="pronouns" e="все" i="1182" m="everything" t="pron" />
+<w c="pronouns" e="её" i="1183" m="her" t="pron" />
+<w c="pronouns" e="себя" i="1184" m="herself" t="pron" />
+<w c="pronouns" e="его" i="1185" m="him" t="pron" />
+<w c="pronouns" e="себя" i="1186" m="himself" t="pron" />
+<w c="pronouns" e="его" i="1187" m="his" t="pron" />
+<w c="pronouns" e="это" i="1188" m="it" t="pron" />
+<w c="pronouns" e="себя" i="1189" m="itself" t="pron" />
+<w c="pronouns" e="я" i="1190" m="me" t="pron" />
+<w c="pronouns" e="мой" i="1191" m="my" t="pron" />
+<w c="pronouns" e="наш" i="1192" m="our" t="pron" />
+<w c="pronouns" e="она" i="1193" m="she" t="pron" />
+<w c="pronouns" e="тот" i="1194" m="that" t="pron" />
+<w c="pronouns" e="их" i="1195" m="their" t="pron" />
+<w c="pronouns" e="их" i="1196" m="them" t="pron" />
+<w c="pronouns" e="эти" i="1197" m="these" t="pron" />
+<w c="pronouns" e="они" i="1198" m="they" t="pron" />
+<w c="pronouns" e="эта" i="1199" m="this" t="pron" />
+<w c="pronouns" e="эти" i="1200" m="those" t="pron" />
+<w c="pronouns" e="нас" i="1201" m="us" t="pron" />
+<w c="pronouns" e="мы" i="1202" m="we" t="pron" />
+<w c="pronouns" e="который" i="1203" m="what" t="pron" />
+<w c="pronouns" e="когда" i="1204" m="when" t="pron" />
+<w c="pronouns" e="какой" i="1205" m="which" t="pron" />
+<w c="pronouns" e="какой" i="1206" m="which" t="pron" />
+<w c="pronouns" e="кто" i="1207" m="who" t="pron" />
+<w c="pronouns" e="кого" i="1208" m="whom" t="pron" />
+<w c="pronouns" e="чей" i="1209" m="whose" t="pron" />
+<w c="pronouns" e="вы" i="1210" m="you" t="pron" />
+<w c="pronouns" e="себя" i="1211" m="yourself" t="pron" />
+<w c="relations" e="поклонник" i="1212" m="boyfriend" t="n" />
+<w c="relations" e="встреча; свидание" i="1213" m="date" t="n" />
+<w c="relations" e="дорогой; дорогая" i="1214" m="dear" t="n" />
+<w c="relations" e="девочка; поклонница" i="1215" m="girlfriend" t="n" />
+<w c="relations" e="гость" i="1216" m="guest" t="n" />
+<w c="relations" e="поцелуй" i="1217" m="kiss" t="n" />
+<w c="relations" e="вечеринка" i="1218" m="party" t="n" />
+<w c="relations" e="секс" i="1219" m="sex" t="n" />
+<w c="relations" e="улыбка" i="1220" m="smile" t="n" />
+<w c="relations" e="сюрприз" i="1221" m="surprise" t="n" />
+<w c="relations" e="визит" i="1222" m="visit" t="n" />
+<w c="science" e="биология" i="1223" m="biology" t="n" />
+<w c="science" e="причина" i="1224" m="cause" t="n" />
+<w c="science" e="суть" i="1225" m="center" t="n" />
+<w c="science" e="химия" i="1226" m="chemistry" t="n" />
+<w c="science" e="сравнение" i="1227" m="comparison" t="n" />
+<w c="science" e="последствие" i="1228" m="consequence" t="n" />
+<w c="science" e="проверка" i="1229" m="control" t="n" />
+<w c="science" e="дисциплина" i="1230" m="discipline" t="n" />
+<w c="science" e="находка" i="1231" m="discovery" t="n" />
+<w c="science" e="находка" i="1232" m="discovery" t="n" />
+<w c="science" e="событие" i="1233" m="event" t="n" />
+<w c="science" e="улика" i="1234" m="evidence" t="n" />
+<w c="science" e="пример" i="1235" m="example" t="n" />
+<w c="science" e="факт" i="1236" m="fact" t="n" />
+<w c="science" e="изобретение; измышление; вымысел" i="1237" m="invention" t="n" />
+<w c="science" e="проблема" i="1238" m="issue" t="n" />
+<w c="science" e="способ; метод" i="1239" m="method" t="n" />
+<w c="science" e="модель; макет" i="1240" m="model" t="n" />
+<w c="science" e="альтернатива" i="1241" m="option" t="n" />
+<w c="science" e="фаза" i="1242" m="phase" t="n" />
+<w c="science" e="процесс; процедура" i="1243" m="procedure" t="n" />
+<w c="science" e="производство" i="1244" m="production" t="n" />
+<w c="science" e="программа" i="1245" m="program" t="n" />
+<w c="science" e="проект" i="1246" m="project" t="n" />
+<w c="science" e="диапазон" i="1247" m="range" t="n" />
+<w c="science" e="исследование" i="1248" m="research" t="n" />
+<w c="science" e="обследование" i="1249" m="research" t="n" />
+<w c="science" e="наука" i="1250" m="science" t="n" />
+<w c="science" e="общество" i="1251" m="society" t="n" />
+<w c="science" e="система" i="1252" m="system" t="n" />
+<w c="science" e="технология" i="1253" m="technology" t="n" />
+<w c="science" e="теория" i="1254" m="theory" t="n" />
+<w c="science" e="тенденция" i="1255" m="trend" t="n" />
+<w c="science" e="проблема" i="1256" m="trouble" t="n" />
+<w c="science" e="пользователь" i="1257" m="user" t="n" />
+<w c="society" e="армия" i="1258" m="army" t="n" />
+<w c="society" e="военная база" i="1259" m="base" t="n" />
+<w c="society" e="клуб" i="1260" m="club" t="n" />
+<w c="society" e="общество" i="1261" m="company" t="n" />
+<w c="society" e="страна" i="1262" m="country" t="n" />
+<w c="society" e="суд" i="1263" m="court" t="n" />
+<w c="society" e="преступление" i="1264" m="crime" t="n" />
+<w c="society" e="культура" i="1265" m="culture" t="n" />
+<w c="society" e="демократия; республика" i="1266" m="democracy" t="n" />
+<w c="society" e="господство" i="1267" m="dominion" t="n" />
+<w c="society" e="выборы" i="1268" m="election" t="n" />
+<w c="society" e="существование" i="1269" m="existence" t="n" />
+<w c="society" e="женщина" i="1270" m="female" t="n" />
+<w c="society" e="правительство" i="1271" m="government" t="n" />
+<w c="society" e="история" i="1272" m="history" t="n" />
+<w c="society" e="индивидуум" i="1273" m="individual" t="n" />
+<w c="society" e="учреждение" i="1274" m="institution" t="n" />
+<w c="society" e="король" i="1275" m="king" t="n" />
+<w c="society" e="лидер" i="1276" m="leader" t="n" />
+<w c="society" e="самец" i="1277" m="male" t="n" />
+<w c="society" e="член" i="1278" m="member" t="n" />
+<w c="society" e="народ; нация" i="1279" m="nation" t="n" />
+<w c="society" e="новость" i="1280" m="news" t="n" />
+<w c="society" e="шум; гам" i="1281" m="noise" t="n" />
+<w c="society" e="приказ; команда" i="1282" m="order" t="n" />
+<w c="society" e="организация" i="1283" m="organization" t="n" />
+<w c="society" e="удоствоверение" i="1284" m="pass" t="n" />
+<w c="society" e="паспорт" i="1285" m="passport" t="n" />
+<w c="society" e="мир" i="1286" m="peace" t="n" />
+<w c="society" e="люди; народ" i="1287" m="people" t="n" />
+<w c="society" e="полиция" i="1288" m="police" t="n" />
+<w c="society" e="политика" i="1289" m="policy" t="n" />
+<w c="society" e="население" i="1290" m="population" t="n" />
+<w c="society" e="общественность" i="1291" m="public" t="n" />
+<w c="society" e="наказание" i="1292" m="punishment" t="n" />
+<w c="society" e="религия" i="1293" m="religion" t="n" />
+<w c="society" e="вероисповедание" i="1294" m="religion" t="n" />
+<w c="society" e="страна" i="1295" m="state" t="n" />
+<w c="society" e="надпись; заголовок" i="1296" m="title" t="n" />
+<w c="society" e="союз" i="1297" m="union" t="n" />
+<w c="society" e="война" i="1298" m="war" t="n" />
+<w c="society" e="воля" i="1299" m="will" t="n" />
+<w c="society" e="завещание" i="1300" m="will" t="n" />
+<w c="sports" e="награда" i="1301" m="award" t="n" />
+<w c="sports" e="бейсбол" i="1302" m="baseball" t="n" />
+<w c="sports" e="чемпионат" i="1303" m="championship" t="n" />
+<w c="sports" e="соперник" i="1304" m="competitor" t="n" />
+<w c="sports" e="цель" i="1305" m="finish" t="n" />
+<w c="sports" e="футбол" i="1306" m="football" t="n" />
+<w c="sports" e="игра" i="1307" m="game" t="n" />
+<w c="sports" e="гол" i="1308" m="goal" t="n" />
+<w c="sports" e="гольф" i="1309" m="golf" t="n" />
+<w c="sports" e="матч" i="1310" m="match" t="n" />
+<w c="sports" e="игрок" i="1311" m="player" t="n" />
+<w c="sports" e="рекорд" i="1312" m="record" t="n" />
+<w c="sports" e="теннис" i="1313" m="tennis" t="n" />
+<w c="sports" e="бросание" i="1314" m="throw" t="n" />
+<w c="sports" e="победа" i="1315" m="win" t="n" />
+<w c="time" e="апрель" i="1316" m="April" t="n" />
+<w c="time" e="август" i="1317" m="August" t="n" />
+<w c="time" e="декабрь" i="1318" m="December" t="n" />
+<w c="time" e="февраль" i="1319" m="February" t="n" />
+<w c="time" e="пятница" i="1320" m="Friday" t="n" />
+<w c="time" e="январь" i="1321" m="January" t="n" />
+<w c="time" e="июль" i="1322" m="July" t="n" />
+<w c="time" e="июнь" i="1323" m="June" t="n" />
+<w c="time" e="май" i="1324" m="May" t="n" />
+<w c="time" e="понедельник" i="1325" m="Monday" t="n" />
+<w c="time" e="ноябрь" i="1326" m="November" t="n" />
+<w c="time" e="октябрь" i="1327" m="October" t="n" />
+<w c="time" e="суббота" i="1328" m="Saturday" t="n" />
+<w c="time" e="сентябрь" i="1329" m="September" t="n" />
+<w c="time" e="воскресенье" i="1330" m="Sunday" t="n" />
+<w c="time" e="четверг" i="1331" m="Thursday" t="n" />
+<w c="time" e="вторник" i="1332" m="Tuesday" t="n" />
+<w c="time" e="среда" i="1333" m="Wednesday" t="n" />
+<w c="time" e="время после полудня" i="1334" m="afternoon" t="n" />
+<w c="time" e="возраст" i="1335" m="age" t="n" />
+<w c="time" e="осень" i="1336" m="autumn" t="n" />
+<w c="time" e="старт" i="1337" m="beginning" t="n" />
+<w c="time" e="век" i="1338" m="century" t="n" />
+<w c="time" e="дата; число" i="1339" m="date" t="n" />
+<w c="time" e="день" i="1340" m="day" t="n" />
+<w c="time" e="конец" i="1341" m="end" t="n" />
+<w c="time" e="вечер" i="1342" m="evening" t="n" />
+<w c="time" e="будущее" i="1343" m="future" t="n" />
+<w c="time" e="час" i="1344" m="hour" t="n" />
+<w c="time" e="полночь" i="1345" m="midnight" t="n" />
+<w c="time" e="минута" i="1346" m="minute" t="n" />
+<w c="time" e="момент; мгновение" i="1347" m="moment" t="n" />
+<w c="time" e="момент; миг" i="1348" m="moment" t="n" />
+<w c="time" e="месяц" i="1349" m="month" t="n" />
+<w c="time" e="утро" i="1350" m="morning" t="n" />
+<w c="time" e="ночь" i="1351" m="night" t="n" />
+<w c="time" e="сейчас" i="1352" m="now" t="n" />
+<w c="time" e="прошлое" i="1353" m="past" t="n" />
+<w c="time" e="перерыв; пауза" i="1354" m="pause" t="n" />
+<w c="time" e="период" i="1355" m="period" t="n" />
+<w c="time" e="настоящее" i="1356" m="present" t="n" />
+<w c="time" e="времена года" i="1357" m="season" t="n" />
+<w c="time" e="секунда" i="1358" m="second" t="n" />
+<w c="time" e="весна" i="1359" m="spring" t="n" />
+<w c="time" e="лето" i="1360" m="summer" t="n" />
+<w c="time" e="сегодняшний день; сегодня" i="1361" m="today" t="n" />
+<w c="time" e="завтрашний день; завтра" i="1362" m="tomorrow" t="n" />
+<w c="time" e="неделя" i="1363" m="week" t="n" />
+<w c="time" e="выходных" i="1364" m="weekend" t="n" />
+<w c="time" e="момент" i="1365" m="while" t="n" />
+<w c="time" e="зима" i="1366" m="winter" t="n" />
+<w c="time" e="год" i="1367" m="year" t="n" />
+<w c="tools" e="колокол" i="1368" m="bell" t="n" />
+<w c="tools" e="щётка" i="1369" m="brush" t="n" />
+<w c="tools" e="кнопка" i="1370" m="button" t="n" />
+<w c="tools" e="оружие" i="1371" m="gun" t="n" />
+<w c="tools" e="молоток" i="1372" m="hammer" t="n" />
+<w c="tools" e="крючок" i="1373" m="hook" t="n" />
+<w c="tools" e="ключ" i="1374" m="key" t="n" />
+<w c="tools" e="замок" i="1375" m="lock" t="n" />
+<w c="tools" e="спичка" i="1376" m="match" t="n" />
+<w c="tools" e="гвоздь" i="1377" m="nail" t="n" />
+<w c="tools" e="иголка; игла" i="1378" m="needle" t="n" />
+<w c="tools" e="ручка" i="1379" m="pen" t="n" />
+<w c="tools" e="карандаш" i="1380" m="pencil" t="n" />
+<w c="tools" e="насос" i="1381" m="pump" t="n" />
+<w c="tools" e="ножницы" i="1382" m="scissors" t="n" />
+<w c="tools" e="пружина" i="1383" m="spring" t="n" />
+<w c="tools" e="печать;штемпель" i="1384" m="stamp" t="n" />
+<w c="tools" e="бич" i="1385" m="whip" t="n" />
+<w c="transport" e="несчастный случай; авария" i="1386" m="accident" t="n" />
+<w c="transport" e="велосипед" i="1387" m="bike" t="n" />
+<w c="transport" e="лодка" i="1388" m="boat" t="n" />
+<w c="transport" e="автобус" i="1389" m="bus" t="n" />
+<w c="transport" e="автомобиль; машина" i="1390" m="car" t="n" />
+<w c="transport" e="povorod" i="1391" m="curve" t="n" />
+<w c="transport" e="экспресс" i="1392" m="express" t="n" />
+<w c="transport" e="летание; полёт" i="1393" m="flight" t="n" />
+<w c="transport" e="поездка" i="1394" m="journey" t="n" />
+<w c="transport" e="пассажир" i="1395" m="passenger" t="n" />
+<w c="transport" e="самолёт" i="1396" m="plane" t="n" />
+<w c="transport" e="судно; корабль" i="1397" m="ship" t="n" />
+<w c="transport" e="буксовка" i="1398" m="skid" t="n" />
+<w c="transport" e="рельс" i="1399" m="track" t="n" />
+<w c="transport" e="поезд" i="1400" m="train" t="n" />
+<w c="transport" e="перевозка; транспорт" i="1401" m="transport" t="n" />
+<w c="vegetables" e="боб" i="1402" m="bean" t="n" />
+<w c="vegetables" e="капуста" i="1403" m="cabbage" t="n" />
+<w c="vegetables" e="морковь" i="1404" m="carrot" t="n" />
+<w c="vegetables" e="огурец" i="1405" m="cucumber" t="n" />
+<w c="vegetables" e="чеснок" i="1406" m="garlic" t="n" />
+<w c="vegetables" e="маслина" i="1407" m="olive" t="n" />
+<w c="vegetables" e="лук" i="1408" m="onion" t="n" />
+<w c="vegetables" e="пастернак" i="1409" m="parsnip" t="n" />
+<w c="vegetables" e="горох" i="1410" m="pea" t="n" />
+<w c="vegetables" e="картофелина" i="1411" m="potato" t="n" />
+<w c="vegetables" e="редиска" i="1412" m="radish" t="n" />
+<w c="vegetables" e="рис" i="1413" m="rice" t="n" />
+<w c="vegetables" e="помидор; томат" i="1414" m="tomato" t="n" />
+<w c="verbs" e="принять" i="1415" m="accept" t="v" />
+<w c="verbs" e="обвинить" i="1416" m="accuse" t="v" />
+<w c="verbs" e="достигать" i="1417" m="achieve" t="v" />
+<w c="verbs" e="действовать" i="1418" m="act" t="v" />
+<w c="verbs" e="придать" i="1419" m="add" t="v" />
+<w c="verbs" e="сосчитать" i="1420" m="add" t="v" />
+<w c="verbs" e="припустить; признать" i="1421" m="admit" t="v" />
+<w c="verbs" e="поблиять" i="1422" m="affect" t="v" />
+<w c="verbs" e="согласиться" i="1423" m="agree" t="v" />
+<w c="verbs" e="разрешить" i="1424" m="allow" t="v" />
+<w c="verbs" e="сообщить" i="1425" m="announce" t="v" />
+<w c="verbs" e="спорить" i="1426" m="argue" t="v" />
+<w c="verbs" e="приехать" i="1427" m="arrive" t="v" />
+<w c="verbs" e="спрашивать" i="1428" m="ask" t="v" />
+<w c="verbs" e="атаковать" i="1429" m="attack" t="v" />
+<w c="verbs" e="уклониться; избежать" i="1430" m="avoid" t="v" />
+<w c="verbs" e="жить" i="1431" m="be" t="v" />
+<w c="verbs" e="нести" i="1432" m="bear" t="v" />
+<w c="verbs" e="победить" i="1433" m="beat" t="v" />
+<w c="verbs" e="стать" i="1434" m="become" t="v" />
+<w c="verbs" e="относиться" i="1435" m="behave" t="v" />
+<w c="verbs" e="верить" i="1436" m="believe" t="v" />
+<w c="verbs" e="преуспевать" i="1437" m="benefit" t="v" />
+<w c="verbs" e="куснуть" i="1438" m="bite" t="v" />
+<w c="verbs" e="принести" i="1439" m="bring" t="v" />
+<w c="verbs" e="строить" i="1440" m="build" t="v" />
+<w c="verbs" e="спалить" i="1441" m="burn" t="v" />
+<w c="verbs" e="звонить" i="1442" m="call" t="v" />
+<w c="verbs" e="заботиться" i="1443" m="care" t="v" />
+<w c="verbs" e="перенести" i="1444" m="carry" t="v" />
+<w c="verbs" e="схватить" i="1445" m="catch" t="v" />
+<w c="verbs" e="побудить" i="1446" m="cause" t="v" />
+<w c="verbs" e="изменить" i="1447" m="change" t="v" />
+<w c="verbs" e="выбрать" i="1448" m="choose" t="v" />
+<w c="verbs" e="сортировать" i="1449" m="classify" t="v" />
+<w c="verbs" e="чистить" i="1450" m="clean" t="v" />
+<w c="verbs" e="сравнивать" i="1451" m="compare" t="v" />
+<w c="verbs" e="соединить" i="1452" m="connect" t="v" />
+<w c="verbs" e="заключать в себе; охватывать" i="1453" m="contain" t="v" />
+<w c="verbs" e="продолжать" i="1454" m="continue" t="v" />
+<w c="verbs" e="контролировать" i="1455" m="control" t="v" />
+<w c="verbs" e="варить" i="1456" m="cook" t="v" />
+<w c="verbs" e="копировать" i="1457" m="copy" t="v" />
+<w c="verbs" e="кашлять" i="1458" m="cough" t="v" />
+<w c="verbs" e="считать; пересчитывать" i="1459" m="count" t="v" />
+<w c="verbs" e="разгромить" i="1460" m="crush" t="v" />
+<w c="verbs" e="смять" i="1461" m="crush" t="v" />
+<w c="verbs" e="плакать" i="1462" m="cry" t="v" />
+<w c="verbs" e="решить" i="1463" m="decide" t="v" />
+<w c="verbs" e="вручить" i="1464" m="deliver" t="v" />
+<w c="verbs" e="описать" i="1465" m="describe" t="v" />
+<w c="verbs" e="предложить" i="1466" m="design" t="v" />
+<w c="verbs" e="хотеть" i="1467" m="desire" t="v" />
+<w c="verbs" e="определить; узнать" i="1468" m="determine" t="v" />
+<w c="verbs" e="развиваться" i="1469" m="develop" t="v" />
+<w c="verbs" e="умереть" i="1470" m="die" t="v" />
+<w c="verbs" e="узнавать" i="1471" m="discover" t="v" />
+<w c="verbs" e="дискутировать" i="1472" m="discuss" t="v" />
+<w c="verbs" e="не любить" i="1473" m="dislike" t="v" />
+<w c="verbs" e="разделить" i="1474" m="divide" t="v" />
+<w c="verbs" e="сомневаться" i="1475" m="doubt" t="v" />
+<w c="verbs" e="водить" i="1476" m="drive" t="v" />
+<w c="verbs" e="заключать в себе; охватывать" i="1477" m="embrace" t="v" />
+<w c="verbs" e="ободрить" i="1478" m="encourage" t="v" />
+<w c="verbs" e="кончать" i="1479" m="end" t="v" />
+<w c="verbs" e="увеличить" i="1480" m="enhance" t="v" />
+<w c="verbs" e="радоваться" i="1481" m="enjoy" t="v" />
+<w c="verbs" e="вступить" i="1482" m="enter" t="v" />
+<w c="verbs" e="основать" i="1483" m="establish" t="v" />
+<w c="verbs" e="оценить" i="1484" m="estimate" t="v" />
+<w c="verbs" e="преодолеть" i="1485" m="exceed" t="v" />
+<w c="verbs" e="быть" i="1486" m="exist" t="v" />
+<w c="verbs" e="ждать" i="1487" m="expect" t="v" />
+<w c="verbs" e="объяснять" i="1488" m="explain" t="v" />
+<w c="verbs" e="выразить" i="1489" m="express" t="v" />
+<w c="verbs" e="драться" i="1490" m="fight" t="v" />
+<w c="verbs" e="наполнить" i="1491" m="fill" t="v" />
+<w c="verbs" e="обнаружить" i="1492" m="find" t="v" />
+<w c="verbs" e="закончить; докончить" i="1493" m="finish" t="v" />
+<w c="verbs" e="выравнить" i="1494" m="flush" t="v" />
+<w c="verbs" e="простить" i="1495" m="forgive" t="v" />
+<w c="verbs" e="освободить" i="1496" m="free" t="v" />
+<w c="verbs" e="встать" i="1497" m="get up" t="v" />
+<w c="verbs" e="поддаться" i="1498" m="give up" t="v" />
+<w c="verbs" e="расти" i="1499" m="grow" t="v" />
+<w c="verbs" e="случиться" i="1500" m="happen" t="v" />
+<w c="verbs" e="ненавидеть" i="1501" m="hate" t="v" />
+<w c="verbs" e="скрывать" i="1502" m="hide" t="v" />
+<w c="verbs" e="держать" i="1503" m="hold" t="v" />
+<w c="verbs" e="опознать" i="1504" m="identify" t="v" />
+<w c="verbs" e="включать" i="1505" m="imply" t="v" />
+<w c="verbs" e="включить" i="1506" m="include" t="v" />
+<w c="verbs" e="увеличивать(ся)" i="1507" m="increase" t="v" />
+<w c="verbs" e="ранить" i="1508" m="injure" t="v" />
+<w c="verbs" e="привести" i="1509" m="introduce" t="v" />
+<w c="verbs" e="представить" i="1510" m="introduce" t="v" />
+<w c="verbs" e="соединить(ся)" i="1511" m="join" t="v" />
+<w c="verbs" e="сохранить" i="1512" m="keep" t="v" />
+<w c="verbs" e="лягнуть" i="1513" m="kick" t="v" />
+<w c="verbs" e="убить" i="1514" m="kill" t="v" />
+<w c="verbs" e="приземлиться" i="1515" m="land" t="v" />
+<w c="verbs" e="завести" i="1516" m="lead" t="v" />
+<w c="verbs" e="оставить" i="1517" m="leave" t="v" />
+<w c="verbs" e="оставить" i="1518" m="let" t="v" />
+<w c="verbs" e="поднять" i="1519" m="lift" t="v" />
+<w c="verbs" e="ограничивать" i="1520" m="limit" t="v" />
+<w c="verbs" e="зарядить" i="1521" m="load" t="v" />
+<w c="verbs" e="замкнуть" i="1522" m="lock" t="v" />
+<w c="verbs" e="казаться" i="1523" m="look" t="v" />
+<w c="verbs" e="проиграть" i="1524" m="lose" t="v" />
+<w c="verbs" e="вести" i="1525" m="manage" t="v" />
+<w c="verbs" e="жениться" i="1526" m="marry" t="v" />
+<w c="verbs" e="сходиться" i="1527" m="match" t="v" />
+<w c="verbs" e="обозначать" i="1528" m="mean" t="v" />
+<w c="verbs" e="замышлять" i="1529" m="mean" t="v" />
+<w c="verbs" e="мерить" i="1530" m="measure" t="v" />
+<w c="verbs" e="цитировать" i="1531" m="mention" t="v" />
+<w c="verbs" e="упустить" i="1532" m="miss" t="v" />
+<w c="verbs" e="промахнуться" i="1533" m="miss" t="v" />
+<w c="verbs" e="назвать" i="1534" m="name" t="v" />
+<w c="verbs" e="управлять" i="1535" m="operate" t="v" />
+<w c="verbs" e="приказать" i="1536" m="order" t="v" />
+<w c="verbs" e="владеть" i="1537" m="own" t="v" />
+<w c="verbs" e="передавать" i="1538" m="pass" t="v" />
+<w c="verbs" e="чистить" i="1539" m="peel" t="v" />
+<w c="verbs" e="наметить" i="1540" m="plan" t="v" />
+<w c="verbs" e="обрадовать" i="1541" m="please" t="v" />
+<w c="verbs" e="пахать" i="1542" m="plow" t="v" />
+<w c="verbs" e="отравить" i="1543" m="poison" t="v" />
+<w c="verbs" e="глянцевать" i="1544" m="polish" t="v" />
+<w c="verbs" e="приготовить" i="1545" m="prepare" t="v" />
+<w c="verbs" e="сжать; нажать" i="1546" m="press" t="v" />
+<w c="verbs" e="предотвратить" i="1547" m="prevent" t="v" />
+<w c="verbs" e="напечатать" i="1548" m="print" t="v" />
+<w c="verbs" e="выработать" i="1549" m="process" t="v" />
+<w c="verbs" e="нажива; получать доход" i="1550" m="profit" t="v" />
+<w c="verbs" e="возражать; протестовать" i="1551" m="protest" t="v" />
+<w c="verbs" e="доказать" i="1552" m="prove" t="v" />
+<w c="verbs" e="издать" i="1553" m="publish" t="v" />
+<w c="verbs" e="воспитать" i="1554" m="raise" t="v" />
+<w c="verbs" e="оценивать" i="1555" m="rate" t="v" />
+<w c="verbs" e="достичь" i="1556" m="reach" t="v" />
+<w c="verbs" e="получить" i="1557" m="receive" t="v" />
+<w c="verbs" e="записать" i="1558" m="record" t="v" />
+<w c="verbs" e="сократить" i="1559" m="reduce" t="v" />
+<w c="verbs" e="отражать" i="1560" m="reflect" t="v" />
+<w c="verbs" e="отказаться" i="1561" m="refuse" t="v" />
+<w c="verbs" e="убрать" i="1562" m="remove" t="v" />
+<w c="verbs" e="вернуть" i="1563" m="render" t="v" />
+<w c="verbs" e="заменить" i="1564" m="replace" t="v" />
+<w c="verbs" e="отвечать; ответить" i="1565" m="reply" t="v" />
+<w c="verbs" e="сообщать" i="1566" m="report" t="v" />
+<w c="verbs" e="символизировать" i="1567" m="represent" t="v" />
+<w c="verbs" e="просить" i="1568" m="request" t="v" />
+<w c="verbs" e="учитывать" i="1569" m="respect" t="v" />
+<w c="verbs" e="отдыхать" i="1570" m="rest" t="v" />
+<w c="verbs" e="разоблачить; открыть" i="1571" m="reveal" t="v" />
+<w c="verbs" e="рисковать" i="1572" m="risk" t="v" />
+<w c="verbs" e="округлять(ся)" i="1573" m="round off" t="v" />
+<w c="verbs" e="править" i="1574" m="rule" t="v" />
+<w c="verbs" e="копить" i="1575" m="save" t="v" />
+<w c="verbs" e="спасти" i="1576" m="save" t="v" />
+<w c="verbs" e="видеть" i="1577" m="see" t="v" />
+<w c="verbs" e="считать" i="1578" m="see" t="v" />
+<w c="verbs" e="послать; отправить" i="1579" m="send" t="v" />
+<w c="verbs" e="служить" i="1580" m="serve" t="v" />
+<w c="verbs" e="шить" i="1581" m="sew" t="v" />
+<w c="verbs" e="разделять" i="1582" m="share" t="v" />
+<w c="verbs" e="кричать" i="1583" m="shout" t="v" />
+<w c="verbs" e="показать" i="1584" m="show" t="v" />
+<w c="verbs" e="ударить" i="1585" m="smash" t="v" />
+<w c="verbs" e="пахнуть" i="1586" m="smell" t="v" />
+<w c="verbs" e="вонять" i="1587" m="smell" t="v" />
+<w c="verbs" e="чуять" i="1588" m="smell" t="v" />
+<w c="verbs" e="курить" i="1589" m="smoke" t="v" />
+<w c="verbs" e="проходить" i="1590" m="spend" t="v" />
+<w c="verbs" e="стоять" i="1591" m="stand" t="v" />
+<w c="verbs" e="остаться" i="1592" m="stay" t="v" />
+<w c="verbs" e="красть; воровать" i="1593" m="steal" t="v" />
+<w c="verbs" e="останавить" i="1594" m="stop" t="v" />
+<w c="verbs" e="изучать" i="1595" m="study" t="v" />
+<w c="verbs" e="терпеть" i="1596" m="suffer" t="v" />
+<w c="verbs" e="предложить" i="1597" m="suggest" t="v" />
+<w c="verbs" e="предоставить" i="1598" m="supply" t="v" />
+<w c="verbs" e="поддерживать" i="1599" m="support" t="v" />
+<w c="verbs" e="предполагать" i="1600" m="suppose" t="v" />
+<w c="verbs" e="удивить" i="1601" m="surprise" t="v" />
+<w c="verbs" e="обойтись" i="1602" m="survive" t="v" />
+<w c="verbs" e="poпробовать" i="1603" m="taste" t="v" />
+<w c="verbs" e="обучать" i="1604" m="teach" t="v" />
+<w c="verbs" e="испытать" i="1605" m="test" t="v" />
+<w c="verbs" e="благодарить" i="1606" m="thank" t="v" />
+<w c="verbs" e="думать" i="1607" m="think" t="v" />
+<w c="verbs" e="бросать; кидать" i="1608" m="throw" t="v" />
+<w c="verbs" e="назвать" i="1609" m="title" t="v" />
+<w c="verbs" e="торговать" i="1610" m="trade" t="v" />
+<w c="verbs" e="дрессировать" i="1611" m="train" t="v" />
+<w c="verbs" e="ходить" i="1612" m="travel" t="v" />
+<w c="verbs" e="лечить" i="1613" m="treat" t="v" />
+<w c="verbs" e="обмануть" i="1614" m="trick" t="v" />
+<w c="verbs" e="попробовать" i="1615" m="try" t="v" />
+<w c="verbs" e="повернуть" i="1616" m="turn" t="v" />
+<w c="verbs" e="посетить" i="1617" m="visit" t="v" />
+<w c="verbs" e="идти" i="1618" m="walk" t="v" />
+<w c="verbs" e="нагревать" i="1619" m="warm" t="v" />
+<w c="verbs" e="вымыть" i="1620" m="wash" t="v" />
+<w c="verbs" e="смотреть" i="1621" m="watch" t="v" />
+<w c="verbs" e="носить" i="1622" m="wear" t="v" />
+<w c="verbs" e="взвешивать(ся)" i="1623" m="weigh" t="v" />
+<w c="verbs" e="выиграть; победить" i="1624" m="win" t="v" />
+<w c="verbs" e="пожелать; хотеть" i="1625" m="wish" t="v" />
+<w c="verbs" e="быть" i="1626" m="be" t="v" />
+<w c="verbs" e="начинаться" i="1627" m="begin" t="v" />
+<w c="verbs" e="разбить" i="1628" m="break" t="v" />
+<w c="verbs" e="купить" i="1629" m="buy" t="v" />
+<w c="verbs" e="закрывать" i="1630" m="close" t="v" />
+<w c="verbs" e="приходить" i="1631" m="come" t="v" />
+<w c="verbs" e="резать" i="1632" m="cut" t="v" />
+<w c="verbs" e="танцевать" i="1633" m="dance" t="v" />
+<w c="verbs" e="проводить; практиковать" i="1634" m="do" t="v" />
+<w c="verbs" e="пить" i="1635" m="drink" t="v" />
+<w c="verbs" e="есть" i="1636" m="eat" t="v" />
+<w c="verbs" e="падать; упасть" i="1637" m="fall" t="v" />
+<w c="verbs" e="чувствовать" i="1638" m="feel" t="v" />
+<w c="verbs" e="находить" i="1639" m="find" t="v" />
+<w c="verbs" e="стрелять" i="1640" m="fire" t="v" />
+<w c="verbs" e="летать" i="1641" m="fly" t="v" />
+<w c="verbs" e="следовать" i="1642" m="follow" t="v" />
+<w c="verbs" e="забыть; забывать" i="1643" m="forget" t="v" />
+<w c="verbs" e="получить" i="1644" m="get" t="v" />
+<w c="verbs" e="давать" i="1645" m="give" t="v" />
+<w c="verbs" e="иметь" i="1646" m="have" t="v" />
+<w c="verbs" e="слышать" i="1647" m="hear" t="v" />
+<w c="verbs" e="помочь" i="1648" m="help" t="v" />
+<w c="verbs" e="надеяться" i="1649" m="hope" t="v" />
+<w c="verbs" e="прыгать; скакать" i="1650" m="jump" t="v" />
+<w c="verbs" e="целовать" i="1651" m="kiss" t="v" />
+<w c="verbs" e="знать" i="1652" m="know" t="v" />
+<w c="verbs" e="смеяться" i="1653" m="laugh" t="v" />
+<w c="verbs" e="учить(ся)" i="1654" m="learn" t="v" />
+<w c="verbs" e="лежать" i="1655" m="lie" t="v" />
+<w c="verbs" e="лгать" i="1656" m="lie" t="v" />
+<w c="verbs" e="нравиться; любить" i="1657" m="like" t="v" />
+<w c="verbs" e="слушать" i="1658" m="listen" t="v" />
+<w c="verbs" e="смотреть" i="1659" m="look" t="v" />
+<w c="verbs" e="терять" i="1660" m="lose" t="v" />
+<w c="verbs" e="любить" i="1661" m="love" t="v" />
+<w c="verbs" e="делать" i="1662" m="make" t="v" />
+<w c="verbs" e="встречать(ся)" i="1663" m="meet" t="v" />
+<w c="verbs" e="двигать" i="1664" m="move" t="v" />
+<w c="verbs" e="требовать" i="1665" m="need" t="v" />
+<w c="verbs" e="предложить" i="1666" m="offer" t="v" />
+<w c="verbs" e="открыть" i="1667" m="open" t="v" />
+<w c="verbs" e="платить" i="1668" m="pay" t="v" />
+<w c="verbs" e="играть" i="1669" m="play" t="v" />
+<w c="verbs" e="тянуть" i="1670" m="pull" t="v" />
+<w c="verbs" e="толкнуть" i="1671" m="push" t="v" />
+<w c="verbs" e="класть" i="1672" m="put" t="v" />
+<w c="verbs" e="читать" i="1673" m="read" t="v" />
+<w c="verbs" e="помнить" i="1674" m="remember" t="v" />
+<w c="verbs" e="бежать" i="1675" m="run" t="v" />
+<w c="verbs" e="говорить" i="1676" m="say" t="v" />
+<w c="verbs" e="продать" i="1677" m="sell" t="v" />
+<w c="verbs" e="петь" i="1678" m="sing" t="v" />
+<w c="verbs" e="сидеть" i="1679" m="sit" t="v" />
+<w c="verbs" e="улыбаться" i="1680" m="smile" t="v" />
+<w c="verbs" e="плавать" i="1681" m="swim" t="v" />
+<w c="verbs" e="взять; брать" i="1682" m="take" t="v" />
+<w c="verbs" e="говорить" i="1683" m="talk" t="v" />
+<w c="verbs" e="рисовать" i="1684" m="trace" t="v" />
+<w c="verbs" e="понимать" i="1685" m="understand" t="v" />
+<w c="verbs" e="использовать" i="1686" m="use" t="v" />
+<w c="verbs" e="ждать" i="1687" m="wait" t="v" />
+<w c="verbs" e="работать" i="1688" m="work" t="v" />
+<w c="verbs" e="писать" i="1689" m="write" t="v" />
+<w c="weather" e="облако" i="1690" m="cloud" t="n" />
+<w c="weather" e="роса" i="1691" m="dew" t="n" />
+<w c="weather" e="туман" i="1692" m="fog" t="n" />
+<w c="weather" e="иней" i="1693" m="frost" t="n" />
+<w c="weather" e="молния" i="1694" m="lightning" t="n" />
+<w c="weather" e="дождь" i="1695" m="rain" t="n" />
+<w c="weather" e="радуга" i="1696" m="rainbow" t="n" />
+<w c="weather" e="снег" i="1697" m="snow" t="n" />
+<w c="weather" e="буря" i="1698" m="storm" t="n" />
+<w c="weather" e="гром" i="1699" m="thunder" t="n" />
+<w c="weather" e="ветер" i="1700" m="wind" t="n" />
+</vocb>

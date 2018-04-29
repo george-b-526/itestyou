@@ -1,0 +1,1492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Korean (&#xD55C;&#xAD6D;&#xC5B4;)">
+<!--generated: Sun Jan 29 02:47:54 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="능력" i="0" m="ability" t="n" />
+<w c="abstract" e="행동" i="1" m="act" t="n" />
+<w c="abstract" e="행동" i="2" m="action" t="n" />
+<w c="abstract" e="활동성" i="3" m="activity" t="n" />
+<w c="abstract" e="부가" i="4" m="addition" t="n" />
+<w c="abstract" e="공격" i="5" m="attack" t="n" />
+<w c="abstract" e="시도" i="6" m="attempt" t="n" />
+<w c="abstract" e="처신" i="7" m="behavior" t="n" />
+<w c="abstract" e="조금" i="8" m="bit" t="n" />
+<w c="abstract" e="타격" i="9" m="blow" t="n" />
+<w c="abstract" e="중단" i="10" m="break" t="n" />
+<w c="abstract" e="군사 행동" i="11" m="campaign" t="n" />
+<w c="abstract" e="사례" i="12" m="case" t="n" />
+<w c="abstract" e="기회" i="13" m="chance" t="n" />
+<w c="abstract" e="변경" i="14" m="change" t="n" />
+<w c="abstract" e="선택" i="15" m="choice" t="n" />
+<w c="abstract" e="상태" i="16" m="condition" t="n" />
+<w c="abstract" e="커넥터" i="17" m="connection" t="n" />
+<w c="abstract" e="갈라진 틈" i="18" m="crack" t="n" />
+<w c="abstract" e="자르기" i="19" m="cut" t="n" />
+<w c="abstract" e="피해" i="20" m="damage" t="n" />
+<w c="abstract" e="장식품" i="21" m="decoration" t="n" />
+<w c="abstract" e="파괴" i="22" m="destruction" t="n" />
+<w c="abstract" e="지배" i="23" m="dominance" t="n" />
+<w c="abstract" e="방울" i="24" m="drop" t="n" />
+<w c="abstract" e="노력" i="25" m="effort" t="n" />
+<w c="abstract" e="함락" i="26" m="fall" t="n" />
+<w c="abstract" e="특징" i="27" m="feature" t="n" />
+<w c="abstract" e="전투" i="28" m="fight" t="n" />
+<w c="abstract" e="정면" i="29" m="front" t="n" />
+<w c="abstract" e="고도" i="30" m="height" t="n" />
+<w c="abstract" e="터진 구멍" i="31" m="hole" t="n" />
+<w c="abstract" e="증대" i="32" m="increase" t="n" />
+<w c="abstract" e="성장" i="33" m="increase" t="n" />
+<w c="abstract" e="가상 공간" i="34" m="internet" t="n" />
+<w c="abstract" e="진동" i="35" m="jolt" t="n" />
+<w c="abstract" e="뛰기" i="36" m="jump" t="n" />
+<w c="abstract" e="차다" i="37" m="kick" t="n" />
+<w c="abstract" e="종류" i="38" m="kind" t="n" />
+<w c="abstract" e="매듭" i="39" m="knot" t="n" />
+<w c="abstract" e="리스트" i="40" m="list" t="n" />
+<w c="abstract" e="대다수" i="41" m="majority" t="n" />
+<w c="abstract" e="행동 방식" i="42" m="manner" t="n" />
+<w c="abstract" e="주제" i="43" m="matter" t="n" />
+<w c="abstract" e="방법" i="44" m="means" t="n" />
+<w c="abstract" e="마음" i="45" m="mind" t="n" />
+<w c="abstract" e="시행" i="46" m="operation" t="n" />
+<w c="abstract" e="돌발" i="47" m="outburst" t="n" />
+<w c="abstract" e="일부" i="48" m="part" t="n" />
+<w c="abstract" e="일부" i="49" m="part" t="n" />
+<w c="abstract" e="한 장" i="50" m="piece" t="n" />
+<w c="abstract" e="현장" i="51" m="place" t="n" />
+<w c="abstract" e="위치" i="52" m="position" t="n" />
+<w c="abstract" e="힘" i="53" m="power" t="n" />
+<w c="abstract" e="실행" i="54" m="practice" t="n" />
+<w c="abstract" e="과업" i="55" m="project" t="n" />
+<w c="abstract" e="속성" i="56" m="property" t="n" />
+<w c="abstract" e="질" i="57" m="quality" t="n" />
+<w c="abstract" e="침착" i="58" m="quiet" t="n" />
+<w c="abstract" e="책임" i="59" m="responsibility" t="n" />
+<w c="abstract" e="휴식" i="60" m="rest" t="n" />
+<w c="abstract" e="귀가" i="61" m="return" t="n" />
+<w c="abstract" e="대두" i="62" m="rise" t="n" />
+<w c="abstract" e="위험" i="63" m="risk" t="n" />
+<w c="abstract" e="좌석" i="64" m="seat" t="n" />
+<w c="abstract" e="한 벌" i="65" m="set" t="n" />
+<w c="abstract" e="떨림" i="66" m="shake" t="n" />
+<w c="abstract" e="조용함" i="67" m="silence" t="n" />
+<w c="abstract" e="상황" i="68" m="situation" t="n" />
+<w c="abstract" e="조각" i="69" m="slice" t="n" />
+<w c="abstract" e="상태" i="70" m="state" t="n" />
+<w c="abstract" e="발소리" i="71" m="step" t="n" />
+<w c="abstract" e="멈춤" i="72" m="stop" t="n" />
+<w c="abstract" e="미각" i="73" m="taste" t="n" />
+<w c="abstract" e="물체" i="74" m="thing" t="n" />
+<w c="abstract" e="절정" i="75" m="top" t="n" />
+<w c="abstract" e="닿기" i="76" m="touch" t="n" />
+<w c="abstract" e="취급" i="77" m="treatment" t="n" />
+<w c="abstract" e="속임수" i="78" m="trick" t="n" />
+<w c="abstract" e="해어짐" i="79" m="wear" t="n" />
+<w c="abstract" e="하나의 통일체" i="80" m="whole" t="n" />
+<w c="abstract" e="의지" i="81" m="will" t="n" />
+<w c="abstract" e="필요한 것" i="82" m="wish" t="n" />
+<w c="adjectives" e="전에" i="83" m="ago" t="adj" />
+<w c="adjectives" e="어느" i="84" m="any" t="adj" />
+<w c="adjectives" e="자동의" i="85" m="automatic" t="adj" />
+<w c="adjectives" e="이용할 수 있는" i="86" m="available" t="adj" />
+<w c="adjectives" e="괴로운" i="87" m="bitter" t="adj" />
+<w c="adjectives" e="지루한" i="88" m="boring" t="adj" />
+<w c="adjectives" e="깨진" i="89" m="broken" t="adj" />
+<w c="adjectives" e="중심적인" i="90" m="central" t="adj" />
+<w c="adjectives" e="틀림 없는" i="91" m="certain" t="adj" />
+<w c="adjectives" e="싼" i="92" m="cheap" t="adj" />
+<w c="adjectives" e="맑은" i="93" m="clear" t="adj" />
+<w c="adjectives" e="닫힌" i="94" m="closed" t="adj" />
+<w c="adjectives" e="흔한" i="95" m="common" t="adj" />
+<w c="adjectives" e="공통의" i="96" m="common" t="adj" />
+<w c="adjectives" e="완전한" i="97" m="complete" t="adj" />
+<w c="adjectives" e="알고 있는" i="98" m="conscious" t="adj" />
+<w c="adjectives" e="잔인한" i="99" m="cruel" t="adj" />
+<w c="adjectives" e="위험한" i="100" m="dangerous" t="adj" />
+<w c="adjectives" e="섬세한" i="101" m="delicate" t="adj" />
+<w c="adjectives" e="다른" i="102" m="different" t="adj" />
+<w c="adjectives" e="닮지 않은" i="103" m="different" t="adj" />
+<w c="adjectives" e="아래로" i="104" m="down" t="adj" />
+<w c="adjectives" e="마른" i="105" m="dry" t="adj" />
+<w c="adjectives" e="각각의" i="106" m="each" t="adj" />
+<w c="adjectives" e="이른" i="107" m="early" t="adj" />
+<w c="adjectives" e="쉬운" i="108" m="easy" t="adj" />
+<w c="adjectives" e="경제상의" i="109" m="economic" t="adj" />
+<w c="adjectives" e="검소한" i="110" m="economic" t="adj" />
+<w c="adjectives" e="전기의" i="111" m="electric" t="adj" />
+<w c="adjectives" e="똑같은" i="112" m="equal" t="adj" />
+<w c="adjectives" e="대등한" i="113" m="even" t="adj" />
+<w c="adjectives" e="어느 것이나 모두" i="114" m="every" t="adj" />
+<w c="adjectives" e="뛰어난" i="115" m="excellent" t="adj" />
+<w c="adjectives" e="거짓의" i="116" m="fake" t="adj" />
+<w c="adjectives" e="먼" i="117" m="far" t="adj" />
+<w c="adjectives" e="뚱뚱한" i="118" m="fat" t="adj" />
+<w c="adjectives" e="큰" i="119" m="fat" t="adj" />
+<w c="adjectives" e="소수의" i="120" m="few" t="adj" />
+<w c="adjectives" e="최종의" i="121" m="final" t="adj" />
+<w c="adjectives" e="단단한" i="122" m="firm" t="adj" />
+<w c="adjectives" e="평평한" i="123" m="flat" t="adj" />
+<w c="adjectives" e="그 다음의" i="124" m="following" t="adj" />
+<w c="adjectives" e="외국의" i="125" m="foreign" t="adj" />
+<w c="adjectives" e="이전의" i="126" m="former" t="adj" />
+<w c="adjectives" e="주의를 요하는" i="127" m="fragile" t="adj" />
+<w c="adjectives" e="무료의" i="128" m="free" t="adj" />
+<w c="adjectives" e="잦은" i="129" m="frequent" t="adj" />
+<w c="adjectives" e="싱싱한" i="130" m="fresh" t="adj" />
+<w c="adjectives" e="가득 찬" i="131" m="full" t="adj" />
+<w c="adjectives" e="전체의" i="132" m="full" t="adj" />
+<w c="adjectives" e="미래의" i="133" m="future" t="adj" />
+<w c="adjectives" e="일반적인" i="134" m="general" t="adj" />
+<w c="adjectives" e="산업의" i="135" m="industrial" t="adj" />
+<w c="adjectives" e="국제적인" i="136" m="international" t="adj" />
+<w c="adjectives" e="마지막의" i="137" m="last" t="adj" />
+<w c="adjectives" e="늦다; 지각하다" i="138" m="late" t="adj" />
+<w c="adjectives" e="합법적인" i="139" m="legal" t="adj" />
+<w c="adjectives" e="지역의" i="140" m="local" t="adj" />
+<w c="adjectives" e="큰 소리를 내는" i="141" m="loud" t="adj" />
+<w c="adjectives" e="적은" i="142" m="low" t="adj" />
+<w c="adjectives" e="운이 좋은" i="143" m="lucky" t="adj" />
+<w c="adjectives" e="제1위의" i="144" m="main" t="adj" />
+<w c="adjectives" e="큰 쪽의" i="145" m="major" t="adj" />
+<w c="adjectives" e="많은" i="146" m="many" t="adj" />
+<w c="adjectives" e="금속(질)의" i="147" m="metal" t="adj" />
+<w c="adjectives" e="군인의" i="148" m="military" t="adj" />
+<w c="adjectives" e="미소한" i="149" m="minute" t="adj" />
+<w c="adjectives" e="현대적인" i="150" m="modern" t="adj" />
+<w c="adjectives" e="여분의" i="151" m="more" t="adj" />
+<w c="adjectives" e="많은" i="152" m="much" t="adj" />
+<w c="adjectives" e="좁은" i="153" m="narrow" t="adj" />
+<w c="adjectives" e="자연의" i="154" m="natural" t="adj" />
+<w c="adjectives" e="필요한" i="155" m="necessary" t="adj" />
+<w c="adjectives" e="인접한" i="156" m="next" t="adj" />
+<w c="adjectives" e="정상적인" i="157" m="normal" t="adj" />
+<w c="adjectives" e="반대쪽의" i="158" m="opposite" t="adj" />
+<w c="adjectives" e="본래의" i="159" m="original" t="adj" />
+<w c="adjectives" e="평행의" i="160" m="parallel" t="adj" />
+<w c="adjectives" e="특별한" i="161" m="particular" t="adj" />
+<w c="adjectives" e="방금 지난" i="162" m="past" t="adj" />
+<w c="adjectives" e="개인의" i="163" m="personal" t="adj" />
+<w c="adjectives" e="육체의" i="164" m="physical" t="adj" />
+<w c="adjectives" e="가난한" i="165" m="poor" t="adj" />
+<w c="adjectives" e="이해하기 쉬운" i="166" m="popular" t="adj" />
+<w c="adjectives" e="있을 수 있는" i="167" m="possible" t="adj" />
+<w c="adjectives" e="있는" i="168" m="present" t="adj" />
+<w c="adjectives" e="이전의" i="169" m="previous" t="adj" />
+<w c="adjectives" e="개인적인" i="170" m="private" t="adj" />
+<w c="adjectives" e="있음직한" i="171" m="probable" t="adj" />
+<w c="adjectives" e="직업적인" i="172" m="professional" t="adj" />
+<w c="adjectives" e="대중의" i="173" m="public" t="adj" />
+<w c="adjectives" e="조용한" i="174" m="quiet" t="adj" />
+<w c="adjectives" e="준비된" i="175" m="ready" t="adj" />
+<w c="adjectives" e="최근의" i="176" m="recent" t="adj" />
+<w c="adjectives" e="일정한" i="177" m="regular" t="adj" />
+<w c="adjectives" e="책임을 지는" i="178" m="responsible" t="adj" />
+<w c="adjectives" e="굳은" i="179" m="rigid" t="adj" />
+<w c="adjectives" e="난폭한" i="180" m="rough" t="adj" />
+<w c="adjectives" e="둥근" i="181" m="round" t="adj" />
+<w c="adjectives" e="슬픈" i="182" m="sad" t="adj" />
+<w c="adjectives" e="안심할 수 있는" i="183" m="safe" t="adj" />
+<w c="adjectives" e="동일한" i="184" m="same" t="adj" />
+<w c="adjectives" e="두번째의" i="185" m="second" t="adj" />
+<w c="adjectives" e="비밀의" i="186" m="secret" t="adj" />
+<w c="adjectives" e="분리된" i="187" m="separate" t="adj" />
+<w c="adjectives" e="엄숙한" i="188" m="serious" t="adj" />
+<w c="adjectives" e="몇몇의" i="189" m="several" t="adj" />
+<w c="adjectives" e="짧은" i="190" m="short" t="adj" />
+<w c="adjectives" e="조용한" i="191" m="silent" t="adj" />
+<w c="adjectives" e="은빛의 (eunbichui)" i="192" m="silver" t="adj" />
+<w c="adjectives" e="쉬운" i="193" m="simple" t="adj" />
+<w c="adjectives" e="단 하나의" i="194" m="single" t="adj" />
+<w c="adjectives" e="작은" i="195" m="small" t="adj" />
+<w c="adjectives" e="매끄러운" i="196" m="smooth" t="adj" />
+<w c="adjectives" e="고체의" i="197" m="solid" t="adj" />
+<w c="adjectives" e="성긴" i="198" m="sparse" t="adj" />
+<w c="adjectives" e="특별한" i="199" m="special" t="adj" />
+<w c="adjectives" e="특정의" i="200" m="specific" t="adj" />
+<w c="adjectives" e="모난" i="201" m="square" t="adj" />
+<w c="adjectives" e="표준의" i="202" m="standard" t="adj" />
+<w c="adjectives" e="점착성의" i="203" m="sticky" t="adj" />
+<w c="adjectives" e="곧은" i="204" m="straight" t="adj" />
+<w c="adjectives" e="생소한" i="205" m="strange" t="adj" />
+<w c="adjectives" e="우아한" i="206" m="stylish" t="adj" />
+<w c="adjectives" e="돌연한" i="207" m="sudden" t="adj" />
+<w c="adjectives" e="단" i="208" m="sweet" t="adj" />
+<w c="adjectives" e="키가 큰" i="209" m="tall" t="adj" />
+<w c="adjectives" e="걸쭉한" i="210" m="thick" t="adj" />
+<w c="adjectives" e="얇은" i="211" m="thin" t="adj" />
+<w c="adjectives" e="꽉 끼는" i="212" m="tight" t="adj" />
+<w c="adjectives" e="진실의" i="213" m="true" t="adj" />
+<w c="adjectives" e="추악한 (chuakhan)" i="214" m="ugly" t="adj" />
+<w c="adjectives" e="아래에 (araee)" i="215" m="under" t="adj" />
+<w c="adjectives" e="흔한" i="216" m="usual" t="adj" />
+<w c="adjectives" e="다른" i="217" m="various" t="adj" />
+<w c="adjectives" e="따뜻한" i="218" m="warm" t="adj" />
+<w c="adjectives" e="젖은" i="219" m="wet" t="adj" />
+<w c="adjectives" e="전..." i="220" m="whole" t="adj" />
+<w c="adjectives" e="넓은" i="221" m="wide" t="adj" />
+<w c="adjectives" e="또 하나의" i="222" m="another" t="adj" />
+<w c="adjectives" e="서투른" i="223" m="bad" t="adj" />
+<w c="adjectives" e="기초의" i="224" m="basic" t="adj" />
+<w c="adjectives" e="아름다운" i="225" m="beautiful" t="adj" />
+<w c="adjectives" e="최상의" i="226" m="best" t="adj" />
+<w c="adjectives" e="더 나은" i="227" m="better" t="adj" />
+<w c="adjectives" e="큰" i="228" m="big" t="adj" />
+<w c="adjectives" e="깨끗한" i="229" m="clean" t="adj" />
+<w c="adjectives" e="차가운" i="230" m="cold" t="adj" />
+<w c="adjectives" e="틀림이 없는" i="231" m="correct" t="adj" />
+<w c="adjectives" e="어두운" i="232" m="dark" t="adj" />
+<w c="adjectives" e="어려운" i="233" m="difficult" t="adj" />
+<w c="adjectives" e="부정한" i="234" m="dirty" t="adj" />
+<w c="adjectives" e="빠른" i="235" m="fast" t="adj" />
+<w c="adjectives" e="얌전한" i="236" m="good" t="adj" />
+<w c="adjectives" e="위대한" i="237" m="great" t="adj" />
+<w c="adjectives" e="유쾌한" i="238" m="great" t="adj" />
+<w c="adjectives" e="행복한" i="239" m="happy" t="adj" />
+<w c="adjectives" e="건강한" i="240" m="healthy" t="adj" />
+<w c="adjectives" e="무거운" i="241" m="heavy" t="adj" />
+<w c="adjectives" e="뜨거운" i="242" m="hot" t="adj" />
+<w c="adjectives" e="중요한" i="243" m="important" t="adj" />
+<w c="adjectives" e="왼쪽의" i="244" m="left" t="adj" />
+<w c="adjectives" e="가벼운" i="245" m="light" t="adj" />
+<w c="adjectives" e="가까운" i="246" m="near" t="adj" />
+<w c="adjectives" e="새로운" i="247" m="new" t="adj" />
+<w c="adjectives" e="좋은" i="248" m="nice" t="adj" />
+<w c="adjectives" e="실재하는" i="249" m="real" t="adj" />
+<w c="adjectives" e="오른쪽의" i="250" m="right" t="adj" />
+<w c="adjectives" e="예민한" i="251" m="sharp" t="adj" />
+<w c="adjectives" e="느린" i="252" m="slow" t="adj" />
+<w c="adjectives" e="부드러운" i="253" m="soft" t="adj" />
+<w c="adjectives" e="뚜렷한" i="254" m="strong" t="adj" />
+<w c="adjectives" e="힘이 없는" i="255" m="weak" t="adj" />
+<w c="adjectives" e="잘못된" i="256" m="wrong" t="adj" />
+<w c="adjective" e="...을 할 수 있는" i="257" m="able" t="adj" />
+<w c="adjective" e="살아 있는" i="258" m="alive" t="adj" />
+<w c="adjective" e="고독한" i="259" m="alone" t="adj" />
+<w c="adjective" e="성난" i="260" m="angry" t="adj" />
+<w c="adjective" e="죽은" i="261" m="dead" t="adj" />
+<w c="adjective" e="여자 (yeoja)" i="262" m="female" t="adj" />
+<w c="adjective" e="자유로운" i="263" m="free" t="adj" />
+<w c="adjective" e="친절한" i="264" m="friendly" t="adj" />
+<w c="adjective" e="건강한" i="265" m="healthy" t="adj" />
+<w c="adjective" e="사람의" i="266" m="human" t="adj" />
+<w c="adjective" e="배고픈" i="267" m="hungry" t="adj" />
+<w c="adjective" e="건강이 나쁜" i="268" m="ill" t="adj" />
+<w c="adjective" e="조급한" i="269" m="impatient" t="adj" />
+<w c="adjective" e="총명한" i="270" m="intelligent" t="adj" />
+<w c="adjective" e="친절한" i="271" m="kind" t="adj" />
+<w c="adjective" e="수컷" i="272" m="male" t="adj" />
+<w c="adjective" e="결혼한" i="273" m="married" t="adj" />
+<w c="adjective" e="비열한" i="274" m="mean" t="adj" />
+<w c="adjective" e="의료의" i="275" m="medical" t="adj" />
+<w c="adjective" e="나이 많은" i="276" m="old" t="adj" />
+<w c="adjective" e="환자" i="277" m="patient" t="adj" />
+<w c="adjective" e="개인적인" i="278" m="private" t="adj" />
+<w c="adjective" e="돈 많은" i="279" m="rich" t="adj" />
+<w c="adjective" e="위풍 당당한" i="280" m="royal" t="adj" />
+<w c="adjective" e="슬픈" i="281" m="sad" t="adj" />
+<w c="adjective" e="기민한" i="282" m="sharp" t="adj" />
+<w c="adjective" e="진정한" i="283" m="sincere" t="adj" />
+<w c="adjective" e="독신의" i="284" m="single" t="adj" />
+<w c="adjective" e="숙달된" i="285" m="skilful" t="adj" />
+<w c="adjective" e="어리석은" i="286" m="stupid" t="adj" />
+<w c="adjective" e="성공한" i="287" m="successful" t="adj" />
+<w c="adjective" e="목이 마른" i="288" m="thirsty" t="adj" />
+<w c="adjective" e="피곤한" i="289" m="tired" t="adj" />
+<w c="adjective" e="강렬한" i="290" m="violent" t="adj" />
+<w c="adjective" e="박식한" i="291" m="wise" t="adj" />
+<w c="adjective" e="젊은" i="292" m="young" t="adj" />
+<w c="adverb" e="주위에" i="293" m="about" t="adv" />
+<w c="adverb" e="...보다 높이" i="294" m="above" t="adv" />
+<w c="adverb" e="다시 한 번" i="295" m="again" t="adv" />
+<w c="adverb" e="거의" i="296" m="almost" t="adv" />
+<w c="adverb" e="...을 따라서" i="297" m="along" t="adv" />
+<w c="adverb" e="이전에" i="298" m="already" t="adv" />
+<w c="adverb" e="항상" i="299" m="always" t="adv" />
+<w c="adverb" e="대략" i="300" m="approximately" t="adv" />
+<w c="adverb" e="뒤에" i="301" m="behind" t="adv" />
+<w c="adverb" e="사이에" i="302" m="between" t="adv" />
+<w c="adverb" e="바로" i="303" m="directly" t="adv" />
+<w c="adverb" e="아래로" i="304" m="down" t="adv" />
+<w c="adverb" e="초기에" i="305" m="early" t="adv" />
+<w c="adverb" e="양쪽의" i="306" m="either" t="adv" />
+<w c="adverb" e="충분한" i="307" m="enough" t="adv" />
+<w c="adverb" e="바로" i="308" m="exactly" t="adv" />
+<w c="adverb" e="결국" i="309" m="finally" t="adv" />
+<w c="adverb" e="맨 처음" i="310" m="first" t="adv" />
+<w c="adverb" e="이 점에서" i="311" m="here" t="adv" />
+<w c="adverb" e="이리로" i="312" m="here" t="adv" />
+<w c="adverb" e="그럼에도 불구하고" i="313" m="however" t="adv" />
+<w c="adverb" e="곧" i="314" m="immediately" t="adv" />
+<w c="adverb" e="정말로" i="315" m="indeed" t="adv" />
+<w c="adverb" e="...의 안쪽에" i="316" m="inside" t="adv" />
+<w c="adverb" e="대신에" i="317" m="instead" t="adv" />
+<w c="adverb" e="가장 적게" i="318" m="least" t="adv" />
+<w c="adverb" e="적은" i="319" m="little" t="adv" />
+<w c="adverb" e="더 (deo)" i="320" m="more" t="adv" />
+<w c="adverb" e="대체로" i="321" m="mostly" t="adv" />
+<w c="adverb" e="...아니다" i="322" m="not" t="adv" />
+<w c="adverb" e="분명하게" i="323" m="obviously" t="adv" />
+<w c="adverb" e="자주" i="324" m="often" t="adv" />
+<w c="adverb" e="일찌기" i="325" m="once" t="adv" />
+<w c="adverb" e="특히" i="326" m="particularly" t="adv" />
+<w c="adverb" e="제발 (jebal)" i="327" m="please" t="adv" />
+<w c="adverb" e="아마" i="328" m="possibly" t="adv" />
+<w c="adverb" e="빨리" i="329" m="quickly" t="adv" />
+<w c="adverb" e="정말로" i="330" m="really" t="adv" />
+<w c="adverb" e="대단히" i="331" m="really" t="adv" />
+<w c="adverb" e="최근에" i="332" m="recently" t="adv" />
+<w c="adverb" e="단지" i="333" m="simply" t="adv" />
+<w c="adverb" e="느리게" i="334" m="slowly" t="adv" />
+<w c="adverb" e="그와 같이" i="335" m="so" t="adv" />
+<w c="adverb" e="이따금" i="336" m="sometimes" t="adv" />
+<w c="adverb" e="곧" i="337" m="soon" t="adv" />
+<w c="adverb" e="여전히" i="338" m="still" t="adv" />
+<w c="adverb" e="그러한" i="339" m="such" t="adv" />
+<w c="adverb" e="갑자기 (gapjagi); 급격하게 (gapgyeokhage)" i="340" m="suddenly" t="adv" />
+<w c="adverb" e="틀림없이" i="341" m="surely" t="adv" />
+<w c="adverb" e="그 때" i="342" m="then" t="adv" />
+<w c="adverb" e="이봐" i="343" m="there" t="adv" />
+<w c="adverb" e="그 결과" i="344" m="therefore" t="adv" />
+<w c="adverb" e="오늘" i="345" m="today" t="adv" />
+<w c="adverb" e="함께" i="346" m="together" t="adv" />
+<w c="adverb" e="내일" i="347" m="tomorrow" t="adv" />
+<w c="adverb" e="오늘밤" i="348" m="tonight" t="adv" />
+<w c="adverb" e="또한" i="349" m="too" t="adv" />
+<w c="adverb" e="위에 (wie); 위로 (wiro)" i="350" m="up" t="adv" />
+<w c="adverb" e="보통" i="351" m="usually" t="adv" />
+<w c="adverb" e="정말로" i="352" m="very" t="adv" />
+<w c="adverb" e="기분좋은" i="353" m="well" t="adv" />
+<w c="adverb" e="왜" i="354" m="why" t="adv" />
+<w c="anatomy" e="팔" i="355" m="arm" t="noun" />
+<w c="anatomy" e="백" i="356" m="back" t="noun" />
+<w c="anatomy" e="부리" i="357" m="beak" t="noun" />
+<w c="anatomy" e="혈액" i="358" m="blood" t="noun" />
+<w c="anatomy" e="몸통" i="359" m="body" t="noun" />
+<w c="anatomy" e="골격" i="360" m="bone" t="noun" />
+<w c="anatomy" e="뇌" i="361" m="brain" t="noun" />
+<w c="anatomy" e="숨" i="362" m="breath" t="noun" />
+<w c="anatomy" e="세포" i="363" m="cell" t="noun" />
+<w c="anatomy" e="가슴" i="364" m="chest" t="noun" />
+<w c="anatomy" e="가슴" i="365" m="chest" t="noun" />
+<w c="anatomy" e="아래턱" i="366" m="chin" t="noun" />
+<w c="anatomy" e="귀" i="367" m="ear" t="noun" />
+<w c="anatomy" e="눈" i="368" m="eye" t="noun" />
+<w c="anatomy" e="얼굴" i="369" m="face" t="noun" />
+<w c="anatomy" e="장갑의 손가락" i="370" m="finger" t="noun" />
+<w c="anatomy" e="발" i="371" m="foot" t="noun" />
+<w c="anatomy" e="이마" i="372" m="forehead" t="noun" />
+<w c="anatomy" e="유전(인)자" i="373" m="gene" t="noun" />
+<w c="anatomy" e="머리카락" i="374" m="hair" t="noun" />
+<w c="anatomy" e="털" i="375" m="hair" t="noun" />
+<w c="anatomy" e="손" i="376" m="hand" t="noun" />
+<w c="anatomy" e="머리" i="377" m="head" t="noun" />
+<w c="anatomy" e="심장" i="378" m="heart" t="noun" />
+<w c="anatomy" e="무릎" i="379" m="knee" t="noun" />
+<w c="anatomy" e="다리" i="380" m="leg" t="noun" />
+<w c="anatomy" e="입술" i="381" m="lip" t="noun" />
+<w c="anatomy" e="입" i="382" m="mouth" t="noun" />
+<w c="anatomy" e="근육" i="383" m="muscle" t="noun" />
+<w c="anatomy" e="손톱" i="384" m="nail" t="noun" />
+<w c="anatomy" e="목" i="385" m="neck" t="noun" />
+<w c="anatomy" e="신경" i="386" m="nerve" t="noun" />
+<w c="anatomy" e="코" i="387" m="nose" t="noun" />
+<w c="anatomy" e="피부" i="388" m="skin" t="noun" />
+<w c="anatomy" e="위" i="389" m="stomach" t="noun" />
+<w c="anatomy" e="꼬리" i="390" m="tail" t="noun" />
+<w c="anatomy" e="인후" i="391" m="throat" t="noun" />
+<w c="anatomy" e="엄지 손가락" i="392" m="thumb" t="noun" />
+<w c="anatomy" e="발가락" i="393" m="toe" t="noun" />
+<w c="anatomy" e="혀" i="394" m="tongue" t="noun" />
+<w c="anatomy" e="치아" i="395" m="tooth" t="noun" />
+<w c="anatomy" e="부속 건물" i="396" m="wing" t="noun" />
+<w c="animals" e="개미" i="397" m="ant" t="noun" />
+<w c="animals" e="곰" i="398" m="bear" t="noun" />
+<w c="animals" e="꿀벌" i="399" m="bee" t="noun" />
+<w c="animals" e="새" i="400" m="bird" t="noun" />
+<w c="animals" e="고양이" i="401" m="cat" t="noun" />
+<w c="animals" e="암소" i="402" m="cow" t="noun" />
+<w c="animals" e="개" i="403" m="dog" t="noun" />
+<w c="animals" e="코끼리" i="404" m="elephant" t="noun" />
+<w c="animals" e="어류" i="405" m="fish" t="noun" />
+<w c="animals" e="파리" i="406" m="fly" t="noun" />
+<w c="animals" e="염소" i="407" m="goat" t="noun" />
+<w c="animals" e="말" i="408" m="horse" t="noun" />
+<w c="animals" e="곤충" i="409" m="insect" t="noun" />
+<w c="animals" e="골프장" i="410" m="lion" t="noun" />
+<w c="animals" e="원숭이" i="411" m="monkey" t="noun" />
+<w c="animals" e="돼지" i="412" m="pig" t="noun" />
+<w c="animals" e="양" i="413" m="sheep" t="noun" />
+<w c="animals" e="뱀" i="414" m="snake" t="noun" />
+<w c="art" e="미술" i="415" m="art" t="n" />
+<w c="art" e="색" i="416" m="color" t="n" />
+<w c="art" e="음악회" i="417" m="concert" t="n" />
+<w c="art" e="다름" i="418" m="diversity" t="n" />
+<w c="art" e="오락" i="419" m="entertainment" t="n" />
+<w c="art" e="성공" i="420" m="hit" t="n" />
+<w c="art" e="관념" i="421" m="image" t="n" />
+<w c="art" e="엷은 막" i="422" m="movie" t="n" />
+<w c="art" e="음악" i="423" m="music" t="n" />
+<w c="art" e="음" i="424" m="note" t="n" />
+<w c="art" e="오케스트라" i="425" m="orchestra" t="n" />
+<w c="art" e="도료" i="426" m="paint" t="n" />
+<w c="art" e="유화" i="427" m="painting" t="n" />
+<w c="art" e="그림" i="428" m="picture" t="n" />
+<w c="art" e="시" i="429" m="poem" t="n" />
+<w c="art" e="시" i="430" m="poetry" t="n" />
+<w c="art" e="박자" i="431" m="rhythm" t="n" />
+<w c="art" e="노래" i="432" m="song" t="n" />
+<w c="art" e="무대" i="433" m="stage" t="n" />
+<w c="art" e="문체" i="434" m="style" t="n" />
+<w c="art" e="유행" i="435" m="vogue" t="n" />
+<w c="article" e="'not used''" i="436" m="the" t="" />
+<w c="business" e="채무 명세서" i="437" m="account" t="n" />
+<w c="business" e="이점" i="438" m="advantage" t="n" />
+<w c="business" e="광고" i="439" m="advertisement" t="n" />
+<w c="business" e="조언" i="440" m="advice" t="n" />
+<w c="business" e="계약" i="441" m="agreement" t="n" />
+<w c="business" e="주의" i="442" m="attention" t="n" />
+<w c="business" e="권능" i="443" m="authority" t="n" />
+<w c="business" e="지폐" i="444" m="banknote" t="n" />
+<w c="business" e="계약" i="445" m="bargain" t="n" />
+<w c="business" e="상표" i="446" m="brand" t="n" />
+<w c="business" e="상점" i="447" m="business" t="n" />
+<w c="business" e="여자 실업가 (yeoja sireopga)" i="448" m="businesswoman" t="n" />
+<w c="business" e="자본" i="449" m="capital" t="n" />
+<w c="business" e="잔돈" i="450" m="change" t="n" />
+<w c="business" e="수표" i="451" m="check" t="n" />
+<w c="business" e="위원회" i="452" m="committee" t="n" />
+<w c="business" e="회사" i="453" m="company" t="n" />
+<w c="business" e="경쟁 업체" i="454" m="competition" t="n" />
+<w c="business" e="불평" i="455" m="complaint" t="n" />
+<w c="business" e="시합" i="456" m="contest" t="n" />
+<w c="business" e="계약" i="457" m="contract" t="n" />
+<w c="business" e="자문 위원회" i="458" m="council" t="n" />
+<w c="business" e="수업" i="459" m="course" t="n" />
+<w c="business" e="고객" i="460" m="customer" t="n" />
+<w c="business" e="부서" i="461" m="department" t="n" />
+<w c="business" e="밑그림" i="462" m="design" t="n" />
+<w c="business" e="어려움" i="463" m="difficulty" t="n" />
+<w c="business" e="방향" i="464" m="direction" t="n" />
+<w c="business" e="지배인" i="465" m="director" t="n" />
+<w c="business" e="경제" i="466" m="economy" t="n" />
+<w c="business" e="환경" i="467" m="environment" t="n" />
+<w c="business" e="경험" i="468" m="experience" t="n" />
+<w c="business" e="회사" i="469" m="firm" t="n" />
+<w c="business" e="용지" i="470" m="form" t="n" />
+<w c="business" e="떼" i="471" m="group" t="n" />
+<w c="business" e="원조" i="472" m="help" t="n" />
+<w c="business" e="휴가" i="473" m="holiday" t="n" />
+<w c="business" e="수입" i="474" m="income" t="n" />
+<w c="business" e="제조업" i="475" m="industry" t="n" />
+<w c="business" e="보험료" i="476" m="insurance" t="n" />
+<w c="business" e="이자" i="477" m="interest" t="n" />
+<w c="business" e="대차 계정" i="478" m="invoice" t="n" />
+<w c="business" e="직업" i="479" m="job" t="n" />
+<w c="business" e="법" i="480" m="law" t="n" />
+<w c="business" e="휴가" i="481" m="leave" t="n" />
+<w c="business" e="손실" i="482" m="loss" t="n" />
+<w c="business" e="안내" i="483" m="management" t="n" />
+<w c="business" e="표지" i="484" m="marker" t="n" />
+<w c="business" e="시장" i="485" m="market" t="n" />
+<w c="business" e="재료" i="486" m="material" t="n" />
+<w c="business" e="중간 값" i="487" m="mean" t="n" />
+<w c="business" e="만남" i="488" m="meeting" t="n" />
+<w c="business" e="돈" i="489" m="money" t="n" />
+<w c="business" e="직업" i="490" m="occupation" t="n" />
+<w c="business" e="제공" i="491" m="offer" t="n" />
+<w c="business" e="공무원" i="492" m="officer" t="n" />
+<w c="business" e="조작" i="493" m="operation" t="n" />
+<w c="business" e="소유자" i="494" m="owner" t="n" />
+<w c="business" e="짐" i="495" m="package" t="n" />
+<w c="business" e="지구" i="496" m="part" t="n" />
+<w c="business" e="보상" i="497" m="payment" t="n" />
+<w c="business" e="방법" i="498" m="plan" t="n" />
+<w c="business" e="가격" i="499" m="price" t="n" />
+<w c="business" e="난제" i="500" m="problem" t="n" />
+<w c="business" e="제품" i="501" m="product" t="n" />
+<w c="business" e="이윤" i="502" m="profit" t="n" />
+<w c="business" e="소유물" i="503" m="property" t="n" />
+<w c="business" e="시세" i="504" m="rate" t="n" />
+<w c="business" e="나머지" i="505" m="rest" t="n" />
+<w c="business" e="권리" i="506" m="right" t="n" />
+<w c="business" e="판매" i="507" m="sale" t="n" />
+<w c="business" e="봉사" i="508" m="service" t="n" />
+<w c="business" e="주식" i="509" m="share" t="n" />
+<w c="business" e="상점" i="510" m="shop" t="n" />
+<w c="business" e="숙련" i="511" m="skill" t="n" />
+<w c="business" e="직원" i="512" m="staff" t="n" />
+<w c="business" e="구조" i="513" m="structure" t="n" />
+<w c="business" e="성공" i="514" m="success" t="n" />
+<w c="business" e="지지" i="515" m="support" t="n" />
+<w c="business" e="표" i="516" m="table" t="n" />
+<w c="business" e="세금" i="517" m="tax" t="n" />
+<w c="business" e="팀" i="518" m="team" t="n" />
+<w c="business" e="통상" i="519" m="trade" t="n" />
+<w c="business" e="가치" i="520" m="value" t="n" />
+<w c="business" e="보상" i="521" m="wages" t="n" />
+<w c="business" e="일" i="522" m="work" t="n" />
+<w c="business" e="육체 노동자" i="523" m="worker" t="n" />
+<w c="city" e="비행장" i="524" m="airport" t="n" />
+<w c="city" e="은행" i="525" m="bank" t="n" />
+<w c="city" e="다리" i="526" m="bridge" t="n" />
+<w c="city" e="건축물" i="527" m="building" t="n" />
+<w c="city" e="수도" i="528" m="capital" t="n" />
+<w c="city" e="성" i="529" m="castle" t="n" />
+<w c="city" e="교회" i="530" m="church" t="n" />
+<w c="city" e="영화관" i="531" m="cinema" t="n" />
+<w c="city" e="도시" i="532" m="city" t="n" />
+<w c="city" e="공장" i="533" m="factory" t="n" />
+<w c="city" e="아파트" i="534" m="flat" t="n" />
+<w c="city" e="병원" i="535" m="hospital" t="n" />
+<w c="city" e="호텔" i="536" m="hotel" t="n" />
+<w c="city" e="라이브러리" i="537" m="library" t="n" />
+<w c="city" e="박물관" i="538" m="museum" t="n" />
+<w c="city" e="공원" i="539" m="park" t="n" />
+<w c="city" e="교도소" i="540" m="prison" t="n" />
+<w c="city" e="식당" i="541" m="restaurant" t="n" />
+<w c="city" e="길" i="542" m="road" t="n" />
+<w c="city" e="학교" i="543" m="school" t="n" />
+<w c="city" e="국" i="544" m="station" t="n" />
+<w c="city" e="거리" i="545" m="street" t="n" />
+<w c="city" e="건설" i="546" m="structure" t="n" />
+<w c="city" e="지하철" i="547" m="subway" t="n" />
+<w c="city" e="슈퍼마켓" i="548" m="supermarket" t="n" />
+<w c="city" e="극장" i="549" m="theater" t="n" />
+<w c="city" e="읍" i="550" m="town" t="n" />
+<w c="city" e="마을" i="551" m="village" t="n" />
+<w c="clothes" e="자루" i="552" m="bag" t="n" />
+<w c="clothes" e="장화" i="553" m="boot" t="n" />
+<w c="clothes" e="직물" i="554" m="cloth" t="n" />
+<w c="clothes" e="의류" i="555" m="clothing" t="n" />
+<w c="clothes" e="외투" i="556" m="coat" t="n" />
+<w c="clothes" e="깃" i="557" m="collar" t="n" />
+<w c="clothes" e="모자" i="558" m="hat" t="n" />
+<w c="clothes" e="짧은 웃옷" i="559" m="jacket" t="n" />
+<w c="clothes" e="보석" i="560" m="jewel" t="n" />
+<w c="clothes" e="반지" i="561" m="ring" t="n" />
+<w c="clothes" e="셔츠" i="562" m="shirt" t="n" />
+<w c="clothes" e="구두" i="563" m="shoe" t="n" />
+<w c="clothes" e="치마" i="564" m="skirt" t="n" />
+<w c="clothes" e="양말" i="565" m="sock" t="n" />
+<w c="clothes" e="여행 가방" i="566" m="suitcase" t="n" />
+<w c="clothes" e="넥타이" i="567" m="tie" t="n" />
+<w c="colors" e="흑인의" i="568" m="black" t="adj" />
+<w c="colors" e="푸른" i="569" m="blue" t="adj" />
+<w c="colors" e="갈색의" i="570" m="brown" t="adj" />
+<w c="colors" e="회색의" i="571" m="gray" t="adj" />
+<w c="colors" e="익지 않은" i="572" m="green" t="adj" />
+<w c="colors" e="주황색 (朱黃色]; juhwangsaek) (noun)" i="573" m="orange" t="adj" />
+<w c="colors" e="분홍" i="574" m="pink" t="adj" />
+<w c="colors" e="빨강" i="575" m="red" t="adj" />
+<w c="colors" e="보랏빛이다" i="576" m="violet" t="adj" />
+<w c="colors" e="흰" i="577" m="white" t="adj" />
+<w c="colors" e="노랗다" i="578" m="yellow" t="adj" />
+<w c="communication" e="발표" i="579" m="announcement" t="n" />
+<w c="communication" e="대답" i="580" m="answer" t="n" />
+<w c="communication" e="승인" i="581" m="approval" t="n" />
+<w c="communication" e="논쟁" i="582" m="argument" t="n" />
+<w c="communication" e="이유" i="583" m="argument" t="n" />
+<w c="communication" e="(책의) 권" i="584" m="book" t="n" />
+<w c="communication" e="통화" i="585" m="call" t="n" />
+<w c="communication" e="문자" i="586" m="character" t="n" />
+<w c="communication" e="외침" i="587" m="cry" t="n" />
+<w c="communication" e="데이터" i="588" m="data" t="n" />
+<w c="communication" e="결정" i="589" m="decision" t="n" />
+<w c="communication" e="사전" i="590" m="dictionary" t="n" />
+<w c="communication" e="토론" i="591" m="discussion" t="n" />
+<w c="communication" e="의심스러움" i="592" m="doubt" t="n" />
+<w c="communication" e="체험" i="593" m="experience" t="n" />
+<w c="communication" e="보기" i="594" m="expression" t="n" />
+<w c="communication" e="감정" i="595" m="feeling" t="n" />
+<w c="communication" e="유머" i="596" m="humor" t="n" />
+<w c="communication" e="의견" i="597" m="idea" t="n" />
+<w c="communication" e="흥미" i="598" m="interest" t="n" />
+<w c="communication" e="인터뷰" i="599" m="interview" t="n" />
+<w c="communication" e="언어" i="600" m="language" t="n" />
+<w c="communication" e="국어" i="601" m="language" t="n" />
+<w c="communication" e="문자" i="602" m="letter" t="n" />
+<w c="communication" e="편지" i="603" m="letter" t="n" />
+<w c="communication" e="거짓말" i="604" m="lie" t="n" />
+<w c="communication" e="잡지" i="605" m="magazine" t="n" />
+<w c="communication" e="우편물" i="606" m="mail" t="n" />
+<w c="communication" e="추억" i="607" m="memory" t="n" />
+<w c="communication" e="기억력" i="608" m="memory" t="n" />
+<w c="communication" e="실수" i="609" m="mistake" t="n" />
+<w c="communication" e="이름" i="610" m="name" t="n" />
+<w c="communication" e="신문" i="611" m="newspaper" t="n" />
+<w c="communication" e="주석" i="612" m="note" t="n" />
+<w c="communication" e="수" i="613" m="number" t="n" />
+<w c="communication" e="견해" i="614" m="opinion" t="n" />
+<w c="communication" e="쪽" i="615" m="page" t="n" />
+<w c="communication" e="점" i="616" m="point" t="n" />
+<w c="communication" e="발음" i="617" m="pronunciation" t="n" />
+<w c="communication" e="신청" i="618" m="proposal" t="n" />
+<w c="communication" e="질문" i="619" m="question" t="n" />
+<w c="communication" e="반응" i="620" m="reaction" t="n" />
+<w c="communication" e="이유" i="621" m="reason" t="n" />
+<w c="communication" e="관계" i="622" m="relation" t="n" />
+<w c="communication" e="요구" i="623" m="request" t="n" />
+<w c="communication" e="비밀" i="624" m="secret" t="n" />
+<w c="communication" e="문장" i="625" m="sentence" t="n" />
+<w c="communication" e="부호" i="626" m="sign" t="n" />
+<w c="communication" e="언어" i="627" m="speech" t="n" />
+<w c="communication" e="철자 (cheolja)" i="628" m="spelling" t="n" />
+<w c="communication" e="표준" i="629" m="standard" t="n" />
+<w c="communication" e="성명서" i="630" m="statement" t="n" />
+<w c="communication" e="주제" i="631" m="subject" t="n" />
+<w c="communication" e="제안" i="632" m="suggestion" t="n" />
+<w c="communication" e="목소리" i="633" m="voice" t="n" />
+<w c="communication" e="낱말" i="634" m="word" t="n" />
+<w c="communication" e="쓴 것" i="635" m="writing" t="n" />
+<w c="conjunction" e="그리고" i="636" m="and" t="conj" />
+<w c="conjunction" e="-이기 때문에" i="637" m="because" t="conj" />
+<w c="conjunction" e="왜냐하면" i="638" m="for" t="conj" />
+<w c="conjunction" e="...인 때에는" i="639" m="if" t="conj" />
+<w c="conjunction" e="또는" i="640" m="or" t="conj" />
+<w c="conjunction" e="...보다" i="641" m="than" t="conj" />
+<w c="conjunction" e="언제나 (eonjena)" i="642" m="whenever" t="conj" />
+<w c="containers" e="자루" i="643" m="bag" t="n" />
+<w c="containers" e="바구니" i="644" m="basket" t="n" />
+<w c="containers" e="병" i="645" m="bottle" t="n" />
+<w c="containers" e="상자" i="646" m="box" t="n" />
+<w c="containers" e="깡통" i="647" m="can" t="n" />
+<w c="containers" e="컵" i="648" m="cup" t="n" />
+<w c="containers" e="컵" i="649" m="glass" t="n" />
+<w c="containers" e="접시" i="650" m="plate" t="n" />
+<w c="conversation" e="몰라" i="651" m="I don't know" t="" />
+<w c="conversation" e="건배" i="652" m="cheers" t="" />
+<w c="conversation" e="안녕하세요" i="653" m="good day" t="" />
+<w c="conversation" e="행운을 빕니다" i="654" m="good luck" t="" />
+<w c="conversation" e="생일" i="655" m="happy birthday" t="" />
+<w c="conversation" e="이봐" i="656" m="hello" t="" />
+<w c="conversation" e="처음 뵙겠읍니다" i="657" m="how are you" t="" />
+<w c="conversation" e="감사합니다" i="658" m="many thanks" t="" />
+<w c="conversation" e="제 이름은...입니다" i="659" m="my name is" t="" />
+<w c="conversation" e="아니오 (anio); 아뇨 (anyo)" i="660" m="no" t="" />
+<w c="conversation" e="감사드립니다" i="661" m="thank you very much" t="" />
+<w c="conversation" e="성함이 어떻게 되세요" i="662" m="what is your name" t="" />
+<w c="conversation" e="암" i="663" m="yes" t="" />
+<w c="conversation" e="천만에요" i="664" m="you're welcome" t="" />
+<w c="countries" e="중국" i="665" m="China" t="n" />
+<w c="countries" e="체코 공화국" i="666" m="Czech Republic" t="n" />
+<w c="countries" e="프랑스" i="667" m="France" t="n" />
+<w c="countries" e="독일" i="668" m="Germany" t="n" />
+<w c="countries" e="인도" i="669" m="India" t="n" />
+<w c="countries" e="이탈리아" i="670" m="Italy" t="n" />
+<w c="countries" e="일본" i="671" m="Japan" t="n" />
+<w c="countries" e="스페인" i="672" m="Spain" t="n" />
+<w c="countries" e="GB" i="673" m="United Kingdom" t="n" />
+<w c="countries" e="미국" i="674" m="United States" t="n" />
+<w c="devices" e="카메라" i="675" m="camera" t="n" />
+<w c="devices" e="휴대/이동 전화" i="676" m="cellphone" t="n" />
+<w c="devices" e="시계" i="677" m="clock" t="n" />
+<w c="devices" e="컴퓨터" i="678" m="computer" t="n" />
+<w c="devices" e="승강기" i="679" m="elevator" t="n" />
+<w c="devices" e="엔진" i="680" m="engine" t="n" />
+<w c="devices" e="기계" i="681" m="instrument" t="n" />
+<w c="devices" e="기계" i="682" m="machine" t="n" />
+<w c="devices" e="오븐" i="683" m="oven" t="n" />
+<w c="devices" e="텔레비전 수상기" i="684" m="television" t="n" />
+<w c="devices" e="카메라" i="685" m="television camera" t="n" />
+<w c="devices" e="시계" i="686" m="watch" t="n" />
+<w c="drinks" e="맥주" i="687" m="beer" t="n" />
+<w c="drinks" e="커피" i="688" m="coffee" t="n" />
+<w c="drinks" e="음료" i="689" m="drink" t="n" />
+<w c="drinks" e="밀크" i="690" m="milk" t="n" />
+<w c="drinks" e="밀크셰이크" i="691" m="milkshake" t="n" />
+<w c="drinks" e="차" i="692" m="tea" t="n" />
+<w c="drinks" e="물" i="693" m="water" t="n" />
+<w c="drinks" e="포도주" i="694" m="wine" t="n" />
+<w c="education" e="종류" i="695" m="class" t="n" />
+<w c="education" e="교육" i="696" m="education" t="n" />
+<w c="education" e="교육" i="697" m="education" t="n" />
+<w c="education" e="시험" i="698" m="examination" t="n" />
+<w c="education" e="점수" i="699" m="grade" t="n" />
+<w c="education" e="인식" i="700" m="knowledge" t="n" />
+<w c="education" e="학생의" i="701" m="student" t="n" />
+<w c="education" e="교사" i="702" m="teacher" t="n" />
+<w c="education" e="수습" i="703" m="training" t="n" />
+<w c="environment" e="산성비" i="704" m="acid rain" t="n" />
+<w c="environment" e="대기" i="705" m="atmosphere" t="n" />
+<w c="environment" e="기후 변화" i="706" m="climate change" t="n" />
+<w c="environment" e="생태학" i="707" m="ecology" t="n" />
+<w c="environment" e="주위의 경치" i="708" m="environment" t="n" />
+<w c="environment" e="화석 연료" i="709" m="fossil fuel" t="n" />
+<w c="environment" e="지구 온난화" i="710" m="global warming" t="n" />
+<w c="environment" e="온실 효과" i="711" m="greenhouse effect" t="n" />
+<w c="environment" e="광산" i="712" m="mine" t="n" />
+<w c="environment" e="오존" i="713" m="ozone" t="n" />
+<w c="environment" e="오염" i="714" m="pollution" t="n" />
+<w c="environment" e="스모그" i="715" m="smog" t="n" />
+<w c="environment" e="폐기물" i="716" m="waste" t="n" />
+<w c="family" e="젖먹이" i="717" m="baby" t="n" />
+<w c="family" e="탄생" i="718" m="birth" t="n" />
+<w c="family" e="생일" i="719" m="birthday" t="n" />
+<w c="family" e="사내아이" i="720" m="boy" t="n" />
+<w c="family" e="형제" i="721" m="brother" t="n" />
+<w c="family" e="딸" i="722" m="daughter" t="n" />
+<w c="family" e="죽음" i="723" m="death" t="n" />
+<w c="family" e="패밀리" i="724" m="family" t="n" />
+<w c="family" e="아버지" i="725" m="father" t="n" />
+<w c="family" e="친구" i="726" m="friend" t="n" />
+<w c="family" e="아가씨" i="727" m="girl" t="n" />
+<w c="family" e="조부" i="728" m="grandfather" t="n" />
+<w c="family" e="사람" i="729" m="human" t="n" />
+<w c="family" e="남편" i="730" m="husband" t="n" />
+<w c="family" e="남자" i="731" m="man" t="n" />
+<w c="family" e="결혼 생활" i="732" m="marriage" t="n" />
+<w c="family" e="어머니" i="733" m="mother" t="n" />
+<w c="family" e="이웃 사람" i="734" m="neighbor" t="n" />
+<w c="family" e="부 또는 모" i="735" m="parent" t="n" />
+<w c="family" e="사람" i="736" m="person" t="n" />
+<w c="family" e="관계" i="737" m="relationship" t="n" />
+<w c="family" e="자매" i="738" m="sister" t="n" />
+<w c="family" e="아들" i="739" m="son" t="n" />
+<w c="family" e="결혼" i="740" m="wedding" t="n" />
+<w c="family" e="결혼 (gyeolhon)" i="741" m="wedding" t="n" />
+<w c="family" e="아내" i="742" m="wife" t="n" />
+<w c="family" e="여자" i="743" m="woman" t="n" />
+<w c="feelings" e="두려움" i="744" m="fear" t="n" />
+<w c="feelings" e="증오" i="745" m="hate" t="n" />
+<w c="feelings" e="애정" i="746" m="love" t="n" />
+<w c="feelings" e="즐거움" i="747" m="pleasure" t="n" />
+<w c="feelings" e="희망" i="748" m="promise" t="n" />
+<w c="food" e="빵" i="749" m="bread" t="n" />
+<w c="food" e="아침 식사" i="750" m="breakfast" t="n" />
+<w c="food" e="버터" i="751" m="butter" t="n" />
+<w c="food" e="케이크" i="752" m="cake" t="n" />
+<w c="food" e="치즈" i="753" m="cheese" t="n" />
+<w c="food" e="초콜릿" i="754" m="chocolate" t="n" />
+<w c="food" e="우승컵" i="755" m="cup" t="n" />
+<w c="food" e="알" i="756" m="egg" t="n" />
+<w c="food" e="음식" i="757" m="food" t="n" />
+<w c="food" e="포크" i="758" m="fork" t="n" />
+<w c="food" e="열매" i="759" m="fruit" t="n" />
+<w c="food" e="식칼" i="760" m="knife" t="n" />
+<w c="food" e="가벼운 식사" i="761" m="lunch" t="n" />
+<w c="food" e="식사" i="762" m="meal" t="n" />
+<w c="food" e="고기" i="763" m="meat" t="n" />
+<w c="food" e="기름" i="764" m="oil" t="n" />
+<w c="food" e="샐러드" i="765" m="salad" t="n" />
+<w c="food" e="소금" i="766" m="salt" t="n" />
+<w c="food" e="샌드위치" i="767" m="sandwich" t="n" />
+<w c="food" e="소스" i="768" m="sauce" t="n" />
+<w c="food" e="수프" i="769" m="soup" t="n" />
+<w c="food" e="숟가락" i="770" m="spoon" t="n" />
+<w c="food" e="설탕" i="771" m="sugar" t="n" />
+<w c="food" e="단맛" i="772" m="sweet" t="n" />
+<w c="fruits" e="사과" i="773" m="apple" t="n" />
+<w c="fruits" e="살구" i="774" m="apricot" t="n" />
+<w c="fruits" e="바나나" i="775" m="banana" t="n" />
+<w c="fruits" e="검은딸기" i="776" m="blackberry" t="n" />
+<w c="fruits" e="버찌" i="777" m="cherry" t="n" />
+<w c="fruits" e="레몬; lemon" i="778" m="lemon" t="n" />
+<w c="fruits" e="견과" i="779" m="nut" t="n" />
+<w c="fruits" e="오렌지" i="780" m="orange" t="n" />
+<w c="fruits" e="복숭아" i="781" m="peach" t="n" />
+<w c="fruits" e="배" i="782" m="pear" t="n" />
+<w c="fruits" e="파인애플" i="783" m="pineapple" t="n" />
+<w c="fruits" e="서양 자두" i="784" m="plum" t="n" />
+<w c="fruits" e="나무딸기" i="785" m="raspberry" t="n" />
+<w c="fruits" e="딸기" i="786" m="strawberry" t="n" />
+<w c="furniture" e="침대" i="787" m="bed" t="n" />
+<w c="furniture" e="깔개" i="788" m="carpet" t="n" />
+<w c="furniture" e="의자" i="789" m="chair" t="n" />
+<w c="furniture" e="벽장" i="790" m="cupboard" t="n" />
+<w c="furniture" e="커튼" i="791" m="curtain" t="n" />
+<w c="furniture" e="책상" i="792" m="desk" t="n" />
+<w c="furniture" e="서랍" i="793" m="drawer" t="n" />
+<w c="furniture" e="선반" i="794" m="shelf" t="n" />
+<w c="furniture" e="세면기" i="795" m="sink" t="n" />
+<w c="furniture" e="식탁" i="796" m="table" t="n" />
+<w c="geography" e="지구" i="797" m="Earth" t="n" />
+<w c="geography" e="위성" i="798" m="Moon" t="n" />
+<w c="geography" e="둑" i="799" m="bank" t="n" />
+<w c="geography" e="해변" i="800" m="beach" t="n" />
+<w c="geography" e="동쪽" i="801" m="east" t="n" />
+<w c="geography" e="언덕" i="802" m="hill" t="n" />
+<w c="geography" e="섬" i="803" m="island" t="n" />
+<w c="geography" e="호수" i="804" m="lake" t="n" />
+<w c="geography" e="육지" i="805" m="land" t="n" />
+<w c="geography" e="지도" i="806" m="map" t="n" />
+<w c="geography" e="북쪽" i="807" m="north" t="n" />
+<w c="geography" e="평원" i="808" m="plain" t="n" />
+<w c="geography" e="강" i="809" m="river" t="n" />
+<w c="geography" e="바다" i="810" m="sea" t="n" />
+<w c="geography" e="남쪽" i="811" m="south" t="n" />
+<w c="geography" e="우주" i="812" m="space" t="n" />
+<w c="geography" e="항성" i="813" m="star" t="n" />
+<w c="geography" e="해" i="814" m="sun" t="n" />
+<w c="geography" e="서쪽" i="815" m="west" t="n" />
+<w c="house" e="주소" i="816" m="address" t="n" />
+<w c="house" e="화장실" i="817" m="bathroom" t="n" />
+<w c="house" e="침실" i="818" m="bedroom" t="n" />
+<w c="house" e="벽돌" i="819" m="brick" t="n" />
+<w c="house" e="문" i="820" m="door" t="n" />
+<w c="house" e="바닥" i="821" m="floor" t="n" />
+<w c="house" e="마루" i="822" m="floor" t="n" />
+<w c="house" e="가구" i="823" m="furniture" t="n" />
+<w c="house" e="차고" i="824" m="garage" t="n" />
+<w c="house" e="정원" i="825" m="garden" t="n" />
+<w c="house" e="출입구" i="826" m="gate" t="n" />
+<w c="house" e="로비" i="827" m="hall" t="n" />
+<w c="house" e="집" i="828" m="home" t="n" />
+<w c="house" e="주택" i="829" m="house" t="n" />
+<w c="house" e="부엌" i="830" m="kitchen" t="n" />
+<w c="house" e="지붕" i="831" m="roof" t="n" />
+<w c="house" e="방" i="832" m="room" t="n" />
+<w c="house" e="샤워" i="833" m="shower" t="n" />
+<w c="house" e="층계" i="834" m="step" t="n" />
+<w c="house" e="화장실" i="835" m="toilet" t="n" />
+<w c="house" e="담" i="836" m="wall" t="n" />
+<w c="house" e="우물" i="837" m="well" t="n" />
+<w c="house" e="창" i="838" m="window" t="n" />
+<w c="languages" e="중국어 (中國語; jungguk-eo)" i="839" m="Chinese" t="n" />
+<w c="languages" e="영어" i="840" m="English" t="n" />
+<w c="languages" e="독일어" i="841" m="German" t="n" />
+<w c="languages" e="힌디어 (hindi'eo)" i="842" m="Hindi" t="n" />
+<w c="languages" e="이탈리아어 (I-t'al-lia-eo)" i="843" m="Italian" t="n" />
+<w c="languages" e="일본어 (日本語; ilbon-eo); 일어 (日語; il-eo)" i="844" m="Japanese" t="n" />
+<w c="materials" e="산" i="845" m="acid" t="n" />
+<w c="materials" e="화학 약품" i="846" m="chemical" t="n" />
+<w c="materials" e="원소" i="847" m="chemical element" t="n" />
+<w c="materials" e="석탄" i="848" m="coal" t="n" />
+<w c="materials" e="먼지" i="849" m="dust" t="n" />
+<w c="materials" e="지구" i="850" m="earth" t="n" />
+<w c="materials" e="지방" i="851" m="fat" t="n" />
+<w c="materials" e="유리" i="852" m="glass" t="n" />
+<w c="materials" e="아교" i="853" m="glue" t="n" />
+<w c="materials" e="금" i="854" m="gold" t="n" />
+<w c="materials" e="얼음" i="855" m="ice" t="n" />
+<w c="materials" e="잉크" i="856" m="ink" t="n" />
+<w c="materials" e="철" i="857" m="iron" t="n" />
+<w c="materials" e="납" i="858" m="lead" t="n" />
+<w c="materials" e="가죽" i="859" m="leather" t="n" />
+<w c="materials" e="액체" i="860" m="liquid" t="n" />
+<w c="materials" e="물질" i="861" m="matter" t="n" />
+<w c="materials" e="금속" i="862" m="metallic element" t="n" />
+<w c="materials" e="석유" i="863" m="oil" t="n" />
+<w c="materials" e="종이" i="864" m="paper" t="n" />
+<w c="materials" e="독" i="865" m="poison" t="n" />
+<w c="materials" e="가루" i="866" m="powder" t="n" />
+<w c="materials" e="모래" i="867" m="sand" t="n" />
+<w c="materials" e="명주실" i="868" m="silk" t="n" />
+<w c="materials" e="은 제품" i="869" m="silver" t="n" />
+<w c="materials" e="비누" i="870" m="soap" t="n" />
+<w c="materials" e="강철" i="871" m="steel" t="n" />
+<w c="materials" e="목재" i="872" m="wood" t="n" />
+<w c="materials" e="양모" i="873" m="wool" t="n" />
+<w c="mathematics" e="덧셈" i="874" m="addition" t="n" />
+<w c="mathematics" e="각도" i="875" m="angle" t="n" />
+<w c="mathematics" e="면적" i="876" m="area" t="n" />
+<w c="mathematics" e="원" i="877" m="circle" t="n" />
+<w c="mathematics" e="원소" i="878" m="component" t="n" />
+<w c="mathematics" e="곡선" i="879" m="curve" t="n" />
+<w c="mathematics" e="고도" i="880" m="degree" t="n" />
+<w c="mathematics" e="차이" i="881" m="difference" t="n" />
+<w c="mathematics" e="거리" i="882" m="distance" t="n" />
+<w c="mathematics" e="분할" i="883" m="division" t="n" />
+<w c="mathematics" e="가장자리" i="884" m="edge" t="n" />
+<w c="mathematics" e="기능" i="885" m="function" t="n" />
+<w c="mathematics" e="반 (ban)" i="886" m="half" t="n" />
+<w c="mathematics" e="한계" i="887" m="limit" t="n" />
+<w c="mathematics" e="선" i="888" m="line" t="n" />
+<w c="mathematics" e="망" i="889" m="net" t="n" />
+<w c="mathematics" e="외부" i="890" m="outside" t="n" />
+<w c="mathematics" e="율" i="891" m="percent" t="n" />
+<w c="mathematics" e="목적" i="892" m="purpose" t="n" />
+<w c="mathematics" e="결과" i="893" m="result" t="n" />
+<w c="mathematics" e="통제" i="894" m="rule" t="n" />
+<w c="mathematics" e="집합" i="895" m="set" t="n" />
+<w c="mathematics" e="변두리" i="896" m="side" t="n" />
+<w c="mathematics" e="정사각형" i="897" m="square" t="n" />
+<w c="mathematics" e="제곱" i="898" m="square" t="n" />
+<w c="mathematics" e="교환" i="899" m="substitution" t="n" />
+<w c="mathematics" e="표면" i="900" m="surface" t="n" />
+<w c="mathematics" e="액수" i="901" m="total" t="n" />
+<w c="medicine" e="보호" i="902" m="care" t="n" />
+<w c="medicine" e="감기" i="903" m="cold" t="n" />
+<w c="medicine" e="기침" i="904" m="cough" t="n" />
+<w c="medicine" e="병" i="905" m="disease" t="n" />
+<w c="medicine" e="의사" i="906" m="doctor" t="n" />
+<w c="medicine" e="건강 상태" i="907" m="health" t="n" />
+<w c="medicine" e="월경" i="908" m="menstruation" t="n" />
+<w c="medicine" e="간호인" i="909" m="nurse" t="n" />
+<w c="medicine" e="작용" i="910" m="operation" t="n" />
+<w c="medicine" e="아픔" i="911" m="pain" t="n" />
+<w c="medicine" e="환자" i="912" m="patient" t="n" />
+<w c="medicine" e="한 바늘" i="913" m="stitch" t="n" />
+<w c="nature" e="공기" i="914" m="air" t="n" />
+<w c="nature" e="동물의" i="915" m="animal" t="n" />
+<w c="nature" e="가지" i="916" m="branch" t="n" />
+<w c="nature" e="발전" i="917" m="evolution" t="n" />
+<w c="nature" e="농장" i="918" m="farm" t="n" />
+<w c="nature" e="들" i="919" m="field" t="n" />
+<w c="nature" e="불꽃" i="920" m="fire" t="n" />
+<w c="nature" e="꽃" i="921" m="flower" t="n" />
+<w c="nature" e="숲" i="922" m="forest" t="n" />
+<w c="nature" e="잔디" i="923" m="grass" t="n" />
+<w c="nature" e="잎" i="924" m="leaf" t="n" />
+<w c="nature" e="생명" i="925" m="life" t="n" />
+<w c="nature" e="습기" i="926" m="moisture" t="n" />
+<w c="nature" e="자연" i="927" m="nature" t="n" />
+<w c="nature" e="식물" i="928" m="plant" t="n" />
+<w c="nature" e="뿌리" i="929" m="root" t="n" />
+<w c="nature" e="성" i="930" m="sex" t="n" />
+<w c="nature" e="하늘" i="931" m="sky" t="n" />
+<w c="nature" e="잠" i="932" m="sleep" t="n" />
+<w c="nature" e="냄새" i="933" m="smell" t="n" />
+<w c="nature" e="연기" i="934" m="smoke" t="n" />
+<w c="nature" e="원천" i="935" m="spring" t="n" />
+<w c="nature" e="줄기" i="936" m="stem" t="n" />
+<w c="nature" e="흐름" i="937" m="stream" t="n" />
+<w c="nature" e="나무" i="938" m="tree" t="n" />
+<w c="nature" e="물결" i="939" m="wave" t="n" />
+<w c="nature" e="날씨" i="940" m="weather" t="n" />
+<w c="nature" e="지구" i="941" m="world" t="n" />
+<w c="numbers" e="한 쌍" i="942" m="couple" t="n" />
+<w c="numbers" e="여덟" i="943" m="eight" t="n" />
+<w c="numbers" e="18세의" i="944" m="eighteen" t="n" />
+<w c="numbers" e="80의" i="945" m="eighty" t="n" />
+<w c="numbers" e="열하나 (yeolhana); 11 (sipil)" i="946" m="eleven" t="n" />
+<w c="numbers" e="15의" i="947" m="fifteen" t="n" />
+<w c="numbers" e="50의" i="948" m="fifty" t="n" />
+<w c="numbers" e="5" i="949" m="five" t="n" />
+<w c="numbers" e="40의" i="950" m="forty" t="n" />
+<w c="numbers" e="4의" i="951" m="four" t="n" />
+<w c="numbers" e="14의" i="952" m="fourteen" t="n" />
+<w c="numbers" e="백만" i="953" m="million" t="n" />
+<w c="numbers" e="9의" i="954" m="nine" t="n" />
+<w c="numbers" e="19의" i="955" m="nineteen" t="n" />
+<w c="numbers" e="90의" i="956" m="ninety" t="n" />
+<w c="numbers" e="영" i="957" m="nothing" t="n" />
+<w c="numbers" e="하나의" i="958" m="one" t="n" />
+<w c="numbers" e="열일곱 (yeolilgop); 십칠 [十七] (sipchil)" i="959" m="seventeen" t="n" />
+<w c="numbers" e="70의" i="960" m="seventy" t="n" />
+<w c="numbers" e="여섯" i="961" m="six" t="n" />
+<w c="numbers" e="16의" i="962" m="sixteen" t="n" />
+<w c="numbers" e="60의" i="963" m="sixty" t="n" />
+<w c="numbers" e="10의" i="964" m="ten" t="n" />
+<w c="numbers" e="13" i="965" m="thirteen" t="n" />
+<w c="numbers" e="30의" i="966" m="thirty" t="n" />
+<w c="numbers" e="1000" i="967" m="thousand" t="n" />
+<w c="numbers" e="천" i="968" m="thousand" t="n" />
+<w c="numbers" e="셋" i="969" m="three" t="n" />
+<w c="numbers" e="스물 (seumul)" i="970" m="twenty" t="n" />
+<w c="numbers" e="둘 (dul) / 두 (du); 이 (二; i)" i="971" m="two" t="n" />
+<w c="objects" e="공" i="972" m="ball" t="n" />
+<w c="objects" e="칼날" i="973" m="blade" t="n" />
+<w c="objects" e="카드" i="974" m="card" t="n" />
+<w c="objects" e="쇠사슬" i="975" m="chain" t="n" />
+<w c="objects" e="곤봉" i="976" m="club" t="n" />
+<w c="objects" e="한 타래" i="977" m="coil" t="n" />
+<w c="objects" e="봉투" i="978" m="envelope" t="n" />
+<w c="objects" e="깃털" i="979" m="feather" t="n" />
+<w c="objects" e="기" i="980" m="flag" t="n" />
+<w c="objects" e="틀" i="981" m="frame" t="n" />
+<w c="objects" e="손잡이" i="982" m="handle" t="n" />
+<w c="objects" e="차림표" i="983" m="menu" t="n" />
+<w c="objects" e="핀" i="984" m="pin" t="n" />
+<w c="objects" e="선물" i="985" m="present" t="n" />
+<w c="objects" e="로프" i="986" m="rope" t="n" />
+<w c="objects" e="씨" i="987" m="seed" t="n" />
+<w c="objects" e="우표" i="988" m="stamp" t="n" />
+<w c="objects" e="지팡이" i="989" m="stick" t="n" />
+<w c="objects" e="암석" i="990" m="stone" t="n" />
+<w c="objects" e="표" i="991" m="ticket" t="n" />
+<w c="objects" e="바퀴" i="992" m="wheel" t="n" />
+<w c="objects" e="철사" i="993" m="wire" t="n" />
+<w c="physics" e="침착" i="994" m="balance" t="n" />
+<w c="physics" e="전하" i="995" m="charge" t="n" />
+<w c="physics" e="원기" i="996" m="energy" t="n" />
+<w c="physics" e="빛" i="997" m="light" t="n" />
+<w c="physics" e="덩어리" i="998" m="mass" t="n" />
+<w c="physics" e="크기" i="999" m="mass" t="n" />
+<w c="physics" e="측정" i="1000" m="measurement" t="n" />
+<w c="physics" e="거울" i="1001" m="mirror" t="n" />
+<w c="physics" e="운동" i="1002" m="movement" t="n" />
+<w c="physics" e="압력" i="1003" m="pressure" t="n" />
+<w c="physics" e="과정" i="1004" m="process" t="n" />
+<w c="physics" e="크기" i="1005" m="size" t="n" />
+<w c="physics" e="음파" i="1006" m="sound" t="n" />
+<w c="physics" e="수증기" i="1007" m="steam" t="n" />
+<w c="physics" e="힘" i="1008" m="strength" t="n" />
+<w c="physics" e="시간" i="1009" m="time" t="n" />
+<w c="physics" e="단위" i="1010" m="unit" t="n" />
+<w c="physics" e="무게" i="1011" m="weight" t="n" />
+<w c="prepositions" e="...에 반대하여" i="1012" m="against" t="prep" />
+<w c="prepositions" e="...의 한복판에" i="1013" m="among" t="prep" />
+<w c="prepositions" e="~에서" i="1014" m="at" t="prep" />
+<w c="prepositions" e="~에서" i="1015" m="at" t="prep" />
+<w c="prepositions" e="...동안" i="1016" m="during" t="prep" />
+<w c="prepositions" e="...에게 주는" i="1017" m="for" t="prep" />
+<w c="prepositions" e="...에" i="1018" m="into" t="prep" />
+<w c="prepositions" e="...부터 지금까지" i="1019" m="since" t="prep" />
+<w c="prepositions" e="으로" i="1020" m="to" t="prep" />
+<w c="prepositions" e="...없이" i="1021" m="without" t="prep" />
+<w c="professions" e="배우" i="1022" m="actor" t="n" />
+<w c="professions" e="예술가" i="1023" m="artist" t="n" />
+<w c="professions" e="실업가" i="1024" m="businessman" t="n" />
+<w c="professions" e="요리사" i="1025" m="cook" t="n" />
+<w c="professions" e="전문가" i="1026" m="expert" t="n" />
+<w c="professions" e="장군" i="1027" m="general" t="n" />
+<w c="professions" e="신문 기자" i="1028" m="journalist" t="n" />
+<w c="professions" e="재판관" i="1029" m="judge" t="n" />
+<w c="professions" e="장관" i="1030" m="minister" t="n" />
+<w c="professions" e="음악가" i="1031" m="musician" t="n" />
+<w c="professions" e="사진사" i="1032" m="photographer" t="n" />
+<w c="professions" e="수로 안내인" i="1033" m="pilot" t="n" />
+<w c="professions" e="경찰관" i="1034" m="policeman" t="n" />
+<w c="professions" e="정치인" i="1035" m="politician" t="n" />
+<w c="professions" e="대통령" i="1036" m="president" t="n" />
+<w c="professions" e="직업 선수" i="1037" m="professional" t="n" />
+<w c="professions" e="대표자" i="1038" m="representative" t="n" />
+<w c="professions" e="선원" i="1039" m="sailor" t="n" />
+<w c="professions" e="과학자" i="1040" m="scientist" t="n" />
+<w c="professions" e="비서" i="1041" m="secretary" t="n" />
+<w c="professions" e="하인" i="1042" m="servant" t="n" />
+<w c="professions" e="가수" i="1043" m="singer" t="n" />
+<w c="professions" e="군인" i="1044" m="soldier" t="n" />
+<w c="professions" e="작가" i="1045" m="writer" t="n" />
+<w c="pronouns" e="누구든지" i="1046" m="everybody" t="pron" />
+<w c="pronouns" e="모든 것" i="1047" m="everything" t="pron" />
+<w c="pronouns" e="그를" i="1048" m="him" t="pron" />
+<w c="pronouns" e="그의" i="1049" m="his" t="pron" />
+<w c="pronouns" e="그것" i="1050" m="it" t="pron" />
+<w c="pronouns" e="나를" i="1051" m="me" t="pron" />
+<w c="pronouns" e="나의" i="1052" m="my" t="pron" />
+<w c="pronouns" e="우리의" i="1053" m="our" t="pron" />
+<w c="pronouns" e="그녀" i="1054" m="she" t="pron" />
+<w c="pronouns" e="그들의" i="1055" m="their" t="pron" />
+<w c="pronouns" e="그들을" i="1056" m="them" t="pron" />
+<w c="pronouns" e="이것들" i="1057" m="these" t="pron" />
+<w c="pronouns" e="그들" i="1058" m="they" t="pron" />
+<w c="pronouns" e="이" i="1059" m="this" t="pron" />
+<w c="pronouns" e="우리" i="1060" m="we" t="pron" />
+<w c="pronouns" e="무엇" i="1061" m="what" t="pron" />
+<w c="pronouns" e="어느" i="1062" m="which" t="pron" />
+<w c="pronouns" e="어느" i="1063" m="which" t="pron" />
+<w c="pronouns" e="누구" i="1064" m="who" t="pron" />
+<w c="pronouns" e="누구의" i="1065" m="whose" t="pron" />
+<w c="relations" e="남자 친구" i="1066" m="boyfriend" t="n" />
+<w c="relations" e="약속" i="1067" m="date" t="n" />
+<w c="relations" e="사랑하는 사람" i="1068" m="dear" t="n" />
+<w c="relations" e="여자친구 (yeojachingu)" i="1069" m="girlfriend" t="n" />
+<w c="relations" e="손님" i="1070" m="guest" t="n" />
+<w c="relations" e="입맞춤" i="1071" m="kiss" t="n" />
+<w c="relations" e="잔치" i="1072" m="party" t="n" />
+<w c="relations" e="미소" i="1073" m="smile" t="n" />
+<w c="relations" e="놀람" i="1074" m="surprise" t="n" />
+<w c="relations" e="방문" i="1075" m="visit" t="n" />
+<w c="science" e="생물학" i="1076" m="biology" t="n" />
+<w c="science" e="원인" i="1077" m="cause" t="n" />
+<w c="science" e="본질" i="1078" m="center" t="n" />
+<w c="science" e="화학" i="1079" m="chemistry" t="n" />
+<w c="science" e="결과" i="1080" m="consequence" t="n" />
+<w c="science" e="억제" i="1081" m="control" t="n" />
+<w c="science" e="훈련" i="1082" m="discipline" t="n" />
+<w c="science" e="발견" i="1083" m="discovery" t="n" />
+<w c="science" e="사건" i="1084" m="event" t="n" />
+<w c="science" e="증거" i="1085" m="evidence" t="n" />
+<w c="science" e="견본" i="1086" m="example" t="n" />
+<w c="science" e="사실" i="1087" m="fact" t="n" />
+<w c="science" e="토의" i="1088" m="issue" t="n" />
+<w c="science" e="방법" i="1089" m="method" t="n" />
+<w c="science" e="대안" i="1090" m="option" t="n" />
+<w c="science" e="단계" i="1091" m="phase" t="n" />
+<w c="science" e="절차" i="1092" m="procedure" t="n" />
+<w c="science" e="생산" i="1093" m="production" t="n" />
+<w c="science" e="프로그램" i="1094" m="program" t="n" />
+<w c="science" e="기획" i="1095" m="project" t="n" />
+<w c="science" e="구역" i="1096" m="range" t="n" />
+<w c="science" e="연구" i="1097" m="research" t="n" />
+<w c="science" e="심리" i="1098" m="research" t="n" />
+<w c="science" e="과학적 지식" i="1099" m="science" t="n" />
+<w c="science" e="인류" i="1100" m="society" t="n" />
+<w c="science" e="계통" i="1101" m="system" t="n" />
+<w c="science" e="기술" i="1102" m="technology" t="n" />
+<w c="science" e="이론" i="1103" m="theory" t="n" />
+<w c="science" e="경향" i="1104" m="trend" t="n" />
+<w c="science" e="걱정거리" i="1105" m="trouble" t="n" />
+<w c="science" e="사용자" i="1106" m="user" t="n" />
+<w c="society" e="군대" i="1107" m="army" t="n" />
+<w c="society" e="주성분" i="1108" m="base" t="n" />
+<w c="society" e="클럽 회관" i="1109" m="club" t="n" />
+<w c="society" e="교우" i="1110" m="company" t="n" />
+<w c="society" e="국가" i="1111" m="country" t="n" />
+<w c="society" e="법정" i="1112" m="court" t="n" />
+<w c="society" e="위반" i="1113" m="crime" t="n" />
+<w c="society" e="문화" i="1114" m="culture" t="n" />
+<w c="society" e="공화국" i="1115" m="democracy" t="n" />
+<w c="society" e="통치권" i="1116" m="dominion" t="n" />
+<w c="society" e="선거" i="1117" m="election" t="n" />
+<w c="society" e="존재" i="1118" m="existence" t="n" />
+<w c="society" e="정부" i="1119" m="government" t="n" />
+<w c="society" e="역사" i="1120" m="history" t="n" />
+<w c="society" e="개인" i="1121" m="individual" t="n" />
+<w c="society" e="공공 단체" i="1122" m="institution" t="n" />
+<w c="society" e="왕" i="1123" m="king" t="n" />
+<w c="society" e="지도자" i="1124" m="leader" t="n" />
+<w c="society" e="회원" i="1125" m="member" t="n" />
+<w c="society" e="국가" i="1126" m="nation" t="n" />
+<w c="society" e="소음" i="1127" m="noise" t="n" />
+<w c="society" e="명령" i="1128" m="order" t="n" />
+<w c="society" e="조직체" i="1129" m="organization" t="n" />
+<w c="society" e="여권" i="1130" m="passport" t="n" />
+<w c="society" e="평온" i="1131" m="peace" t="n" />
+<w c="society" e="세상 사람들" i="1132" m="people" t="n" />
+<w c="society" e="경찰대" i="1133" m="police" t="n" />
+<w c="society" e="정책" i="1134" m="policy" t="n" />
+<w c="society" e="인구" i="1135" m="population" t="n" />
+<w c="society" e="민중" i="1136" m="public" t="n" />
+<w c="society" e="형벌" i="1137" m="punishment" t="n" />
+<w c="society" e="믿음" i="1138" m="religion" t="n" />
+<w c="society" e="신앙" i="1139" m="religion" t="n" />
+<w c="society" e="나라" i="1140" m="state" t="n" />
+<w c="society" e="제목" i="1141" m="title" t="n" />
+<w c="society" e="합동" i="1142" m="union" t="n" />
+<w c="society" e="의지" i="1143" m="will" t="n" />
+<w c="society" e="유언" i="1144" m="will" t="n" />
+<w c="sports" e="훈장" i="1145" m="award" t="n" />
+<w c="sports" e="야구" i="1146" m="baseball" t="n" />
+<w c="sports" e="선수권 대회" i="1147" m="championship" t="n" />
+<w c="sports" e="경쟁자" i="1148" m="competitor" t="n" />
+<w c="sports" e="목적지" i="1149" m="finish" t="n" />
+<w c="sports" e="축구" i="1150" m="football" t="n" />
+<w c="sports" e="놀이" i="1151" m="game" t="n" />
+<w c="sports" e="골에 공을 넣기" i="1152" m="goal" t="n" />
+<w c="sports" e="골프" i="1153" m="golf" t="n" />
+<w c="sports" e="경기" i="1154" m="match" t="n" />
+<w c="sports" e="경기자" i="1155" m="player" t="n" />
+<w c="sports" e="최고 기록" i="1156" m="record" t="n" />
+<w c="sports" e="테니스" i="1157" m="tennis" t="n" />
+<w c="sports" e="던지기" i="1158" m="throw" t="n" />
+<w c="sports" e="승리" i="1159" m="win" t="n" />
+<w c="time" e="4월" i="1160" m="April" t="n" />
+<w c="time" e="팔월" i="1161" m="August" t="n" />
+<w c="time" e="12월" i="1162" m="December" t="n" />
+<w c="time" e="2월" i="1163" m="February" t="n" />
+<w c="time" e="금요일" i="1164" m="Friday" t="n" />
+<w c="time" e="1월" i="1165" m="January" t="n" />
+<w c="time" e="7월" i="1166" m="July" t="n" />
+<w c="time" e="6월" i="1167" m="June" t="n" />
+<w c="time" e="오월" i="1168" m="May" t="n" />
+<w c="time" e="월요일" i="1169" m="Monday" t="n" />
+<w c="time" e="11월" i="1170" m="November" t="n" />
+<w c="time" e="10월" i="1171" m="October" t="n" />
+<w c="time" e="토요일" i="1172" m="Saturday" t="n" />
+<w c="time" e="9월" i="1173" m="September" t="n" />
+<w c="time" e="일요일" i="1174" m="Sunday" t="n" />
+<w c="time" e="목요일" i="1175" m="Thursday" t="n" />
+<w c="time" e="화요일" i="1176" m="Tuesday" t="n" />
+<w c="time" e="수요일" i="1177" m="Wednesday" t="n" />
+<w c="time" e="오후" i="1178" m="afternoon" t="n" />
+<w c="time" e="노령" i="1179" m="age" t="n" />
+<w c="time" e="가을" i="1180" m="autumn" t="n" />
+<w c="time" e="시작" i="1181" m="beginning" t="n" />
+<w c="time" e="100년" i="1182" m="century" t="n" />
+<w c="time" e="하루" i="1183" m="day" t="n" />
+<w c="time" e="밤" i="1184" m="evening" t="n" />
+<w c="time" e="미래" i="1185" m="future" t="n" />
+<w c="time" e="한 시간" i="1186" m="hour" t="n" />
+<w c="time" e="자정" i="1187" m="midnight" t="n" />
+<w c="time" e="분" i="1188" m="minute" t="n" />
+<w c="time" e="찰나" i="1189" m="moment" t="n" />
+<w c="time" e="달" i="1190" m="month" t="n" />
+<w c="time" e="아침" i="1191" m="morning" t="n" />
+<w c="time" e="밤" i="1192" m="night" t="n" />
+<w c="time" e="지금" i="1193" m="now" t="n" />
+<w c="time" e="과거" i="1194" m="past" t="n" />
+<w c="time" e="막간" i="1195" m="pause" t="n" />
+<w c="time" e="기간" i="1196" m="period" t="n" />
+<w c="time" e="현재" i="1197" m="present" t="n" />
+<w c="time" e="철" i="1198" m="season" t="n" />
+<w c="time" e="초" i="1199" m="second" t="n" />
+<w c="time" e="봄" i="1200" m="spring" t="n" />
+<w c="time" e="하계" i="1201" m="summer" t="n" />
+<w c="time" e="내일" i="1202" m="tomorrow" t="n" />
+<w c="time" e="주" i="1203" m="week" t="n" />
+<w c="time" e="동안" i="1204" m="while" t="n" />
+<w c="time" e="겨울" i="1205" m="winter" t="n" />
+<w c="time" e="해" i="1206" m="year" t="n" />
+<w c="tools" e="종" i="1207" m="bell" t="n" />
+<w c="tools" e="솔" i="1208" m="brush" t="n" />
+<w c="tools" e="단추" i="1209" m="button" t="n" />
+<w c="tools" e="총" i="1210" m="gun" t="n" />
+<w c="tools" e="해머" i="1211" m="hammer" t="n" />
+<w c="tools" e="걸이" i="1212" m="hook" t="n" />
+<w c="tools" e="열쇠" i="1213" m="key" t="n" />
+<w c="tools" e="자물쇠" i="1214" m="lock" t="n" />
+<w c="tools" e="성냥" i="1215" m="match" t="n" />
+<w c="tools" e="못" i="1216" m="nail" t="n" />
+<w c="tools" e="바늘" i="1217" m="needle" t="n" />
+<w c="tools" e="펜" i="1218" m="pen" t="n" />
+<w c="tools" e="연필" i="1219" m="pencil" t="n" />
+<w c="tools" e="펌프" i="1220" m="pump" t="n" />
+<w c="tools" e="가위" i="1221" m="scissors" t="n" />
+<w c="tools" e="태엽" i="1222" m="spring" t="n" />
+<w c="tools" e="도장" i="1223" m="stamp" t="n" />
+<w c="tools" e="채찍" i="1224" m="whip" t="n" />
+<w c="transport" e="자전거" i="1225" m="bike" t="n" />
+<w c="transport" e="보트" i="1226" m="boat" t="n" />
+<w c="transport" e="버스" i="1227" m="bus" t="n" />
+<w c="transport" e="자동차" i="1228" m="car" t="n" />
+<w c="transport" e="급행 열차" i="1229" m="express" t="n" />
+<w c="transport" e="날기" i="1230" m="flight" t="n" />
+<w c="transport" e="여행" i="1231" m="journey" t="n" />
+<w c="transport" e="승객" i="1232" m="passenger" t="n" />
+<w c="transport" e="비행기" i="1233" m="plane" t="n" />
+<w c="transport" e="비행선" i="1234" m="ship" t="n" />
+<w c="transport" e="철로" i="1235" m="track" t="n" />
+<w c="transport" e="기차" i="1236" m="train" t="n" />
+<w c="transport" e="수송" i="1237" m="transport" t="n" />
+<w c="vegetables" e="콩" i="1238" m="bean" t="n" />
+<w c="vegetables" e="양배추" i="1239" m="cabbage" t="n" />
+<w c="vegetables" e="당근" i="1240" m="carrot" t="n" />
+<w c="vegetables" e="오이" i="1241" m="cucumber" t="n" />
+<w c="vegetables" e="마늘" i="1242" m="garlic" t="n" />
+<w c="vegetables" e="올리브 열매" i="1243" m="olive" t="n" />
+<w c="vegetables" e="양파" i="1244" m="onion" t="n" />
+<w c="vegetables" e="설탕당근" i="1245" m="parsnip" t="n" />
+<w c="vegetables" e="감자" i="1246" m="potato" t="n" />
+<w c="vegetables" e="무" i="1247" m="radish" t="n" />
+<w c="vegetables" e="쌀 (ssal) (uncooked); 밥 (bab) (cooked)" i="1248" m="rice" t="n" />
+<w c="vegetables" e="토마토" i="1249" m="tomato" t="n" />
+<w c="verbs" e="받다" i="1250" m="accept" t="v" />
+<w c="verbs" e="고소하다" i="1251" m="accuse" t="v" />
+<w c="verbs" e="이루다" i="1252" m="achieve" t="v" />
+<w c="verbs" e="행하다" i="1253" m="act" t="v" />
+<w c="verbs" e="인정하다" i="1254" m="admit" t="v" />
+<w c="verbs" e="의견이 일치하다" i="1255" m="agree" t="v" />
+<w c="verbs" e="발표하다" i="1256" m="announce" t="v" />
+<w c="verbs" e="논쟁하다" i="1257" m="argue" t="v" />
+<w c="verbs" e="도착하다" i="1258" m="arrive" t="v" />
+<w c="verbs" e="질문하다" i="1259" m="ask" t="v" />
+<w c="verbs" e="공격하다" i="1260" m="attack" t="v" />
+<w c="verbs" e="피하다" i="1261" m="avoid" t="v" />
+<w c="verbs" e="살아 있다" i="1262" m="be" t="v" />
+<w c="verbs" e="나르다" i="1263" m="bear" t="v" />
+<w c="verbs" e="...을 정복하다" i="1264" m="beat" t="v" />
+<w c="verbs" e="...이 되다" i="1265" m="become" t="v" />
+<w c="verbs" e="믿다" i="1266" m="believe" t="v" />
+<w c="verbs" e="도움이 되다" i="1267" m="benefit" t="v" />
+<w c="verbs" e="초래하다" i="1268" m="bring" t="v" />
+<w c="verbs" e="짓다" i="1269" m="build" t="v" />
+<w c="verbs" e="전화하다" i="1270" m="call" t="v" />
+<w c="verbs" e="운반하다" i="1271" m="carry" t="v" />
+<w c="verbs" e="바뀌다" i="1272" m="change" t="v" />
+<w c="verbs" e="선택하다" i="1273" m="choose" t="v" />
+<w c="verbs" e="분류하다" i="1274" m="classify" t="v" />
+<w c="verbs" e="깨끗해지다" i="1275" m="clean" t="v" />
+<w c="verbs" e="비유하다" i="1276" m="compare" t="v" />
+<w c="verbs" e="속에 담다" i="1277" m="contain" t="v" />
+<w c="verbs" e="계속하다" i="1278" m="continue" t="v" />
+<w c="verbs" e="지배하다" i="1279" m="control" t="v" />
+<w c="verbs" e="요리하다" i="1280" m="cook" t="v" />
+<w c="verbs" e="복사하다" i="1281" m="copy" t="v" />
+<w c="verbs" e="기침하다" i="1282" m="cough" t="v" />
+<w c="verbs" e="압착하다" i="1283" m="crush" t="v" />
+<w c="verbs" e="소리내어 울다" i="1284" m="cry" t="v" />
+<w c="verbs" e="결정하다" i="1285" m="decide" t="v" />
+<w c="verbs" e="표현하다" i="1286" m="describe" t="v" />
+<w c="verbs" e="설계하다" i="1287" m="design" t="v" />
+<w c="verbs" e="...을 원하다" i="1288" m="desire" t="v" />
+<w c="verbs" e="죽다" i="1289" m="die" t="v" />
+<w c="verbs" e="발견하다" i="1290" m="discover" t="v" />
+<w c="verbs" e="토론하다" i="1291" m="discuss" t="v" />
+<w c="verbs" e="갈라지다" i="1292" m="divide" t="v" />
+<w c="verbs" e="의심하다" i="1293" m="doubt" t="v" />
+<w c="verbs" e="운전하다" i="1294" m="drive" t="v" />
+<w c="verbs" e="포함하다" i="1295" m="embrace" t="v" />
+<w c="verbs" e="용기를 북돋다" i="1296" m="encourage" t="v" />
+<w c="verbs" e="끝나다" i="1297" m="end" t="v" />
+<w c="verbs" e="강화하다" i="1298" m="enhance" t="v" />
+<w c="verbs" e="즐기다" i="1299" m="enjoy" t="v" />
+<w c="verbs" e="들어가다" i="1300" m="enter" t="v" />
+<w c="verbs" e="설립하다" i="1301" m="establish" t="v" />
+<w c="verbs" e="어림잡다" i="1302" m="estimate" t="v" />
+<w c="verbs" e="초과하다" i="1303" m="exceed" t="v" />
+<w c="verbs" e="존재하다" i="1304" m="exist" t="v" />
+<w c="verbs" e="기다리다" i="1305" m="expect" t="v" />
+<w c="verbs" e="설명하다" i="1306" m="explain" t="v" />
+<w c="verbs" e="싸우다" i="1307" m="fight" t="v" />
+<w c="verbs" e="가득 채우다" i="1308" m="fill" t="v" />
+<w c="verbs" e="알아내다" i="1309" m="find" t="v" />
+<w c="verbs" e="자유롭게 하다" i="1310" m="free" t="v" />
+<w c="verbs" e="항복하다 (hangbokhada)" i="1311" m="give up" t="v" />
+<w c="verbs" e="자라다" i="1312" m="grow" t="v" />
+<w c="verbs" e="일어나다" i="1313" m="happen" t="v" />
+<w c="verbs" e="몹시 싫어하다" i="1314" m="hate" t="v" />
+<w c="verbs" e="숨기다" i="1315" m="hide" t="v" />
+<w c="verbs" e="잡다" i="1316" m="hold" t="v" />
+<w c="verbs" e="식별하다" i="1317" m="identify" t="v" />
+<w c="verbs" e="포함하다" i="1318" m="include" t="v" />
+<w c="verbs" e="증대하다" i="1319" m="increase" t="v" />
+<w c="verbs" e="상처 입히다" i="1320" m="injure" t="v" />
+<w c="verbs" e="소개하다" i="1321" m="introduce" t="v" />
+<w c="verbs" e="연결하다" i="1322" m="join" t="v" />
+<w c="verbs" e="유지하다" i="1323" m="keep" t="v" />
+<w c="verbs" e="차다" i="1324" m="kick" t="v" />
+<w c="verbs" e="죽이다" i="1325" m="kill" t="v" />
+<w c="verbs" e="상륙하다" i="1326" m="land" t="v" />
+<w c="verbs" e="안내하다" i="1327" m="lead" t="v" />
+<w c="verbs" e="놓고 가다" i="1328" m="leave" t="v" />
+<w c="verbs" e="허락하다" i="1329" m="let" t="v" />
+<w c="verbs" e="들다" i="1330" m="lift" t="v" />
+<w c="verbs" e="한정하다" i="1331" m="limit" t="v" />
+<w c="verbs" e="충전하다" i="1332" m="load" t="v" />
+<w c="verbs" e="자물쇠를 채우다" i="1333" m="lock" t="v" />
+<w c="verbs" e="...인 것 같다" i="1334" m="look" t="v" />
+<w c="verbs" e="잃다" i="1335" m="lose" t="v" />
+<w c="verbs" e="경영하다" i="1336" m="manage" t="v" />
+<w c="verbs" e="결혼하다" i="1337" m="marry" t="v" />
+<w c="verbs" e="어울리다" i="1338" m="match" t="v" />
+<w c="verbs" e="...할 작정이다" i="1339" m="mean" t="v" />
+<w c="verbs" e="재다" i="1340" m="measure" t="v" />
+<w c="verbs" e="말하다" i="1341" m="mention" t="v" />
+<w c="verbs" e="놓치다" i="1342" m="miss" t="v" />
+<w c="verbs" e="...을 ...이라고 부르다" i="1343" m="name" t="v" />
+<w c="verbs" e="소유하다" i="1344" m="own" t="v" />
+<w c="verbs" e="넘겨주다" i="1345" m="pass" t="v" />
+<w c="verbs" e="껍질을 벗기다" i="1346" m="peel" t="v" />
+<w c="verbs" e="독살하다" i="1347" m="poison" t="v" />
+<w c="verbs" e="...을 닦다" i="1348" m="polish" t="v" />
+<w c="verbs" e="차리다" i="1349" m="prepare" t="v" />
+<w c="verbs" e="누르다" i="1350" m="press" t="v" />
+<w c="verbs" e="...이 일어나지 못하게 하다" i="1351" m="prevent" t="v" />
+<w c="verbs" e="인쇄하다" i="1352" m="print" t="v" />
+<w c="verbs" e="처리하다" i="1353" m="process" t="v" />
+<w c="verbs" e="이익을 얻다" i="1354" m="profit" t="v" />
+<w c="verbs" e="항의하다" i="1355" m="protest" t="v" />
+<w c="verbs" e="증명하다" i="1356" m="prove" t="v" />
+<w c="verbs" e="...을 발행하다" i="1357" m="publish" t="v" />
+<w c="verbs" e="양육하다" i="1358" m="raise" t="v" />
+<w c="verbs" e="평가하다" i="1359" m="rate" t="v" />
+<w c="verbs" e="받다" i="1360" m="receive" t="v" />
+<w c="verbs" e="녹음하다" i="1361" m="record" t="v" />
+<w c="verbs" e="삭감하다" i="1362" m="reduce" t="v" />
+<w c="verbs" e="반사하다" i="1363" m="reflect" t="v" />
+<w c="verbs" e="거절하다" i="1364" m="refuse" t="v" />
+<w c="verbs" e="치우다" i="1365" m="remove" t="v" />
+<w c="verbs" e="되돌려주다" i="1366" m="render" t="v" />
+<w c="verbs" e="대답하다" i="1367" m="reply" t="v" />
+<w c="verbs" e="보고하다" i="1368" m="report" t="v" />
+<w c="verbs" e="대표하다" i="1369" m="represent" t="v" />
+<w c="verbs" e="요청하다" i="1370" m="request" t="v" />
+<w c="verbs" e="경의를 표하다" i="1371" m="respect" t="v" />
+<w c="verbs" e="밝히다" i="1372" m="reveal" t="v" />
+<w c="verbs" e="감행하다" i="1373" m="risk" t="v" />
+<w c="verbs" e="통치하다" i="1374" m="rule" t="v" />
+<w c="verbs" e="줄이다" i="1375" m="save" t="v" />
+<w c="verbs" e="구하다" i="1376" m="save" t="v" />
+<w c="verbs" e="...을 알아채다" i="1377" m="see" t="v" />
+<w c="verbs" e="여기다" i="1378" m="see" t="v" />
+<w c="verbs" e="...을 보내다" i="1379" m="send" t="v" />
+<w c="verbs" e="...을 꿰매다" i="1380" m="sew" t="v" />
+<w c="verbs" e="공유하다" i="1381" m="share" t="v" />
+<w c="verbs" e="소리지르다" i="1382" m="shout" t="v" />
+<w c="verbs" e="...를 보이다" i="1383" m="show" t="v" />
+<w c="verbs" e="냄새를 풍기다" i="1384" m="smell" t="v" />
+<w c="verbs" e="지내다" i="1385" m="spend" t="v" />
+<w c="verbs" e="서다" i="1386" m="stand" t="v" />
+<w c="verbs" e="머무르다" i="1387" m="stay" t="v" />
+<w c="verbs" e="도용하다" i="1388" m="steal" t="v" />
+<w c="verbs" e="정지하다" i="1389" m="stop" t="v" />
+<w c="verbs" e="공부하다" i="1390" m="study" t="v" />
+<w c="verbs" e="괴로와하다 (koerowahada)" i="1391" m="suffer" t="v" />
+<w c="verbs" e="제안하다" i="1392" m="suggest" t="v" />
+<w c="verbs" e="공급하다" i="1393" m="supply" t="v" />
+<w c="verbs" e="후원하다" i="1394" m="support" t="v" />
+<w c="verbs" e="...을 불시에 덮치다" i="1395" m="surprise" t="v" />
+<w c="verbs" e="견디다" i="1396" m="survive" t="v" />
+<w c="verbs" e="맛을 보다" i="1397" m="taste" t="v" />
+<w c="verbs" e="가르치다" i="1398" m="teach" t="v" />
+<w c="verbs" e="시험하다" i="1399" m="test" t="v" />
+<w c="verbs" e="사의를 표하다" i="1400" m="thank" t="v" />
+<w c="verbs" e="던지다" i="1401" m="throw" t="v" />
+<w c="verbs" e="장사하다" i="1402" m="trade" t="v" />
+<w c="verbs" e="훈련하다" i="1403" m="train" t="v" />
+<w c="verbs" e="가다" i="1404" m="travel" t="v" />
+<w c="verbs" e="다루다" i="1405" m="treat" t="v" />
+<w c="verbs" e="시도하다" i="1406" m="try" t="v" />
+<w c="verbs" e="회전시키다" i="1407" m="turn" t="v" />
+<w c="verbs" e="방문하다" i="1408" m="visit" t="v" />
+<w c="verbs" e="걷다" i="1409" m="walk" t="v" />
+<w c="verbs" e="따뜻하게 하다" i="1410" m="warm" t="v" />
+<w c="verbs" e="빨다" i="1411" m="wash" t="v" />
+<w c="verbs" e="...을 보다" i="1412" m="watch" t="v" />
+<w c="verbs" e="...을 몸에 걸치다" i="1413" m="wear" t="v" />
+<w c="verbs" e="무게가 ...이다" i="1414" m="weigh" t="v" />
+<w c="verbs" e="...에 이기다" i="1415" m="win" t="v" />
+<w c="verbs" e="원하다" i="1416" m="wish" t="v" />
+<w c="verbs" e="부서지다" i="1417" m="break" t="v" />
+<w c="verbs" e="사다" i="1418" m="buy" t="v" />
+<w c="verbs" e="닫다" i="1419" m="close" t="v" />
+<w c="verbs" e="오다" i="1420" m="come" t="v" />
+<w c="verbs" e="베다" i="1421" m="cut" t="v" />
+<w c="verbs" e="춤추다" i="1422" m="dance" t="v" />
+<w c="verbs" e="사용하다" i="1423" m="do" t="v" />
+<w c="verbs" e="마시다" i="1424" m="drink" t="v" />
+<w c="verbs" e="먹다" i="1425" m="eat" t="v" />
+<w c="verbs" e="떨어지다" i="1426" m="fall" t="v" />
+<w c="verbs" e="우연히 눈에 띄다" i="1427" m="find" t="v" />
+<w c="verbs" e="발사하다" i="1428" m="fire" t="v" />
+<w c="verbs" e="날다" i="1429" m="fly" t="v" />
+<w c="verbs" e="이해하다" i="1430" m="follow" t="v" />
+<w c="verbs" e="잊다" i="1431" m="forget" t="v" />
+<w c="verbs" e="병에 걸리다" i="1432" m="get" t="v" />
+<w c="verbs" e="주다" i="1433" m="give" t="v" />
+<w c="verbs" e="소유하다" i="1434" m="have" t="v" />
+<w c="verbs" e="듣다" i="1435" m="hear" t="v" />
+<w c="verbs" e="돕다" i="1436" m="help" t="v" />
+<w c="verbs" e="기대하다" i="1437" m="hope" t="v" />
+<w c="verbs" e="뛰다" i="1438" m="jump" t="v" />
+<w c="verbs" e="키스하다 (kiseu hada); 입맞추다 (im-matchuda)" i="1439" m="kiss" t="v" />
+<w c="verbs" e="웃다" i="1440" m="laugh" t="v" />
+<w c="verbs" e="배우다" i="1441" m="learn" t="v" />
+<w c="verbs" e="눕다" i="1442" m="lie" t="v" />
+<w c="verbs" e="거짓말하다" i="1443" m="lie" t="v" />
+<w c="verbs" e="마음에 들다" i="1444" m="like" t="v" />
+<w c="verbs" e="경청하다" i="1445" m="listen" t="v" />
+<w c="verbs" e="바라보다" i="1446" m="look" t="v" />
+<w c="verbs" e="벗어나다" i="1447" m="lose" t="v" />
+<w c="verbs" e="사랑하다" i="1448" m="love" t="v" />
+<w c="verbs" e="하다 (hada)" i="1449" m="make" t="v" />
+<w c="verbs" e="우연히 만나다" i="1450" m="meet" t="v" />
+<w c="verbs" e="움직이다" i="1451" m="move" t="v" />
+<w c="verbs" e="필요로 하다" i="1452" m="need" t="v" />
+<w c="verbs" e="권하다" i="1453" m="offer" t="v" />
+<w c="verbs" e="열다" i="1454" m="open" t="v" />
+<w c="verbs" e="지불하다" i="1455" m="pay" t="v" />
+<w c="verbs" e="놀다" i="1456" m="play" t="v" />
+<w c="verbs" e="끌어당기다" i="1457" m="pull" t="v" />
+<w c="verbs" e="밀다" i="1458" m="push" t="v" />
+<w c="verbs" e="놓다" i="1459" m="put" t="v" />
+<w c="verbs" e="읽다" i="1460" m="read" t="v" />
+<w c="verbs" e="상기하다" i="1461" m="remember" t="v" />
+<w c="verbs" e="달리다" i="1462" m="run" t="v" />
+<w c="verbs" e="...이라고 말하다" i="1463" m="say" t="v" />
+<w c="verbs" e="...을 팔다" i="1464" m="sell" t="v" />
+<w c="verbs" e="노래하다" i="1465" m="sing" t="v" />
+<w c="verbs" e="앉다" i="1466" m="sit" t="v" />
+<w c="verbs" e="미소짓다" i="1467" m="smile" t="v" />
+<w c="verbs" e="수영하다 (suyeonghada)" i="1468" m="swim" t="v" />
+<w c="verbs" e="받다" i="1469" m="take" t="v" />
+<w c="verbs" e="말하다" i="1470" m="talk" t="v" />
+<w c="verbs" e="그리다" i="1471" m="trace" t="v" />
+<w c="verbs" e="이해하다 (ihaehada)" i="1472" m="understand" t="v" />
+<w c="verbs" e="적용하다" i="1473" m="use" t="v" />
+<w c="verbs" e="기다리다" i="1474" m="wait" t="v" />
+<w c="verbs" e="쓰다" i="1475" m="write" t="v" />
+<w c="weather" e="구름" i="1476" m="cloud" t="n" />
+<w c="weather" e="이슬" i="1477" m="dew" t="n" />
+<w c="weather" e="안개" i="1478" m="fog" t="n" />
+<w c="weather" e="서리" i="1479" m="frost" t="n" />
+<w c="weather" e="번개" i="1480" m="lightning" t="n" />
+<w c="weather" e="비" i="1481" m="rain" t="n" />
+<w c="weather" e="무지개" i="1482" m="rainbow" t="n" />
+<w c="weather" e="눈" i="1483" m="snow" t="n" />
+<w c="weather" e="폭풍우" i="1484" m="storm" t="n" />
+<w c="weather" e="우레" i="1485" m="thunder" t="n" />
+<w c="weather" e="바람" i="1486" m="wind" t="n" />
+</vocb>

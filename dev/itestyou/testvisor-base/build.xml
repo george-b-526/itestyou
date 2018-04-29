@@ -1,0 +1,70 @@
+<project default="build" basedir=".">
+
+	<property name="src" location="src"/>
+
+	<target name="init">
+		<delete dir="dist" />
+		<mkdir dir="dist" />
+
+		<delete dir="build"/>
+		<mkdir dir="build"/>
+	</target>
+  
+	<target name="compile">
+		<mkdir dir="build/classes" />  
+
+		<path id="classpath">
+			<fileset dir="../testvisor-hmvc/lib">
+				<include name="**/*.jar"/>
+			</fileset>
+			<fileset dir="../testvisor-hmvc/dist">
+				<include name="**/*.jar"/>
+			</fileset>
+			<fileset dir="lib">
+				<include name="*.jar"/>
+			</fileset>
+			<path location="build/classes" />
+		</path>
+		
+		<javac 
+			srcdir="src"  
+			destdir="build/classes"
+			classpathref="classpath" 
+			debug="on"
+		/>
+	</target>
+
+	<target name="dist">
+		<jar 
+			jarfile="dist/oy-tv-base-1.0.jar" 
+			basedir="build/classes" 
+		/>
+	</target>
+
+	<target name="pre-dist">
+		<tstamp>
+			<format property="touch.time.started" pattern="MM/dd/yyyy hh:mm:ss aa"/>
+		</tstamp>
+		<echo file="dist/manifest.txt" message="Testvisor Base 1.0" append="false"/>
+		<echo file="dist/manifest.txt" message="Started: ${touch.time.started}" append="true"/>
+	</target>
+
+	<target name="post-dist">
+		<delete dir="build" />
+		<tstamp>  
+			<format property="touch.time.completed" pattern="MM/dd/yyyy hh:mm:ss aa"/>
+		</tstamp>
+		<echo file="dist/manifest.txt"  message="Completed: ${touch.time.completed}" append="true"/>
+	</target>
+
+	<target name="official">
+		<antcall target="init"/>
+		<antcall target="compile"/>
+		<antcall target="pre-dist" />
+		<antcall target="dist" />
+		<antcall target="post-dist" />
+	</target>
+
+	<target name="build" depends="official"/>
+
+</project>

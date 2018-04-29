@@ -1,0 +1,899 @@
+TODO
+
+	BUG
+		- none!
+				
+	NOW	
+		- software glossary
+			http://www.fda.gov/iceci/inspections/inspectionguides/ucm074875.htm
+		- aptitude tests
+			http://www.psychometric-success.com/downloads/download-practice-tests.htm
+		- add category/tag sync
+		- compute math unit categories & standards
+			- learn to create categoreis in wordpress 
+			- and assign units to them
+			- create all math keywords from the CA materials
+			- show categories on the home page
+			- show report of how many categories you do know
+			- do the same for skills (from CA documents)
+		- make SSL work properly
+				The page at https://www.itestyou.com/test/wdgt?action_id=0&inGradeId=2&inReferer=https%3A//www.itestyou.com/%23ity0 ran insecure content from http://www.itestyou.com/css/test.normal.css.
+				The page at https://www.itestyou.com/test/wdgt?action_id=0&inGradeId=2&inReferer=https%3A//www.itestyou.com/%23ity0 ran insecure content from http://www.itestyou.com/js/md5.js.
+				2The page at https://www.itestyou.com/test/wdgt?action_id=0&inGradeId=2&inReferer=https%3A//www.itestyou.com/%23ity0 ran insecure content from http://www.itestyou.com/js/vocb.normal.2.js.
+		- add SSL expiration validator
+		- dont allow login to admin interface if no role assigned
+		- Aaron Lee
+			Goal: invite your friends. You have learned 48 words in the last x weeks. Would you like to invite your friends to learn ${VOCAB_NAME} ? 
+			Remove toolbar, remove ads.
+			
+			> Post your achievement on your wall.
+			> Complete with your friend
+			> Go to iTunesa  AppStore and rate our.
+			
+			>> send person to the right appsotore
+			>> same place where ratings are set
+			
+			Metrics: like >> post >> invite
+
+		- add picture of a problem to email; try inline
+		- scrap apache/tomcat logs for IP velocity
+		- fix Call TO ACTION
+			- to LIKE
+			- get FB app to post on your wall
+			- to post messages to the wall
+				- David has finished level 100 in SAT Vocabulary!
+		- update iPhone app
+		-emove USR_USER
+		- Oleg translations
+			- add "this unit has EN only" button, so we know it can't be translated;
+			  simply add "en-only" or "[en]"  key with null value toi indicate that 
+			  no translations are possible
+			- add LANG selector in math toolbar
+		- make QueueThread count users online
+		- universal rollup
+			- add group type units to represent math grades; update
+			  ROLLUP to summarize those
+			- can we declare abstract rollup and have system compute it for all/some users
+			- attach rollup group to a unit
+			- do checkpoint per unit, thus we can compute/reset aggreagtes computation per unit
+		- can we do something better than "<span class='mbox'>_</span>"
+		- Add mobile button links from leader board
+		- dont read full distinct history on every success; estimate next check point
+		- get sentences from wiki words
+			- http://dumps.wikimedia.org/
+			- http://simple.wiktionary.org/wiki/Wiktionary:Academic_word_list
+		- restrict admin/bin/view by htaccess password
+		- do journal to local table while main is out for
+			- events, response queue
+		- make selector use distinct
+		- look back in history way past 4 weeks; we don't care how long ago person learned the words
+		- math widget to show results on the same page in a DIV
+		- when access denied - show "banned page" and how to reinstate
+		- don’t show me the words I already know in the decoys			
+		- enforce uniqueness OY.MATH.6.23 on publish and save 
+		- Aaron
+			- go to game right after account creation
+			- IE 8 <input> content does not wrap; change it to <DIV>
+		- monitoring
+			- monitor log for "Exception"
+			- add SSL monitor
+				http://charlesdamonwarren.com/2010/10/23/getting-an-ssl-certificate-expiration-date-from-a-remote-server-in-php/
+		- add color (red, green) to translation btn
+		- only admin can deactivate or edit active
+		- publish 900 words of office slang 
+		- add title attr to each link
+		- retry beginDb after 250 ms wait
+		- show "UPDATE IN PROGRESS", not "Service not available" when tomcat is down
+		- add counter for DB connection count
+		- embedded widget 
+			feedback link broken
+			top toolbar sucks
+			no ads
+		- add generic change log
+			log date time source table and XML view of all fields before change
+		- add ads to non mobile web pages
+		- Enforce notes format and unique on publish and on save.
+		- add UID to chart.php or cached image can be seen by next user
+		- http://www.faa.gov/library/manuals/aviation/pilot_handbook/
+		- embed khan videos
+		- Send ity progress report on monday
+		- Add microformars to ity
+		- Ity for ps3 or TV?
+		- Add expiry to cache; queu worket thread to expire
+		- download freebase; can we use same storage for vocab?
+		- khan
+			- can we import all Khan's units?
+				https://github.com/Khan/khan-exercises/wiki/Writing-Exercises:-Introduction
+			make his unit to run
+			- can we link to all Khan's video's
+			- http://www.mathjax.org
+			read howto http://ejohn.org/blog/bringing-the-browser-to-the-server/
+			http://ejohn.org/blog/bringing-the-browser-to-the-server/
+			khan-exercise.js
+			khan-exercise.html
+		- admin
+			- admin make unit unit readonly, but still show it; prevent edit
+		- add ITY/news
+		- Mathematics Framework for California Public Schools
+		- complete http://www.itestyou.com/cms/share
+		- remove vaadin FAV ICON
+		- add relations state; proposed, rejected, approved
+		- publisher!
+			- use cases
+				- 1. publisher creates corpus and assigns rights to another user (en/sr)
+				- 2. user comes in and edits SR transaltions; clicks save; sees diff; confirms
+			- complete editing cycle for outside translator
+			- acl
+			- longer session expiration
+			- import app translations
+			- how to add row (dimention)
+			- add fild length asserts
+			- add corpus broewser
+			- add unit tests
+			- make this work for SAT where we dont have lang_1 lang_2
+			- add symmetric/not; if MODE not provided choose based on symmetric
+			- add optional <decoy /> children to <w />; this now makes it un-symmetric...
+			- create web editor for translations
+
+		- russian tests
+			- http://www.testrf.ru/2010-06-02-08-59-37
+			- www.testrf.ru/pdf/1ser.pdf 
+		- add international product desc to website
+		- iOS Languages desc
+			nl	+Dutch
+			de	+German
+			ru	+Russian
+			zh	+Simplified Chinese
+			ja	+Japanese
+			fr	+French
+
+			it	-Italian
+			ko	-Korean
+			pt	-Portuguese
+			es	-Spanish
+			sv 	-Swedish		
+		- international domains fail in SSL and javscript resize trust check	
+		- DB growth 2MB per day
+		- provide international domain landing pages
+		- add langauge specific bar at the top;
+		  give an overview of the site; promise full translation in the future
+		- start RU -> non English languages
+		- add usr-unit table where we keep overall state of unit
+			- coverage
+			- ...
+			- or we may compute this from week over week...;
+			- do we need to recopy known words over to next week, do we recopy?
+		- Moodle to ITY
+		- contact cristinadeberar*****@*******.com who knows 5 languages
+		- Make sat words learned over time as table or chart
+		- Point fb ads to new subpage for sat vocab
+		- for those who played many many words
+			- in challenge code; if history has 500+ items
+			- grab full unit; grab all words; add it into week history with X:0;
+			- pull decouys and challenges from words that have :scores 
+		- add link to other content to apps home page 
+		- add flags to languages
+		- how to not-use SSL when departing My Account page after pwd change	
+		- EGE
+			http://www.ege.edu.ru/ru/main/demovers/
+			http://www.fipi.ru/view/sections/141/docs/
+			ontology
+				- http://mathege.ru/or/ege/Main.html?view=Page&contentId=132#2.1.1
+				- http://mathege.ru/or/ege/Main.html?view=Page&contentId=131#2.1
+		- we need translation infrastructure
+		- Add page and camoaign asking for rare languages submission
+		- outsourcing
+			http://www.guru.com/
+			http://www.elance.com/
+		- badges
+			- top 10% in Arabic English
+			- top 20% in Grade 2 math
+		- use oDeck for usability studies;
+			- make custom signup page
+			- make a group
+			- get them to enter job code into registration page and their oDesk profile id
+			- put conditions in
+				- practice for 15 minutes 4 times a week
+			- pay each participant 1-2$ at the end of term
+		- verify words with native speaker
+		- Allow email change in ity
+		- add swahili and other rare languages
+		- all 34x34 languages; add non-EN permutations	
+		- allow users shout or flag bad translations in vocb view
+		- look into anatomy section in Olga's book
+		- LSAT certification
+		- translate iTunes desc into 35 languages
+		- translate with 
+		  http://www.icanlocalize.com/site/services/website-translation/wordpress-translation/
+		- tell people to upgrade on home page
+		- count access denied errors
+		- improve access denied message for expired app_tokens
+		- Level 8 6 vocab
+		- redo en-es/en-ru direction via qry params and unit setup form
+		- add home page per language where all the outbound links can go to
+		- add new page with each separate unit progress weekly  
+		- Allow email change in ity
+		- why serbian has only 600 words?
+		- dups
+			115: economic = elastic
+			108: different = distant
+		- ful dups/partial dups
+		- reset password is in open text in db
+		- latex needs "\ " for a space
+
+	Semantics
+		- http://en.wikipedia.org/wiki/Lexipedia
+		- http://en.wikipedia.org/wiki/Gellish_database
+
+	Math
+		- we already have tag/tags - import those to Weordpress on daily chron
+			- tags for grade 4+
+
+	Wordpress
+		- add "Bob news feed just solved Grade 6 math problem #123"
+		- add countdown clock on leaderboard
+		- capture user id for those who comment in wordpress
+
+	Android App
+		- add Math to title that shows on the desktop
+		- fix vocb icon; add word SAT/MATH
+		- token-expired is not handle correctly; shows access denied; handle 'expire_token' to all web views
+				
+	SERVER
+		- admin app does not update UNIT_TYPE properly
+		- admin app does not update UTF8 propoerly
+		- add in-memory IP velocity check for the API; ban temporarily if exceeded
+		- mysql
+			com.mysql.jdbc.exceptions.MySQLNonTransientConnectionException: 
+			  Data source rejected establishment of connection,  message from server: 
+			  "Too many connections"
+				at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:921)
+				at com.mysql.jdbc.MysqlIO.doHandshake(MysqlIO.java:997)
+				at com.mysql.jdbc.Connection.createNewIO(Connection.java:2670)
+				at com.mysql.jdbc.Connection.(Connection.java:1531)
+				at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:266)
+				at java.sql.DriverManager.getConnection(DriverManager.java:525)
+				at java.sql.DriverManager.getConnection(DriverManager.java:193)
+				at com.oy.tv.db.AnyDB.open(AnyDB.java:24)
+				at com.oy.tv.db.AnyDB.open_mysql(AnyDB.java:42)
+				at com.oy.ity.api.ActionDispatcher.beginDb(ActionDispatcher.java:57)
+				at com.oy.ity.api.ActionDispatcher.service(ActionDispatcher.java:89)
+				at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+				at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:269)
+				at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:188)
+				at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:213)
+				at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:172)
+				at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+				at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:117)
+				at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:108)
+				at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:174)
+				at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:873)
+				at org.apache.coyote.http11.Http11BaseProtocol$Http11ConnectionHandler.processConnection(Http11BaseProtocol.java:665)
+				at org.apache.tomcat.util.net.PoolTcpEndpoint.processSocket(PoolTcpEndpoint.java:528)
+				at org.apache.tomcat.util.net.LeaderFollowerWorkerThread.runIt(LeaderFollowerWorkerThread.java:81)
+				at org.apache.tomcat.util.threads.ThreadPool$ControlRunnable.run(ThreadPool.java:689)
+				at java.lang.Thread.run(Thread.java:595)
+		
+
+	SERVER CLEAN UP
+		- remove authoratory
+		- db clean up
+			- table ns to database is adhock
+			- nested transactions are fucked up... trxBegin/trxEnd needs to be reentrable....
+			- new ID allocation is fucked up
+			- we always commit in finally
+		- yacas may have weak thread safety and may have thread collisions; 
+			needs better defense or run all tasks serilized
+		- FormatD(0.01) blows up
+		- add JS runtime to tests
+		- store reset password hashes only, not the whole thing
+		- secure tomcat
+			https://www.owasp.org/index.php/Securing_tomcat
+
+	GROUPS
+		- create group
+		- join group
+		- send message to all group members
+		- group leaderboard
+		- add my gorups to my home page 
+		- allow to invite friends; show scores aginst friends
+		- send email at the end of the week to all players who played this week and announce the winner		
+		- add "play alone" and "play with a friend"
+		
+	MONEY
+		- 250 free ebay cards
+		- free account 2-3 variations only; show same variation to the free user 
+		- how to charge and disable after 30 days?
+		- add 3 month/$3.99 billing
+		- AdMob advertising
+			http://code.google.com/mobile/ads/docs/android/fundamentals.html
+	  	 
+	NICE TO HAVE
+		- Remove word from vocb meaning
+		- php vocb.php does not escape words; can be script injected if we allow
+		  vocb XML editing by 3rd party 
+		- when history is longer than number of supported unit
+		  prevent exact repeats of unit sequence; select random N units from 
+		  the last M 
+		- make variation instances not repeat
+		- allow to set number format for the entire problem 
+		- cross browser iframe resize		
+
+DONE
+	- all Android versions expired; updated to 1.16
+	- translate into ZH
+	- fixed &amp;div;, &amp;times; &amp;plus; 
+	- import math categories and glossary into db
+		- math meta sources
+			- http://www.corestandards.org/the-standards/mathematics/grade-4/number-and-operations-fractions/
+			- http://www.ixl.com
+			- http://www.cde.ca.gov/be/st/ss/
+		- competitors
+			- http://math247.pbworks.com/w/page/20517230/4MG1-1
+			- http://www.csun.edu/~vcmth00m/
+	- translate MATH widget verbs to RU
+	- restrick translator to a set of languages
+	- skolko GRENEY u etoy figuri?
+	- rotate apache error log
+	- restrict translators by language
+	- P1
+		- divide 5000 word into 100 levels of 50
+		- every 10 problems present "call to action"
+			- show social toolbar here
+			- show "you have reached x and ranked y"
+			- offer post to FB
+	- update PHP to use new new rollup values 
+		- vocb/vocbEx
+		- remove aggregation, just use total value
+	- article in Gunn Oracle newspaper
+	- ad dskip button
+	- record locale of hte vote in the queue
+	- add select lang on math home page
+	- remember language in a cookie
+	- diversify intrasticial
+		- these should encourage to stay longer!!!
+			- in 10 more right answers you will take top sopt on leaderboard
+			- in 10 more answers you match your last week effort
+			- you are almost done with all adjectives
+		- first time show level
+		- show perf chart and metrics
+		- give overview of the unit being solved
+		- next time show your pace
+		- next time show how much to cover all vocab words
+		- next time show estimate of leaderboard position
+		- mention how long the session was; encourage to study more
+		- then rotate
+	- lookup and render the right unit on the fly based on locale
+	- pass inLang into WDGT or use cookie
+	- unit 43: SIX, SEVEN, ... need to be localized
+	- unit 19, 20, 78: identity parsing is broken or shows different result
+	- unit 107: parsing is broken...
+	- Add break after 10 vocab words
+	- '&amp;times;' is unescaped into '&times;' upon translation 'save'
+	- make levels work
+		+ define items per level (math = 3, lang = 10)
+		+ update vocb/vocbEx to use rollup
+		+ show your level on the vocb/vocbEx
+		+ show new level reached intrasticial	 
+	- make toolbar leaderboard go where it has to
+	- add new table where we keep all distinct units covered by user
+	- make PHP my progress on unit to use that page as well as page for this week stats
+	- storage options
+		- rollup the pass/fail counts {unit_id:pass_count:fail_count}
+			72K uncompressed in text form  >>>  25K compressed
+			growth with use, small for occasional user
+			full details
+		- rollup just the bit flags {unit_id, unit_id, ...}
+			fixed size upfront
+		- if we store this in the same row as the rest: it will accumulate in old weeks
+	- also
+		- add column UUR_UNIT_PROPERTIES
+		- add distinct_count=12345 so level can be computed directly without summing up
+	- compute options
+		- let queuee processor thread compute this
+		- do a custom job from home
+			- select lats for update
+			- get all passed
+			- join, write out into current, commit
+	- all anonymous player votes rolls up into one advice;
+		we also gonna have collision on put and read there;
+		options is to rollup into temp table by REQ_ACTIVITY_ID and wipe it after a while
+	- regenerate all as the state is screwed up 
+		due to lack of rollback
+	- exception above
+		- has no time
+		- did not cause 
+	- push plan for database split
+		+ upload new binary
+		+ turn chron jobs off
+			+ notify_plan
+			+ notify_do
+		+ create db "ITY_RUNTIME"
+		+ stop tomcat
+			service tomcat55 stop
+		+ get full backups (5 min, 160MB)
+		+ selectively backup these (4 min, 155MB)
+			+ events
+			+ response queue
+			+ dont drop yet
+		+ import event + resp into it ITY_RUNTIME (17 min)
+		+ restart tomcat
+		+ check site up, clean error log
+		+ watch weekly roolup rebuild (1:16 AM - 1:51 AM = 35 min, 1000 rows/5 s consumed)
+		+ test manually
+		+ update php
+			+ EVT_EVENT moved to ITY_RUNTIME
+			+ REQ_RESPONSE_QUEUE moved to ITY_RUNTIME
+			+ UUR_USER_UNIT_RESPONSE >> UUR_UNIT_ROLLUP_WEEKLY renamed and moved to ITY_RUNTIME
+		+ test everything: web + mobile + admin interface
+		+ turn chron back
+		+ drop old tables from ITY_ADMIN
+			+ evt_event
+			+ oca_object_cache
+			+ cpt_checkpoint
+			+ REQ_RESPONSE_QUEUE
+			+ UUR_USER_UNIT_RESPONSE
+	- start oleg off on LIVE translations
+		- get firewall rule
+		- get him to create ITY account
+		- give translation rights
+	- add STATE to translation
+	- made pass words not to be the challenge word
+		- what dataset do we need
+		- unit_id:pass, fail
+		- lasts time unit was show and pass,fail
+		- what about doing bins {now, next, later} and rotate items between bins
+			- at start put all items in now bin
+			- if pass, put to later bin, else put in next bin
+			- when new now is empty, move next to now, later to next
+		- limiting expansion is key
+		- how do we know # of distinct words answered to count level?
+		- fully evaluate all words person knows and order probability by reverse pass frequency
+			- add UUR_UNIT_DATA with separate ep{}, mp{}, fp{} and mf{} rollups
+		- we only store pass+fail as a sum; we need to store both separately
+		- we by by week: do we know the date of last pass/fail to schedule temporally?	
+	- hide current toolbar				
+	- add new toolbar that has: clock, +/- so far, level completion
+	- update +/- right after user touches the screen
+	- fix String(result) for RepeatNTimes
+	- translate math
+		- translate desc and title; title is expression "Math Unit @${foo}" 
+		- add SAVE to translation
+	- add captcha to comment post
+	- add permissions to apache to access wordpress
+		chown -R apache:apache /oy/testvisor/rtl/generic/public_html/cms
+		chown -R rootadmin:rootadmin /oy/testvisor/rtl/generic/public_html/cms
+	- v1 math translation editor is done
+	- invite people back
+		- complete opt out and password change
+		- old ones - offer SAT, ...
+		- recent lang ones - to keep practice
+	- add text desc for each vocab set
+	- admin app wipes fields it dose not know about like desck
+	- better email/bug/live person icon
+	- restart we missed you emails last week on March; gen all in one SQL; send slowly
+	- MAKING CONCURRNT CALLS FROM Categfiry search embeds wrong units
+		- js was emmited correctly
+		- can this be threading issue when same user calls getChallenge multiple times and we collide somewhere
+		- modify <title> to include unit #
+	- threading collision
+			outer frame title
+				unit 36
+			inner frame unit text
+				unit35
+				What is written as a percent?
+			embed hint
+				<!-- hash:32472548; referer:http://www.itestyou.com/#ity0; createdOn:1332581791421; activityId:4B32F2522BD096EAC34C724215705CDE; userId:1000; 
+				failCount:0; passCount:0; 
+				gradeId:0; unitId:25; variationId:6899; history:{
+					  25; 33; 31; 30; 32; 35; 36; 171; 172; 177; 173; 174; 178; 
+					175; 176; 179; 180; 171; 172; 173; 174; 177; 178; 175; 176; 
+					179; 180; 171; 172; 173; 178; 174; 176; 175; 177; 179; 180; 
+					171; 172; 179; 173; 174; 178; 176; 175; 177; 180; 171; 172; 173; } -->
+
+			outer frame title
+				unit 35
+			inner frame unit text
+				unit35
+				What is written as a percent?
+			embed hint
+				<!-- hash:32472548; referer:http://www.itestyou.com/#ity0; createdOn:1332581791206; activityId:4B32F2522BD096EAC34C724215705CDE; userId:1000; 
+				failCount:0; passCount:0; 
+				gradeId:0; unitId:30; variationId:8141; history:{
+					              30; 32; 35; 36; 171; 172; 177; 173; 174; 178; 
+					175; 176; 179; 180; 171; 172; 173; 174; 177; 178; 175; 176; 
+					179; 180; 171; 172; 173; 178; 174; 176; 175; 177; 179; 180; 
+					171; 172; 179; 173; 174; 178; 176; 175; 177; 180; 171; 172; 173; 
+					174; 175; 176; } -->			
+	- cahce control for charts data or in DB or file system; clean up after 24 hours
+	- Math Worksheets Unit #105 shows 16c, but says SIX cents.
+	- Fix iphone html styles
+	- 2006, 205, 199 - are busted and show WRONG when it is in fact right
+	- completely wire LOL vocb in leaderboard and mobile home view
+	- faa glossary with
+		good  -http://www.pdftohtml.net 
+		bad - http://www.pdfonline.com/convert-pdf-to-html/
+	- add lol vocabulary
+	- add chart caching
+	- added accuracy amd effort charts
+	- add bth from unit to progress
+	- publish to live from admin
+	- convert to failed vote; don't accept as fail, log exception
+		at java.lang.NumberFormatException.forInputString(NumberFormatException.java:48)
+		at java.lang.Integer.parseInt(Integer.java:468)
+		at java.lang.Integer.parseInt(Integer.java:497)
+		at com.oy.tv.vocb.view.VocabView.getResult(VocabView.java:190)
+		at com.oy.tv.vocb.view.VocabView$ResponseAction.execute(VocabView.java:153)
+		at com.oy.shared.hmvc.impl.BaseView.dispathActionToView(BaseView.java:222)
+		at com.oy.shared.hmvc.impl.BaseView.dispatchAction(BaseView.java:229)
+		at com.oy.tv.app.BaseViewCtx.dispatchViewAction(BaseViewCtx.java:151)
+		at com.oy.tv.app.BaseViewCtx.transformModel(BaseViewCtx.java:251) 
+	- Don't force same unit when math from my progress
+	- why SR join shows only 630 lines and not 1500 EN words~
+	- don't allow too far past and future leaderboard or Google bot goes crazy
+	- ad "this week", "last week" for weekly progress
+	- vaadin
+	- set link key to 
+		/int/0, int/1, ..
+		/str/vocb-name, /str/math-name, ...
+	- add all valid types, dims, categories to CURPUS {lang/en, lang/fr, ...}
+	- we missed you does not pick the last unit played, but "some" unit played
+	- publish ios Apps!
+	- update android translations!
+	- clean up " and truncate English translations in DE
+	- mac vmware
+	- mac www.mahmood1.com
+	- write load/cleanup/push live script in Java
+		- noun != n ?
+	- complete custom domain name redirects
+		itestyou.de
+		itestyou.es
+		itestyou.fr
+		itestyou.kr
+		itestyou.ru
+		itestyou.cn
+		itestyou.jp
+		itestyou.ae
+	- add CU_VERIFIED_ON
+	- yum install sysstat
+		mpstat
+		iostat
+	- complete We missed you at ITestYou email!
+	- added Armenian
+	- hide tomcat 500 errors
+	- complete My Account
+		- change password
+		- checkbox - do not send me reminders
+		- do not send me new material announcements
+	- move to non-mobile adss under unit (big square)
+	- get Oleg to complete Ukranian XML		 
+	- complete accont.php
+	- add repassword API
+	- add CUS_PROPERTIES column
+	- edit fb page to look like home page
+	- move text from Oleg into DB
+	- add tom toolbar for all mobile use cases
+	- move ads to the bottom for math
+	- why do we have 735 Tomcat threads; it starts at 40 and grows; 
+	  weird, but was garbage collected about t200 threads
+	- add lang favorites
+	- check vocabularies; they have e="", e="0" etc
+	- put ads between leaderboard
+	- move ads after ALL and before Formula in leaderboard
+	- hide top ads from PRO version
+	- add 14 different language descritpions into Androi dmarket
+	- IE does not resize iframe properly
+	- AUT_AUTH_TOKEN AUT_USER_AGENT is fucked up and can't be used to judge isPro
+	- add new app for Foreign Languages
+	- add essential
+		FR, GERMAN, KOREAN., CHINEESE, ...
+	- move ads to the bottom for vocab
+	- францьзскый язык
+	- we allow space in emails and don't check for presence of '.'
+	- complete menus
+	- deploy 36 languages into CMS
+	- ALL IN ONE PAGE
+		http://www.dicts.info/vocabulary/index3.php?l1=russian
+	- !!!!!!!!!!!!! 
+			http://www.dicts.info/vocabulary/
+	 		http://dictionarymid.sourceforge.net/dict.html
+	- IDP
+	- http://www.freedict.org/en/
+	- use Google translate to build 40x40 language matrix
+	- update Amazon apps
+	- LANG app leaderboard
+	- added GMAT
+	- create ES-EN word list
+	- !!!!!!! MUST SEND WEEK SUMMARY and email to those who did not play even once
+	- clean up russina words
+	- sort russina words
+	- Reject decoy if its answer matches another decoy answer sey etot
+		- same word 1310 got picked twice as decoy
+	
+			<!-- hash:11511434; referer:http://www.itestyou.com/cms/spanish-english-1001-vocabulary#ity0; createdOn:1326967931810; activityId:CE0382D274C4919632D94A4935888403; userId:1000; unitId:118; variationId:1300; lastVariationId:-1; answerIdx:4; mode:0; inv:true;
+			wordIds: {1308; 1305; 1310; 1310; 1300; }
+			fail: [];
+			pass: [];
+	- remove media wiki
+	- bug: category list; pick unit; answer; another unit shows up in place sometimes
+	- automate monitoring so I can sleep normally
+	- spelling
+		revoke (v)	to repeal; ctmce4 take back
+	- add RU
+	- add ES
+	- add Word List or Language Learning or Spahins leaderbpard
+	- how about spanish-english word learning
+	- http://www.learnrussianfree.com/vocabulary/word
+	- add vote charts math|eng graph group by 1 min
+	- fixed with home page; when auth token expires or invalid app lets you see first challeneg, reply to it
+		  and only then logs you out; odd	  	 	  	 
+	- hide tomcat 500/400 errors by Apache
+		<web-app>
+		  <error-page>
+		    <error-code>404</error-code>
+		    <location>/error404.jsp</location>
+		  </error-page>
+		...
+		<web-app>
+	- move web site to wordpress
+	- week to vocb redirect does not work (sometimes)
+	- add channels 
+		SAT Vocab
+		School Math
+	- complete vocab content
+		complete SAT vocab score calculation
+		GRE, TOEFL, pre-SAT
+	- Apple complete iOS apps
+	- 200% CPU usage in Java - why?
+	- capture join events for later email processing 
+	- ADD TOTAL word count so far;
+		remove % from green bar; rename to words learned this week
+	- join words learned last week into this week; in php
+	- prevent immediate word repeats
+	- span words known/not know from past week; vocabview line 252
+			- simply carry over words you dont know from last week if this week has none	
+	- add more perf counters
+	- words you know and don’t know in SAT
+	- move to mobile ads to reduce page loading time
+	- configure utestyou adsense handle and bidding
+	- FB page
+	- fix per unit progress 
+		http://www.itestyou.com/practice/math/unit-4/review
+	- reset password did not wipe existing access handles
+	- add "Feedback" button
+	- make separate app for SAT Vocabluary
+		- how to share password between two differnt apps
+	- add HTML/SEO titles to year/week/leaderboard view pages
+	- ity app can play this from the My Progress; how to prevent?
+	- add SAT, GRE, TOEFL section to web site, before adding mobile app
+	- add login, home page header to SAT widget page when no session is in progress
+	- web practice for vocab has mobile header/footer
+	- Dima had week of Jan 03 and no results were shown for his week; it was Tu
+	- check REQ_ has REFERER for all apps
+	- iPhone
+		- publish separate iPhone apps
+	- remove tomcat 404
+			http://www.itestyou.com/test/vocbxyz?app_session=&action_id=0&inUnitId=115
+	- turn off vocb ads if inlined into itestyou.com site
+	- add ico next to title
+	- 404 errors
+		when year parameter is on URL, URL rewrite fails
+	
+		/cms/comments/feed
+		/practice/math/unit-36/share
+			while /practice/math/unit-36/test works
+		/cms/overall-leaderboard?year=2011&week=46&lang=ru
+		/learn/leaderboard?year=2011&week=46&lang=en
+	- record inReferer in votes table
+	- we used to send referer to wdgt?inReferer=ity-vocabp-1.14; now we moved to home?; so wdgt page does not  
+	- when leaderboard has no edition it has links; links point to old site
+		- pull out action generation in to class you pass in; dont generate links inline
+	- if loggedout how to hide side menu
+	- No comments for pages
+	- Hide comments from login reg pages and othe
+	- sometimes Android does not size iframe it nes timeout
+	- how to show list of units; it now trying to show exerpts
+	- frame resize does not work on Chrome
+	- port over login and registration
+	- import all units from ADMIN db
+	- Java code skipped the week on Dec 26!!!!!!!!!!!!!!!
+	- at 11:39 PM on Dec 25, 2011 Java queue processor inserted year 2012,week 1
+	- add 1s delay before post
+	- separate leaderboard for MATH/VOCAB
+	- make "wdgt" render "vocb"; hide "vocb" from JS
+	- Sort words in know dont know list case incensitive
+	- remove blocking wait dialog on load
+	- publish separate apps for Math and Vocabulary
+	- add vocb widget to web site
+	- updated app to have no "grade"
+	- add general terms of use and new account terms of use
+	- remove upgrade from Android app 
+	- Join now points to old ligin so does share, comment etc
+	- enable SAT unit
+	- complete matrix.php as extention of My Progress
+	- build challengs from the unknown words of the current week
+	- do not allow dups in decous			
+	- we do need 3rd state pass, fail, tripped in both directions	 
+	- int three state: ford, inv, random
+	- capture errors when the word was shows vs incorrectly picked
+	- make <vocb /> unit type inline lal words in the unit
+	- ad type to unit {UNIT | VOCB}; hide VOCB from web math practice selection
+	- complete SAT queue processor; add word stats table 	
+	- complete web registration
+	- when I go from my progress -> unit it whos both repeat and next challange
+	  when both unit and grade are setup
+	- provision for append (recopy) and delete (remove id and ignore the marix cell);
+	  do not use list.size but list.last.id
+	- Olga marketing	
+	- fix score recording for SAT testing
+	- redo web site account creation
+	- for SAT score calk
+		- define two flags for rollup type {UNIT_BASED, ITEM_BASED}
+		- mark each units with these flags
+			- math units - UNIT_BASED for now, later add ITEM_BASED and map those to knowledge tree
+			- SAT units - ITEM_BASED
+		- look up rollup type in the queue handler
+			- math units - do the same as now
+			- SAT units - do different rollup for the knowledge tree instance
+	- move expiration to June 2012
+	- this problem is broken
+		http://www.itestyou.com/practice/math/unit-63/test
+	- update app with SSL
+	- add SSL on server
+	- get SAT words from http://www.studyminder.com
+	- get SAT words from http://www.freevocabulary.com
+	- app quits on the second time
+	- change ICON
+	- fix web login and cc creation so people can use it from the web
+			- login
+				- set cookie
+				- check app_session cookie in the Test (in addition to exiting 
+				  WIKIMEDIA cookie or app_session)
+	- finish testing of ui.isPro
+	- no ads for paid users
+	- add current week leaderboard promo
+	- add awards to each week leaderboard
+	- produce PDF and Image of best player of the week
+	- deploy on Amazon and Nook
+	- remove ADS and call it Pro app version
+	- make sure all IP's are proprly captured even if X-Forwarded-For
+	- add build.xml
+		E:\dev\eclipse-root\android-ity-ex>D:\oy_node\bin\android-sdk-windows_r12\tools\android update project -p .
+	- remote IP is 127.0.0.1
+	- produce complete backup
+	- register curl call from PHP is GET; it shows in logs; use POST
+	- create separate access token for web and app access
+	- TIMESTAMP field must have '0000-00-00 00:00:00' explicit default value
+	- CUS.CREATED_ON updates on new phone activation		
+	- add android app screen shot to the home page
+	- add cube and graph screenshots
+	- added loading modal dialog
+	- add logo to a title bar
+	- Approved https://nookdeveloper.barnesandnoble.com/
+	- app does not quit when yes or no; send message
+	- add IP velocity check; cache token lookup
+	- cache in memory UnitIds, Variation Ids
+	- why is catalina out is full of 
+		"Access denied writing object property (com.oy.tv.wdgt.view.MainView$ChallengeAction, inGradeId)."
+	- unify sessions; remove "login" for access via android
+	- chron job to delete old cache files
+	- serv newest problems first
+	- add token validity cache
+	- store full url with memento and start from it not to loose memento
+	- add cache for toke lookup
+	- add cache for loadUnitsOldestLast
+	- add server side cache so when user looses memento - we have it server side
+	- add shapes
+	- add coins
+	- add to memento how long it took to submit the response
+	- record thinking time
+	- add link to past leaderboards
+	- clear view (loadContent("<html />")) on error
+	- aggregatror starts counting towards monday week on Sunday
+	- RC 1.6----------------------------------------------------------
+	- wipe web view before loading next so old page deos not hang around
+	- auth token is not enforced for test view
+	- add personal stats for the week
+	- fail reg with unknown password; not sucedds
+	- server allowed to create new arbitrary account during signin
+	- complete link hooks in progress view
+	- click contxt menu kills the app
+	- prevent back button from exiting the app
+	- add my progress view
+	- avoid dups in the challenge stream
+	- remove dups in next selector
+	- move on after one retry
+	- added pas/fail icons; added start; added two tries only
+	- move ad to challenge page
+	- add ads to leadrboard
+	- V1.4 RC1-110909 ---------------------------------------------------------------------------
+	- make leaderboard, add your core there, archive weekly
+	- change title to A+ ITestYou
+	- existing account registration blows up
+			java.lang.ArrayIndexOutOfBoundsException
+			at java.util.ArrayList.get(ArrayList.java:313)
+			at com.vokamis.ity.state.AppSettings.getAccount(AppSettings.java:64)
+			at com.vokamis.ity.view.AuthUserView.dispatchAny(AuthUserView.java:110)
+			at com.vokamis.ity.view.AuthUserView.dispatch(AuthUserView.java:43)
+			at com.vokamis.ity.RootActivity.dispatch(RootActivity.java:114)
+			at com.vokamis.ity.view.HomeView$1.onClick(HomeView.java:95)
+			at android.view.View.performClick(View.java:2485)
+			at android.view.View$PerformClick.run(View.java:9080)
+			at android.os.Handler.handleCallback(Handler.java:587)
+			at android.os.Handler.dispatchMessage(Handler.java:92)
+			at android.os.Looper.loop(Looper.java:130)
+			at android.app.ActivityThread.main(ActivityThread.java:3683)
+			at java.lang.reflect.Method.invokeNative(Native Method)
+			at java.lang.reflect.Method.invoke(Method.java:507)
+			at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:839)
+			at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:597)
+			at dalvik.system.NativeStart.main(Native Method) 
+	- removed htp://ml.api.itestyou.com for http://www.itestyou.com/api/ml
+	- recover.php clear text password in the log; use POST, not GET
+	- added token look up api for PHP front end
+	- increase connect timeout
+	- V1.2 RC1-110904 ---------------------------------------------------------------------------
+	- add tomcat access log
+	- do not delete old aut token when new one is inserted
+	- show grade/problem id in the top header of the screen
+	- change title to: loading, ready, sending
+	- auto login before each session; keep track of last time accessed the site
+	  and auto relogin every N minutes
+	- add timer to dismiss TestView if loads too long
+	- clear page cache once a day
+	- install kill date in the app
+	- check token present in response URL; add "force re-login" response if not
+	- move toast to the center of the screen
+	- change app icon
+	- fix web site to store email and allow password reset
+	- replace cancel button with "send me my password button"
+	- add "send me me my password button"; reinstall wipes temp password; 
+	  send email confirming registration; allow password recovery
+	- do password as a..z0..9 x 8 
+	- add google analytics in RPC section of code  	 
+	- auto create account from email & android_id hash
+	- if account create fails, ask for password
+	- server API
+		- installed(device_id_hash, profile_random_number, email)
+			- check account for email
+			- if not 
+				add account email, random number as pwd, record device id as auth origin
+				record install date
+			- else 			
+	- record install date in the server side
+	- add <skip> button to the challenge
+	- stop web registration
+	- do skip button
+	- pass auth token into test query string; embed it into memento
+	- manage "bad user name or password"
+	- add login before start
+	- finish remote account create in PHP
+	- add HtpClient
+	- record last loaded URL and use it as a base for next "start" from the home page
+	- add Google analytics tracker
+	- app resets when portrait/landscape flip
+	- allow zoom i nWebView
+	- in landscape, no vertical scroll
+	- add my app to Nook market
+	- CloudFlare facade
+	- inapp billing
+		http://developer.android.com/guide/market/billing/billing_integrate.html
+	- how to trap back button on the keyboard while in web view
+	- build home screen: lang, grade, start
+	- intercept link clicks; redirect them to full page browser
+	- FB SSO for Android
+		http://developers.facebook.com/docs/guides/mobile/#android
+	- Google SSO for Android
+		http://stackoverflow.com/questions/3352592/webservice-credentials-openid-android-accountmanager
+	- FB Web SSO  
+
+MAYBE
+	- add abcde to my progress; 100-90 A, 89-80 B, 79-60 C, 69-60 D, 59-50 F  
+	- more memory to tomcat
+	- add wait indicator after "start", not just toasts
+	- store last URL sent (with memento); reuse use when re-starting the app
+	- catch when we hit "Page not found" and handle it properly
+		- try injecting JavaScript into loaded page and see its content
+		- try adding JavaScript to page, which can then call Java code
+		  to make page visible
+	

@@ -1,0 +1,211 @@
+BODY, P {
+	font-family: Helvetica;
+	font-size: 11pt;
+	padding: 0px;
+	margin: 0px;
+}  
+
+BODY {
+	margin: 0px;
+	padding: 4px;
+}
+ 
+/*
+	Removes horz scrollbar for IE
+*/
+HTML, BODY {
+	overflow-x: hidden;
+}
+  
+P {
+	margin: 0px;
+	padding: 4px;
+}
+
+OL {
+	margin: 4px;
+	margin-left: 12px;
+	margin-bottom: 8px;
+}
+
+LI {
+	margin: 0px;
+	padding: 4px;
+}
+
+P.incorrect {
+	margin-left: 16px;
+	margin-right: 16px;
+	background-color: #E72818; 
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+
+P.warning {
+	margin-left: 16px;
+	margin-right: 16px;
+	background-color: #FFFF00;
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+  
+P.correct {
+	margin-left: 16px;
+	margin-right: 16px;  
+	background-color: #92D636; 
+	font-weight: 800;
+	text-align: center;
+	color: #000000;
+}
+
+DIV.response {
+	padding-top:24px;
+}
+
+DIV.container {
+	width: 100%; 
+	text-align: center;
+	padding: 0px;
+}
+    
+DIV.challenge {
+	margin-left:auto; 
+	margin-right:auto;
+    margin-bottom: 8px;
+	padding-top: 2px;
+    padding-bottom: 4px;
+    border-bottom: solid 1px #E0E0E0;	
+	text-align: left;
+	width: 100%;
+	max-width: 400px;  
+	width: expression(document.body.clientWidth > 400? "400px": "auto" );
+}
+
+P.quest {
+	text-align: left;
+	font-weight: 800;
+	border-bottom: solid 1px #E0E0E0;
+	padding: 8px;
+	padding-top: 0px;
+}
+
+FORM {
+	margin: 0px;
+}
+
+INPUT.vote {
+	width: 36px;
+	-webkit-appearance: none;
+}
+
+INPUT.vote, FORM INPUT {
+    background-color: #00FFFF;
+	border: solid 2px;
+	border-color: #AAFFFF #444444 #444444 #AAFFFF;
+	font-weight: bold;
+	-webkit-appearance: none;
+}
+
+/*
+	Note the use of "max-width" for FF, and "expression()" for IE
+*/    
+IMG.graph {
+	width: 100%;
+	max-width: 400px;  
+	width: expression(document.body.clientWidth > 400? "400px": "auto" );
+}  
+
+DIV.bar {
+	font-size: 10px;
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	text-align: center;
+	border-bottom: solid 1px #E0E0E0;
+}
+
+DIV.header {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	position: absolute; 
+	top: 0px; 
+	text-align: left;
+}
+
+DIV.menu {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;   
+	position: absolute; 
+	top: 0px; 
+	right: 0px;
+	text-align: right;
+}
+  
+DIV.footer {
+	font-size: 10px;
+	position: absolute; 
+	margin: 0px; 
+	padding: 0px; 
+	color: #808080;
+	position: absolute; 
+	bottom: 0px; 
+	width: 100%;   
+	text-align: center;
+}
+
+A.atext {
+	color: #808080;
+	text-decoration: none;
+}
+
+A.atext:visited {
+	color: #808080;
+	text-decoration: none;
+}
+
+A.atext:hover {
+	color: #808080;
+	text-decoration: underline;
+}
+
+/*
+	Cartoons
+*/
+
+IMG.obj {
+	vertical-align: middle;
+}
+
+SPAN.mbox {
+  border: solid 1px #000000;
+  padding-left: 8px;
+  padding-right: 8px;
+  font-size: larger;
+  color: #FFFFFF;
+  background-color: #FFFFFF;
+}
+
+SPAN.box {
+  display: block;
+  border: solid 1px #000000;
+  margin: 8px;
+  padding: 8px;
+  font-size: smaller;
+}
+
+SPAN.box IMG {
+  margin: 4px;
+}
+
+SPAN.center {
+  display: block;
+  text-align: center;
+}

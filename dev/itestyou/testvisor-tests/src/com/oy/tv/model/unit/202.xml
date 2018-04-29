@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b}" defaults="{12,4}">
+	<question>Which property is used in the equation below? <draw>${a}*(x+${b})=${a}*x+${a*b}</draw></question>
+	<choices>      
+		<decoy>Associative Property of Addition
+		</decoy>
+		<decoy>Commutative Property of Addition
+		</decoy>
+		<answer>Distributive Property 
+		</answer>
+		<decoy>Reflexive Property
+		</decoy>
+	</choices>
+</unit>

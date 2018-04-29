@@ -1,0 +1,9 @@
+quality control,The operational techniques and procedures used to achieve quality requirements.,testing
+personal computer,"A computer that is functionally similar to large computers, but serves only one user.",testing
+test report,A document describing the conduct and results of the testing carried out for a system or system component.,testing
+test plan,"Documentation specifying the scope, approach, resources, and schedule of intended testing activities. It identifies test items, the features to be tested, the testing tasks, responsibilities, required, resources, and any risks requiring contingency planning. See: test design, validation protocol.",testing
+test log,A chronological record of all relevant details about the execution of a test.,testing
+requirements phase,"The period of time in the software life cycle during which the requirements, such as functional and performance capabilities for a software product, are defined and documented.",requirements
+requirements analysis,"The process of studying user needs to arrive at a definition of a system, hardware, or software requirements.",requirements
+requirement,A condition or capability needed by a user to solve a problem or achieve an objective.,requirements
+design requirement,A requirement that specifies or constrains the design of a system or system component.,requirements

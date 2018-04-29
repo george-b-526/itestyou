@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Japanese (&#x65E5;&#x672C;&#x8A9E;)">
+<!--generated: Sun Jan 29 02:47:50 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="能力" i="0" m="ability" t="n" />
+<w c="abstract" e="行い" i="1" m="act" t="n" />
+<w c="abstract" e="行動" i="2" m="action" t="n" />
+<w c="abstract" e="活気" i="3" m="activity" t="n" />
+<w c="abstract" e="アドオン" i="4" m="addition" t="n" />
+<w c="abstract" e="高 [たか]" i="5" m="amount" t="n" />
+<w c="abstract" e="攻撃" i="6" m="attack" t="n" />
+<w c="abstract" e="企て" i="7" m="attempt" t="n" />
+<w c="abstract" e="態度" i="8" m="attitude" t="n" />
+<w c="abstract" e="うしろ" i="9" m="back" t="n" />
+<w c="abstract" e="ふるまい" i="10" m="behavior" t="n" />
+<w c="abstract" e="小片" i="11" m="bit" t="n" />
+<w c="abstract" e="強打" i="12" m="blow" t="n" />
+<w c="abstract" e="中断" i="13" m="break" t="n" />
+<w c="abstract" e="作戦" i="14" m="campaign" t="n" />
+<w c="abstract" e="事件" i="15" m="case" t="n" />
+<w c="abstract" e="機会" i="16" m="chance" t="n" />
+<w c="abstract" e="変化" i="17" m="change" t="n" />
+<w c="abstract" e="選択" i="18" m="choice" t="n" />
+<w c="abstract" e="状態" i="19" m="condition" t="n" />
+<w c="abstract" e="コネクタ" i="20" m="connection" t="n" />
+<w c="abstract" e="ひび" i="21" m="crack" t="n" />
+<w c="abstract" e="裁ち方 [たちかた]" i="22" m="cut" t="n" />
+<w c="abstract" e="損害" i="23" m="damage" t="n" />
+<w c="abstract" e="危険" i="24" m="danger" t="n" />
+<w c="abstract" e="装飾" i="25" m="decoration" t="n" />
+<w c="abstract" e="防衛 [ぼうえい]" i="26" m="defense" t="n" />
+<w c="abstract" e="破壊" i="27" m="destruction" t="n" />
+<w c="abstract" e="支配" i="28" m="dominance" t="n" />
+<w c="abstract" e="しずく" i="29" m="drop" t="n" />
+<w c="abstract" e="義務" i="30" m="duty" t="n" />
+<w c="abstract" e="努力" i="31" m="effort" t="n" />
+<w c="abstract" e="没落" i="32" m="fall" t="n" />
+<w c="abstract" e="特徴" i="33" m="feature" t="n" />
+<w c="abstract" e="戦闘" i="34" m="fight" t="n" />
+<w c="abstract" e="前方" i="35" m="front" t="n" />
+<w c="abstract" e="高度" i="36" m="height" t="n" />
+<w c="abstract" e="打撃" i="37" m="hit" t="n" />
+<w c="abstract" e="穴" i="38" m="hole" t="n" />
+<w c="abstract" e="増加" i="39" m="increase" t="n" />
+<w c="abstract" e="成長" i="40" m="increase" t="n" />
+<w c="abstract" e="インターネット" i="41" m="internet" t="n" />
+<w c="abstract" e="震動" i="42" m="jolt" t="n" />
+<w c="abstract" e="跳躍" i="43" m="jump" t="n" />
+<w c="abstract" e="蹴り技" i="44" m="kick" t="n" />
+<w c="abstract" e="種類" i="45" m="kind" t="n" />
+<w c="abstract" e="結び目" i="46" m="knot" t="n" />
+<w c="abstract" e="表" i="47" m="list" t="n" />
+<w c="abstract" e="大多数" i="48" m="majority" t="n" />
+<w c="abstract" e="やり方" i="49" m="manner" t="n" />
+<w c="abstract" e="問題" i="50" m="matter" t="n" />
+<w c="abstract" e="やり方" i="51" m="means" t="n" />
+<w c="abstract" e="心" i="52" m="mind" t="n" />
+<w c="abstract" e="実施" i="53" m="operation" t="n" />
+<w c="abstract" e="逆" i="54" m="opposite" t="n" />
+<w c="abstract" e="突発" i="55" m="outburst" t="n" />
+<w c="abstract" e="部分" i="56" m="part" t="n" />
+<w c="abstract" e="部分" i="57" m="part" t="n" />
+<w c="abstract" e="風格 [ふうかく]" i="58" m="personality" t="n" />
+<w c="abstract" e="一個" i="59" m="piece" t="n" />
+<w c="abstract" e="地点" i="60" m="place" t="n" />
+<w c="abstract" e="場所" i="61" m="position" t="n" />
+<w c="abstract" e="力" i="62" m="power" t="n" />
+<w c="abstract" e="実際" i="63" m="practice" t="n" />
+<w c="abstract" e="職務" i="64" m="project" t="n" />
+<w c="abstract" e="特性" i="65" m="property" t="n" />
+<w c="abstract" e="質" i="66" m="quality" t="n" />
+<w c="abstract" e="平静 [へいせい]" i="67" m="quiet" t="n" />
+<w c="abstract" e="レポート" i="68" m="report" t="n" />
+<w c="abstract" e="義務" i="69" m="responsibility" t="n" />
+<w c="abstract" e="休息" i="70" m="rest" t="n" />
+<w c="abstract" e="帰り" i="71" m="return" t="n" />
+<w c="abstract" e="登り" i="72" m="rise" t="n" />
+<w c="abstract" e="危険" i="73" m="risk" t="n" />
+<w c="abstract" e="場所" i="74" m="seat" t="n" />
+<w c="abstract" e="ひとそろい" i="75" m="set" t="n" />
+<w c="abstract" e="震え" i="76" m="shake" t="n" />
+<w c="abstract" e="驚愕 [きょうがく]" i="77" m="shock" t="n" />
+<w c="abstract" e="平穏" i="78" m="silence" t="n" />
+<w c="abstract" e="状況" i="79" m="situation" t="n" />
+<w c="abstract" e="一片" i="80" m="slice" t="n" />
+<w c="abstract" e="状態" i="81" m="state" t="n" />
+<w c="abstract" e="足音" i="82" m="step" t="n" />
+<w c="abstract" e="休止" i="83" m="stop" t="n" />
+<w c="abstract" e="味覚" i="84" m="taste" t="n" />
+<w c="abstract" e="物" i="85" m="thing" t="n" />
+<w c="abstract" e="絶頂" i="86" m="top" t="n" />
+<w c="abstract" e="接触" i="87" m="touch" t="n" />
+<w c="abstract" e="取扱い" i="88" m="treatment" t="n" />
+<w c="abstract" e="たくらみ" i="89" m="trick" t="n" />
+<w c="abstract" e="型" i="90" m="type" t="n" />
+<w c="abstract" e="使用" i="91" m="use" t="n" />
+<w c="abstract" e="全体" i="92" m="whole" t="n" />
+<w c="abstract" e="意志" i="93" m="will" t="n" />
+<w c="abstract" e="必要物" i="94" m="wish" t="n" />
+<w c="adjectives" e="以前に" i="95" m="ago" t="adj" />
+<w c="adjectives" e="総て [すべて]" i="96" m="all" t="adj" />
+<w c="adjectives" e="どれでも" i="97" m="any" t="adj" />
+<w c="adjectives" e="自動的 [じどうてき]" i="98" m="automatic" t="adj" />
+<w c="adjectives" e="使用可能" i="99" m="available" t="adj" />
+<w c="adjectives" e="苦い" i="100" m="bitter" t="adj" />
+<w c="adjectives" e="つまらない" i="101" m="boring" t="adj" />
+<w c="adjectives" e="共に [ともに]" i="102" m="both" t="adj" />
+<w c="adjectives" e="明朗 [めいろう]" i="103" m="bright" t="adj" />
+<w c="adjectives" e="中心的 [ちゅうしんてき]" i="104" m="central" t="adj" />
+<w c="adjectives" e="確か [たしか]" i="105" m="certain" t="adj" />
+<w c="adjectives" e="安い" i="106" m="cheap" t="adj" />
+<w c="adjectives" e="化学的 [かがくてき]" i="107" m="chemical" t="adj" />
+<w c="adjectives" e="クローズ" i="108" m="closed" t="adj" />
+<w c="adjectives" e="下" i="109" m="down" t="adj" />
+<w c="adjectives" e="そっけない" i="110" m="dry" t="adj" />
+<w c="adjectives" e="おのおの" i="111" m="each" t="adj" />
+<w c="adjectives" e="早い" i="112" m="early" t="adj" />
+<w c="adjectives" e="経済的 [けいざいてき]" i="113" m="economic" t="adj" />
+<w c="adjectives" e="経済的 [けいざいてき]" i="114" m="economic" t="adj" />
+<w c="adjectives" e="等しい" i="115" m="equal" t="adj" />
+<w c="adjectives" e="平たい [ひらたい]" i="116" m="even" t="adj" />
+<w c="adjectives" e="各各 [おのおの]" i="117" m="every" t="adj" />
+<w c="adjectives" e="優れた [すぐれた]" i="118" m="excellent" t="adj" />
+<w c="adjectives" e="遠い" i="119" m="far" t="adj" />
+<w c="adjectives" e="太った" i="120" m="fat" t="adj" />
+<w c="adjectives" e="脂っ濃い [あぶらっこい]" i="121" m="fat" t="adj" />
+<w c="adjectives" e="少ない [すくない]" i="122" m="few" t="adj" />
+<w c="adjectives" e="硬い [かたい]" i="123" m="firm" t="adj" />
+<w c="adjectives" e="平たい [ひらたい]" i="124" m="flat" t="adj" />
+<w c="adjectives" e="見知らぬ" i="125" m="foreign" t="adj" />
+<w c="adjectives" e="こわれやすい" i="126" m="fragile" t="adj" />
+<w c="adjectives" e="新しい" i="127" m="fresh" t="adj" />
+<w c="adjectives" e="全般的 [ぜんぱんてき]" i="128" m="general" t="adj" />
+<w c="adjectives" e="興味深い" i="129" m="interesting" t="adj" />
+<w c="adjectives" e="国際的 [こくさいてき]" i="130" m="international" t="adj" />
+<w c="adjectives" e="合法的 [ごうほうてき]" i="131" m="legal" t="adj" />
+<w c="adjectives" e="高らか [たからか]" i="132" m="loud" t="adj" />
+<w c="adjectives" e="低い" i="133" m="low" t="adj" />
+<w c="adjectives" e="主要 [しゅよう]" i="134" m="main" t="adj" />
+<w c="adjectives" e="多数" i="135" m="many" t="adj" />
+<w c="adjectives" e="軍事" i="136" m="military" t="adj" />
+<w c="adjectives" e="細かい [こまかい]" i="137" m="minute" t="adj" />
+<w c="adjectives" e="もっと" i="138" m="more" t="adj" />
+<w c="adjectives" e="狭い" i="139" m="narrow" t="adj" />
+<w c="adjectives" e="国民的 [こくみんてき]" i="140" m="national" t="adj" />
+<w c="adjectives" e="必然的 [ひつぜんてき]" i="141" m="necessary" t="adj" />
+<w c="adjectives" e="隣接した" i="142" m="next" t="adj" />
+<w c="adjectives" e="庶民的 [しょみんてき]" i="143" m="normal" t="adj" />
+<w c="adjectives" e="独創的 [どくそうてき]" i="144" m="original" t="adj" />
+<w c="adjectives" e="肉的 [にくてき]" i="145" m="physical" t="adj" />
+<w c="adjectives" e="政治的 [せいじてき]" i="146" m="political" t="adj" />
+<w c="adjectives" e="貧しい" i="147" m="poor" t="adj" />
+<w c="adjectives" e="いる" i="148" m="present" t="adj" />
+<w c="adjectives" e="私設 [しせつ]" i="149" m="private" t="adj" />
+<w c="adjectives" e="静か [しずか]" i="150" m="quiet" t="adj" />
+<w c="adjectives" e="規則正しい" i="151" m="regular" t="adj" />
+<w c="adjectives" e="硬い" i="152" m="rigid" t="adj" />
+<w c="adjectives" e="荒っぽい" i="153" m="rough" t="adj" />
+<w c="adjectives" e="丸い" i="154" m="round" t="adj" />
+<w c="adjectives" e="悲しい" i="155" m="sad" t="adj" />
+<w c="adjectives" e="恙無い [つつがない]" i="156" m="safe" t="adj" />
+<w c="adjectives" e="同じ" i="157" m="same" t="adj" />
+<w c="adjectives" e="窃か [ひそか]" i="158" m="secret" t="adj" />
+<w c="adjectives" e="重重しい [おもおもしい]" i="159" m="serious" t="adj" />
+<w c="adjectives" e="いくつか" i="160" m="several" t="adj" />
+<w c="adjectives" e="短い" i="161" m="short" t="adj" />
+<w c="adjectives" e="黙黙 [もくもく]" i="162" m="silent" t="adj" />
+<w c="adjectives" e="軽易 [けいい]" i="163" m="simple" t="adj" />
+<w c="adjectives" e="小さい" i="164" m="small" t="adj" />
+<w c="adjectives" e="水っぽい" i="165" m="sparse" t="adj" />
+<w c="adjectives" e="格別 [かくべつ]" i="166" m="special" t="adj" />
+<w c="adjectives" e="四角い [しかくい]" i="167" m="square" t="adj" />
+<w c="adjectives" e="粘っこい [ねばっこい]" i="168" m="sticky" t="adj" />
+<w c="adjectives" e="しゃれた" i="169" m="stylish" t="adj" />
+<w c="adjectives" e="甘い" i="170" m="sweet" t="adj" />
+<w c="adjectives" e="濃い" i="171" m="thick" t="adj" />
+<w c="adjectives" e="薄い" i="172" m="thin" t="adj" />
+<w c="adjectives" e="きつい" i="173" m="tight" t="adj" />
+<w c="adjectives" e="醜い" i="174" m="ugly" t="adj" />
+<w c="adjectives" e="以下 [いか]" i="175" m="under" t="adj" />
+<w c="adjectives" e="普通でない" i="176" m="unusual" t="adj" />
+<w c="adjectives" e="ありふれた" i="177" m="usual" t="adj" />
+<w c="adjectives" e="区々 [まちまち]" i="178" m="various" t="adj" />
+<w c="adjectives" e="暖い" i="179" m="warm" t="adj" />
+<w c="adjectives" e="湿った [しめった]" i="180" m="wet" t="adj" />
+<w c="adjectives" e="全部" i="181" m="whole" t="adj" />
+<w c="adjectives" e="広い" i="182" m="wide" t="adj" />
+<w c="adjectives" e="変わった [かわった]" i="183" m="another" t="adj" />
+<w c="adjectives" e="悪い [わるい]" i="184" m="bad" t="adj" />
+<w c="adjectives" e="根本的 [こんぽんてき]" i="185" m="basic" t="adj" />
+<w c="adjectives" e="美しい" i="186" m="beautiful" t="adj" />
+<w c="adjectives" e="寧ろ [むしろ]" i="187" m="better" t="adj" />
+<w c="adjectives" e="大きい" i="188" m="big" t="adj" />
+<w c="adjectives" e="冷たい" i="189" m="cold" t="adj" />
+<w c="adjectives" e="正しい" i="190" m="correct" t="adj" />
+<w c="adjectives" e="暗い" i="191" m="dark" t="adj" />
+<w c="adjectives" e="難しい" i="192" m="difficult" t="adj" />
+<w c="adjectives" e="汚い [きたない]" i="193" m="dirty" t="adj" />
+<w c="adjectives" e="速い" i="194" m="fast" t="adj" />
+<w c="adjectives" e="望ましい" i="195" m="good" t="adj" />
+<w c="adjectives" e="すばらしい" i="196" m="great" t="adj" />
+<w c="adjectives" e="うれしい" i="197" m="happy" t="adj" />
+<w c="adjectives" e="重い" i="198" m="heavy" t="adj" />
+<w c="adjectives" e="熱い" i="199" m="hot" t="adj" />
+<w c="adjectives" e="左側 [ひだりがわ]" i="200" m="left" t="adj" />
+<w c="adjectives" e="軽い" i="201" m="light" t="adj" />
+<w c="adjectives" e="一寸した [ちょっとした]" i="202" m="little" t="adj" />
+<w c="adjectives" e="近い" i="203" m="near" t="adj" />
+<w c="adjectives" e="新しい" i="204" m="new" t="adj" />
+<w c="adjectives" e="快い" i="205" m="nice" t="adj" />
+<w c="adjectives" e="すごい" i="206" m="real" t="adj" />
+<w c="adjectives" e="順当 [じゅんとう]" i="207" m="right" t="adj" />
+<w c="adjectives" e="鋭い" i="208" m="sharp" t="adj" />
+<w c="adjectives" e="遅い" i="209" m="slow" t="adj" />
+<w c="adjectives" e="柔らかい" i="210" m="soft" t="adj" />
+<w c="adjectives" e="濃い" i="211" m="strong" t="adj" />
+<w c="adjectives" e="弱い" i="212" m="weak" t="adj" />
+<w c="adjectives" e="不可 [ふか]" i="213" m="wrong" t="adj" />
+<w c="adjective" e="寂しい" i="214" m="alone" t="adj" />
+<w c="adjective" e="亡い [ない]" i="215" m="dead" t="adj" />
+<w c="adjective" e="友好的 [ゆうこうてき]" i="216" m="friendly" t="adj" />
+<w c="adjective" e="人間的 [にんげんてき]" i="217" m="human" t="adj" />
+<w c="adjective" e="焦れったい [じれったい]" i="218" m="impatient" t="adj" />
+<w c="adjective" e="オス" i="219" m="male" t="adj" />
+<w c="adjective" e="古い" i="220" m="old" t="adj" />
+<w c="adjective" e="我慢強い" i="221" m="patient" t="adj" />
+<w c="adjective" e="個性的 [こせいてき]" i="222" m="private" t="adj" />
+<w c="adjective" e="豊か [ゆたか]" i="223" m="rich" t="adj" />
+<w c="adjective" e="すばらしい" i="224" m="royal" t="adj" />
+<w c="adjective" e="悲しい" i="225" m="sad" t="adj" />
+<w c="adjective" e="鋭い [するどい]" i="226" m="sharp" t="adj" />
+<w c="adjective" e="熟練した [じゅくれんした]" i="227" m="skilful" t="adj" />
+<w c="adjective" e="馬鹿馬鹿しい [ばかばかしい]" i="228" m="stupid" t="adj" />
+<w c="adjective" e="効果的 [こうかてき]" i="229" m="successful" t="adj" />
+<w c="adjective" e="疲れた" i="230" m="tired" t="adj" />
+<w c="adjective" e="激しい" i="231" m="violent" t="adj" />
+<w c="adjective" e="賢い" i="232" m="wise" t="adj" />
+<w c="adjective" e="若い" i="233" m="young" t="adj" />
+<w c="adverb" e="上 [うえ]" i="234" m="above" t="adv" />
+<w c="adverb" e="再び" i="235" m="again" t="adv" />
+<w c="adverb" e="ほとんど" i="236" m="almost" t="adv" />
+<w c="adverb" e="すでに" i="237" m="already" t="adv" />
+<w c="adverb" e="いつも" i="238" m="always" t="adv" />
+<w c="adverb" e="ほぼ" i="239" m="approximately" t="adv" />
+<w c="adverb" e="前 [まえ]" i="240" m="before" t="adv" />
+<w c="adverb" e="すぐに" i="241" m="directly" t="adv" />
+<w c="adverb" e="十分" i="242" m="enough" t="adv" />
+<w c="adverb" e="まさに" i="243" m="exactly" t="adv" />
+<w c="adverb" e="最前 [さいぜん]" i="244" m="first" t="adv" />
+<w c="adverb" e="しかし" i="245" m="however" t="adv" />
+<w c="adverb" e="直ちに" i="246" m="immediately" t="adv" />
+<w c="adverb" e="本当に" i="247" m="indeed" t="adv" />
+<w c="adverb" e="内 [うち]" i="248" m="inside" t="adv" />
+<w c="adverb" e="その代わり" i="249" m="instead" t="adv" />
+<w c="adverb" e="遅い" i="250" m="late" t="adv" />
+<w c="adverb" e="小さい [ちいさい]" i="251" m="little" t="adv" />
+<w c="adverb" e="概して" i="252" m="mostly" t="adv" />
+<w c="adverb" e="金輪際 [こんりんざい]" i="253" m="never" t="adv" />
+<w c="adverb" e="明らか [あきらか]" i="254" m="obviously" t="adv" />
+<w c="adverb" e="しばしば" i="255" m="often" t="adv" />
+<w c="adverb" e="一度" i="256" m="once" t="adv" />
+<w c="adverb" e="特に" i="257" m="particularly" t="adv" />
+<w c="adverb" e="たぶん" i="258" m="possibly" t="adv" />
+<w c="adverb" e="たぶん" i="259" m="probably" t="adv" />
+<w c="adverb" e="速く" i="260" m="quickly" t="adv" />
+<w c="adverb" e="実際に" i="261" m="really" t="adv" />
+<w c="adverb" e="とても" i="262" m="really" t="adv" />
+<w c="adverb" e="最近" i="263" m="recently" t="adv" />
+<w c="adverb" e="ただ" i="264" m="simply" t="adv" />
+<w c="adverb" e="ゆっくり" i="265" m="slowly" t="adv" />
+<w c="adverb" e="時々" i="266" m="sometimes" t="adv" />
+<w c="adverb" e="すぐに" i="267" m="soon" t="adv" />
+<w c="adverb" e="まだ" i="268" m="still" t="adv" />
+<w c="adverb" e="大した" i="269" m="such" t="adv" />
+<w c="adverb" e="確かに" i="270" m="surely" t="adv" />
+<w c="adverb" e="その時" i="271" m="then" t="adv" />
+<w c="adverb" e="そら" i="272" m="there" t="adv" />
+<w c="adverb" e="その為 [そのため]" i="273" m="therefore" t="adv" />
+<w c="adverb" e="オーブントースター" i="274" m="today" t="adv" />
+<w c="adverb" e="一緒に" i="275" m="together" t="adv" />
+<w c="adverb" e="明日" i="276" m="tomorrow" t="adv" />
+<w c="adverb" e="今夜" i="277" m="tonight" t="adv" />
+<w c="adverb" e="また" i="278" m="too" t="adv" />
+<w c="adverb" e="ふつう" i="279" m="usually" t="adv" />
+<w c="adverb" e="とても" i="280" m="very" t="adv" />
+<w c="adverb" e="うまく" i="281" m="well" t="adv" />
+<w c="adverb" e="なぜ" i="282" m="why" t="adv" />
+<w c="anatomy" e="腕" i="283" m="arm" t="noun" />
+<w c="anatomy" e="背中" i="284" m="back" t="noun" />
+<w c="anatomy" e="くちばし" i="285" m="beak" t="noun" />
+<w c="anatomy" e="血" i="286" m="blood" t="noun" />
+<w c="anatomy" e="胴" i="287" m="body" t="noun" />
+<w c="anatomy" e="骨" i="288" m="bone" t="noun" />
+<w c="anatomy" e="脳" i="289" m="brain" t="noun" />
+<w c="anatomy" e="息" i="290" m="breath" t="noun" />
+<w c="anatomy" e="細胞" i="291" m="cell" t="noun" />
+<w c="anatomy" e="胸部" i="292" m="chest" t="noun" />
+<w c="anatomy" e="胸部" i="293" m="chest" t="noun" />
+<w c="anatomy" e="あご" i="294" m="chin" t="noun" />
+<w c="anatomy" e="耳" i="295" m="ear" t="noun" />
+<w c="anatomy" e="目" i="296" m="eye" t="noun" />
+<w c="anatomy" e="顔" i="297" m="face" t="noun" />
+<w c="anatomy" e="指" i="298" m="finger" t="noun" />
+<w c="anatomy" e="足" i="299" m="foot" t="noun" />
+<w c="anatomy" e="額" i="300" m="forehead" t="noun" />
+<w c="anatomy" e="遺伝子" i="301" m="gene" t="noun" />
+<w c="anatomy" e="髪の毛" i="302" m="hair" t="noun" />
+<w c="anatomy" e="毛" i="303" m="hair" t="noun" />
+<w c="anatomy" e="手" i="304" m="hand" t="noun" />
+<w c="anatomy" e="頭部" i="305" m="head" t="noun" />
+<w c="anatomy" e="心臓" i="306" m="heart" t="noun" />
+<w c="anatomy" e="ひざ" i="307" m="knee" t="noun" />
+<w c="anatomy" e="脚" i="308" m="leg" t="noun" />
+<w c="anatomy" e="くちびる" i="309" m="lip" t="noun" />
+<w c="anatomy" e="口" i="310" m="mouth" t="noun" />
+<w c="anatomy" e="筋肉" i="311" m="muscle" t="noun" />
+<w c="anatomy" e="つめ" i="312" m="nail" t="noun" />
+<w c="anatomy" e="首" i="313" m="neck" t="noun" />
+<w c="anatomy" e="神経" i="314" m="nerve" t="noun" />
+<w c="anatomy" e="鼻" i="315" m="nose" t="noun" />
+<w c="anatomy" e="皮膚" i="316" m="skin" t="noun" />
+<w c="anatomy" e="胃" i="317" m="stomach" t="noun" />
+<w c="anatomy" e="尾" i="318" m="tail" t="noun" />
+<w c="anatomy" e="のど" i="319" m="throat" t="noun" />
+<w c="anatomy" e="親指" i="320" m="thumb" t="noun" />
+<w c="anatomy" e="足の指" i="321" m="toe" t="noun" />
+<w c="anatomy" e="舌" i="322" m="tongue" t="noun" />
+<w c="anatomy" e="歯" i="323" m="tooth" t="noun" />
+<w c="anatomy" e="ウイング" i="324" m="wing" t="noun" />
+<w c="animals" e="あり" i="325" m="ant" t="noun" />
+<w c="animals" e="熊" i="326" m="bear" t="noun" />
+<w c="animals" e="みつばち" i="327" m="bee" t="noun" />
+<w c="animals" e="鳥" i="328" m="bird" t="noun" />
+<w c="animals" e="猫" i="329" m="cat" t="noun" />
+<w c="animals" e="雌牛" i="330" m="cow" t="noun" />
+<w c="animals" e="犬" i="331" m="dog" t="noun" />
+<w c="animals" e="象" i="332" m="elephant" t="noun" />
+<w c="animals" e="魚" i="333" m="fish" t="noun" />
+<w c="animals" e="ハエ" i="334" m="fly" t="noun" />
+<w c="animals" e="やぎ" i="335" m="goat" t="noun" />
+<w c="animals" e="馬" i="336" m="horse" t="noun" />
+<w c="animals" e="昆虫" i="337" m="insect" t="noun" />
+<w c="animals" e="ライオン" i="338" m="lion" t="noun" />
+<w c="animals" e="猿" i="339" m="monkey" t="noun" />
+<w c="animals" e="豚" i="340" m="pig" t="noun" />
+<w c="animals" e="羊" i="341" m="sheep" t="noun" />
+<w c="animals" e="へび" i="342" m="snake" t="noun" />
+<w c="art" e="美術" i="343" m="art" t="n" />
+<w c="art" e="楽団" i="344" m="band" t="n" />
+<w c="art" e="絵の具" i="345" m="color" t="n" />
+<w c="art" e="音楽会" i="346" m="concert" t="n" />
+<w c="art" e="多様性" i="347" m="diversity" t="n" />
+<w c="art" e="娯楽" i="348" m="entertainment" t="n" />
+<w c="art" e="大当り" i="349" m="hit" t="n" />
+<w c="art" e="イメージ" i="350" m="image" t="n" />
+<w c="art" e="薄膜" i="351" m="movie" t="n" />
+<w c="art" e="音楽" i="352" m="music" t="n" />
+<w c="art" e="音調" i="353" m="note" t="n" />
+<w c="art" e="オーケストラ" i="354" m="orchestra" t="n" />
+<w c="art" e="塗料" i="355" m="paint" t="n" />
+<w c="art" e="絵画" i="356" m="painting" t="n" />
+<w c="art" e="姿" i="357" m="picture" t="n" />
+<w c="art" e="詩" i="358" m="poem" t="n" />
+<w c="art" e="詩" i="359" m="poetry" t="n" />
+<w c="art" e="拍子" i="360" m="rhythm" t="n" />
+<w c="art" e="歌" i="361" m="song" t="n" />
+<w c="art" e="舞台" i="362" m="stage" t="n" />
+<w c="art" e="様式" i="363" m="style" t="n" />
+<w c="art" e="スタイル" i="364" m="vogue" t="n" />
+<w c="article" e="ある - ある - aru" i="365" m="a" t="" />
+<w c="article" e="その - その - sono" i="366" m="the" t="" />
+<w c="business" e="勘定書" i="367" m="account" t="n" />
+<w c="business" e="利点" i="368" m="advantage" t="n" />
+<w c="business" e="広告" i="369" m="advertisement" t="n" />
+<w c="business" e="助言" i="370" m="advice" t="n" />
+<w c="business" e="協定" i="371" m="agreement" t="n" />
+<w c="business" e="注意" i="372" m="attention" t="n" />
+<w c="business" e="権限" i="373" m="authority" t="n" />
+<w c="business" e="紙幣" i="374" m="banknote" t="n" />
+<w c="business" e="契約" i="375" m="bargain" t="n" />
+<w c="business" e="商標" i="376" m="brand" t="n" />
+<w c="business" e="企業" i="377" m="business" t="n" />
+<w c="business" e="資本" i="378" m="capital" t="n" />
+<w c="business" e="小銭" i="379" m="change" t="n" />
+<w c="business" e="小切手" i="380" m="check" t="n" />
+<w c="business" e="委員会" i="381" m="committee" t="n" />
+<w c="business" e="会社" i="382" m="company" t="n" />
+<w c="business" e="競争相手" i="383" m="competition" t="n" />
+<w c="business" e="告発" i="384" m="complaint" t="n" />
+<w c="business" e="試合" i="385" m="contest" t="n" />
+<w c="business" e="契約" i="386" m="contract" t="n" />
+<w c="business" e="コピー" i="387" m="copy" t="n" />
+<w c="business" e="費用 [ひよう]" i="388" m="cost" t="n" />
+<w c="business" e="評議会" i="389" m="council" t="n" />
+<w c="business" e="授業" i="390" m="course" t="n" />
+<w c="business" e="顧客" i="391" m="customer" t="n" />
+<w c="business" e="入り用 [いりよう]" i="392" m="demand" t="n" />
+<w c="business" e="部署" i="393" m="department" t="n" />
+<w c="business" e="デザイン" i="394" m="design" t="n" />
+<w c="business" e="困難" i="395" m="difficulty" t="n" />
+<w c="business" e="方向" i="396" m="direction" t="n" />
+<w c="business" e="経営者" i="397" m="director" t="n" />
+<w c="business" e="経済" i="398" m="economy" t="n" />
+<w c="business" e="環境" i="399" m="environment" t="n" />
+<w c="business" e="経験" i="400" m="experience" t="n" />
+<w c="business" e="商会" i="401" m="firm" t="n" />
+<w c="business" e="用紙" i="402" m="form" t="n" />
+<w c="business" e="集団" i="403" m="group" t="n" />
+<w c="business" e="援助" i="404" m="help" t="n" />
+<w c="business" e="休暇" i="405" m="holiday" t="n" />
+<w c="business" e="収入" i="406" m="income" t="n" />
+<w c="business" e="産業" i="407" m="industry" t="n" />
+<w c="business" e="保険" i="408" m="insurance" t="n" />
+<w c="business" e="利息" i="409" m="interest" t="n" />
+<w c="business" e="請求書" i="410" m="invoice" t="n" />
+<w c="business" e="職" i="411" m="job" t="n" />
+<w c="business" e="法" i="412" m="law" t="n" />
+<w c="business" e="休暇" i="413" m="leave" t="n" />
+<w c="business" e="損失" i="414" m="loss" t="n" />
+<w c="business" e="指導" i="415" m="management" t="n" />
+<w c="business" e="標識" i="416" m="marker" t="n" />
+<w c="business" e="販路" i="417" m="market" t="n" />
+<w c="business" e="材料" i="418" m="material" t="n" />
+<w c="business" e="中間" i="419" m="mean" t="n" />
+<w c="business" e="出会い" i="420" m="meeting" t="n" />
+<w c="business" e="金銭" i="421" m="money" t="n" />
+<w c="business" e="職業" i="422" m="occupation" t="n" />
+<w c="business" e="申し出" i="423" m="offer" t="n" />
+<w c="business" e="事務室" i="424" m="office" t="n" />
+<w c="business" e="役人" i="425" m="officer" t="n" />
+<w c="business" e="操作" i="426" m="operation" t="n" />
+<w c="business" e="所有者" i="427" m="owner" t="n" />
+<w c="business" e="小包" i="428" m="package" t="n" />
+<w c="business" e="区画 [くかく]" i="429" m="part" t="n" />
+<w c="business" e="お返し" i="430" m="payment" t="n" />
+<w c="business" e="案" i="431" m="plan" t="n" />
+<w c="business" e="代価" i="432" m="price" t="n" />
+<w c="business" e="問題" i="433" m="problem" t="n" />
+<w c="business" e="生産物" i="434" m="product" t="n" />
+<w c="business" e="利益" i="435" m="profit" t="n" />
+<w c="business" e="所有物" i="436" m="property" t="n" />
+<w c="business" e="相場" i="437" m="rate" t="n" />
+<w c="business" e="残り" i="438" m="rest" t="n" />
+<w c="business" e="権利" i="439" m="right" t="n" />
+<w c="business" e="販売" i="440" m="sale" t="n" />
+<w c="business" e="部局 [ぶきょく]" i="441" m="section" t="n" />
+<w c="business" e="サービス" i="442" m="service" t="n" />
+<w c="business" e="株" i="443" m="share" t="n" />
+<w c="business" e="店" i="444" m="shop" t="n" />
+<w c="business" e="熟練" i="445" m="skill" t="n" />
+<w c="business" e="職員" i="446" m="staff" t="n" />
+<w c="business" e="成功" i="447" m="success" t="n" />
+<w c="business" e="支持" i="448" m="support" t="n" />
+<w c="business" e="表" i="449" m="table" t="n" />
+<w c="business" e="税金" i="450" m="tax" t="n" />
+<w c="business" e="チーム" i="451" m="team" t="n" />
+<w c="business" e="貿易" i="452" m="trade" t="n" />
+<w c="business" e="価値" i="453" m="value" t="n" />
+<w c="business" e="報酬" i="454" m="wages" t="n" />
+<w c="business" e="努力" i="455" m="work" t="n" />
+<w c="business" e="労働者" i="456" m="worker" t="n" />
+<w c="city" e="飛行場" i="457" m="airport" t="n" />
+<w c="city" e="銀行" i="458" m="bank" t="n" />
+<w c="city" e="橋" i="459" m="bridge" t="n" />
+<w c="city" e="建物" i="460" m="building" t="n" />
+<w c="city" e="首都" i="461" m="capital" t="n" />
+<w c="city" e="城" i="462" m="castle" t="n" />
+<w c="city" e="教会" i="463" m="church" t="n" />
+<w c="city" e="映画" i="464" m="cinema" t="n" />
+<w c="city" e="都市" i="465" m="city" t="n" />
+<w c="city" e="工場" i="466" m="factory" t="n" />
+<w c="city" e="アパート" i="467" m="flat" t="n" />
+<w c="city" e="病院" i="468" m="hospital" t="n" />
+<w c="city" e="ホテル" i="469" m="hotel" t="n" />
+<w c="city" e="図書館" i="470" m="library" t="n" />
+<w c="city" e="博物館" i="471" m="museum" t="n" />
+<w c="city" e="公園" i="472" m="park" t="n" />
+<w c="city" e="刑務所" i="473" m="prison" t="n" />
+<w c="city" e="レストラン" i="474" m="restaurant" t="n" />
+<w c="city" e="道路" i="475" m="road" t="n" />
+<w c="city" e="学校" i="476" m="school" t="n" />
+<w c="city" e="駅" i="477" m="station" t="n" />
+<w c="city" e="通り" i="478" m="street" t="n" />
+<w c="city" e="建設" i="479" m="structure" t="n" />
+<w c="city" e="地下鉄" i="480" m="subway" t="n" />
+<w c="city" e="スーパーマーケット" i="481" m="supermarket" t="n" />
+<w c="city" e="劇場" i="482" m="theater" t="n" />
+<w c="city" e="町" i="483" m="town" t="n" />
+<w c="city" e="大学" i="484" m="university" t="n" />
+<w c="city" e="村" i="485" m="village" t="n" />
+<w c="clothes" e="袋" i="486" m="bag" t="n" />
+<w c="clothes" e="ブーツ" i="487" m="boot" t="n" />
+<w c="clothes" e="布" i="488" m="cloth" t="n" />
+<w c="clothes" e="衣類" i="489" m="clothing" t="n" />
+<w c="clothes" e="外套" i="490" m="coat" t="n" />
+<w c="clothes" e="えり" i="491" m="collar" t="n" />
+<w c="clothes" e="帽子" i="492" m="hat" t="n" />
+<w c="clothes" e="上衣" i="493" m="jacket" t="n" />
+<w c="clothes" e="宝石" i="494" m="jewel" t="n" />
+<w c="clothes" e="指輪" i="495" m="ring" t="n" />
+<w c="clothes" e="シャツ" i="496" m="shirt" t="n" />
+<w c="clothes" e="靴" i="497" m="shoe" t="n" />
+<w c="clothes" e="スカート" i="498" m="skirt" t="n" />
+<w c="clothes" e="スーツケース" i="499" m="suitcase" t="n" />
+<w c="clothes" e="ネクタイ" i="500" m="tie" t="n" />
+<w c="colors" e="黒" i="501" m="black" t="adj" />
+<w c="colors" e="青い" i="502" m="blue" t="adj" />
+<w c="colors" e="茶色" i="503" m="brown" t="adj" />
+<w c="colors" e="灰色" i="504" m="gray" t="adj" />
+<w c="colors" e="緑" i="505" m="green" t="adj" />
+<w c="colors" e="オレンジ" i="506" m="orange" t="adj" />
+<w c="colors" e="ピンク" i="507" m="pink" t="adj" />
+<w c="colors" e="赤" i="508" m="red" t="adj" />
+<w c="colors" e="紫" i="509" m="violet" t="adj" />
+<w c="colors" e="白い" i="510" m="white" t="adj" />
+<w c="colors" e="黄色" i="511" m="yellow" t="adj" />
+<w c="communication" e="発表" i="512" m="announcement" t="n" />
+<w c="communication" e="答え" i="513" m="answer" t="n" />
+<w c="communication" e="賛成" i="514" m="approval" t="n" />
+<w c="communication" e="議論" i="515" m="argument" t="n" />
+<w c="communication" e="論拠" i="516" m="argument" t="n" />
+<w c="communication" e="書物" i="517" m="book" t="n" />
+<w c="communication" e="通話" i="518" m="call" t="n" />
+<w c="communication" e="文字" i="519" m="character" t="n" />
+<w c="communication" e="叫び" i="520" m="cry" t="n" />
+<w c="communication" e="資料" i="521" m="data" t="n" />
+<w c="communication" e="決定" i="522" m="decision" t="n" />
+<w c="communication" e="辞書" i="523" m="dictionary" t="n" />
+<w c="communication" e="議論" i="524" m="discussion" t="n" />
+<w c="communication" e="疑い" i="525" m="doubt" t="n" />
+<w c="communication" e="体験" i="526" m="experience" t="n" />
+<w c="communication" e="一見" i="527" m="expression" t="n" />
+<w c="communication" e="感情" i="528" m="feeling" t="n" />
+<w c="communication" e="ユーモア" i="529" m="humor" t="n" />
+<w c="communication" e="考え" i="530" m="idea" t="n" />
+<w c="communication" e="案内 [あんない]" i="531" m="information" t="n" />
+<w c="communication" e="興味" i="532" m="interest" t="n" />
+<w c="communication" e="面接" i="533" m="interview" t="n" />
+<w c="communication" e="言語" i="534" m="language" t="n" />
+<w c="communication" e="舌" i="535" m="language" t="n" />
+<w c="communication" e="文字" i="536" m="letter" t="n" />
+<w c="communication" e="手紙" i="537" m="letter" t="n" />
+<w c="communication" e="嘘" i="538" m="lie" t="n" />
+<w c="communication" e="雑誌" i="539" m="magazine" t="n" />
+<w c="communication" e="郵便" i="540" m="mail" t="n" />
+<w c="communication" e="思い出" i="541" m="memory" t="n" />
+<w c="communication" e="記憶力" i="542" m="memory" t="n" />
+<w c="communication" e="間違い" i="543" m="mistake" t="n" />
+<w c="communication" e="名" i="544" m="name" t="n" />
+<w c="communication" e="新聞" i="545" m="newspaper" t="n" />
+<w c="communication" e="注意書き" i="546" m="note" t="n" />
+<w c="communication" e="数" i="547" m="number" t="n" />
+<w c="communication" e="意見" i="548" m="opinion" t="n" />
+<w c="communication" e="ページ" i="549" m="page" t="n" />
+<w c="communication" e="点" i="550" m="point" t="n" />
+<w c="communication" e="発音" i="551" m="pronunciation" t="n" />
+<w c="communication" e="提案" i="552" m="proposal" t="n" />
+<w c="communication" e="抗議" i="553" m="protest" t="n" />
+<w c="communication" e="質問" i="554" m="question" t="n" />
+<w c="communication" e="反応" i="555" m="reaction" t="n" />
+<w c="communication" e="理由" i="556" m="reason" t="n" />
+<w c="communication" e="関係" i="557" m="relation" t="n" />
+<w c="communication" e="要望" i="558" m="request" t="n" />
+<w c="communication" e="秘密" i="559" m="secret" t="n" />
+<w c="communication" e="文" i="560" m="sentence" t="n" />
+<w c="communication" e="フォーム" i="561" m="shape" t="n" />
+<w c="communication" e="記号" i="562" m="sign" t="n" />
+<w c="communication" e="言語" i="563" m="speech" t="n" />
+<w c="communication" e="綴り [つづり]" i="564" m="spelling" t="n" />
+<w c="communication" e="基準" i="565" m="standard" t="n" />
+<w c="communication" e="声明" i="566" m="statement" t="n" />
+<w c="communication" e="主題" i="567" m="subject" t="n" />
+<w c="communication" e="提案" i="568" m="suggestion" t="n" />
+<w c="communication" e="声" i="569" m="voice" t="n" />
+<w c="communication" e="語" i="570" m="word" t="n" />
+<w c="communication" e="書体" i="571" m="writing" t="n" />
+<w c="conjunction" e="そして" i="572" m="and" t="conj" />
+<w c="conjunction" e="なぜならば" i="573" m="because" t="conj" />
+<w c="conjunction" e="なぜなら" i="574" m="for" t="conj" />
+<w c="conjunction" e="もし" i="575" m="if" t="conj" />
+<w c="conjunction" e="または" i="576" m="or" t="conj" />
+<w c="containers" e="袋" i="577" m="bag" t="n" />
+<w c="containers" e="かご" i="578" m="basket" t="n" />
+<w c="containers" e="びん" i="579" m="bottle" t="n" />
+<w c="containers" e="箱" i="580" m="box" t="n" />
+<w c="containers" e="缶" i="581" m="can" t="n" />
+<w c="containers" e="カップ" i="582" m="cup" t="n" />
+<w c="containers" e="コップ" i="583" m="glass" t="n" />
+<w c="containers" e="皿" i="584" m="plate" t="n" />
+<w c="conversation" e="知りません" i="585" m="I don't know" t="" />
+<w c="conversation" e="分かりません" i="586" m="I don't understand" t="" />
+<w c="conversation" e="乾杯" i="587" m="cheers" t="" />
+<w c="conversation" e="英語を話せますか" i="588" m="do you speak English" t="" />
+<w c="conversation" e="こんにちは" i="589" m="good day" t="" />
+<w c="conversation" e="頑張って" i="590" m="good luck" t="" />
+<w c="conversation" e="誕生日" i="591" m="happy birthday" t="" />
+<w c="conversation" e="お元気ですか" i="592" m="how are you" t="" />
+<w c="conversation" e="これは幾らですか" i="593" m="how much is it" t="" />
+<w c="conversation" e="どうもありがとう" i="594" m="many thanks" t="" />
+<w c="conversation" e="私は...です" i="595" m="my name is" t="" />
+<w c="conversation" e="いいえ" i="596" m="no" t="" />
+<w c="conversation" e="すみません" i="597" m="sorry" t="" />
+<w c="conversation" e="もう一回" i="598" m="sorry" t="" />
+<w c="conversation" e="どうもありがとうございます" i="599" m="thank you very much" t="" />
+<w c="conversation" e="あなたのお名前は何ですか" i="600" m="what is your name" t="" />
+<w c="conversation" e="はい" i="601" m="yes" t="" />
+<w c="conversation" e="どういたしまして" i="602" m="you're welcome" t="" />
+<w c="countries" e="中国" i="603" m="China" t="n" />
+<w c="countries" e="チェコ共和国; チェコ" i="604" m="Czech Republic" t="n" />
+<w c="countries" e="フランス共和国" i="605" m="France" t="n" />
+<w c="countries" e="ドイツ連邦共和国" i="606" m="Germany" t="n" />
+<w c="countries" e="インド" i="607" m="India" t="n" />
+<w c="countries" e="イタリア" i="608" m="Italy" t="n" />
+<w c="countries" e="日本; 日本国" i="609" m="Japan" t="n" />
+<w c="countries" e="スペイン" i="610" m="Spain" t="n" />
+<w c="countries" e="イギリス" i="611" m="United Kingdom" t="n" />
+<w c="countries" e="アメリカ合衆国" i="612" m="United States" t="n" />
+<w c="devices" e="カメラ" i="613" m="camera" t="n" />
+<w c="devices" e="携帯電話" i="614" m="cellphone" t="n" />
+<w c="devices" e="時計" i="615" m="clock" t="n" />
+<w c="devices" e="コンピューター" i="616" m="computer" t="n" />
+<w c="devices" e="エレベーター" i="617" m="elevator" t="n" />
+<w c="devices" e="エンジン" i="618" m="engine" t="n" />
+<w c="devices" e="器具" i="619" m="instrument" t="n" />
+<w c="devices" e="機械" i="620" m="machine" t="n" />
+<w c="devices" e="オーブン" i="621" m="oven" t="n" />
+<w c="devices" e="テレビ" i="622" m="television" t="n" />
+<w c="devices" e="カメラ" i="623" m="television camera" t="n" />
+<w c="devices" e="時計" i="624" m="watch" t="n" />
+<w c="drinks" e="ビール" i="625" m="beer" t="n" />
+<w c="drinks" e="コーヒー" i="626" m="coffee" t="n" />
+<w c="drinks" e="飲み物" i="627" m="drink" t="n" />
+<w c="drinks" e="乳汁 [にゅうじゅう]" i="628" m="milk" t="n" />
+<w c="drinks" e="ミルクセーキ" i="629" m="milkshake" t="n" />
+<w c="drinks" e="茶" i="630" m="tea" t="n" />
+<w c="drinks" e="水" i="631" m="water" t="n" />
+<w c="drinks" e="ぶどう酒" i="632" m="wine" t="n" />
+<w c="education" e="種類" i="633" m="class" t="n" />
+<w c="education" e="薫陶 [くんとう]" i="634" m="education" t="n" />
+<w c="education" e="教育" i="635" m="education" t="n" />
+<w c="education" e="教育" i="636" m="education" t="n" />
+<w c="education" e="試験" i="637" m="examination" t="n" />
+<w c="education" e="成績" i="638" m="grade" t="n" />
+<w c="education" e="知識" i="639" m="knowledge" t="n" />
+<w c="education" e="学生" i="640" m="student" t="n" />
+<w c="education" e="教師" i="641" m="teacher" t="n" />
+<w c="education" e="養成" i="642" m="training" t="n" />
+<w c="environment" e="酸性雨" i="643" m="acid rain" t="n" />
+<w c="environment" e="大気" i="644" m="atmosphere" t="n" />
+<w c="environment" e="気候変動" i="645" m="climate change" t="n" />
+<w c="environment" e="生態学" i="646" m="ecology" t="n" />
+<w c="environment" e="環境" i="647" m="environment" t="n" />
+<w c="environment" e="化石燃料" i="648" m="fossil fuel" t="n" />
+<w c="environment" e="地球温暖化" i="649" m="global warming" t="n" />
+<w c="environment" e="温室効果" i="650" m="greenhouse effect" t="n" />
+<w c="environment" e="鉱山" i="651" m="mine" t="n" />
+<w c="environment" e="オゾン" i="652" m="ozone" t="n" />
+<w c="environment" e="公害" i="653" m="pollution" t="n" />
+<w c="environment" e="再生利用 [さいせいりよう]" i="654" m="recycling" t="n" />
+<w c="environment" e="スモッグ" i="655" m="smog" t="n" />
+<w c="environment" e="廃棄物" i="656" m="waste" t="n" />
+<w c="family" e="赤ん坊" i="657" m="baby" t="n" />
+<w c="family" e="誕生" i="658" m="birth" t="n" />
+<w c="family" e="誕生日" i="659" m="birthday" t="n" />
+<w c="family" e="少年" i="660" m="boy" t="n" />
+<w c="family" e="兄弟" i="661" m="brother" t="n" />
+<w c="family" e="娘" i="662" m="daughter" t="n" />
+<w c="family" e="死" i="663" m="death" t="n" />
+<w c="family" e="一族" i="664" m="family" t="n" />
+<w c="family" e="父親" i="665" m="father" t="n" />
+<w c="family" e="友人" i="666" m="friend" t="n" />
+<w c="family" e="少女" i="667" m="girl" t="n" />
+<w c="family" e="祖父母" i="668" m="grandfather" t="n" />
+<w c="family" e="人間" i="669" m="human" t="n" />
+<w c="family" e="夫" i="670" m="husband" t="n" />
+<w c="family" e="一生" i="671" m="life" t="n" />
+<w c="family" e="男" i="672" m="man" t="n" />
+<w c="family" e="結婚" i="673" m="marriage" t="n" />
+<w c="family" e="母" i="674" m="mother" t="n" />
+<w c="family" e="隣人" i="675" m="neighbor" t="n" />
+<w c="family" e="親" i="676" m="parent" t="n" />
+<w c="family" e="人" i="677" m="person" t="n" />
+<w c="family" e="関係" i="678" m="relationship" t="n" />
+<w c="family" e="姉妹" i="679" m="sister" t="n" />
+<w c="family" e="息子" i="680" m="son" t="n" />
+<w c="family" e="結婚式" i="681" m="wedding" t="n" />
+<w c="family" e="結婚式 [けっこんしき]" i="682" m="wedding" t="n" />
+<w c="family" e="妻" i="683" m="wife" t="n" />
+<w c="family" e="女" i="684" m="woman" t="n" />
+<w c="feelings" e="恐れ" i="685" m="fear" t="n" />
+<w c="feelings" e="憎しみ" i="686" m="hate" t="n" />
+<w c="feelings" e="愛" i="687" m="love" t="n" />
+<w c="feelings" e="楽しみ" i="688" m="pleasure" t="n" />
+<w c="feelings" e="期待" i="689" m="promise" t="n" />
+<w c="food" e="パン" i="690" m="bread" t="n" />
+<w c="food" e="朝食" i="691" m="breakfast" t="n" />
+<w c="food" e="バター" i="692" m="butter" t="n" />
+<w c="food" e="ケーキ" i="693" m="cake" t="n" />
+<w c="food" e="チーズ" i="694" m="cheese" t="n" />
+<w c="food" e="チョコレート" i="695" m="chocolate" t="n" />
+<w c="food" e="優勝杯" i="696" m="cup" t="n" />
+<w c="food" e="卵" i="697" m="egg" t="n" />
+<w c="food" e="食物" i="698" m="food" t="n" />
+<w c="food" e="フォーク" i="699" m="fork" t="n" />
+<w c="food" e="果実" i="700" m="fruit" t="n" />
+<w c="food" e="ナイフ" i="701" m="knife" t="n" />
+<w c="food" e="昼食" i="702" m="lunch" t="n" />
+<w c="food" e="食事" i="703" m="meal" t="n" />
+<w c="food" e="肉" i="704" m="meat" t="n" />
+<w c="food" e="油" i="705" m="oil" t="n" />
+<w c="food" e="サラダ" i="706" m="salad" t="n" />
+<w c="food" e="塩" i="707" m="salt" t="n" />
+<w c="food" e="サンドイッチ" i="708" m="sandwich" t="n" />
+<w c="food" e="ソース" i="709" m="sauce" t="n" />
+<w c="food" e="スープ" i="710" m="soup" t="n" />
+<w c="food" e="スプーン" i="711" m="spoon" t="n" />
+<w c="food" e="砂糖" i="712" m="sugar" t="n" />
+<w c="fruits" e="りんご" i="713" m="apple" t="n" />
+<w c="fruits" e="アンズ" i="714" m="apricot" t="n" />
+<w c="fruits" e="バナナ" i="715" m="banana" t="n" />
+<w c="fruits" e="クワの実" i="716" m="blackberry" t="n" />
+<w c="fruits" e="さくらんぼ" i="717" m="cherry" t="n" />
+<w c="fruits" e="レモン" i="718" m="lemon" t="n" />
+<w c="fruits" e="木の実" i="719" m="nut" t="n" />
+<w c="fruits" e="オレンジ" i="720" m="orange" t="n" />
+<w c="fruits" e="桃" i="721" m="peach" t="n" />
+<w c="fruits" e="なし" i="722" m="pear" t="n" />
+<w c="fruits" e="パイナップル" i="723" m="pineapple" t="n" />
+<w c="fruits" e="プラム" i="724" m="plum" t="n" />
+<w c="fruits" e="きいちご" i="725" m="raspberry" t="n" />
+<w c="fruits" e="いちご" i="726" m="strawberry" t="n" />
+<w c="furniture" e="ベッド" i="727" m="bed" t="n" />
+<w c="furniture" e="じゅうたん" i="728" m="carpet" t="n" />
+<w c="furniture" e="椅子" i="729" m="chair" t="n" />
+<w c="furniture" e="戸棚 [とだな]" i="730" m="cupboard" t="n" />
+<w c="furniture" e="カーテン" i="731" m="curtain" t="n" />
+<w c="furniture" e="机" i="732" m="desk" t="n" />
+<w c="furniture" e="引き出し" i="733" m="drawer" t="n" />
+<w c="furniture" e="席" i="734" m="seat" t="n" />
+<w c="furniture" e="棚" i="735" m="shelf" t="n" />
+<w c="furniture" e="流し" i="736" m="sink" t="n" />
+<w c="furniture" e="テーブル" i="737" m="table" t="n" />
+<w c="geography" e="輿地 [よち]" i="738" m="Earth" t="n" />
+<w c="geography" e="月" i="739" m="Moon" t="n" />
+<w c="geography" e="堤防" i="740" m="bank" t="n" />
+<w c="geography" e="浜" i="741" m="beach" t="n" />
+<w c="geography" e="東" i="742" m="east" t="n" />
+<w c="geography" e="丘" i="743" m="hill" t="n" />
+<w c="geography" e="島" i="744" m="island" t="n" />
+<w c="geography" e="湖" i="745" m="lake" t="n" />
+<w c="geography" e="陸地" i="746" m="land" t="n" />
+<w c="geography" e="地図" i="747" m="map" t="n" />
+<w c="geography" e="北" i="748" m="north" t="n" />
+<w c="geography" e="平原" i="749" m="plain" t="n" />
+<w c="geography" e="領域 [りょういき]" i="750" m="region" t="n" />
+<w c="geography" e="川" i="751" m="river" t="n" />
+<w c="geography" e="海" i="752" m="sea" t="n" />
+<w c="geography" e="南" i="753" m="south" t="n" />
+<w c="geography" e="宇宙" i="754" m="space" t="n" />
+<w c="geography" e="恒星" i="755" m="star" t="n" />
+<w c="geography" e="太陽" i="756" m="sun" t="n" />
+<w c="geography" e="西" i="757" m="west" t="n" />
+<w c="house" e="住所" i="758" m="address" t="n" />
+<w c="house" e="トイレ；浴室" i="759" m="bathroom" t="n" />
+<w c="house" e="寝室" i="760" m="bedroom" t="n" />
+<w c="house" e="れんが" i="761" m="brick" t="n" />
+<w c="house" e="ドア" i="762" m="door" t="n" />
+<w c="house" e="床" i="763" m="floor" t="n" />
+<w c="house" e="階" i="764" m="floor" t="n" />
+<w c="house" e="家具" i="765" m="furniture" t="n" />
+<w c="house" e="車庫" i="766" m="garage" t="n" />
+<w c="house" e="庭" i="767" m="garden" t="n" />
+<w c="house" e="門" i="768" m="gate" t="n" />
+<w c="house" e="ロビー" i="769" m="hall" t="n" />
+<w c="house" e="家" i="770" m="home" t="n" />
+<w c="house" e="家" i="771" m="house" t="n" />
+<w c="house" e="台所" i="772" m="kitchen" t="n" />
+<w c="house" e="屋根" i="773" m="roof" t="n" />
+<w c="house" e="部屋" i="774" m="room" t="n" />
+<w c="house" e="シャワー" i="775" m="shower" t="n" />
+<w c="house" e="階段" i="776" m="step" t="n" />
+<w c="house" e="トイレ" i="777" m="toilet" t="n" />
+<w c="house" e="塀" i="778" m="wall" t="n" />
+<w c="house" e="井戸" i="779" m="well" t="n" />
+<w c="house" e="窓" i="780" m="window" t="n" />
+<w c="languages" e="中国語" i="781" m="Chinese" t="n" />
+<w c="languages" e="英語" i="782" m="English" t="n" />
+<w c="languages" e="フランス語" i="783" m="French" t="n" />
+<w c="languages" e="ドイツ語" i="784" m="German" t="n" />
+<w c="languages" e="ヒンディー語" i="785" m="Hindi" t="n" />
+<w c="languages" e="イタリア語" i="786" m="Italian" t="n" />
+<w c="languages" e="日本語" i="787" m="Japanese" t="n" />
+<w c="languages" e="ロシア語" i="788" m="Russian" t="n" />
+<w c="languages" e="スペイン語" i="789" m="Spanish" t="n" />
+<w c="materials" e="酸" i="790" m="acid" t="n" />
+<w c="materials" e="化学薬品" i="791" m="chemical" t="n" />
+<w c="materials" e="元素" i="792" m="chemical element" t="n" />
+<w c="materials" e="石炭" i="793" m="coal" t="n" />
+<w c="materials" e="ほこり" i="794" m="dust" t="n" />
+<w c="materials" e="地球" i="795" m="earth" t="n" />
+<w c="materials" e="脂肪" i="796" m="fat" t="n" />
+<w c="materials" e="ガラス" i="797" m="glass" t="n" />
+<w c="materials" e="接着剤" i="798" m="glue" t="n" />
+<w c="materials" e="金" i="799" m="gold" t="n" />
+<w c="materials" e="粒子 [りゅうし]" i="800" m="grain" t="n" />
+<w c="materials" e="氷" i="801" m="ice" t="n" />
+<w c="materials" e="インク" i="802" m="ink" t="n" />
+<w c="materials" e="黒金 [くろがね]" i="803" m="iron" t="n" />
+<w c="materials" e="鉛" i="804" m="lead" t="n" />
+<w c="materials" e="革 [かわ]" i="805" m="leather" t="n" />
+<w c="materials" e="液体" i="806" m="liquid" t="n" />
+<w c="materials" e="物質" i="807" m="matter" t="n" />
+<w c="materials" e="金属" i="808" m="metallic element" t="n" />
+<w c="materials" e="石油" i="809" m="oil" t="n" />
+<w c="materials" e="紙" i="810" m="paper" t="n" />
+<w c="materials" e="毒" i="811" m="poison" t="n" />
+<w c="materials" e="粉" i="812" m="powder" t="n" />
+<w c="materials" e="砂" i="813" m="sand" t="n" />
+<w c="materials" e="絹" i="814" m="silk" t="n" />
+<w c="materials" e="銀" i="815" m="silver" t="n" />
+<w c="materials" e="石けん" i="816" m="soap" t="n" />
+<w c="materials" e="鋼鉄 [こうてつ]" i="817" m="steel" t="n" />
+<w c="materials" e="木材" i="818" m="wood" t="n" />
+<w c="materials" e="ウール" i="819" m="wool" t="n" />
+<w c="mathematics" e="足し算" i="820" m="addition" t="n" />
+<w c="mathematics" e="角度 [かくど]" i="821" m="angle" t="n" />
+<w c="mathematics" e="面積" i="822" m="area" t="n" />
+<w c="mathematics" e="円" i="823" m="circle" t="n" />
+<w c="mathematics" e="元素" i="824" m="component" t="n" />
+<w c="mathematics" e="曲線" i="825" m="curve" t="n" />
+<w c="mathematics" e="温度" i="826" m="degree" t="n" />
+<w c="mathematics" e="水準" i="827" m="degree" t="n" />
+<w c="mathematics" e="違い" i="828" m="difference" t="n" />
+<w c="mathematics" e="距離" i="829" m="distance" t="n" />
+<w c="mathematics" e="分割" i="830" m="division" t="n" />
+<w c="mathematics" e="へり" i="831" m="edge" t="n" />
+<w c="mathematics" e="機能" i="832" m="function" t="n" />
+<w c="mathematics" e="半分" i="833" m="half" t="n" />
+<w c="mathematics" e="限度" i="834" m="limit" t="n" />
+<w c="mathematics" e="線" i="835" m="line" t="n" />
+<w c="mathematics" e="網" i="836" m="net" t="n" />
+<w c="mathematics" e="外側" i="837" m="outside" t="n" />
+<w c="mathematics" e="割合" i="838" m="percent" t="n" />
+<w c="mathematics" e="目的" i="839" m="purpose" t="n" />
+<w c="mathematics" e="結果" i="840" m="result" t="n" />
+<w c="mathematics" e="規則" i="841" m="rule" t="n" />
+<w c="mathematics" e="組 [くみ]" i="842" m="set" t="n" />
+<w c="mathematics" e="端" i="843" m="side" t="n" />
+<w c="mathematics" e="正方形" i="844" m="square" t="n" />
+<w c="mathematics" e="交換" i="845" m="substitution" t="n" />
+<w c="mathematics" e="表面" i="846" m="surface" t="n" />
+<w c="mathematics" e="量" i="847" m="total" t="n" />
+<w c="medicine" e="世話" i="848" m="care" t="n" />
+<w c="medicine" e="かぜ" i="849" m="cold" t="n" />
+<w c="medicine" e="せき" i="850" m="cough" t="n" />
+<w c="medicine" e="病気" i="851" m="disease" t="n" />
+<w c="medicine" e="医師" i="852" m="doctor" t="n" />
+<w c="medicine" e="健康状態" i="853" m="health" t="n" />
+<w c="medicine" e="月経 [げっけい]" i="854" m="menstruation" t="n" />
+<w c="medicine" e="看護婦" i="855" m="nurse" t="n" />
+<w c="medicine" e="作業" i="856" m="operation" t="n" />
+<w c="medicine" e="痛み" i="857" m="pain" t="n" />
+<w c="medicine" e="患者" i="858" m="patient" t="n" />
+<w c="medicine" e="縫い方" i="859" m="stitch" t="n" />
+<w c="nature" e="空気" i="860" m="air" t="n" />
+<w c="nature" e="動物" i="861" m="animal" t="n" />
+<w c="nature" e="枝" i="862" m="branch" t="n" />
+<w c="nature" e="流れ" i="863" m="current" t="n" />
+<w c="nature" e="発展" i="864" m="evolution" t="n" />
+<w c="nature" e="農場" i="865" m="farm" t="n" />
+<w c="nature" e="畑" i="866" m="field" t="n" />
+<w c="nature" e="炎" i="867" m="fire" t="n" />
+<w c="nature" e="花" i="868" m="flower" t="n" />
+<w c="nature" e="森" i="869" m="forest" t="n" />
+<w c="nature" e="芝生" i="870" m="grass" t="n" />
+<w c="nature" e="葉" i="871" m="leaf" t="n" />
+<w c="nature" e="生命" i="872" m="life" t="n" />
+<w c="nature" e="湿気" i="873" m="moisture" t="n" />
+<w c="nature" e="自然界" i="874" m="nature" t="n" />
+<w c="nature" e="植物" i="875" m="plant" t="n" />
+<w c="nature" e="根" i="876" m="root" t="n" />
+<w c="nature" e="性" i="877" m="sex" t="n" />
+<w c="nature" e="空" i="878" m="sky" t="n" />
+<w c="nature" e="眠り" i="879" m="sleep" t="n" />
+<w c="nature" e="匂い" i="880" m="smell" t="n" />
+<w c="nature" e="煙" i="881" m="smoke" t="n" />
+<w c="nature" e="源泉" i="882" m="spring" t="n" />
+<w c="nature" e="茎" i="883" m="stem" t="n" />
+<w c="nature" e="流れ" i="884" m="stream" t="n" />
+<w c="nature" e="木" i="885" m="tree" t="n" />
+<w c="nature" e="波" i="886" m="wave" t="n" />
+<w c="nature" e="天気" i="887" m="weather" t="n" />
+<w c="nature" e="世界" i="888" m="world" t="n" />
+<w c="numbers" e="二人組 [ふたりぐみ]" i="889" m="couple" t="n" />
+<w c="numbers" e="八" i="890" m="eight" t="n" />
+<w c="numbers" e="十八 [じゅうはち]" i="891" m="eighteen" t="n" />
+<w c="numbers" e="八十" i="892" m="eighty" t="n" />
+<w c="numbers" e="十一" i="893" m="eleven" t="n" />
+<w c="numbers" e="五十" i="894" m="fifty" t="n" />
+<w c="numbers" e="五" i="895" m="five" t="n" />
+<w c="numbers" e="四十" i="896" m="forty" t="n" />
+<w c="numbers" e="四つ [よっつ]" i="897" m="four" t="n" />
+<w c="numbers" e="十四 [じゅうよん]" i="898" m="fourteen" t="n" />
+<w c="numbers" e="1000000" i="899" m="million" t="n" />
+<w c="numbers" e="九" i="900" m="nine" t="n" />
+<w c="numbers" e="十九 [じゅうきゅう]" i="901" m="nineteen" t="n" />
+<w c="numbers" e="九十" i="902" m="ninety" t="n" />
+<w c="numbers" e="無" i="903" m="nothing" t="n" />
+<w c="numbers" e="一つ [ひとつ]" i="904" m="one" t="n" />
+<w c="numbers" e="七 [しち]" i="905" m="seven" t="n" />
+<w c="numbers" e="七十" i="906" m="seventy" t="n" />
+<w c="numbers" e="六" i="907" m="six" t="n" />
+<w c="numbers" e="十六 [じゅうろく]" i="908" m="sixteen" t="n" />
+<w c="numbers" e="六十" i="909" m="sixty" t="n" />
+<w c="numbers" e="十 [とお]" i="910" m="ten" t="n" />
+<w c="numbers" e="十三 [じゅうさん]" i="911" m="thirteen" t="n" />
+<w c="numbers" e="三十" i="912" m="thirty" t="n" />
+<w c="numbers" e="千" i="913" m="thousand" t="n" />
+<w c="numbers" e="三" i="914" m="three" t="n" />
+<w c="objects" e="ボール" i="915" m="ball" t="n" />
+<w c="objects" e="刃" i="916" m="blade" t="n" />
+<w c="objects" e="盤" i="917" m="board" t="n" />
+<w c="objects" e="鎖" i="918" m="chain" t="n" />
+<w c="objects" e="棍棒 [こんぼう]" i="919" m="club" t="n" />
+<w c="objects" e="巻物" i="920" m="coil" t="n" />
+<w c="objects" e="蓋 [ふた]" i="921" m="cover" t="n" />
+<w c="objects" e="袋" i="922" m="envelope" t="n" />
+<w c="objects" e="羽毛" i="923" m="feather" t="n" />
+<w c="objects" e="旗" i="924" m="flag" t="n" />
+<w c="objects" e="わく" i="925" m="frame" t="n" />
+<w c="objects" e="取っ手" i="926" m="handle" t="n" />
+<w c="objects" e="献立 [こんだて]" i="927" m="menu" t="n" />
+<w c="objects" e="ナット" i="928" m="nut" t="n" />
+<w c="objects" e="ピン" i="929" m="pin" t="n" />
+<w c="objects" e="管" i="930" m="pipe" t="n" />
+<w c="objects" e="贈り物" i="931" m="present" t="n" />
+<w c="objects" e="なわ" i="932" m="rope" t="n" />
+<w c="objects" e="帆" i="933" m="sail" t="n" />
+<w c="objects" e="種" i="934" m="seed" t="n" />
+<w c="objects" e="郵便料金" i="935" m="stamp" t="n" />
+<w c="objects" e="杖" i="936" m="stick" t="n" />
+<w c="objects" e="石" i="937" m="stone" t="n" />
+<w c="objects" e="切符" i="938" m="ticket" t="n" />
+<w c="objects" e="車輪" i="939" m="wheel" t="n" />
+<w c="objects" e="針金" i="940" m="wire" t="n" />
+<w c="physics" e="均衡" i="941" m="balance" t="n" />
+<w c="physics" e="充電" i="942" m="charge" t="n" />
+<w c="physics" e="精力" i="943" m="energy" t="n" />
+<w c="physics" e="光" i="944" m="light" t="n" />
+<w c="physics" e="かたまり" i="945" m="mass" t="n" />
+<w c="physics" e="容積" i="946" m="mass" t="n" />
+<w c="physics" e="測定" i="947" m="measurement" t="n" />
+<w c="physics" e="鏡" i="948" m="mirror" t="n" />
+<w c="physics" e="動き" i="949" m="movement" t="n" />
+<w c="physics" e="圧迫" i="950" m="pressure" t="n" />
+<w c="physics" e="過程" i="951" m="process" t="n" />
+<w c="physics" e="大きさ" i="952" m="size" t="n" />
+<w c="physics" e="音" i="953" m="sound" t="n" />
+<w c="physics" e="蒸気" i="954" m="steam" t="n" />
+<w c="physics" e="力" i="955" m="strength" t="n" />
+<w c="physics" e="時" i="956" m="time" t="n" />
+<w c="physics" e="構成単位" i="957" m="unit" t="n" />
+<w c="physics" e="重さ" i="958" m="weight" t="n" />
+<w c="prepositions" e="対 [たい]" i="959" m="against" t="prep" />
+<w c="prepositions" e="中" i="960" m="among" t="prep" />
+<w c="prepositions" e="で" i="961" m="at" t="prep" />
+<w c="prepositions" e="で" i="962" m="at" t="prep" />
+<w c="prepositions" e="...の間 (-no aida), ...のうち (-no uchi)" i="963" m="during" t="prep" />
+<w c="prepositions" e="から" i="964" m="from" t="prep" />
+<w c="prepositions" e="から" i="965" m="from" t="prep" />
+<w c="prepositions" e="...の" i="966" m="of" t="prep" />
+<w c="prepositions" e="此の方 [このかた]" i="967" m="since" t="prep" />
+<w c="prepositions" e="へ" i="968" m="to" t="prep" />
+<w c="prepositions" e="共に [ともに]" i="969" m="with" t="prep" />
+<w c="prepositions" e="共に [ともに]" i="970" m="with" t="prep" />
+<w c="prepositions" e="...なしで" i="971" m="without" t="prep" />
+<w c="professions" e="俳優" i="972" m="actor" t="n" />
+<w c="professions" e="女優 [じょゆう]" i="973" m="actress" t="n" />
+<w c="professions" e="芸術家" i="974" m="artist" t="n" />
+<w c="professions" e="実業家" i="975" m="businessman" t="n" />
+<w c="professions" e="料理人" i="976" m="cook" t="n" />
+<w c="professions" e="専門家" i="977" m="expert" t="n" />
+<w c="professions" e="将軍" i="978" m="general" t="n" />
+<w c="professions" e="ジャーナリスト" i="979" m="journalist" t="n" />
+<w c="professions" e="裁判官" i="980" m="judge" t="n" />
+<w c="professions" e="大臣" i="981" m="minister" t="n" />
+<w c="professions" e="音楽家" i="982" m="musician" t="n" />
+<w c="professions" e="写真家" i="983" m="photographer" t="n" />
+<w c="professions" e="パイロット" i="984" m="pilot" t="n" />
+<w c="professions" e="警察官" i="985" m="policeman" t="n" />
+<w c="professions" e="政治家" i="986" m="politician" t="n" />
+<w c="professions" e="大統領" i="987" m="president" t="n" />
+<w c="professions" e="プロ" i="988" m="professional" t="n" />
+<w c="professions" e="セールスマン" i="989" m="representative" t="n" />
+<w c="professions" e="水夫" i="990" m="sailor" t="n" />
+<w c="professions" e="科学者" i="991" m="scientist" t="n" />
+<w c="professions" e="秘書" i="992" m="secretary" t="n" />
+<w c="professions" e="召使" i="993" m="servant" t="n" />
+<w c="professions" e="歌手" i="994" m="singer" t="n" />
+<w c="professions" e="軍人" i="995" m="soldier" t="n" />
+<w c="professions" e="作家" i="996" m="writer" t="n" />
+<w c="pronouns" e="何でも" i="997" m="anything" t="pron" />
+<w c="pronouns" e="皆さん" i="998" m="everybody" t="pron" />
+<w c="pronouns" e="諸事万端 [しょじばんたん]" i="999" m="everything" t="pron" />
+<w c="pronouns" e="彼女" i="1000" m="her" t="pron" />
+<w c="pronouns" e="彼の" i="1001" m="his" t="pron" />
+<w c="pronouns" e="それ" i="1002" m="it" t="pron" />
+<w c="pronouns" e="私に" i="1003" m="me" t="pron" />
+<w c="pronouns" e="我が [わが]" i="1004" m="my" t="pron" />
+<w c="pronouns" e="我が [わが]" i="1005" m="our" t="pron" />
+<w c="pronouns" e="彼奴 [あいつ]" i="1006" m="she" t="pron" />
+<w c="pronouns" e="彼らの" i="1007" m="their" t="pron" />
+<w c="pronouns" e="彼らを" i="1008" m="them" t="pron" />
+<w c="pronouns" e="この" i="1009" m="these" t="pron" />
+<w c="pronouns" e="奴等 [やつら]" i="1010" m="they" t="pron" />
+<w c="pronouns" e="此の [この]" i="1011" m="this" t="pron" />
+<w c="pronouns" e="wata (私達) ''or" i="1012" m="us" t="pron" />
+<w c="pronouns" e="身共 [みども]" i="1013" m="we" t="pron" />
+<w c="pronouns" e="何" i="1014" m="what" t="pron" />
+<w c="pronouns" e="何時" i="1015" m="when" t="pron" />
+<w c="pronouns" e="何の [どの]" i="1016" m="which" t="pron" />
+<w c="pronouns" e="何の [どの]" i="1017" m="which" t="pron" />
+<w c="pronouns" e="誰" i="1018" m="who" t="pron" />
+<w c="pronouns" e="誰" i="1019" m="whose" t="pron" />
+<w c="pronouns" e="&amp;lt;!-- Maybe we need a separate article for the case of ja pronouns... perhaps the &amp;quot;horribly insulting&amp;quot; ones should be removed just for sake’s sake... there should probably be a better term than ‘rude’ here too. --&amp;gt;" i="1020" m="you" t="pron" />
+<w c="relations" e="ボーイフレンド" i="1021" m="boyfriend" t="n" />
+<w c="relations" e="デート" i="1022" m="date" t="n" />
+<w c="relations" e="女友達 [おんなともだち]" i="1023" m="girlfriend" t="n" />
+<w c="relations" e="客" i="1024" m="guest" t="n" />
+<w c="relations" e="キス" i="1025" m="kiss" t="n" />
+<w c="relations" e="パーティー" i="1026" m="party" t="n" />
+<w c="relations" e="房事 [ぼうじ]" i="1027" m="sex" t="n" />
+<w c="relations" e="微笑" i="1028" m="smile" t="n" />
+<w c="relations" e="驚き" i="1029" m="surprise" t="n" />
+<w c="relations" e="訪問" i="1030" m="visit" t="n" />
+<w c="science" e="生物学" i="1031" m="biology" t="n" />
+<w c="science" e="原因" i="1032" m="cause" t="n" />
+<w c="science" e="本質" i="1033" m="center" t="n" />
+<w c="science" e="化学" i="1034" m="chemistry" t="n" />
+<w c="science" e="比較" i="1035" m="comparison" t="n" />
+<w c="science" e="結果" i="1036" m="consequence" t="n" />
+<w c="science" e="抑制" i="1037" m="control" t="n" />
+<w c="science" e="訓練" i="1038" m="discipline" t="n" />
+<w c="science" e="発見" i="1039" m="discovery" t="n" />
+<w c="science" e="出来事" i="1040" m="event" t="n" />
+<w c="science" e="証拠" i="1041" m="evidence" t="n" />
+<w c="science" e="見本" i="1042" m="example" t="n" />
+<w c="science" e="事実" i="1043" m="fact" t="n" />
+<w c="science" e="問題" i="1044" m="issue" t="n" />
+<w c="science" e="方法" i="1045" m="method" t="n" />
+<w c="science" e="型" i="1046" m="model" t="n" />
+<w c="science" e="二者択一" i="1047" m="option" t="n" />
+<w c="science" e="局面" i="1048" m="phase" t="n" />
+<w c="science" e="手順" i="1049" m="procedure" t="n" />
+<w c="science" e="製造" i="1050" m="production" t="n" />
+<w c="science" e="プログラム" i="1051" m="program" t="n" />
+<w c="science" e="企画" i="1052" m="project" t="n" />
+<w c="science" e="範囲" i="1053" m="range" t="n" />
+<w c="science" e="研究" i="1054" m="research" t="n" />
+<w c="science" e="調査" i="1055" m="research" t="n" />
+<w c="science" e="科学" i="1056" m="science" t="n" />
+<w c="science" e="社会" i="1057" m="society" t="n" />
+<w c="science" e="組織" i="1058" m="system" t="n" />
+<w c="science" e="科学技術" i="1059" m="technology" t="n" />
+<w c="science" e="理論" i="1060" m="theory" t="n" />
+<w c="science" e="傾向" i="1061" m="trend" t="n" />
+<w c="science" e="苦労" i="1062" m="trouble" t="n" />
+<w c="science" e="使用者" i="1063" m="user" t="n" />
+<w c="society" e="軍隊" i="1064" m="army" t="n" />
+<w c="society" e="主成分" i="1065" m="base" t="n" />
+<w c="society" e="クラブ" i="1066" m="club" t="n" />
+<w c="society" e="交わり" i="1067" m="company" t="n" />
+<w c="society" e="国" i="1068" m="country" t="n" />
+<w c="society" e="法廷" i="1069" m="court" t="n" />
+<w c="society" e="犯罪" i="1070" m="crime" t="n" />
+<w c="society" e="文化" i="1071" m="culture" t="n" />
+<w c="society" e="共和制" i="1072" m="democracy" t="n" />
+<w c="society" e="統治" i="1073" m="dominion" t="n" />
+<w c="society" e="選挙" i="1074" m="election" t="n" />
+<w c="society" e="存在" i="1075" m="existence" t="n" />
+<w c="society" e="政府" i="1076" m="government" t="n" />
+<w c="society" e="来歴" i="1077" m="history" t="n" />
+<w c="society" e="個人" i="1078" m="individual" t="n" />
+<w c="society" e="施設 [しせつ]" i="1079" m="institution" t="n" />
+<w c="society" e="王" i="1080" m="king" t="n" />
+<w c="society" e="指揮者" i="1081" m="leader" t="n" />
+<w c="society" e="メンバー" i="1082" m="member" t="n" />
+<w c="society" e="国民" i="1083" m="nation" t="n" />
+<w c="society" e="ニュース" i="1084" m="news" t="n" />
+<w c="society" e="騒音" i="1085" m="noise" t="n" />
+<w c="society" e="命令" i="1086" m="order" t="n" />
+<w c="society" e="組織" i="1087" m="organization" t="n" />
+<w c="society" e="旅券" i="1088" m="passport" t="n" />
+<w c="society" e="平和" i="1089" m="peace" t="n" />
+<w c="society" e="人々" i="1090" m="people" t="n" />
+<w c="society" e="警察" i="1091" m="police" t="n" />
+<w c="society" e="方針" i="1092" m="policy" t="n" />
+<w c="society" e="人口" i="1093" m="population" t="n" />
+<w c="society" e="大衆" i="1094" m="public" t="n" />
+<w c="society" e="罰" i="1095" m="punishment" t="n" />
+<w c="society" e="信仰" i="1096" m="religion" t="n" />
+<w c="society" e="信仰" i="1097" m="religion" t="n" />
+<w c="society" e="国家" i="1098" m="state" t="n" />
+<w c="society" e="表題" i="1099" m="title" t="n" />
+<w c="society" e="連合" i="1100" m="union" t="n" />
+<w c="society" e="意志" i="1101" m="will" t="n" />
+<w c="society" e="遺言" i="1102" m="will" t="n" />
+<w c="sports" e="栄誉" i="1103" m="award" t="n" />
+<w c="sports" e="野球" i="1104" m="baseball" t="n" />
+<w c="sports" e="選手権" i="1105" m="championship" t="n" />
+<w c="sports" e="競争者" i="1106" m="competitor" t="n" />
+<w c="sports" e="目的地" i="1107" m="finish" t="n" />
+<w c="sports" e="サッカー" i="1108" m="football" t="n" />
+<w c="sports" e="遊戯" i="1109" m="game" t="n" />
+<w c="sports" e="ゴール" i="1110" m="goal" t="n" />
+<w c="sports" e="ゴルフ" i="1111" m="golf" t="n" />
+<w c="sports" e="試合" i="1112" m="match" t="n" />
+<w c="sports" e="選手" i="1113" m="player" t="n" />
+<w c="sports" e="最高記録" i="1114" m="record" t="n" />
+<w c="sports" e="テニス" i="1115" m="tennis" t="n" />
+<w c="sports" e="投げ" i="1116" m="throw" t="n" />
+<w c="sports" e="勝利" i="1117" m="win" t="n" />
+<w c="time" e="四月 [しがつ]" i="1118" m="April" t="n" />
+<w c="time" e="八月" i="1119" m="August" t="n" />
+<w c="time" e="十二月 [じゅうにがつ]" i="1120" m="December" t="n" />
+<w c="time" e="二月 [にがつ]" i="1121" m="February" t="n" />
+<w c="time" e="金曜日 [きんようび]" i="1122" m="Friday" t="n" />
+<w c="time" e="正月 [しょうがつ]" i="1123" m="January" t="n" />
+<w c="time" e="七月 [しちがつ]" i="1124" m="July" t="n" />
+<w c="time" e="六月 [ろくがつ]" i="1125" m="June" t="n" />
+<w c="time" e="五月" i="1126" m="May" t="n" />
+<w c="time" e="月曜日 [げつようび]" i="1127" m="Monday" t="n" />
+<w c="time" e="十一月 [じゅういちがつ]" i="1128" m="November" t="n" />
+<w c="time" e="十月 [じゅうがつ]" i="1129" m="October" t="n" />
+<w c="time" e="土曜日 [どようび]" i="1130" m="Saturday" t="n" />
+<w c="time" e="九月 [くがつ]" i="1131" m="September" t="n" />
+<w c="time" e="日曜日 [にちようび]" i="1132" m="Sunday" t="n" />
+<w c="time" e="木曜日 [もくようび]" i="1133" m="Thursday" t="n" />
+<w c="time" e="火曜日 [かようび]" i="1134" m="Tuesday" t="n" />
+<w c="time" e="水曜日 [すいようび]" i="1135" m="Wednesday" t="n" />
+<w c="time" e="午後" i="1136" m="afternoon" t="n" />
+<w c="time" e="年齢" i="1137" m="age" t="n" />
+<w c="time" e="秋" i="1138" m="autumn" t="n" />
+<w c="time" e="開始" i="1139" m="beginning" t="n" />
+<w c="time" e="世紀" i="1140" m="century" t="n" />
+<w c="time" e="年月日" i="1141" m="date" t="n" />
+<w c="time" e="日 [ひ]" i="1142" m="day" t="n" />
+<w c="time" e="締切り [しめきり]" i="1143" m="end" t="n" />
+<w c="time" e="夕方" i="1144" m="evening" t="n" />
+<w c="time" e="未来" i="1145" m="future" t="n" />
+<w c="time" e="時" i="1146" m="hour" t="n" />
+<w c="time" e="真夜中" i="1147" m="midnight" t="n" />
+<w c="time" e="分" i="1148" m="minute" t="n" />
+<w c="time" e="瞬間" i="1149" m="moment" t="n" />
+<w c="time" e="瞬間 [しゅんかん]" i="1150" m="moment" t="n" />
+<w c="time" e="月" i="1151" m="month" t="n" />
+<w c="time" e="朝" i="1152" m="morning" t="n" />
+<w c="time" e="夜" i="1153" m="night" t="n" />
+<w c="time" e="現在" i="1154" m="now" t="n" />
+<w c="time" e="前歴" i="1155" m="past" t="n" />
+<w c="time" e="休憩時間" i="1156" m="pause" t="n" />
+<w c="time" e="期間" i="1157" m="period" t="n" />
+<w c="time" e="現在" i="1158" m="present" t="n" />
+<w c="time" e="シーズン" i="1159" m="season" t="n" />
+<w c="time" e="秒" i="1160" m="second" t="n" />
+<w c="time" e="春" i="1161" m="spring" t="n" />
+<w c="time" e="夏" i="1162" m="summer" t="n" />
+<w c="time" e="明日" i="1163" m="tomorrow" t="n" />
+<w c="time" e="週" i="1164" m="week" t="n" />
+<w c="time" e="週末" i="1165" m="weekend" t="n" />
+<w c="time" e="冬" i="1166" m="winter" t="n" />
+<w c="time" e="年度" i="1167" m="year" t="n" />
+<w c="tools" e="鐘" i="1168" m="bell" t="n" />
+<w c="tools" e="ブラシ" i="1169" m="brush" t="n" />
+<w c="tools" e="ボタン" i="1170" m="button" t="n" />
+<w c="tools" e="銃" i="1171" m="gun" t="n" />
+<w c="tools" e="槌 [つち]" i="1172" m="hammer" t="n" />
+<w c="tools" e="フック" i="1173" m="hook" t="n" />
+<w c="tools" e="かぎ" i="1174" m="key" t="n" />
+<w c="tools" e="錠" i="1175" m="lock" t="n" />
+<w c="tools" e="マッチ" i="1176" m="match" t="n" />
+<w c="tools" e="くぎ" i="1177" m="nail" t="n" />
+<w c="tools" e="針" i="1178" m="needle" t="n" />
+<w c="tools" e="ペン" i="1179" m="pen" t="n" />
+<w c="tools" e="鉛筆" i="1180" m="pencil" t="n" />
+<w c="tools" e="ポンプ" i="1181" m="pump" t="n" />
+<w c="tools" e="はさみ" i="1182" m="scissors" t="n" />
+<w c="tools" e="ばね" i="1183" m="spring" t="n" />
+<w c="tools" e="スタンプ" i="1184" m="stamp" t="n" />
+<w c="tools" e="むち" i="1185" m="whip" t="n" />
+<w c="transport" e="事故" i="1186" m="accident" t="n" />
+<w c="transport" e="自転車" i="1187" m="bike" t="n" />
+<w c="transport" e="ボート" i="1188" m="boat" t="n" />
+<w c="transport" e="バス" i="1189" m="bus" t="n" />
+<w c="transport" e="自動車" i="1190" m="car" t="n" />
+<w c="transport" e="曲がり" i="1191" m="curve" t="n" />
+<w c="transport" e="急行列車" i="1192" m="express" t="n" />
+<w c="transport" e="飛行" i="1193" m="flight" t="n" />
+<w c="transport" e="旅行" i="1194" m="journey" t="n" />
+<w c="transport" e="乗客" i="1195" m="passenger" t="n" />
+<w c="transport" e="飛行機" i="1196" m="plane" t="n" />
+<w c="transport" e="船" i="1197" m="ship" t="n" />
+<w c="transport" e="レール" i="1198" m="track" t="n" />
+<w c="transport" e="列車" i="1199" m="train" t="n" />
+<w c="transport" e="運搬 [うんぱん]" i="1200" m="transport" t="n" />
+<w c="vegetables" e="豆" i="1201" m="bean" t="n" />
+<w c="vegetables" e="キャベツ" i="1202" m="cabbage" t="n" />
+<w c="vegetables" e="人参" i="1203" m="carrot" t="n" />
+<w c="vegetables" e="きゅうり" i="1204" m="cucumber" t="n" />
+<w c="vegetables" e="にんにく" i="1205" m="garlic" t="n" />
+<w c="vegetables" e="オリーブ" i="1206" m="olive" t="n" />
+<w c="vegetables" e="玉ねぎ" i="1207" m="onion" t="n" />
+<w c="vegetables" e="パースニップ" i="1208" m="parsnip" t="n" />
+<w c="vegetables" e="じゃがいも" i="1209" m="potato" t="n" />
+<w c="vegetables" e="ハツカダイコン" i="1210" m="radish" t="n" />
+<w c="vegetables" e="米穀 [べいこく]" i="1211" m="rice" t="n" />
+<w c="vegetables" e="トマト" i="1212" m="tomato" t="n" />
+<w c="verbs" e="受取る" i="1213" m="accept" t="v" />
+<w c="verbs" e="罪する [つみする]" i="1214" m="accuse" t="v" />
+<w c="verbs" e="なしとげる" i="1215" m="achieve" t="v" />
+<w c="verbs" e="寄せる [よせる]" i="1216" m="add" t="v" />
+<w c="verbs" e="認める" i="1217" m="admit" t="v" />
+<w c="verbs" e="差し響く [さしひびく]" i="1218" m="affect" t="v" />
+<w c="verbs" e="同じる [どうじる]" i="1219" m="agree" t="v" />
+<w c="verbs" e="許す [ゆるす]" i="1220" m="allow" t="v" />
+<w c="verbs" e="知らせる" i="1221" m="announce" t="v" />
+<w c="verbs" e="言い合う" i="1222" m="argue" t="v" />
+<w c="verbs" e="来る [くる]" i="1223" m="arrive" t="v" />
+<w c="verbs" e="尋ねる" i="1224" m="ask" t="v" />
+<w c="verbs" e="襲う" i="1225" m="attack" t="v" />
+<w c="verbs" e="避ける" i="1226" m="avoid" t="v" />
+<w c="verbs" e="暮らす" i="1227" m="be" t="v" />
+<w c="verbs" e="運ぶ" i="1228" m="bear" t="v" />
+<w c="verbs" e="倒す [たおす]" i="1229" m="beat" t="v" />
+<w c="verbs" e="齎らす [もたらす]" i="1230" m="bring" t="v" />
+<w c="verbs" e="建てる" i="1231" m="build" t="v" />
+<w c="verbs" e="呼び出す" i="1232" m="call" t="v" />
+<w c="verbs" e="運ぶ" i="1233" m="carry" t="v" />
+<w c="verbs" e="受け止める [うけとめる]" i="1234" m="catch" t="v" />
+<w c="verbs" e="来たす [きたす]" i="1235" m="cause" t="v" />
+<w c="verbs" e="変わる" i="1236" m="change" t="v" />
+<w c="verbs" e="選ぶ" i="1237" m="choose" t="v" />
+<w c="verbs" e="並べ替え" i="1238" m="classify" t="v" />
+<w c="verbs" e="たとえる" i="1239" m="compare" t="v" />
+<w c="verbs" e="含む" i="1240" m="contain" t="v" />
+<w c="verbs" e="続ける" i="1241" m="continue" t="v" />
+<w c="verbs" e="制する [せいする]" i="1242" m="control" t="v" />
+<w c="verbs" e="コピー; 転送" i="1243" m="copy" t="v" />
+<w c="verbs" e="押しつぶす" i="1244" m="crush" t="v" />
+<w c="verbs" e="泣く" i="1245" m="cry" t="v" />
+<w c="verbs" e="決める" i="1246" m="decide" t="v" />
+<w c="verbs" e="画く [えがく]" i="1247" m="describe" t="v" />
+<w c="verbs" e="仕組む [しくむ]" i="1248" m="design" t="v" />
+<w c="verbs" e="欲する" i="1249" m="desire" t="v" />
+<w c="verbs" e="死ぬ" i="1250" m="die" t="v" />
+<w c="verbs" e="論じる" i="1251" m="discuss" t="v" />
+<w c="verbs" e="割る" i="1252" m="divide" t="v" />
+<w c="verbs" e="疑う" i="1253" m="doubt" t="v" />
+<w c="verbs" e="含む [ふくむ]" i="1254" m="embrace" t="v" />
+<w c="verbs" e="励ます" i="1255" m="encourage" t="v" />
+<w c="verbs" e="終える" i="1256" m="end" t="v" />
+<w c="verbs" e="高める" i="1257" m="enhance" t="v" />
+<w c="verbs" e="楽しむ" i="1258" m="enjoy" t="v" />
+<w c="verbs" e="入る" i="1259" m="enter" t="v" />
+<w c="verbs" e="設ける" i="1260" m="establish" t="v" />
+<w c="verbs" e="見積もる" i="1261" m="estimate" t="v" />
+<w c="verbs" e="超える" i="1262" m="exceed" t="v" />
+<w c="verbs" e="求める" i="1263" m="expect" t="v" />
+<w c="verbs" e="戦う" i="1264" m="fight" t="v" />
+<w c="verbs" e="満たす" i="1265" m="fill" t="v" />
+<w c="verbs" e="見つける" i="1266" m="find" t="v" />
+<w c="verbs" e="仕上げる [しあげる]" i="1267" m="finish" t="v" />
+<w c="verbs" e="許す" i="1268" m="forgive" t="v" />
+<w c="verbs" e="許す [ゆるす]" i="1269" m="free" t="v" />
+<w c="verbs" e="育つ" i="1270" m="grow" t="v" />
+<w c="verbs" e="起こる" i="1271" m="happen" t="v" />
+<w c="verbs" e="憎む" i="1272" m="hate" t="v" />
+<w c="verbs" e="隠す" i="1273" m="hide" t="v" />
+<w c="verbs" e="含む" i="1274" m="include" t="v" />
+<w c="verbs" e="増える" i="1275" m="increase" t="v" />
+<w c="verbs" e="傷付ける [きずつける]" i="1276" m="injure" t="v" />
+<w c="verbs" e="つなぐ" i="1277" m="join" t="v" />
+<w c="verbs" e="つかむ" i="1278" m="keep" t="v" />
+<w c="verbs" e="ける" i="1279" m="kick" t="v" />
+<w c="verbs" e="殺す" i="1280" m="kill" t="v" />
+<w c="verbs" e="導く" i="1281" m="lead" t="v" />
+<w c="verbs" e="任せる" i="1282" m="leave" t="v" />
+<w c="verbs" e="上げる" i="1283" m="lift" t="v" />
+<w c="verbs" e="限る" i="1284" m="limit" t="v" />
+<w c="verbs" e="見える [みえる]" i="1285" m="look" t="v" />
+<w c="verbs" e="失う" i="1286" m="lose" t="v" />
+<w c="verbs" e="取り計らう [とりはからう]" i="1287" m="manage" t="v" />
+<w c="verbs" e="縁付く [えんづく]" i="1288" m="marry" t="v" />
+<w c="verbs" e="合う" i="1289" m="match" t="v" />
+<w c="verbs" e="志す [こころざす]" i="1290" m="mean" t="v" />
+<w c="verbs" e="測る" i="1291" m="measure" t="v" />
+<w c="verbs" e="述べる" i="1292" m="mention" t="v" />
+<w c="verbs" e="見過す [みすごす]" i="1293" m="miss" t="v" />
+<w c="verbs" e="呼ぶ" i="1294" m="name" t="v" />
+<w c="verbs" e="言い渡す [いいわたす]" i="1295" m="order" t="v" />
+<w c="verbs" e="擁する [ようする]" i="1296" m="own" t="v" />
+<w c="verbs" e="引き渡す" i="1297" m="pass" t="v" />
+<w c="verbs" e="磨く" i="1298" m="polish" t="v" />
+<w c="verbs" e="調える [ととのえる]" i="1299" m="prepare" t="v" />
+<w c="verbs" e="押しつける" i="1300" m="press" t="v" />
+<w c="verbs" e="防ぐ [ふせぐ]" i="1301" m="prevent" t="v" />
+<w c="verbs" e="刷る [する]" i="1302" m="print" t="v" />
+<w c="verbs" e="扱う [あつかう]" i="1303" m="process" t="v" />
+<w c="verbs" e="証拠立てる [しょうこだてる]" i="1304" m="prove" t="v" />
+<w c="verbs" e="発行" i="1305" m="publish" t="v" />
+<w c="verbs" e="育てる" i="1306" m="raise" t="v" />
+<w c="verbs" e="着く" i="1307" m="reach" t="v" />
+<w c="verbs" e="受取る" i="1308" m="receive" t="v" />
+<w c="verbs" e="書き記す [かきしるす]" i="1309" m="record" t="v" />
+<w c="verbs" e="切り下げる" i="1310" m="reduce" t="v" />
+<w c="verbs" e="映す" i="1311" m="reflect" t="v" />
+<w c="verbs" e="断わる" i="1312" m="refuse" t="v" />
+<w c="verbs" e="取り除く" i="1313" m="remove" t="v" />
+<w c="verbs" e="返す" i="1314" m="render" t="v" />
+<w c="verbs" e="答える" i="1315" m="reply" t="v" />
+<w c="verbs" e="届け出る" i="1316" m="report" t="v" />
+<w c="verbs" e="表わす" i="1317" m="represent" t="v" />
+<w c="verbs" e="頼む" i="1318" m="request" t="v" />
+<w c="verbs" e="敬う [うやまう]" i="1319" m="respect" t="v" />
+<w c="verbs" e="明らかにする" i="1320" m="reveal" t="v" />
+<w c="verbs" e="賭ける" i="1321" m="risk" t="v" />
+<w c="verbs" e="治める" i="1322" m="rule" t="v" />
+<w c="verbs" e="貯める" i="1323" m="save" t="v" />
+<w c="verbs" e="救い出す" i="1324" m="save" t="v" />
+<w c="verbs" e="見る" i="1325" m="see" t="v" />
+<w c="verbs" e="眺める [ながめる]" i="1326" m="see" t="v" />
+<w c="verbs" e="送る" i="1327" m="send" t="v" />
+<w c="verbs" e="勤める" i="1328" m="serve" t="v" />
+<w c="verbs" e="縫う" i="1329" m="sew" t="v" />
+<w c="verbs" e="叫ぶ" i="1330" m="shout" t="v" />
+<w c="verbs" e="見せる" i="1331" m="show" t="v" />
+<w c="verbs" e="匂う [におう]" i="1332" m="smell" t="v" />
+<w c="verbs" e="臭う [におう]" i="1333" m="smell" t="v" />
+<w c="verbs" e="過ごす" i="1334" m="spend" t="v" />
+<w c="verbs" e="立つ" i="1335" m="stand" t="v" />
+<w c="verbs" e="居残る" i="1336" m="stay" t="v" />
+<w c="verbs" e="盗む" i="1337" m="steal" t="v" />
+<w c="verbs" e="止める" i="1338" m="stop" t="v" />
+<w c="verbs" e="学ぶ" i="1339" m="study" t="v" />
+<w c="verbs" e="耐え忍ぶ [たえしのぶ]" i="1340" m="suffer" t="v" />
+<w c="verbs" e="言い出す [いいだす]" i="1341" m="suggest" t="v" />
+<w c="verbs" e="備える" i="1342" m="supply" t="v" />
+<w c="verbs" e="もつ" i="1343" m="survive" t="v" />
+<w c="verbs" e="舐める [なめる]" i="1344" m="taste" t="v" />
+<w c="verbs" e="教える" i="1345" m="teach" t="v" />
+<w c="verbs" e="試みる [こころみる]" i="1346" m="test" t="v" />
+<w c="verbs" e="投げる" i="1347" m="throw" t="v" />
+<w c="verbs" e="仕込む [しこむ]" i="1348" m="train" t="v" />
+<w c="verbs" e="行く" i="1349" m="travel" t="v" />
+<w c="verbs" e="扱う" i="1350" m="treat" t="v" />
+<w c="verbs" e="試みる" i="1351" m="try" t="v" />
+<w c="verbs" e="回す" i="1352" m="turn" t="v" />
+<w c="verbs" e="訪れる [おとずれる]" i="1353" m="visit" t="v" />
+<w c="verbs" e="歩く" i="1354" m="walk" t="v" />
+<w c="verbs" e="暖める" i="1355" m="warm" t="v" />
+<w c="verbs" e="洗う" i="1356" m="wash" t="v" />
+<w c="verbs" e="眺める" i="1357" m="watch" t="v" />
+<w c="verbs" e="履く [はく]" i="1358" m="wear" t="v" />
+<w c="verbs" e="勝つ" i="1359" m="win" t="v" />
+<w c="verbs" e="望む" i="1360" m="wish" t="v" />
+<w c="verbs" e="ある" i="1361" m="be" t="v" />
+<w c="verbs" e="始める [はじめる]" i="1362" m="begin" t="v" />
+<w c="verbs" e="こわす" i="1363" m="break" t="v" />
+<w c="verbs" e="買う" i="1364" m="buy" t="v" />
+<w c="verbs" e="閉める" i="1365" m="close" t="v" />
+<w c="verbs" e="来る" i="1366" m="come" t="v" />
+<w c="verbs" e="切る" i="1367" m="cut" t="v" />
+<w c="verbs" e="踊る" i="1368" m="dance" t="v" />
+<w c="verbs" e="用いる" i="1369" m="do" t="v" />
+<w c="verbs" e="飲む" i="1370" m="drink" t="v" />
+<w c="verbs" e="食べる" i="1371" m="eat" t="v" />
+<w c="verbs" e="落ちる" i="1372" m="fall" t="v" />
+<w c="verbs" e="見つける" i="1373" m="find" t="v" />
+<w c="verbs" e="撃つ" i="1374" m="fire" t="v" />
+<w c="verbs" e="飛ぶ" i="1375" m="fly" t="v" />
+<w c="verbs" e="ついていく" i="1376" m="follow" t="v" />
+<w c="verbs" e="忘れる" i="1377" m="forget" t="v" />
+<w c="verbs" e="得る [うる]" i="1378" m="get" t="v" />
+<w c="verbs" e="与える" i="1379" m="give" t="v" />
+<w c="verbs" e="生む" i="1380" m="have" t="v" />
+<w c="verbs" e="聞く" i="1381" m="hear" t="v" />
+<w c="verbs" e="手伝う" i="1382" m="help" t="v" />
+<w c="verbs" e="望む" i="1383" m="hope" t="v" />
+<w c="verbs" e="はずむ" i="1384" m="jump" t="v" />
+<w c="verbs" e="笑う" i="1385" m="laugh" t="v" />
+<w c="verbs" e="学ぶ [まなぶ]" i="1386" m="learn" t="v" />
+<w c="verbs" e="横たわる" i="1387" m="lie" t="v" />
+<w c="verbs" e="好きだ" i="1388" m="like" t="v" />
+<w c="verbs" e="聞く" i="1389" m="listen" t="v" />
+<w c="verbs" e="見る" i="1390" m="look" t="v" />
+<w c="verbs" e="失う" i="1391" m="lose" t="v" />
+<w c="verbs" e="愛する" i="1392" m="love" t="v" />
+<w c="verbs" e="出会う" i="1393" m="meet" t="v" />
+<w c="verbs" e="動く" i="1394" m="move" t="v" />
+<w c="verbs" e="取る [とる]" i="1395" m="need" t="v" />
+<w c="verbs" e="申し出る" i="1396" m="offer" t="v" />
+<w c="verbs" e="開ける" i="1397" m="open" t="v" />
+<w c="verbs" e="支払う" i="1398" m="pay" t="v" />
+<w c="verbs" e="遊ぶ" i="1399" m="play" t="v" />
+<w c="verbs" e="引く" i="1400" m="pull" t="v" />
+<w c="verbs" e="押す" i="1401" m="push" t="v" />
+<w c="verbs" e="置く" i="1402" m="put" t="v" />
+<w c="verbs" e="読む" i="1403" m="read" t="v" />
+<w c="verbs" e="思い出す" i="1404" m="remember" t="v" />
+<w c="verbs" e="走る" i="1405" m="run" t="v" />
+<w c="verbs" e="言う" i="1406" m="say" t="v" />
+<w c="verbs" e="売る" i="1407" m="sell" t="v" />
+<w c="verbs" e="歌う" i="1408" m="sing" t="v" />
+<w c="verbs" e="すわる" i="1409" m="sit" t="v" />
+<w c="verbs" e="ほほえむ" i="1410" m="smile" t="v" />
+<w c="verbs" e="取る" i="1411" m="take" t="v" />
+<w c="verbs" e="しゃべる" i="1412" m="talk" t="v" />
+<w c="verbs" e="描く" i="1413" m="trace" t="v" />
+<w c="verbs" e="飲み込む [のみこむ]" i="1414" m="understand" t="v" />
+<w c="verbs" e="用いる" i="1415" m="use" t="v" />
+<w c="verbs" e="待つ" i="1416" m="wait" t="v" />
+<w c="verbs" e="書く" i="1417" m="write" t="v" />
+<w c="weather" e="雲" i="1418" m="cloud" t="n" />
+<w c="weather" e="露" i="1419" m="dew" t="n" />
+<w c="weather" e="霧" i="1420" m="fog" t="n" />
+<w c="weather" e="霜" i="1421" m="frost" t="n" />
+<w c="weather" e="稲妻" i="1422" m="lightning" t="n" />
+<w c="weather" e="雨" i="1423" m="rain" t="n" />
+<w c="weather" e="虹" i="1424" m="rainbow" t="n" />
+<w c="weather" e="雪" i="1425" m="snow" t="n" />
+<w c="weather" e="嵐" i="1426" m="storm" t="n" />
+<w c="weather" e="雷" i="1427" m="thunder" t="n" />
+<w c="weather" e="風" i="1428" m="wind" t="n" />
+</vocb>

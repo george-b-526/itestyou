@@ -1,0 +1,28 @@
+2010-10-20
+   rozbicie pliku description.txt na dwa (description.txt i opis.txt)
+   przesunięcie częśći haseł z kategori "vocabluary" do "phrases" (frazy się znajdowały w słownictwie z tego powodu, że pierwotnie nie było kategori fraz)
+   zamiana polskich komentarzy przy hasłach angielskich (teraz te komentaerze są angielskie)
+   zamiana niektórych znaków "\" (stary skrót dla "lub") na znaki "||" (nowe oznaczenie "lub")
+
+2010-09-26
+   wyrzucenie 3 odwrotnych kart z kategori grammar (ta sekcja nie powinna posiadać żadnych odwrotnych kart)
+   poprawka "continous" na "continuous" - nikt mi tego nie wytknął!!!
+
+2009-04-25 beta
+   szczegółowy opis sposobu nauki w pliku czytajto.txt
+   usunięte kilka zbędnych alternatyw ||
+   wstawienie kilku alternatyw
+   scalenie kilku podobnych haseł
+
+2009-04-18 beta
+   opis zawierający wskazówki jak się uczyć z tą bazą
+   uaktualniony opis na stronie
+   kilka nowych kart (łącznie teraz jest 8664)
+   zintegrowanie kilu podobnych haseł
+   standaryzacja oznaczeń alternatywnych odpowiedzi - teraz są to dwie pionowe kreski || które w wielu językach programowania oznaczają alternatywę (or)
+      zrobione to zostało wymyślnymi wyrażeniami regularnymi, i choć wszystkie alternatywy są prawidłowo oznaczone
+      to przekonwertowane zostały również znaki które nie pełniły roli oznaczenia alternatywy (stosowano je jako separatory zdań złożonych)
+      wiele takich przypadków zostało skorygowanych wyrażeniami naprawczymi, ale po 6,25h szlifowania podjąłem decyzję o zaprzestaniu doskonalenia automatu
+      reszta ma być skorygowana ręcznie w miarę jak błędy będą wychwytywane w czasie pracy z programem (apeluję o zgłaszanie tych nadmiarowych alternatyw)
+      Te nadmiarowe znaki alternatyw || nie mają żadnego wpływu na poprawność językową (bo np. zamiast przecinka jest ||, a słówka są te co były)
+      Tych nadmiarowych znaków alternatyw || jest bardzo mało i dość trudno je wyłapać.

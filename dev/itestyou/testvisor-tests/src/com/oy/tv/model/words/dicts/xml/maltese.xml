@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Maltese (Malti)">
+<!--generated: Sun Jan 29 02:47:20 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="għemil; att" i="0" m="act" t="n" />
+<w c="abstract" e="għemil; azzjoni" i="1" m="action" t="n" />
+<w c="abstract" e="żieda; addizzjoni; suppliment" i="2" m="addition" t="n" />
+<w c="abstract" e="ammont; kwantità" i="3" m="amount" t="n" />
+<w c="abstract" e="attakk" i="4" m="attack" t="n" />
+<w c="abstract" e="prova; sforz" i="5" m="attempt" t="n" />
+<w c="abstract" e="dahar" i="6" m="back" t="n" />
+<w c="abstract" e="mġieba; kondotta" i="7" m="behavior" t="n" />
+<w c="abstract" e="biċċa; farka; laqxa" i="8" m="bit" t="n" />
+<w c="abstract" e="daqqa" i="9" m="blow" t="n" />
+<w c="abstract" e="intervall; waqfa; brejk" i="10" m="break" t="n" />
+<w c="abstract" e="kampanja; kawża; kruċjata; muviment" i="11" m="campaign" t="n" />
+<w c="abstract" e="opportunita; ċans" i="12" m="chance" t="n" />
+<w c="abstract" e="selezzjoni; għażla" i="13" m="choice" t="n" />
+<w c="abstract" e="stat; kundizzjoni" i="14" m="condition" t="n" />
+<w c="abstract" e="konnessjoni; x'jaqsam" i="15" m="connection" t="n" />
+<w c="abstract" e="konnessjoni" i="16" m="connection" t="n" />
+<w c="abstract" e="xaqq" i="17" m="crack" t="n" />
+<w c="abstract" e="tgħaffig; tgħattin" i="18" m="crush" t="n" />
+<w c="abstract" e="qtugħ; qatgħa" i="19" m="cut" t="n" />
+<w c="abstract" e="ħsara" i="20" m="damage" t="n" />
+<w c="abstract" e="periklu" i="21" m="danger" t="n" />
+<w c="abstract" e="tiżjin; ornament; dekorazzjoni; tizjin" i="22" m="decoration" t="n" />
+<w c="abstract" e="qirda; distruzzjoni; ħerba" i="23" m="destruction" t="n" />
+<w c="abstract" e="dettal" i="24" m="detail" t="n" />
+<w c="abstract" e="dominanza" i="25" m="dominance" t="n" />
+<w c="abstract" e="qatra" i="26" m="drop" t="n" />
+<w c="abstract" e="dmir; dover" i="27" m="duty" t="n" />
+<w c="abstract" e="sforz" i="28" m="effort" t="n" />
+<w c="abstract" e="waqa'; waqgħa" i="29" m="fall" t="n" />
+<w c="abstract" e="ġlied; ġlieda" i="30" m="fight" t="n" />
+<w c="abstract" e="quddiem" i="31" m="front" t="n" />
+<w c="abstract" e="lqit" i="32" m="hit" t="n" />
+<w c="abstract" e="toqba; ħofra" i="33" m="hole" t="n" />
+<w c="abstract" e="żieda" i="34" m="increase" t="n" />
+<w c="abstract" e="żieda; kobor" i="35" m="increase" t="n" />
+<w c="abstract" e="internet" i="36" m="internet" t="n" />
+<w c="abstract" e="skoss" i="37" m="jolt" t="n" />
+<w c="abstract" e="qabża" i="38" m="jump" t="n" />
+<w c="abstract" e="daqqa ta' sieq" i="39" m="kick" t="n" />
+<w c="abstract" e="tip; varjetà; sura" i="40" m="kind" t="n" />
+<w c="abstract" e="għoqda" i="41" m="knot" t="n" />
+<w c="abstract" e="lista" i="42" m="list" t="n" />
+<w c="abstract" e="maniera; mod; stil" i="43" m="manner" t="n" />
+<w c="abstract" e="mezz; mezzi" i="44" m="means" t="n" />
+<w c="abstract" e="moħħ" i="45" m="mind" t="n" />
+<w c="abstract" e="iffunzjonar" i="46" m="operation" t="n" />
+<w c="abstract" e="kuntrarju" i="47" m="opposite" t="n" />
+<w c="abstract" e="tifqigħa" i="48" m="outburst" t="n" />
+<w c="abstract" e="parti" i="49" m="part" t="n" />
+<w c="abstract" e="personalità" i="50" m="personality" t="n" />
+<w c="abstract" e="biċċa" i="51" m="piece" t="n" />
+<w c="abstract" e="post" i="52" m="place" t="n" />
+<w c="abstract" e="post; lok; pożizzjoni" i="53" m="position" t="n" />
+<w c="abstract" e="qawwa; poter" i="54" m="power" t="n" />
+<w c="abstract" e="prattika" i="55" m="practice" t="n" />
+<w c="abstract" e="proġett; intrapriża" i="56" m="project" t="n" />
+<w c="abstract" e="karatteristika" i="57" m="property" t="n" />
+<w c="abstract" e="kwalità" i="58" m="quality" t="n" />
+<w c="abstract" e="kwiet" i="59" m="quiet" t="n" />
+<w c="abstract" e="responsabbiltà" i="60" m="responsibility" t="n" />
+<w c="abstract" e="mistrieħ" i="61" m="rest" t="n" />
+<w c="abstract" e="ritorn; miġja lura" i="62" m="return" t="n" />
+<w c="abstract" e="post" i="63" m="seat" t="n" />
+<w c="abstract" e="rogħda" i="64" m="shake" t="n" />
+<w c="abstract" e="skantament; xokk" i="65" m="shock" t="n" />
+<w c="abstract" e="skiet; silenzju" i="66" m="silence" t="n" />
+<w c="abstract" e="stat" i="67" m="state" t="n" />
+<w c="abstract" e="pass" i="68" m="step" t="n" />
+<w c="abstract" e="waqfa" i="69" m="stop" t="n" />
+<w c="abstract" e="togħma" i="70" m="taste" t="n" />
+<w c="abstract" e="ħaġa" i="71" m="thing" t="n" />
+<w c="abstract" e="quċċata; akme" i="72" m="top" t="n" />
+<w c="abstract" e="messa" i="73" m="touch" t="n" />
+<w c="abstract" e="trattament; trattazzjoni" i="74" m="treatment" t="n" />
+<w c="abstract" e="trikk" i="75" m="trick" t="n" />
+<w c="abstract" e="użu" i="76" m="use" t="n" />
+<w c="abstract" e="rieda; volontà" i="77" m="will" t="n" />
+<w c="adjectives" e="aċituż" i="78" m="acid" t="adj" />
+<w c="adjectives" e="kollu" i="79" m="all" t="adj" />
+<w c="adjectives" e="kull; liema jkun" i="80" m="any" t="adj" />
+<w c="adjectives" e="awtomatku" i="81" m="automatic" t="adj" />
+<w c="adjectives" e="morr" i="82" m="bitter" t="adj" />
+<w c="adjectives" e="ileqq; jgħajjat; illellex; brillanti" i="83" m="bright" t="adj" />
+<w c="adjectives" e="mkisser; miksur" i="84" m="broken" t="adj" />
+<w c="adjectives" e="żgur" i="85" m="certain" t="adj" />
+<w c="adjectives" e="rħis" i="86" m="cheap" t="adj" />
+<w c="adjectives" e="kimiku" i="87" m="chemical" t="adj" />
+<w c="adjectives" e="ċar" i="88" m="clear" t="adj" />
+<w c="adjectives" e="mgħaluq" i="89" m="closed" t="adj" />
+<w c="adjectives" e="tal-kulur" i="90" m="color" t="adj" />
+<w c="adjectives" e="tas-soltu; komuni; ordinarju" i="91" m="common" t="adj" />
+<w c="adjectives" e="komuni" i="92" m="common" t="adj" />
+<w c="adjectives" e="perfett; sħieħ" i="93" m="complete" t="adj" />
+<w c="adjectives" e="apposta; koxjenti" i="94" m="conscious" t="adj" />
+<w c="adjectives" e="kiefer; krudil; salvaġġ; qalil" i="95" m="cruel" t="adj" />
+<w c="adjectives" e="korrenti" i="96" m="current" t="adj" />
+<w c="adjectives" e="delikat; fin" i="97" m="delicate" t="adj" />
+<w c="adjectives" e="differenti" i="98" m="different" t="adj" />
+<w c="adjectives" e="differenti" i="99" m="different" t="adj" />
+<w c="adjectives" e="l-isfel; mniżżel" i="100" m="down" t="adj" />
+<w c="adjectives" e="nixef" i="101" m="dry" t="adj" />
+<w c="adjectives" e="bikri; kmieni; ta' kmieni" i="102" m="early" t="adj" />
+<w c="adjectives" e="elettriku" i="103" m="electric" t="adj" />
+<w c="adjectives" e="ugwali; ndaqs" i="104" m="equal" t="adj" />
+<w c="adjectives" e="żewġ" i="105" m="even" t="adj" />
+<w c="adjectives" e="nofs-u-nofs" i="106" m="even" t="adj" />
+<w c="adjectives" e="kull" i="107" m="every" t="adj" />
+<w c="adjectives" e="eċċellenti" i="108" m="excellent" t="adj" />
+<w c="adjectives" e="falz" i="109" m="fake" t="adj" />
+<w c="adjectives" e="falz" i="110" m="false" t="adj" />
+<w c="adjectives" e="l-bogħod" i="111" m="far" t="adj" />
+<w c="adjectives" e="oħxon; smin; qawwi" i="112" m="fat" t="adj" />
+<w c="adjectives" e="xaħmi" i="113" m="fat" t="adj" />
+<w c="adjectives" e="iebes; ferm; solidu" i="114" m="firm" t="adj" />
+<w c="adjectives" e="l-ewwel" i="115" m="first" t="adj" />
+<w c="adjectives" e="fiss" i="116" m="fixed" t="adj" />
+<w c="adjectives" e="ċatt; mwitti; invellat" i="117" m="flat" t="adj" />
+<w c="adjectives" e="stranjier; barrani" i="118" m="foreign" t="adj" />
+<w c="adjectives" e="dgħajjef; delikat; fraġli; xipli" i="119" m="fragile" t="adj" />
+<w c="adjectives" e="b'xejn; gratis" i="120" m="free" t="adj" />
+<w c="adjectives" e="spissi; frekwenti" i="121" m="frequent" t="adj" />
+<w c="adjectives" e="ta' quddiem" i="122" m="front" t="adj" />
+<w c="adjectives" e="mimli" i="123" m="full" t="adj" />
+<w c="adjectives" e="sħieħ" i="124" m="full" t="adj" />
+<w c="adjectives" e="futur; tal-ġejjieni" i="125" m="future" t="adj" />
+<w c="adjectives" e="ġenerali" i="126" m="general" t="adj" />
+<w c="adjectives" e="interessanti" i="127" m="interesting" t="adj" />
+<w c="adjectives" e="l-aħħar" i="128" m="last" t="adj" />
+<w c="adjectives" e="tard" i="129" m="late" t="adj" />
+<w c="adjectives" e="tad-dieta" i="130" m="light" t="adj" />
+<w c="adjectives" e="likwidu" i="131" m="liquid" t="adj" />
+<w c="adjectives" e="għoli; jgħajjat" i="132" m="loud" t="adj" />
+<w c="adjectives" e="baxx" i="133" m="low" t="adj" />
+<w c="adjectives" e="metaliku" i="134" m="metal" t="adj" />
+<w c="adjectives" e="militari" i="135" m="military" t="adj" />
+<w c="adjectives" e="infiniteżmali; żgħir tikka" i="136" m="minute" t="adj" />
+<w c="adjectives" e="ħafna" i="137" m="much" t="adj" />
+<w c="adjectives" e="dejjaq" i="138" m="narrow" t="adj" />
+<w c="adjectives" e="naturali" i="139" m="natural" t="adj" />
+<w c="adjectives" e="neċessarju; bżonnjuż" i="140" m="necessary" t="adj" />
+<w c="adjectives" e="l-ebda" i="141" m="no" t="adj" />
+<w c="adjectives" e="normali" i="142" m="normal" t="adj" />
+<w c="adjectives" e="mitfi" i="143" m="off" t="adj" />
+<w c="adjectives" e="mixgħul; mqabbad" i="144" m="on" t="adj" />
+<w c="adjectives" e="oppost; ta' faċċata" i="145" m="opposite" t="adj" />
+<w c="adjectives" e="ieħor" i="146" m="other" t="adj" />
+<w c="adjectives" e="parallel" i="147" m="parallel" t="adj" />
+<w c="adjectives" e="li għadda; tal-passat" i="148" m="past" t="adj" />
+<w c="adjectives" e="fiżiku" i="149" m="physical" t="adj" />
+<w c="adjectives" e="politku" i="150" m="political" t="adj" />
+<w c="adjectives" e="msejjken; miskin; sfortunat; żvinturat; diżgrazzjat; patetiku" i="151" m="poor" t="adj" />
+<w c="adjectives" e="possibli" i="152" m="possible" t="adj" />
+<w c="adjectives" e="tal-preżent; ta' issa" i="153" m="present" t="adj" />
+<w c="adjectives" e="privat" i="154" m="private" t="adj" />
+<w c="adjectives" e="probabbli" i="155" m="probable" t="adj" />
+<w c="adjectives" e="kwiet; ħiemed" i="156" m="quiet" t="adj" />
+<w c="adjectives" e="lest" i="157" m="ready" t="adj" />
+<w c="adjectives" e="regulari" i="158" m="regular" t="adj" />
+<w c="adjectives" e="risponsabbli" i="159" m="responsible" t="adj" />
+<w c="adjectives" e="iebes; riġidu" i="160" m="rigid" t="adj" />
+<w c="adjectives" e="aħrax; mħatteb" i="161" m="rough" t="adj" />
+<w c="adjectives" e="tond; ċirculari" i="162" m="round" t="adj" />
+<w c="adjectives" e="tal-biki; iġiblek ħasra; iġiblek il-ħniena" i="163" m="sad" t="adj" />
+<w c="adjectives" e="sejf; bla periklu" i="164" m="safe" t="adj" />
+<w c="adjectives" e="l-istess" i="165" m="same" t="adj" />
+<w c="adjectives" e="it-tieni" i="166" m="second" t="adj" />
+<w c="adjectives" e="bil-moħbi; klandestin; minn taħt" i="167" m="secret" t="adj" />
+<w c="adjectives" e="separat" i="168" m="separate" t="adj" />
+<w c="adjectives" e="serju" i="169" m="serious" t="adj" />
+<w c="adjectives" e="qasir" i="170" m="short" t="adj" />
+<w c="adjectives" e="sieket; silenżjuż; hiemed" i="171" m="silent" t="adj" />
+<w c="adjectives" e="tal-fidda" i="172" m="silver" t="adj" />
+<w c="adjectives" e="elementari; sempliċi" i="173" m="simple" t="adj" />
+<w c="adjectives" e="żgħir; ċkejken" i="174" m="small" t="adj" />
+<w c="adjectives" e="lixx" i="175" m="smooth" t="adj" />
+<w c="adjectives" e="solidu" i="176" m="solid" t="adj" />
+<w c="adjectives" e="ħafif; skars" i="177" m="sparse" t="adj" />
+<w c="adjectives" e="speċjali; eċċezzjonali; partikulari" i="178" m="special" t="adj" />
+<w c="adjectives" e="kwadru" i="179" m="square" t="adj" />
+<w c="adjectives" e="iwaħħal; idellek" i="180" m="sticky" t="adj" />
+<w c="adjectives" e="dritt" i="181" m="straight" t="adj" />
+<w c="adjectives" e="mhux tas-soltu; stramb" i="182" m="strange" t="adj" />
+<w c="adjectives" e="ta' f'daqqa" i="183" m="sudden" t="adj" />
+<w c="adjectives" e="ħelu" i="184" m="sweet" t="adj" />
+<w c="adjectives" e="twil" i="185" m="tall" t="adj" />
+<w c="adjectives" e="mgħaqud" i="186" m="thick" t="adj" />
+<w c="adjectives" e="rqiq" i="187" m="thin" t="adj" />
+<w c="adjectives" e="issikkat; dejjaq" i="188" m="tight" t="adj" />
+<w c="adjectives" e="veru" i="189" m="true" t="adj" />
+<w c="adjectives" e="ta' taħt" i="190" m="under" t="adj" />
+<w c="adjectives" e="tas-soltu; komuni" i="191" m="usual" t="adj" />
+<w c="adjectives" e="sħun" i="192" m="warm" t="adj" />
+<w c="adjectives" e="mxarrab" i="193" m="wet" t="adj" />
+<w c="adjectives" e="wiesa'" i="194" m="wide" t="adj" />
+<w c="adjectives" e="ħażin" i="195" m="bad" t="adj" />
+<w c="adjectives" e="sabiħ; gustuż" i="196" m="beautiful" t="adj" />
+<w c="adjectives" e="kbir" i="197" m="big" t="adj" />
+<w c="adjectives" e="nadif" i="198" m="clean" t="adj" />
+<w c="adjectives" e="kiesaħ" i="199" m="cold" t="adj" />
+<w c="adjectives" e="korrett" i="200" m="correct" t="adj" />
+<w c="adjectives" e="skur" i="201" m="dark" t="adj" />
+<w c="adjectives" e="diffiċli; tqil" i="202" m="difficult" t="adj" />
+<w c="adjectives" e="maħmuġ; mniġġeż" i="203" m="dirty" t="adj" />
+<w c="adjectives" e="mgħaġġel" i="204" m="fast" t="adj" />
+<w c="adjectives" e="tajjeb" i="205" m="good" t="adj" />
+<w c="adjectives" e="kbir" i="206" m="great" t="adj" />
+<w c="adjectives" e="tal-biża; tal-ġenn; fantastiku; meraviljuz; buli; bellezza" i="207" m="great" t="adj" />
+<w c="adjectives" e="ferħan; hieni" i="208" m="happy" t="adj" />
+<w c="adjectives" e="b'saħħtu; f'saħħtu" i="209" m="healthy" t="adj" />
+<w c="adjectives" e="tqil" i="210" m="heavy" t="adj" />
+<w c="adjectives" e="għoli" i="211" m="high" t="adj" />
+<w c="adjectives" e="jaħraq; jikwi" i="212" m="hot" t="adj" />
+<w c="adjectives" e="xellugi" i="213" m="left" t="adj" />
+<w c="adjectives" e="ħafif" i="214" m="light" t="adj" />
+<w c="adjectives" e="insinjifikanti; trivjali; ċkejken" i="215" m="little" t="adj" />
+<w c="adjectives" e="twil" i="216" m="long" t="adj" />
+<w c="adjectives" e="qrib; viċin" i="217" m="near" t="adj" />
+<w c="adjectives" e="ġdid" i="218" m="new" t="adj" />
+<w c="adjectives" e="miftuħ" i="219" m="open" t="adj" />
+<w c="adjectives" e="lemini" i="220" m="right" t="adj" />
+<w c="adjectives" e="bil-ponta" i="221" m="sharp" t="adj" />
+<w c="adjectives" e="ta' bil-mod" i="222" m="slow" t="adj" />
+<w c="adjectives" e="għartab" i="223" m="soft" t="adj" />
+<w c="adjectives" e="b'saħħtu; qawwi; jiflaħ" i="224" m="strong" t="adj" />
+<w c="adjectives" e="żbaljat" i="225" m="wrong" t="adj" />
+<w c="adjective" e="kapaċi; abbli" i="226" m="able" t="adj" />
+<w c="adjective" e="irrabjat; inkurlat; mgħaddab" i="227" m="angry" t="adj" />
+<w c="adjective" e="mqajjem" i="228" m="awake" t="adj" />
+<w c="adjective" e="mejjet" i="229" m="dead" t="adj" />
+<w c="adjective" e="feminili" i="230" m="female" t="adj" />
+<w c="adjective" e="ħieles" i="231" m="free" t="adj" />
+<w c="adjective" e="b'saħħtu" i="232" m="healthy" t="adj" />
+<w c="adjective" e="trab; għabra; marid" i="233" m="ill" t="adj" />
+<w c="adjective" e="bla sabar; bla paċenzja; fuq ix-xwiek" i="234" m="impatient" t="adj" />
+<w c="adjective" e="ħanin; qalbu tajba" i="235" m="kind" t="adj" />
+<w c="adjective" e="maskju; raġel" i="236" m="male" t="adj" />
+<w c="adjective" e="virili; maskili" i="237" m="male" t="adj" />
+<w c="adjective" e="miżżeweg" i="238" m="married" t="adj" />
+<w c="adjective" e="mediku" i="239" m="medical" t="adj" />
+<w c="adjective" e="xieħ" i="240" m="old" t="adj" />
+<w c="adjective" e="fqir" i="241" m="poor" t="adj" />
+<w c="adjective" e="imnikket; qalbu sewda" i="242" m="sad" t="adj" />
+<w c="adjective" e="astuż; makakk; għaqli" i="243" m="sharp" t="adj" />
+<w c="adjective" e="espert; tas-sengħa; kapaċi; jinqala'; abbli" i="244" m="skilful" t="adj" />
+<w c="adjective" e="stupidu; iblah; ġaħan; ħmar" i="245" m="stupid" t="adj" />
+<w c="adjective" e="dipendenti; suġġett" i="246" m="subject" t="adj" />
+<w c="adjective" e="għajjien" i="247" m="tired" t="adj" />
+<w c="adjective" e="vjolenti" i="248" m="violent" t="adj" />
+<w c="adjective" e="għaref" i="249" m="wise" t="adj" />
+<w c="adjective" e="immatur; żagħżugħ" i="250" m="young" t="adj" />
+<w c="adverb" e="il fuq" i="251" m="above" t="adv" />
+<w c="adverb" e="darb' oħra" i="252" m="again" t="adv" />
+<w c="adverb" e="kważi" i="253" m="almost" t="adv" />
+<w c="adverb" e="xi; bejn wieħed u ieħor" i="254" m="approximately" t="adv" />
+<w c="adverb" e="il quddiem" i="255" m="before" t="adv" />
+<w c="adverb" e="qabel" i="256" m="before" t="adv" />
+<w c="adverb" e="bejn" i="257" m="between" t="adv" />
+<w c="adverb" e="minn ħdejn" i="258" m="by" t="adv" />
+<w c="adverb" e="dritt" i="259" m="directly" t="adv" />
+<w c="adverb" e="l isfel" i="260" m="down" t="adv" />
+<w c="adverb" e="qmieni" i="261" m="early" t="adv" />
+<w c="adverb" e="biżżejjed" i="262" m="enough" t="adv" />
+<w c="adverb" e="kompletament; biss" i="263" m="entirely" t="adv" />
+<w c="adverb" e="daqs" i="264" m="equally" t="adv" />
+<w c="adverb" e="anki" i="265" m="even" t="adv" />
+<w c="adverb" e="l-ewwel" i="266" m="first" t="adv" />
+<w c="adverb" e="l quddiem; 'il quddiem" i="267" m="forward" t="adv" />
+<w c="adverb" e="hawn" i="268" m="here" t="adv" />
+<w c="adverb" e="hawn" i="269" m="here" t="adv" />
+<w c="adverb" e="ma dan kollu" i="270" m="however" t="adv" />
+<w c="adverb" e="mil-ewwel" i="271" m="immediately" t="adv" />
+<w c="adverb" e="il ġewwa" i="272" m="in" t="adv" />
+<w c="adverb" e="ġewwa" i="273" m="inside" t="adv" />
+<w c="adverb" e="tard" i="274" m="late" t="adv" />
+<w c="adverb" e="wara" i="275" m="later" t="adv" />
+<w c="adverb" e="ftit" i="276" m="little" t="adv" />
+<w c="adverb" e="mhux" i="277" m="not" t="adv" />
+<w c="adverb" e="issa" i="278" m="now" t="adv" />
+<w c="adverb" e="biss" i="279" m="simply" t="adv" />
+<w c="adverb" e="bil-mod" i="280" m="slowly" t="adv" />
+<w c="adverb" e="daqshekk; wisq" i="281" m="so" t="adv" />
+<w c="adverb" e="għadu" i="282" m="still" t="adv" />
+<w c="adverb" e="mbagħad" i="283" m="then" t="adv" />
+<w c="adverb" e="hemm" i="284" m="there" t="adv" />
+<w c="adverb" e="illum" i="285" m="today" t="adv" />
+<w c="adverb" e="flimkien" i="286" m="together" t="adv" />
+<w c="adverb" e="għada" i="287" m="tomorrow" t="adv" />
+<w c="adverb" e="il fuq" i="288" m="up" t="adv" />
+<w c="adverb" e="ħafna; veru" i="289" m="very" t="adv" />
+<w c="adverb" e="tajjeb" i="290" m="well" t="adv" />
+<w c="anatomy" e="driegħ" i="291" m="arm" t="noun" />
+<w c="anatomy" e="dahar" i="292" m="back" t="noun" />
+<w c="anatomy" e="munqar" i="293" m="beak" t="noun" />
+<w c="anatomy" e="demm" i="294" m="blood" t="noun" />
+<w c="anatomy" e="torso" i="295" m="body" t="noun" />
+<w c="anatomy" e="għadma" i="296" m="bone" t="noun" />
+<w c="anatomy" e="moħħ" i="297" m="brain" t="noun" />
+<w c="anatomy" e="nifs" i="298" m="breath" t="noun" />
+<w c="anatomy" e="ċellula" i="299" m="cell" t="noun" />
+<w c="anatomy" e="sider" i="300" m="chest" t="noun" />
+<w c="anatomy" e="geddum; lħit" i="301" m="chin" t="noun" />
+<w c="anatomy" e="widna" i="302" m="ear" t="noun" />
+<w c="anatomy" e="għajn" i="303" m="eye" t="noun" />
+<w c="anatomy" e="wiċċ" i="304" m="face" t="noun" />
+<w c="anatomy" e="saba'" i="305" m="finger" t="noun" />
+<w c="anatomy" e="sieq" i="306" m="foot" t="noun" />
+<w c="anatomy" e="ġbin" i="307" m="forehead" t="noun" />
+<w c="anatomy" e="xagħar; xuxa" i="308" m="hair" t="noun" />
+<w c="anatomy" e="pil; xagħar" i="309" m="hair" t="noun" />
+<w c="anatomy" e="id" i="310" m="hand" t="noun" />
+<w c="anatomy" e="ras" i="311" m="head" t="noun" />
+<w c="anatomy" e="qalb" i="312" m="heart" t="noun" />
+<w c="anatomy" e="rkoppa; rkobba" i="313" m="knee" t="noun" />
+<w c="anatomy" e="riġel" i="314" m="leg" t="noun" />
+<w c="anatomy" e="xoffa" i="315" m="lip" t="noun" />
+<w c="anatomy" e="ħalq" i="316" m="mouth" t="noun" />
+<w c="anatomy" e="muskolu" i="317" m="muscle" t="noun" />
+<w c="anatomy" e="difer" i="318" m="nail" t="noun" />
+<w c="anatomy" e="għonq" i="319" m="neck" t="noun" />
+<w c="anatomy" e="nerv" i="320" m="nerve" t="noun" />
+<w c="anatomy" e="mnieħer" i="321" m="nose" t="noun" />
+<w c="anatomy" e="ġilda" i="322" m="skin" t="noun" />
+<w c="anatomy" e="stonku" i="323" m="stomach" t="noun" />
+<w c="anatomy" e="demb; denb" i="324" m="tail" t="noun" />
+<w c="anatomy" e="gerżuma" i="325" m="throat" t="noun" />
+<w c="anatomy" e="saba' l-kbir" i="326" m="thumb" t="noun" />
+<w c="anatomy" e="saba' tas-sieq" i="327" m="toe" t="noun" />
+<w c="anatomy" e="lsien" i="328" m="tongue" t="noun" />
+<w c="anatomy" e="sinna" i="329" m="tooth" t="noun" />
+<w c="anatomy" e="ġwejnaħ" i="330" m="wing" t="noun" />
+<w c="animals" e="nemla" i="331" m="ant" t="noun" />
+<w c="animals" e="ors" i="332" m="bear" t="noun" />
+<w c="animals" e="naħla" i="333" m="bee" t="noun" />
+<w c="animals" e="għasfur" i="334" m="bird" t="noun" />
+<w c="animals" e="qattus" i="335" m="cat" t="noun" />
+<w c="animals" e="baqra" i="336" m="cow" t="noun" />
+<w c="animals" e="kelb" i="337" m="dog" t="noun" />
+<w c="animals" e="ljunfant" i="338" m="elephant" t="noun" />
+<w c="animals" e="ħuta" i="339" m="fish" t="noun" />
+<w c="animals" e="dubbiena" i="340" m="fly" t="noun" />
+<w c="animals" e="mogħża" i="341" m="goat" t="noun" />
+<w c="animals" e="żiemel" i="342" m="horse" t="noun" />
+<w c="animals" e="insett" i="343" m="insect" t="noun" />
+<w c="animals" e="iljun" i="344" m="lion" t="noun" />
+<w c="animals" e="xadina" i="345" m="monkey" t="noun" />
+<w c="animals" e="ħanżir; qassquż;  majjal; qażqus" i="346" m="pig" t="noun" />
+<w c="animals" e="nagħġa" i="347" m="sheep" t="noun" />
+<w c="animals" e="lifgħa; serp; serpent" i="348" m="snake" t="noun" />
+<w c="art" e="arti" i="349" m="art" t="n" />
+<w c="art" e="banda taż-żfin" i="350" m="band" t="n" />
+<w c="art" e="kulur" i="351" m="color" t="n" />
+<w c="art" e="kunċert" i="352" m="concert" t="n" />
+<w c="art" e="varjetà; diversità" i="353" m="diversity" t="n" />
+<w c="art" e="divertiment" i="354" m="entertainment" t="n" />
+<w c="art" e="ċinema" i="355" m="movie" t="n" />
+<w c="art" e="mużika" i="356" m="music" t="n" />
+<w c="art" e="nota" i="357" m="note" t="n" />
+<w c="art" e="*orkestra??" i="358" m="orchestra" t="n" />
+<w c="art" e="żebgħa" i="359" m="paint" t="n" />
+<w c="art" e="pittura" i="360" m="painting" t="n" />
+<w c="art" e="stampa" i="361" m="picture" t="n" />
+<w c="art" e="ritmu" i="362" m="rhythm" t="n" />
+<w c="art" e="kanzunetta" i="363" m="song" t="n" />
+<w c="art" e="palk" i="364" m="stage" t="n" />
+<w c="article" e="il" i="365" m="the" t="" />
+<w c="business" e="kont" i="366" m="account" t="n" />
+<w c="business" e="riklam" i="367" m="advertisement" t="n" />
+<w c="business" e="ftehim" i="368" m="agreement" t="n" />
+<w c="business" e="attenzjoni" i="369" m="attention" t="n" />
+<w c="business" e="awtorità" i="370" m="authority" t="n" />
+<w c="business" e="karta tal-flus" i="371" m="banknote" t="n" />
+<w c="business" e="marka" i="372" m="brand" t="n" />
+<w c="business" e="negozju" i="373" m="business" t="n" />
+<w c="business" e="żgħar" i="374" m="change" t="n" />
+<w c="business" e="ċekk" i="375" m="check" t="n" />
+<w c="business" e="kumitat; kummissjoni" i="376" m="committee" t="n" />
+<w c="business" e="kumpanija" i="377" m="company" t="n" />
+<w c="business" e="kompetizzjoni" i="378" m="competition" t="n" />
+<w c="business" e="kompetizzjoni; konkors" i="379" m="contest" t="n" />
+<w c="business" e="kopja" i="380" m="copy" t="n" />
+<w c="business" e="kors" i="381" m="course" t="n" />
+<w c="business" e="klijent" i="382" m="customer" t="n" />
+<w c="business" e="bżonn" i="383" m="demand" t="n" />
+<w c="business" e="disin; disinjar; tfassil" i="384" m="design" t="n" />
+<w c="business" e="direzzjoni" i="385" m="direction" t="n" />
+<w c="business" e="direttur" i="386" m="director" t="n" />
+<w c="business" e="ambjent" i="387" m="environment" t="n" />
+<w c="business" e="esperjenza" i="388" m="experience" t="n" />
+<w c="business" e="formola" i="389" m="form" t="n" />
+<w c="business" e="grupp" i="390" m="group" t="n" />
+<w c="business" e="għajnuna; assistenza" i="391" m="help" t="n" />
+<w c="business" e="industrija" i="392" m="industry" t="n" />
+<w c="business" e="assigurazzjoni" i="393" m="insurance" t="n" />
+<w c="business" e="interess" i="394" m="interest" t="n" />
+<w c="business" e="kont" i="395" m="invoice" t="n" />
+<w c="business" e="biċċa xogħol" i="396" m="job" t="n" />
+<w c="business" e="liġi" i="397" m="law" t="n" />
+<w c="business" e="telfa" i="398" m="loss" t="n" />
+<w c="business" e="amministrazzjoni; management" i="399" m="management" t="n" />
+<w c="business" e="marka" i="400" m="marker" t="n" />
+<w c="business" e="suq" i="401" m="market" t="n" />
+<w c="business" e="materjal" i="402" m="material" t="n" />
+<w c="business" e="laqgħa" i="403" m="meeting" t="n" />
+<w c="business" e="flus" i="404" m="money" t="n" />
+<w c="business" e="xogħol; impieg; professjoni" i="405" m="occupation" t="n" />
+<w c="business" e="offerta" i="406" m="offer" t="n" />
+<w c="business" e="uffizzju" i="407" m="office" t="n" />
+<w c="business" e="operazzjoni" i="408" m="operation" t="n" />
+<w c="business" e="propjetarju" i="409" m="owner" t="n" />
+<w c="business" e="pakkett" i="410" m="package" t="n" />
+<w c="business" e="parti" i="411" m="part" t="n" />
+<w c="business" e="ħlas" i="412" m="payment" t="n" />
+<w c="business" e="prezz" i="413" m="price" t="n" />
+<w c="business" e="prodott" i="414" m="product" t="n" />
+<w c="business" e="qliegħ; dħul; profitt" i="415" m="profit" t="n" />
+<w c="business" e="propjeta" i="416" m="property" t="n" />
+<w c="business" e="rata" i="417" m="rate" t="n" />
+<w c="business" e="bqija" i="418" m="rest" t="n" />
+<w c="business" e="dritt" i="419" m="right" t="n" />
+<w c="business" e="bejħ" i="420" m="sale" t="n" />
+<w c="business" e="servizz" i="421" m="service" t="n" />
+<w c="business" e="ħanut" i="422" m="shop" t="n" />
+<w c="business" e="wirja" i="423" m="show" t="n" />
+<w c="business" e="struttura" i="424" m="structure" t="n" />
+<w c="business" e="appoġġ; manteniment" i="425" m="support" t="n" />
+<w c="business" e="tabella" i="426" m="table" t="n" />
+<w c="business" e="taxxa" i="427" m="tax" t="n" />
+<w c="business" e="tim; skwadra" i="428" m="team" t="n" />
+<w c="business" e="kummerċ" i="429" m="trade" t="n" />
+<w c="business" e="valur" i="430" m="value" t="n" />
+<w c="business" e="paga; ħlas" i="431" m="wages" t="n" />
+<w c="business" e="xogħol" i="432" m="work" t="n" />
+<w c="business" e="ħaddiem" i="433" m="worker" t="n" />
+<w c="city" e="ajruport" i="434" m="airport" t="n" />
+<w c="city" e="*bank??" i="435" m="bank" t="n" />
+<w c="city" e="pont" i="436" m="bridge" t="n" />
+<w c="city" e="bini" i="437" m="building" t="n" />
+<w c="city" e="belt kapitali" i="438" m="capital" t="n" />
+<w c="city" e="kastell" i="439" m="castle" t="n" />
+<w c="city" e="knisja" i="440" m="church" t="n" />
+<w c="city" e="ċinema" i="441" m="cinema" t="n" />
+<w c="city" e="belt; metropoli" i="442" m="city" t="n" />
+<w c="city" e="fabbrika" i="443" m="factory" t="n" />
+<w c="city" e="appartament; flatt" i="444" m="flat" t="n" />
+<w c="city" e="sptar" i="445" m="hospital" t="n" />
+<w c="city" e="lukanda" i="446" m="hotel" t="n" />
+<w c="city" e="bibljoteka" i="447" m="library" t="n" />
+<w c="city" e="muzew" i="448" m="museum" t="n" />
+<w c="city" e="ħabs; karzri" i="449" m="prison" t="n" />
+<w c="city" e="triq" i="450" m="road" t="n" />
+<w c="city" e="skola" i="451" m="school" t="n" />
+<w c="city" e="stazzjon" i="452" m="station" t="n" />
+<w c="city" e="triq" i="453" m="street" t="n" />
+<w c="city" e="struttura" i="454" m="structure" t="n" />
+<w c="city" e="metro" i="455" m="subway" t="n" />
+<w c="city" e="supersuq" i="456" m="supermarket" t="n" />
+<w c="city" e="teatru" i="457" m="theater" t="n" />
+<w c="city" e="belt" i="458" m="town" t="n" />
+<w c="city" e="università" i="459" m="university" t="n" />
+<w c="city" e="villaġġ; raħal" i="460" m="village" t="n" />
+<w c="clothes" e="portmoni" i="461" m="bag" t="n" />
+<w c="clothes" e="stival; boot" i="462" m="boot" t="n" />
+<w c="clothes" e="drapp" i="463" m="cloth" t="n" />
+<w c="clothes" e="biċċa ħwejjeġ" i="464" m="clothing" t="n" />
+<w c="clothes" e="kowt" i="465" m="coat" t="n" />
+<w c="clothes" e="għonq" i="466" m="collar" t="n" />
+<w c="clothes" e="kappel" i="467" m="hat" t="n" />
+<w c="clothes" e="ġakketta" i="468" m="jacket" t="n" />
+<w c="clothes" e="ġojjell; ġemma; ħaġra prezzjuża" i="469" m="jewel" t="n" />
+<w c="clothes" e="ċurkett" i="470" m="ring" t="n" />
+<w c="clothes" e="qmis" i="471" m="shirt" t="n" />
+<w c="clothes" e="żarbun" i="472" m="shoe" t="n" />
+<w c="clothes" e="dublett" i="473" m="skirt" t="n" />
+<w c="clothes" e="peduna; kalzetta" i="474" m="sock" t="n" />
+<w c="clothes" e="bagoll; bagalja" i="475" m="suitcase" t="n" />
+<w c="clothes" e="ingravata" i="476" m="tie" t="n" />
+<w c="colors" e="iswed" i="477" m="black" t="adj" />
+<w c="colors" e="ikħal; blu" i="478" m="blue" t="adj" />
+<w c="colors" e="kannella" i="479" m="brown" t="adj" />
+<w c="colors" e="griż" i="480" m="gray" t="adj" />
+<w c="colors" e="aħdar" i="481" m="green" t="adj" />
+<w c="colors" e="oranġjo" i="482" m="orange" t="adj" />
+<w c="colors" e="roża" i="483" m="pink" t="adj" />
+<w c="colors" e="aħmar" i="484" m="red" t="adj" />
+<w c="colors" e="vjola" i="485" m="violet" t="adj" />
+<w c="colors" e="abjad" i="486" m="white" t="adj" />
+<w c="colors" e="isfar" i="487" m="yellow" t="adj" />
+<w c="communication" e="tweġiba; risposta" i="488" m="answer" t="n" />
+<w c="communication" e="barka; approvazzjoni" i="489" m="approval" t="n" />
+<w c="communication" e="polemika; kontroversja; argument" i="490" m="argument" t="n" />
+<w c="communication" e="argument" i="491" m="argument" t="n" />
+<w c="communication" e="ktieb; volum" i="492" m="book" t="n" />
+<w c="communication" e="għajta" i="493" m="cry" t="n" />
+<w c="communication" e="deċizjoni" i="494" m="decision" t="n" />
+<w c="communication" e="dizzjunarju; kalepin" i="495" m="dictionary" t="n" />
+<w c="communication" e="diskussjoni" i="496" m="discussion" t="n" />
+<w c="communication" e="dubju" i="497" m="doubt" t="n" />
+<w c="communication" e="esperjenza" i="498" m="experience" t="n" />
+<w c="communication" e="espressjoni; ħarsa" i="499" m="expression" t="n" />
+<w c="communication" e="sensazzjoni" i="500" m="feeling" t="n" />
+<w c="communication" e="umoriżmu" i="501" m="humor" t="n" />
+<w c="communication" e="idea; ħsieb" i="502" m="idea" t="n" />
+<w c="communication" e="interess" i="503" m="interest" t="n" />
+<w c="communication" e="intervista" i="504" m="interview" t="n" />
+<w c="communication" e="lsien; lingwa" i="505" m="language" t="n" />
+<w c="communication" e="ittra" i="506" m="letter" t="n" />
+<w c="communication" e="ittra" i="507" m="letter" t="n" />
+<w c="communication" e="magażżin; rivista" i="508" m="magazine" t="n" />
+<w c="communication" e="posta" i="509" m="mail" t="n" />
+<w c="communication" e="memorja" i="510" m="memory" t="n" />
+<w c="communication" e="memorja" i="511" m="memory" t="n" />
+<w c="communication" e="żball" i="512" m="mistake" t="n" />
+<w c="communication" e="isem" i="513" m="name" t="n" />
+<w c="communication" e="gażżetta; ġurnal" i="514" m="newspaper" t="n" />
+<w c="communication" e="nota" i="515" m="note" t="n" />
+<w c="communication" e="numru" i="516" m="number" t="n" />
+<w c="communication" e="fehma; opinjoni" i="517" m="opinion" t="n" />
+<w c="communication" e="paġna; faċċata" i="518" m="page" t="n" />
+<w c="communication" e="tikka" i="519" m="point" t="n" />
+<w c="communication" e="protesta" i="520" m="protest" t="n" />
+<w c="communication" e="mistoqsija; domanda" i="521" m="question" t="n" />
+<w c="communication" e="reazzjoni" i="522" m="reaction" t="n" />
+<w c="communication" e="relazzjoni" i="523" m="relation" t="n" />
+<w c="communication" e="talba" i="524" m="request" t="n" />
+<w c="communication" e="sigriet" i="525" m="secret" t="n" />
+<w c="communication" e="forma; għamla; sura" i="526" m="shape" t="n" />
+<w c="communication" e="sinjal" i="527" m="sign" t="n" />
+<w c="communication" e="lingwa" i="528" m="speech" t="n" />
+<w c="communication" e="asserzjoni" i="529" m="statement" t="n" />
+<w c="communication" e="tema; suġġett" i="530" m="subject" t="n" />
+<w c="communication" e="suġġeriment" i="531" m="suggestion" t="n" />
+<w c="communication" e="leħen; vuċi" i="532" m="voice" t="n" />
+<w c="communication" e="kelma" i="533" m="word" t="n" />
+<w c="communication" e="kitba" i="534" m="writing" t="n" />
+<w c="conjunction" e="u" i="535" m="and" t="conj" />
+<w c="conjunction" e="jew" i="536" m="or" t="conj" />
+<w c="containers" e="borża" i="537" m="bag" t="n" />
+<w c="containers" e="qoffa; ġewlaq" i="538" m="basket" t="n" />
+<w c="containers" e="flixkun" i="539" m="bottle" t="n" />
+<w c="containers" e="kaxxa" i="540" m="box" t="n" />
+<w c="containers" e="bott; landa" i="541" m="can" t="n" />
+<w c="containers" e="kikkra" i="542" m="cup" t="n" />
+<w c="containers" e="tazza" i="543" m="glass" t="n" />
+<w c="containers" e="platt" i="544" m="plate" t="n" />
+<w c="conversation" e="Ma nafx" i="545" m="I don't know" t="" />
+<w c="conversation" e="ma nifhemx" i="546" m="I don't understand" t="" />
+<w c="conversation" e="saħħa" i="547" m="cheers" t="" />
+<w c="conversation" e="titkellem bl-Ingliż" i="548" m="do you speak English" t="" />
+<w c="conversation" e="il-ġurnata t-tajba" i="549" m="good day" t="" />
+<w c="conversation" e="ix-xorti t-tajba" i="550" m="good luck" t="" />
+<w c="conversation" e="Għeluq Sninek it-Tajjeb" i="551" m="happy birthday" t="" />
+<w c="conversation" e="kif int" i="552" m="how are you" t="" />
+<w c="conversation" e="kemm iqum" i="553" m="how much is it" t="" />
+<w c="conversation" e="grazzi ħafna ħafna" i="554" m="many thanks" t="" />
+<w c="conversation" e="jisimni" i="555" m="my name is" t="" />
+<w c="conversation" e="le" i="556" m="no" t="" />
+<w c="conversation" e="skużi" i="557" m="sorry" t="" />
+<w c="conversation" e="grazzi ħafna" i="558" m="thank you very much" t="" />
+<w c="conversation" e="iva" i="559" m="yes" t="" />
+<w c="conversation" e="m'hemmx għalxiex" i="560" m="you're welcome" t="" />
+<w c="countries" e="Ċina" i="561" m="China" t="n" />
+<w c="countries" e="Repubblika Ċeka" i="562" m="Czech Republic" t="n" />
+<w c="countries" e="Franza" i="563" m="France" t="n" />
+<w c="countries" e="Ġermanja" i="564" m="Germany" t="n" />
+<w c="countries" e="Indja" i="565" m="India" t="n" />
+<w c="countries" e="Italja" i="566" m="Italy" t="n" />
+<w c="countries" e="Ġappun" i="567" m="Japan" t="n" />
+<w c="countries" e="Spanja" i="568" m="Spain" t="n" />
+<w c="countries" e="Renju Unit" i="569" m="United Kingdom" t="n" />
+<w c="countries" e="Stati Uniti" i="570" m="United States" t="n" />
+<w c="devices" e="kamera" i="571" m="camera" t="n" />
+<w c="devices" e="ċellulari" i="572" m="cellphone" t="n" />
+<w c="devices" e="arloġġ" i="573" m="clock" t="n" />
+<w c="devices" e="computer" i="574" m="computer" t="n" />
+<w c="devices" e="lift" i="575" m="elevator" t="n" />
+<w c="devices" e="magna" i="576" m="engine" t="n" />
+<w c="devices" e="strument" i="577" m="instrument" t="n" />
+<w c="devices" e="magna" i="578" m="machine" t="n" />
+<w c="devices" e="forn" i="579" m="oven" t="n" />
+<w c="devices" e="televiżjoni" i="580" m="television" t="n" />
+<w c="devices" e="kamera tat-televison" i="581" m="television camera" t="n" />
+<w c="devices" e="arloġġ" i="582" m="watch" t="n" />
+<w c="drinks" e="birra" i="583" m="beer" t="n" />
+<w c="drinks" e="kafè" i="584" m="coffee" t="n" />
+<w c="drinks" e="xorb; xarba" i="585" m="drink" t="n" />
+<w c="drinks" e="ħalib" i="586" m="milk" t="n" />
+<w c="drinks" e="milkshake" i="587" m="milkshake" t="n" />
+<w c="drinks" e="tè" i="588" m="tea" t="n" />
+<w c="drinks" e="ilma" i="589" m="water" t="n" />
+<w c="drinks" e="mbit; mbid" i="590" m="wine" t="n" />
+<w c="education" e="klassi" i="591" m="class" t="n" />
+<w c="education" e="edukazzjoni" i="592" m="education" t="n" />
+<w c="education" e="tgħalim; edukazzjoni" i="593" m="education" t="n" />
+<w c="education" e="eżami" i="594" m="examination" t="n" />
+<w c="education" e="marka" i="595" m="grade" t="n" />
+<w c="education" e="fehma; konjizzjoni; apprensjoni" i="596" m="knowledge" t="n" />
+<w c="education" e="student" i="597" m="student" t="n" />
+<w c="education" e="għalliem" i="598" m="teacher" t="n" />
+<w c="education" e="taħriġ" i="599" m="training" t="n" />
+<w c="environment" e="atmosfera" i="600" m="atmosphere" t="n" />
+<w c="environment" e="ekoloġija" i="601" m="ecology" t="n" />
+<w c="environment" e="minjiera" i="602" m="mine" t="n" />
+<w c="environment" e="tniġġiż" i="603" m="pollution" t="n" />
+<w c="environment" e="riċiklaġġ" i="604" m="recycling" t="n" />
+<w c="environment" e="żibel; skart" i="605" m="waste" t="n" />
+<w c="family" e="tarbija" i="606" m="baby" t="n" />
+<w c="family" e="twelid" i="607" m="birth" t="n" />
+<w c="family" e="għeluq is-snin" i="608" m="birthday" t="n" />
+<w c="family" e="tifel" i="609" m="boy" t="n" />
+<w c="family" e="ħu" i="610" m="brother" t="n" />
+<w c="family" e="tifel; tifla" i="611" m="child" t="n" />
+<w c="family" e="bint" i="612" m="daughter" t="n" />
+<w c="family" e="mewt" i="613" m="death" t="n" />
+<w c="family" e="familja; razza" i="614" m="family" t="n" />
+<w c="family" e="missier" i="615" m="father" t="n" />
+<w c="family" e="ħabib" i="616" m="friend" t="n" />
+<w c="family" e="tifla; tfajla; xbejba" i="617" m="girl" t="n" />
+<w c="family" e="bniedem" i="618" m="human" t="n" />
+<w c="family" e="raġel" i="619" m="man" t="n" />
+<w c="family" e="omm" i="620" m="mother" t="n" />
+<w c="family" e="persuna; bniedem; bniedma; individwu" i="621" m="person" t="n" />
+<w c="family" e="oħt" i="622" m="sister" t="n" />
+<w c="family" e="iben; tifel" i="623" m="son" t="n" />
+<w c="family" e="żwieġ; tieġ" i="624" m="wedding" t="n" />
+<w c="family" e="mara" i="625" m="woman" t="n" />
+<w c="feelings" e="biża" i="626" m="fear" t="n" />
+<w c="feelings" e="mibgħeda" i="627" m="hate" t="n" />
+<w c="feelings" e="mħabba" i="628" m="love" t="n" />
+<w c="feelings" e="gost; pjaċir" i="629" m="pleasure" t="n" />
+<w c="feelings" e="tama" i="630" m="promise" t="n" />
+<w c="food" e="ħobż" i="631" m="bread" t="n" />
+<w c="food" e="kolazzjon" i="632" m="breakfast" t="n" />
+<w c="food" e="butir" i="633" m="butter" t="n" />
+<w c="food" e="kejk" i="634" m="cake" t="n" />
+<w c="food" e="ġobon" i="635" m="cheese" t="n" />
+<w c="food" e="ċikkulata" i="636" m="chocolate" t="n" />
+<w c="food" e="tazza" i="637" m="cup" t="n" />
+<w c="food" e="bajda" i="638" m="egg" t="n" />
+<w c="food" e="ikel" i="639" m="food" t="n" />
+<w c="food" e="furketta" i="640" m="fork" t="n" />
+<w c="food" e="frotta" i="641" m="fruit" t="n" />
+<w c="food" e="mus; sikina; sikkina" i="642" m="knife" t="n" />
+<w c="food" e="pranzu" i="643" m="lunch" t="n" />
+<w c="food" e="ikla" i="644" m="meal" t="n" />
+<w c="food" e="laħam" i="645" m="meat" t="n" />
+<w c="food" e="żejt" i="646" m="oil" t="n" />
+<w c="food" e="insalata" i="647" m="salad" t="n" />
+<w c="food" e="melħ" i="648" m="salt" t="n" />
+<w c="food" e="sandwiċċ" i="649" m="sandwich" t="n" />
+<w c="food" e="soppa" i="650" m="soup" t="n" />
+<w c="food" e="mgħarfa" i="651" m="spoon" t="n" />
+<w c="food" e="zokkor" i="652" m="sugar" t="n" />
+<w c="food" e="ħlewwa" i="653" m="sweet" t="n" />
+<w c="fruits" e="tuffieha; tuffieħa" i="654" m="apple" t="n" />
+<w c="fruits" e="berquqa" i="655" m="apricot" t="n" />
+<w c="fruits" e="banana" i="656" m="banana" t="n" />
+<w c="fruits" e="tut" i="657" m="blackberry" t="n" />
+<w c="fruits" e="ċirasa" i="658" m="cherry" t="n" />
+<w c="fruits" e="lumija" i="659" m="lemon" t="n" />
+<w c="fruits" e="lewża" i="660" m="nut" t="n" />
+<w c="fruits" e="larinġa" i="661" m="orange" t="n" />
+<w c="fruits" e="ħawħa" i="662" m="peach" t="n" />
+<w c="fruits" e="lanġasa" i="663" m="pear" t="n" />
+<w c="fruits" e="ananas" i="664" m="pineapple" t="n" />
+<w c="fruits" e="għajnbaqra" i="665" m="plum" t="n" />
+<w c="fruits" e="framboża; lampuna" i="666" m="raspberry" t="n" />
+<w c="fruits" e="frawla" i="667" m="strawberry" t="n" />
+<w c="furniture" e="sodda" i="668" m="bed" t="n" />
+<w c="furniture" e="tapit" i="669" m="carpet" t="n" />
+<w c="furniture" e="siġġu" i="670" m="chair" t="n" />
+<w c="furniture" e="armarju" i="671" m="cupboard" t="n" />
+<w c="furniture" e="purtiera" i="672" m="curtain" t="n" />
+<w c="furniture" e="skrivanija" i="673" m="desk" t="n" />
+<w c="furniture" e="kexxun" i="674" m="drawer" t="n" />
+<w c="furniture" e="skaffa; xkaffa" i="675" m="shelf" t="n" />
+<w c="furniture" e="sink; mejjilla" i="676" m="sink" t="n" />
+<w c="furniture" e="mejda" i="677" m="table" t="n" />
+<w c="geography" e="dinja" i="678" m="Earth" t="n" />
+<w c="geography" e="Qamar; qamar" i="679" m="Moon" t="n" />
+<w c="geography" e="xatt il-baħar" i="680" m="beach" t="n" />
+<w c="geography" e="lvant" i="681" m="east" t="n" />
+<w c="geography" e="għolja" i="682" m="hill" t="n" />
+<w c="geography" e="gżira" i="683" m="island" t="n" />
+<w c="geography" e="lag; għadira" i="684" m="lake" t="n" />
+<w c="geography" e="art" i="685" m="land" t="n" />
+<w c="geography" e="mappa" i="686" m="map" t="n" />
+<w c="geography" e="tramuntana" i="687" m="north" t="n" />
+<w c="geography" e="xagħra" i="688" m="plain" t="n" />
+<w c="geography" e="xmara" i="689" m="river" t="n" />
+<w c="geography" e="baħar" i="690" m="sea" t="n" />
+<w c="geography" e="nofsinhar" i="691" m="south" t="n" />
+<w c="geography" e="spazju" i="692" m="space" t="n" />
+<w c="geography" e="stilla; kewba" i="693" m="star" t="n" />
+<w c="geography" e="xemx; Xemx" i="694" m="sun" t="n" />
+<w c="geography" e="punent" i="695" m="west" t="n" />
+<w c="house" e="indirizz" i="696" m="address" t="n" />
+<w c="house" e="kamra tal-banju" i="697" m="bathroom" t="n" />
+<w c="house" e="kamra tas-sodda" i="698" m="bedroom" t="n" />
+<w c="house" e="brikk" i="699" m="brick" t="n" />
+<w c="house" e="bieb" i="700" m="door" t="n" />
+<w c="house" e="art" i="701" m="floor" t="n" />
+<w c="house" e="sular" i="702" m="floor" t="n" />
+<w c="house" e="għamara; biċċa għamara" i="703" m="furniture" t="n" />
+<w c="house" e="garaxx" i="704" m="garage" t="n" />
+<w c="house" e="ġnien" i="705" m="garden" t="n" />
+<w c="house" e="xatba; grada; rixtellu" i="706" m="gate" t="n" />
+<w c="house" e="intrata" i="707" m="hall" t="n" />
+<w c="house" e="dar" i="708" m="home" t="n" />
+<w c="house" e="dar" i="709" m="house" t="n" />
+<w c="house" e="kċina" i="710" m="kitchen" t="n" />
+<w c="house" e="saqaf" i="711" m="roof" t="n" />
+<w c="house" e="kamra" i="712" m="room" t="n" />
+<w c="house" e="doxxa" i="713" m="shower" t="n" />
+<w c="house" e="tarġa" i="714" m="step" t="n" />
+<w c="house" e="latrina" i="715" m="toilet" t="n" />
+<w c="house" e="ħajt" i="716" m="wall" t="n" />
+<w c="house" e="bir; ġibja" i="717" m="well" t="n" />
+<w c="house" e="tieqa" i="718" m="window" t="n" />
+<w c="materials" e="aċtu" i="719" m="acid" t="n" />
+<w c="materials" e="sustanza kimika" i="720" m="chemical" t="n" />
+<w c="materials" e="element kimiku" i="721" m="chemical element" t="n" />
+<w c="materials" e="faħam" i="722" m="coal" t="n" />
+<w c="materials" e="qoton" i="723" m="cotton" t="n" />
+<w c="materials" e="trab; għabra" i="724" m="dust" t="n" />
+<w c="materials" e="art" i="725" m="earth" t="n" />
+<w c="materials" e="xaħam" i="726" m="fat" t="n" />
+<w c="materials" e="ħġieġ" i="727" m="glass" t="n" />
+<w c="materials" e="kolla" i="728" m="glue" t="n" />
+<w c="materials" e="deheb" i="729" m="gold" t="n" />
+<w c="materials" e="farka" i="730" m="grain" t="n" />
+<w c="materials" e="silg; silġ" i="731" m="ice" t="n" />
+<w c="materials" e="linka" i="732" m="ink" t="n" />
+<w c="materials" e="ħadid" i="733" m="iron" t="n" />
+<w c="materials" e="ċomb" i="734" m="lead" t="n" />
+<w c="materials" e="ġilda" i="735" m="leather" t="n" />
+<w c="materials" e="likwidu" i="736" m="liquid" t="n" />
+<w c="materials" e="materja" i="737" m="matter" t="n" />
+<w c="materials" e="metal; element metalliku" i="738" m="metallic element" t="n" />
+<w c="materials" e="pitrolju; żejt" i="739" m="oil" t="n" />
+<w c="materials" e="karta" i="740" m="paper" t="n" />
+<w c="materials" e="velenu; semm" i="741" m="poison" t="n" />
+<w c="materials" e="trab" i="742" m="powder" t="n" />
+<w c="materials" e="ramel" i="743" m="sand" t="n" />
+<w c="materials" e="ħarir" i="744" m="silk" t="n" />
+<w c="materials" e="fidda" i="745" m="silver" t="n" />
+<w c="materials" e="sapuna" i="746" m="soap" t="n" />
+<w c="materials" e="azzar" i="747" m="steel" t="n" />
+<w c="materials" e="injam; għuda" i="748" m="wood" t="n" />
+<w c="materials" e="suf" i="749" m="wool" t="n" />
+<w c="mathematics" e="għadd" i="750" m="addition" t="n" />
+<w c="mathematics" e="anġlu" i="751" m="angle" t="n" />
+<w c="mathematics" e="ċirku" i="752" m="circle" t="n" />
+<w c="mathematics" e="liwja" i="753" m="curve" t="n" />
+<w c="mathematics" e="grad" i="754" m="degree" t="n" />
+<w c="mathematics" e="grad" i="755" m="degree" t="n" />
+<w c="mathematics" e="differenza" i="756" m="difference" t="n" />
+<w c="mathematics" e="bogħod; distanza" i="757" m="distance" t="n" />
+<w c="mathematics" e="qsim; partizzjoni; qasma; partizjoni; segmentazzjoni" i="758" m="division" t="n" />
+<w c="mathematics" e="xifer; tarf" i="759" m="edge" t="n" />
+<w c="mathematics" e="nofs" i="760" m="half" t="n" />
+<w c="mathematics" e="limitu" i="761" m="limit" t="n" />
+<w c="mathematics" e="linja" i="762" m="line" t="n" />
+<w c="mathematics" e="xibka" i="763" m="net" t="n" />
+<w c="mathematics" e="ordni" i="764" m="order" t="n" />
+<w c="mathematics" e="għan; skop" i="765" m="purpose" t="n" />
+<w c="mathematics" e="radiċi" i="766" m="root" t="n" />
+<w c="mathematics" e="regola; regulament" i="767" m="rule" t="n" />
+<w c="mathematics" e="naħa" i="768" m="side" t="n" />
+<w c="mathematics" e="qwadru" i="769" m="square" t="n" />
+<w c="mathematics" e="kwadrat" i="770" m="square" t="n" />
+<w c="mathematics" e="sostituzzjoni" i="771" m="substitution" t="n" />
+<w c="mathematics" e="wiċċ" i="772" m="surface" t="n" />
+<w c="medicine" e="kura; attenzjoni; ħsieb" i="773" m="care" t="n" />
+<w c="medicine" e="riħ" i="774" m="cold" t="n" />
+<w c="medicine" e="sogħla" i="775" m="cough" t="n" />
+<w c="medicine" e="marda" i="776" m="disease" t="n" />
+<w c="medicine" e="tabib" i="777" m="doctor" t="n" />
+<w c="medicine" e="saħħa" i="778" m="health" t="n" />
+<w c="medicine" e="infermiera" i="779" m="nurse" t="n" />
+<w c="medicine" e="operazzjoni" i="780" m="operation" t="n" />
+<w c="medicine" e="uġiegħ" i="781" m="pain" t="n" />
+<w c="medicine" e="pazjent" i="782" m="patient" t="n" />
+<w c="medicine" e="punt" i="783" m="stitch" t="n" />
+<w c="nature" e="arja" i="784" m="air" t="n" />
+<w c="nature" e="annimal; bhima; kreatura" i="785" m="animal" t="n" />
+<w c="nature" e="fergħa" i="786" m="branch" t="n" />
+<w c="nature" e="kurrent" i="787" m="current" t="n" />
+<w c="nature" e="żvilupp; evoluzzjoni" i="788" m="evolution" t="n" />
+<w c="nature" e="razzett" i="789" m="farm" t="n" />
+<w c="nature" e="għalqa" i="790" m="field" t="n" />
+<w c="nature" e="nar; fjamma" i="791" m="fire" t="n" />
+<w c="nature" e="fjura" i="792" m="flower" t="n" />
+<w c="nature" e="ħaxix" i="793" m="grass" t="n" />
+<w c="nature" e="werqa" i="794" m="leaf" t="n" />
+<w c="nature" e="umdità" i="795" m="moisture" t="n" />
+<w c="nature" e="xitla; pjanta" i="796" m="plant" t="n" />
+<w c="nature" e="għerq" i="797" m="root" t="n" />
+<w c="nature" e="sess" i="798" m="sex" t="n" />
+<w c="nature" e="sema" i="799" m="sky" t="n" />
+<w c="nature" e="irqad" i="800" m="sleep" t="n" />
+<w c="nature" e="riħa; rieħa" i="801" m="smell" t="n" />
+<w c="nature" e="duħħan; daħna" i="802" m="smoke" t="n" />
+<w c="nature" e="għajn" i="803" m="spring" t="n" />
+<w c="nature" e="zokk" i="804" m="stem" t="n" />
+<w c="nature" e="kurrent" i="805" m="stream" t="n" />
+<w c="nature" e="siġra" i="806" m="tree" t="n" />
+<w c="nature" e="mewġa" i="807" m="wave" t="n" />
+<w c="nature" e="temp" i="808" m="weather" t="n" />
+<w c="numbers" e="tmienja" i="809" m="eight" t="n" />
+<w c="numbers" e="tmintax" i="810" m="eighteen" t="n" />
+<w c="numbers" e="tmenin" i="811" m="eighty" t="n" />
+<w c="numbers" e="ħadx" i="812" m="eleven" t="n" />
+<w c="numbers" e="ħmistax" i="813" m="fifteen" t="n" />
+<w c="numbers" e="ħamsin" i="814" m="fifty" t="n" />
+<w c="numbers" e="ħamsa" i="815" m="five" t="n" />
+<w c="numbers" e="erbgħin" i="816" m="forty" t="n" />
+<w c="numbers" e="erbgħa" i="817" m="four" t="n" />
+<w c="numbers" e="erbatax" i="818" m="fourteen" t="n" />
+<w c="numbers" e="mija" i="819" m="hundred" t="n" />
+<w c="numbers" e="miljun" i="820" m="million" t="n" />
+<w c="numbers" e="disgħa" i="821" m="nine" t="n" />
+<w c="numbers" e="disgħin" i="822" m="ninety" t="n" />
+<w c="numbers" e="wieħed" i="823" m="one" t="n" />
+<w c="numbers" e="sebgħa" i="824" m="seven" t="n" />
+<w c="numbers" e="sebgħin" i="825" m="seventy" t="n" />
+<w c="numbers" e="sitta" i="826" m="six" t="n" />
+<w c="numbers" e="sittax" i="827" m="sixteen" t="n" />
+<w c="numbers" e="sittin" i="828" m="sixty" t="n" />
+<w c="numbers" e="għaxra" i="829" m="ten" t="n" />
+<w c="numbers" e="tlettax" i="830" m="thirteen" t="n" />
+<w c="numbers" e="tletin" i="831" m="thirty" t="n" />
+<w c="numbers" e="elf" i="832" m="thousand" t="n" />
+<w c="numbers" e="elf" i="833" m="thousand" t="n" />
+<w c="numbers" e="tlieta" i="834" m="three" t="n" />
+<w c="numbers" e="għoxrin" i="835" m="twenty" t="n" />
+<w c="numbers" e="tnejn" i="836" m="two" t="n" />
+<w c="objects" e="ballun" i="837" m="ball" t="n" />
+<w c="objects" e="xafra" i="838" m="blade" t="n" />
+<w c="objects" e="tavla" i="839" m="board" t="n" />
+<w c="objects" e="karta (tal-logħob)" i="840" m="card" t="n" />
+<w c="objects" e="katina" i="841" m="chain" t="n" />
+<w c="objects" e="każin; klabb" i="842" m="club" t="n" />
+<w c="objects" e="bobina; spiral; nokkla; roll; rotlu" i="843" m="coil" t="n" />
+<w c="objects" e="għata; ħeba; ħabi; moħba; għatja" i="844" m="cover" t="n" />
+<w c="objects" e="envelopp" i="845" m="envelope" t="n" />
+<w c="objects" e="rixa" i="846" m="feather" t="n" />
+<w c="objects" e="bandiera" i="847" m="flag" t="n" />
+<w c="objects" e="gwarniċ" i="848" m="frame" t="n" />
+<w c="objects" e="manku; qabda" i="849" m="handle" t="n" />
+<w c="objects" e="skorfina" i="850" m="nut" t="n" />
+<w c="objects" e="labra; kavilja" i="851" m="pin" t="n" />
+<w c="objects" e="pajp" i="852" m="pipe" t="n" />
+<w c="objects" e="rigal" i="853" m="present" t="n" />
+<w c="objects" e="ħabel; ċima" i="854" m="rope" t="n" />
+<w c="objects" e="qlugħ" i="855" m="sail" t="n" />
+<w c="objects" e="żerriegħa" i="856" m="seed" t="n" />
+<w c="objects" e="bolla" i="857" m="stamp" t="n" />
+<w c="objects" e="għasluġ; għuda; zokk" i="858" m="stick" t="n" />
+<w c="objects" e="blata" i="859" m="stone" t="n" />
+<w c="objects" e="biljett" i="860" m="ticket" t="n" />
+<w c="objects" e="rota" i="861" m="wheel" t="n" />
+<w c="objects" e="fildiferru; wajer" i="862" m="wire" t="n" />
+<w c="physics" e="bilanċ" i="863" m="balance" t="n" />
+<w c="physics" e="dawl" i="864" m="light" t="n" />
+<w c="physics" e="massa" i="865" m="mass" t="n" />
+<w c="physics" e="massa; volum" i="866" m="mass" t="n" />
+<w c="physics" e="tiqjis; meżurazzjoni" i="867" m="measurement" t="n" />
+<w c="physics" e="mera" i="868" m="mirror" t="n" />
+<w c="physics" e="ċaqlieq; muviment" i="869" m="movement" t="n" />
+<w c="physics" e="proċess" i="870" m="process" t="n" />
+<w c="physics" e="daqs" i="871" m="size" t="n" />
+<w c="physics" e="ħoss" i="872" m="sound" t="n" />
+<w c="physics" e="fwar; stim" i="873" m="steam" t="n" />
+<w c="physics" e="saħħa; qawwa; forza" i="874" m="strength" t="n" />
+<w c="physics" e="ir-raba dimensjoni; żmien; ħin" i="875" m="time" t="n" />
+<w c="physics" e="unità" i="876" m="unit" t="n" />
+<w c="physics" e="piż; toqol" i="877" m="weight" t="n" />
+<w c="prepositions" e="għal" i="878" m="for" t="prep" />
+<w c="prepositions" e="minn" i="879" m="from" t="prep" />
+<w c="prepositions" e="minn" i="880" m="from" t="prep" />
+<w c="prepositions" e="ta'" i="881" m="of" t="prep" />
+<w c="prepositions" e="lil" i="882" m="to" t="prep" />
+<w c="prepositions" e="ma'" i="883" m="with" t="prep" />
+<w c="prepositions" e="ma'" i="884" m="with" t="prep" />
+<w c="professions" e="attur" i="885" m="actor" t="n" />
+<w c="professions" e="attriċi" i="886" m="actress" t="n" />
+<w c="professions" e="kok" i="887" m="cook" t="n" />
+<w c="professions" e="espert" i="888" m="expert" t="n" />
+<w c="professions" e="ġeneral" i="889" m="general" t="n" />
+<w c="professions" e="mħallef" i="890" m="judge" t="n" />
+<w c="professions" e="mużiċista" i="891" m="musician" t="n" />
+<w c="professions" e="fotografu" i="892" m="photographer" t="n" />
+<w c="professions" e="pilota" i="893" m="pilot" t="n" />
+<w c="professions" e="pulizija; pulizjott" i="894" m="policeman" t="n" />
+<w c="professions" e="repreżentant" i="895" m="representative" t="n" />
+<w c="professions" e="baħri" i="896" m="sailor" t="n" />
+<w c="professions" e="sekretarju; segretarju; segretarja" i="897" m="secretary" t="n" />
+<w c="professions" e="seftur" i="898" m="servant" t="n" />
+<w c="professions" e="suldat" i="899" m="soldier" t="n" />
+<w c="pronouns" e="tagħha" i="900" m="her" t="pron" />
+<w c="pronouns" e="tiegħu" i="901" m="his" t="pron" />
+<w c="pronouns" e="hu" i="902" m="it" t="pron" />
+<w c="pronouns" e="tiegħi" i="903" m="my" t="pron" />
+<w c="pronouns" e="hi" i="904" m="she" t="pron" />
+<w c="pronouns" e="tagħhom" i="905" m="their" t="pron" />
+<w c="pronouns" e="huma" i="906" m="they" t="pron" />
+<w c="pronouns" e="liema" i="907" m="which" t="pron" />
+<w c="pronouns" e="liema" i="908" m="which" t="pron" />
+<w c="pronouns" e="li" i="909" m="who" t="pron" />
+<w c="pronouns" e="intkom" i="910" m="you" t="pron" />
+<w c="relations" e="qalbi; għażiż" i="911" m="dear" t="n" />
+<w c="relations" e="bewsa" i="912" m="kiss" t="n" />
+<w c="relations" e="attivita sesswali; attività sesswali" i="913" m="sex" t="n" />
+<w c="relations" e="tbissima" i="914" m="smile" t="n" />
+<w c="relations" e="sorpiża; qatgħa; ħażda" i="915" m="surprise" t="n" />
+<w c="relations" e="żjara" i="916" m="visit" t="n" />
+<w c="science" e="bijoloġija" i="917" m="biology" t="n" />
+<w c="science" e="kawża" i="918" m="cause" t="n" />
+<w c="science" e="qalba" i="919" m="center" t="n" />
+<w c="science" e="kimika" i="920" m="chemistry" t="n" />
+<w c="science" e="tqabbil; paragun" i="921" m="comparison" t="n" />
+<w c="science" e="konsegwenza; effett; riżultat" i="922" m="consequence" t="n" />
+<w c="science" e="kontroll" i="923" m="control" t="n" />
+<w c="science" e="dixxiplina; suġġett; qasam; kamp" i="924" m="discipline" t="n" />
+<w c="science" e="skoperta; sejba" i="925" m="discovery" t="n" />
+<w c="science" e="ġrajja; avveniment" i="926" m="event" t="n" />
+<w c="science" e="eżempju" i="927" m="example" t="n" />
+<w c="science" e="fatt" i="928" m="fact" t="n" />
+<w c="science" e="invenzjoni; innovazzjoni" i="929" m="invention" t="n" />
+<w c="science" e="fażi" i="930" m="phase" t="n" />
+<w c="science" e="proċedura" i="931" m="procedure" t="n" />
+<w c="science" e="produzzjoni" i="932" m="production" t="n" />
+<w c="science" e="skop; ambitu" i="933" m="range" t="n" />
+<w c="science" e="riċerka; tfittix; stħarriġ" i="934" m="research" t="n" />
+<w c="science" e="xjenza" i="935" m="science" t="n" />
+<w c="science" e="socjeta" i="936" m="society" t="n" />
+<w c="science" e="sistema; skema" i="937" m="system" t="n" />
+<w c="science" e="teknoloġija; inġenerija" i="938" m="technology" t="n" />
+<w c="science" e="teorija" i="939" m="theory" t="n" />
+<w c="science" e="tendenza" i="940" m="trend" t="n" />
+<w c="science" e="inkwiet; problema; gwajj" i="941" m="trouble" t="n" />
+<w c="society" e="armata" i="942" m="army" t="n" />
+<w c="society" e="bażi" i="943" m="base" t="n" />
+<w c="society" e="kumpanija" i="944" m="company" t="n" />
+<w c="society" e="pajjiż; art" i="945" m="country" t="n" />
+<w c="society" e="qorti" i="946" m="court" t="n" />
+<w c="society" e="delitt; offiża kriminali" i="947" m="crime" t="n" />
+<w c="society" e="kultura" i="948" m="culture" t="n" />
+<w c="society" e="ħakma; dominju; poter" i="949" m="dominion" t="n" />
+<w c="society" e="elezzjoni" i="950" m="election" t="n" />
+<w c="society" e="eżistenza" i="951" m="existence" t="n" />
+<w c="society" e="bniedma; mara" i="952" m="female" t="n" />
+<w c="society" e="gvern; awtorità" i="953" m="government" t="n" />
+<w c="society" e="storja" i="954" m="history" t="n" />
+<w c="society" e="re; sultan" i="955" m="king" t="n" />
+<w c="society" e="maskju" i="956" m="male" t="n" />
+<w c="society" e="nazzjon" i="957" m="nation" t="n" />
+<w c="society" e="aħbarijiet" i="958" m="news" t="n" />
+<w c="society" e="storbju" i="959" m="noise" t="n" />
+<w c="society" e="ordni" i="960" m="order" t="n" />
+<w c="society" e="organizzazzjoni" i="961" m="organization" t="n" />
+<w c="society" e="passaport" i="962" m="passport" t="n" />
+<w c="society" e="paċi; sliem" i="963" m="peace" t="n" />
+<w c="society" e="nies" i="964" m="people" t="n" />
+<w c="society" e="populazzjoni" i="965" m="population" t="n" />
+<w c="society" e="publiku" i="966" m="public" t="n" />
+<w c="society" e="kastig; punizzjoni" i="967" m="punishment" t="n" />
+<w c="society" e="reliġjon" i="968" m="religion" t="n" />
+<w c="society" e="reliġjon; fidi" i="969" m="religion" t="n" />
+<w c="society" e="gwerra" i="970" m="war" t="n" />
+<w c="society" e="rieda" i="971" m="will" t="n" />
+<w c="society" e="testment" i="972" m="will" t="n" />
+<w c="sports" e="baseball" i="973" m="baseball" t="n" />
+<w c="sports" e="tarf; destinazzjoni" i="974" m="finish" t="n" />
+<w c="sports" e="futbol" i="975" m="football" t="n" />
+<w c="sports" e="logħoba; partita" i="976" m="game" t="n" />
+<w c="sports" e="gowl" i="977" m="goal" t="n" />
+<w c="sports" e="golf" i="978" m="golf" t="n" />
+<w c="sports" e="partita; logħba" i="979" m="match" t="n" />
+<w c="sports" e="rekord" i="980" m="record" t="n" />
+<w c="sports" e="tennis" i="981" m="tennis" t="n" />
+<w c="sports" e="tefgħa" i="982" m="throw" t="n" />
+<w c="sports" e="rebaħ; rebħa; vittorja" i="983" m="win" t="n" />
+<w c="time" e="April" i="984" m="April" t="n" />
+<w c="time" e="Awwissu" i="985" m="August" t="n" />
+<w c="time" e="Diċembru" i="986" m="December" t="n" />
+<w c="time" e="Frar" i="987" m="February" t="n" />
+<w c="time" e="Jannar" i="988" m="January" t="n" />
+<w c="time" e="Lulju" i="989" m="July" t="n" />
+<w c="time" e="Ġunju" i="990" m="June" t="n" />
+<w c="time" e="Mejju" i="991" m="May" t="n" />
+<w c="time" e="Novembru" i="992" m="November" t="n" />
+<w c="time" e="Ottubru" i="993" m="October" t="n" />
+<w c="time" e="Settembru" i="994" m="September" t="n" />
+<w c="time" e="wara nofsinhar" i="995" m="afternoon" t="n" />
+<w c="time" e="età" i="996" m="age" t="n" />
+<w c="time" e="ħarifa" i="997" m="autumn" t="n" />
+<w c="time" e="bidu" i="998" m="beginning" t="n" />
+<w c="time" e="jum; ġurnata" i="999" m="day" t="n" />
+<w c="time" e="tarf" i="1000" m="end" t="n" />
+<w c="time" e="għaxija; filgħaxija" i="1001" m="evening" t="n" />
+<w c="time" e="futur; gejjini" i="1002" m="future" t="n" />
+<w c="time" e="siegħa" i="1003" m="hour" t="n" />
+<w c="time" e="minuta" i="1004" m="minute" t="n" />
+<w c="time" e="xahar" i="1005" m="month" t="n" />
+<w c="time" e="għodwa; filgħodu" i="1006" m="morning" t="n" />
+<w c="time" e="lejl; dlam" i="1007" m="night" t="n" />
+<w c="time" e="imgħoddi; passat" i="1008" m="past" t="n" />
+<w c="time" e="preżent; issa" i="1009" m="present" t="n" />
+<w c="time" e="sekonda" i="1010" m="second" t="n" />
+<w c="time" e="rebbiegħa" i="1011" m="spring" t="n" />
+<w c="time" e="sajf" i="1012" m="summer" t="n" />
+<w c="time" e="għada" i="1013" m="tomorrow" t="n" />
+<w c="time" e="ġimgħa" i="1014" m="week" t="n" />
+<w c="time" e="waqt; mument" i="1015" m="while" t="n" />
+<w c="time" e="xitwa" i="1016" m="winter" t="n" />
+<w c="time" e="sena" i="1017" m="year" t="n" />
+<w c="tools" e="qampiena" i="1018" m="bell" t="n" />
+<w c="tools" e="xkupilja" i="1019" m="brush" t="n" />
+<w c="tools" e="buttuna" i="1020" m="button" t="n" />
+<w c="tools" e="xkubetta" i="1021" m="gun" t="n" />
+<w c="tools" e="martel; martell" i="1022" m="hammer" t="n" />
+<w c="tools" e="sunnara; ganċ; grampun" i="1023" m="hook" t="n" />
+<w c="tools" e="ċavetta; muftieħ" i="1024" m="key" t="n" />
+<w c="tools" e="lukkett; serratura" i="1025" m="lock" t="n" />
+<w c="tools" e="sulfarina" i="1026" m="match" t="n" />
+<w c="tools" e="musmar" i="1027" m="nail" t="n" />
+<w c="tools" e="labra" i="1028" m="needle" t="n" />
+<w c="tools" e="pinna" i="1029" m="pen" t="n" />
+<w c="tools" e="lapes" i="1030" m="pencil" t="n" />
+<w c="tools" e="pompa" i="1031" m="pump" t="n" />
+<w c="tools" e="mqass" i="1032" m="scissors" t="n" />
+<w c="tools" e="molla" i="1033" m="spring" t="n" />
+<w c="tools" e="bolla" i="1034" m="stamp" t="n" />
+<w c="tools" e="frosta" i="1035" m="whip" t="n" />
+<w c="transport" e="rota" i="1036" m="bike" t="n" />
+<w c="transport" e="dgħajsa" i="1037" m="boat" t="n" />
+<w c="transport" e="karozza tal-linja" i="1038" m="bus" t="n" />
+<w c="transport" e="karozza" i="1039" m="car" t="n" />
+<w c="transport" e="dawra; tgħawiga; tgħawiġa" i="1040" m="curve" t="n" />
+<w c="transport" e="espress" i="1041" m="express" t="n" />
+<w c="transport" e="titjir" i="1042" m="flight" t="n" />
+<w c="transport" e="vjaġġ" i="1043" m="journey" t="n" />
+<w c="transport" e="ajruplan" i="1044" m="plane" t="n" />
+<w c="transport" e="vapur; bastiment" i="1045" m="ship" t="n" />
+<w c="transport" e="żelqa" i="1046" m="skid" t="n" />
+<w c="transport" e="linji" i="1047" m="track" t="n" />
+<w c="transport" e="tren" i="1048" m="train" t="n" />
+<w c="transport" e="trasport" i="1049" m="transport" t="n" />
+<w c="vegetables" e="fażola; fula" i="1050" m="bean" t="n" />
+<w c="vegetables" e="kaboċċa" i="1051" m="cabbage" t="n" />
+<w c="vegetables" e="karrottu; zfunnarija" i="1052" m="carrot" t="n" />
+<w c="vegetables" e="ħjara" i="1053" m="cucumber" t="n" />
+<w c="vegetables" e="tewm" i="1054" m="garlic" t="n" />
+<w c="vegetables" e="żebbuġa" i="1055" m="olive" t="n" />
+<w c="vegetables" e="basla" i="1056" m="onion" t="n" />
+<w c="vegetables" e="piżella" i="1057" m="pea" t="n" />
+<w c="vegetables" e="patata" i="1058" m="potato" t="n" />
+<w c="vegetables" e="ravanella" i="1059" m="radish" t="n" />
+<w c="vegetables" e="ross" i="1060" m="rice" t="n" />
+<w c="vegetables" e="tadama" i="1061" m="tomato" t="n" />
+<w c="verbs" e="agixxa" i="1062" m="act" t="v" />
+<w c="verbs" e="argumenta; irraġuna" i="1063" m="argue" t="v" />
+<w c="verbs" e="attakka" i="1064" m="attack" t="v" />
+<w c="verbs" e="rebaħ (lil); kisser" i="1065" m="beat" t="v" />
+<w c="verbs" e="sar" i="1066" m="become" t="v" />
+<w c="verbs" e="gidem" i="1067" m="bite" t="v" />
+<w c="verbs" e="ħaraq" i="1068" m="burn" t="v" />
+<w c="verbs" e="ċempel" i="1069" m="call" t="v" />
+<w c="verbs" e="impurtah" i="1070" m="care" t="v" />
+<w c="verbs" e="ġar" i="1071" m="carry" t="v" />
+<w c="verbs" e="qabad" i="1072" m="catch" t="v" />
+<w c="verbs" e="giegħel" i="1073" m="cause" t="v" />
+<w c="verbs" e="biddel" i="1074" m="change" t="v" />
+<w c="verbs" e="qassam; ikklassifika" i="1075" m="classify" t="v" />
+<w c="verbs" e="naddaf" i="1076" m="clean" t="v" />
+<w c="verbs" e="ikkontrolla" i="1077" m="control" t="v" />
+<w c="verbs" e="sajjar" i="1078" m="cook" t="v" />
+<w c="verbs" e="ikkopja" i="1079" m="copy" t="v" />
+<w c="verbs" e="sogħol" i="1080" m="cough" t="v" />
+<w c="verbs" e="farrak" i="1081" m="crush" t="v" />
+<w c="verbs" e="għaffeġ" i="1082" m="crush" t="v" />
+<w c="verbs" e="beka'" i="1083" m="cry" t="v" />
+<w c="verbs" e="iddisinja; ippjana" i="1084" m="design" t="v" />
+<w c="verbs" e="ried" i="1085" m="desire" t="v" />
+<w c="verbs" e="fired; qasam" i="1086" m="divide" t="v" />
+<w c="verbs" e="iddubita" i="1087" m="doubt" t="v" />
+<w c="verbs" e="ikkopra; inkluda" i="1088" m="embrace" t="v" />
+<w c="verbs" e="temm; spiċċa" i="1089" m="end" t="v" />
+<w c="verbs" e="stima" i="1090" m="estimate" t="v" />
+<w c="verbs" e="qabeż; eċċedi" i="1091" m="exceed" t="v" />
+<w c="verbs" e="iġġieled" i="1092" m="fight" t="v" />
+<w c="verbs" e="lesta" i="1093" m="finish" t="v" />
+<w c="verbs" e="witta" i="1094" m="flush" t="v" />
+<w c="verbs" e="ħeles; illibera" i="1095" m="free" t="v" />
+<w c="verbs" e="bagħad" i="1096" m="hate" t="v" />
+<w c="verbs" e="żamm" i="1097" m="hold" t="v" />
+<w c="verbs" e="żied" i="1098" m="increase" t="v" />
+<w c="verbs" e="wegga'" i="1099" m="injure" t="v" />
+<w c="verbs" e="introduċa" i="1100" m="introduce" t="v" />
+<w c="verbs" e="għaqqad" i="1101" m="join" t="v" />
+<w c="verbs" e="żamm" i="1102" m="keep" t="v" />
+<w c="verbs" e="ta daqqa ta' sieq" i="1103" m="kick" t="v" />
+<w c="verbs" e="niżel; illandja" i="1104" m="land" t="v" />
+<w c="verbs" e="mexxa; ħa; iggwida" i="1105" m="lead" t="v" />
+<w c="verbs" e="ħalla" i="1106" m="let" t="v" />
+<w c="verbs" e="għolla; tella'" i="1107" m="lift" t="v" />
+<w c="verbs" e="illimita" i="1108" m="limit" t="v" />
+<w c="verbs" e="sakkar; qafel" i="1109" m="lock" t="v" />
+<w c="verbs" e="deher" i="1110" m="look" t="v" />
+<w c="verbs" e="qabel" i="1111" m="match" t="v" />
+<w c="verbs" e="qies; kejl; kejjel" i="1112" m="measure" t="v" />
+<w c="verbs" e="immissja; falla; ma laqatx" i="1113" m="miss" t="v" />
+<w c="verbs" e="semma" i="1114" m="name" t="v" />
+<w c="verbs" e="ordna" i="1115" m="order" t="v" />
+<w c="verbs" e="kellu" i="1116" m="own" t="v" />
+<w c="verbs" e="qaxxar" i="1117" m="peel" t="v" />
+<w c="verbs" e="ħarat" i="1118" m="plow" t="v" />
+<w c="verbs" e="ivvelena" i="1119" m="poison" t="v" />
+<w c="verbs" e="illostra" i="1120" m="polish" t="v" />
+<w c="verbs" e="lesta" i="1121" m="prepare" t="v" />
+<w c="verbs" e="stampa" i="1122" m="print" t="v" />
+<w c="verbs" e="ittratta; ipprocessa" i="1123" m="process" t="v" />
+<w c="verbs" e="qala'" i="1124" m="profit" t="v" />
+<w c="verbs" e="ipprotesta" i="1125" m="protest" t="v" />
+<w c="verbs" e="ordna; irranġa fl-ordni" i="1126" m="rate" t="v" />
+<w c="verbs" e="wasal; laħaq" i="1127" m="reach" t="v" />
+<w c="verbs" e="irrekordja" i="1128" m="record" t="v" />
+<w c="verbs" e="irrifjuta; irrofta; ċaħad" i="1129" m="refuse" t="v" />
+<w c="verbs" e="wieġeb; irrisponda" i="1130" m="reply" t="v" />
+<w c="verbs" e="talab" i="1131" m="request" t="v" />
+<w c="verbs" e="irrispetta; weġġaħ" i="1132" m="respect" t="v" />
+<w c="verbs" e="strieħ" i="1133" m="rest" t="v" />
+<w c="verbs" e="arrotonda" i="1134" m="round off" t="v" />
+<w c="verbs" e="iggverna" i="1135" m="rule" t="v" />
+<w c="verbs" e="salva" i="1136" m="save" t="v" />
+<w c="verbs" e="ra" i="1137" m="see" t="v" />
+<w c="verbs" e="imposta" i="1138" m="send" t="v" />
+<w c="verbs" e="ħit" i="1139" m="sew" t="v" />
+<w c="verbs" e="għajjat; werżaq" i="1140" m="shout" t="v" />
+<w c="verbs" e="kisser" i="1141" m="smash" t="v" />
+<w c="verbs" e="nxtamm" i="1142" m="smell" t="v" />
+<w c="verbs" e="niten" i="1143" m="smell" t="v" />
+<w c="verbs" e="xamm" i="1144" m="smell" t="v" />
+<w c="verbs" e="pejjep" i="1145" m="smoke" t="v" />
+<w c="verbs" e="seraq" i="1146" m="steal" t="v" />
+<w c="verbs" e="waqaf" i="1147" m="stop" t="v" />
+<w c="verbs" e="studja" i="1148" m="study" t="v" />
+<w c="verbs" e="appoġġa" i="1149" m="support" t="v" />
+<w c="verbs" e="skanta" i="1150" m="surprise" t="v" />
+<w c="verbs" e="dam; baqa'" i="1151" m="survive" t="v" />
+<w c="verbs" e="tiegħem" i="1152" m="taste" t="v" />
+<w c="verbs" e="għallem" i="1153" m="teach" t="v" />
+<w c="verbs" e="ipprova; ittestja; eżamina" i="1154" m="test" t="v" />
+<w c="verbs" e="tefa'; xeħet" i="1155" m="throw" t="v" />
+<w c="verbs" e="innegozja" i="1156" m="trade" t="v" />
+<w c="verbs" e="ħarreg; ittrejnja" i="1157" m="train" t="v" />
+<w c="verbs" e="ivvjaġġja" i="1158" m="travel" t="v" />
+<w c="verbs" e="inganna; qarraq bi; ittrikkja" i="1159" m="trick" t="v" />
+<w c="verbs" e="ipprova" i="1160" m="try" t="v" />
+<w c="verbs" e="dar" i="1161" m="turn" t="v" />
+<w c="verbs" e="mexa" i="1162" m="walk" t="v" />
+<w c="verbs" e="saħħan" i="1163" m="warm" t="v" />
+<w c="verbs" e="ħasel" i="1164" m="wash" t="v" />
+<w c="verbs" e="ra" i="1165" m="watch" t="v" />
+<w c="verbs" e="rebaħ" i="1166" m="win" t="v" />
+<w c="verbs" e="kien" i="1167" m="be" t="v" />
+<w c="verbs" e="beda" i="1168" m="begin" t="v" />
+<w c="verbs" e="kisser; farrak; qasam" i="1169" m="break" t="v" />
+<w c="verbs" e="xtara" i="1170" m="buy" t="v" />
+<w c="verbs" e="għalaq" i="1171" m="close" t="v" />
+<w c="verbs" e="ġie" i="1172" m="come" t="v" />
+<w c="verbs" e="qata'" i="1173" m="cut" t="v" />
+<w c="verbs" e="xorob" i="1174" m="drink" t="v" />
+<w c="verbs" e="kiel" i="1175" m="eat" t="v" />
+<w c="verbs" e="waqa'" i="1176" m="fall" t="v" />
+<w c="verbs" e="ħass" i="1177" m="feel" t="v" />
+<w c="verbs" e="sab" i="1178" m="find" t="v" />
+<w c="verbs" e="spara" i="1179" m="fire" t="v" />
+<w c="verbs" e="tar" i="1180" m="fly" t="v" />
+<w c="verbs" e="issegwi" i="1181" m="follow" t="v" />
+<w c="verbs" e="akkwista" i="1182" m="get" t="v" />
+<w c="verbs" e="ta" i="1183" m="give" t="v" />
+<w c="verbs" e="kellu" i="1184" m="have" t="v" />
+<w c="verbs" e="għen" i="1185" m="help" t="v" />
+<w c="verbs" e="ittama" i="1186" m="hope" t="v" />
+<w c="verbs" e="qabeż" i="1187" m="jump" t="v" />
+<w c="verbs" e="bies" i="1188" m="kiss" t="v" />
+<w c="verbs" e="daħaq" i="1189" m="laugh" t="v" />
+<w c="verbs" e="tgħallem" i="1190" m="learn" t="v" />
+<w c="verbs" e="ħabb" i="1191" m="like" t="v" />
+<w c="verbs" e="sema'" i="1192" m="listen" t="v" />
+<w c="verbs" e="ħares" i="1193" m="look" t="v" />
+<w c="verbs" e="ħabb" i="1194" m="love" t="v" />
+<w c="verbs" e="għamel" i="1195" m="make" t="v" />
+<w c="verbs" e="mexxa" i="1196" m="move" t="v" />
+<w c="verbs" e="irrikjieda" i="1197" m="need" t="v" />
+<w c="verbs" e="offra" i="1198" m="offer" t="v" />
+<w c="verbs" e="fetaħ" i="1199" m="open" t="v" />
+<w c="verbs" e="lagħab" i="1200" m="play" t="v" />
+<w c="verbs" e="ġibed" i="1201" m="pull" t="v" />
+<w c="verbs" e="imbotta" i="1202" m="push" t="v" />
+<w c="verbs" e="qiegħed; poġġa" i="1203" m="put" t="v" />
+<w c="verbs" e="taqra" i="1204" m="read" t="v" />
+<w c="verbs" e="ġera" i="1205" m="run" t="v" />
+<w c="verbs" e="qal" i="1206" m="say" t="v" />
+<w c="verbs" e="kanta; għanna" i="1207" m="sing" t="v" />
+<w c="verbs" e="poġġa bil-qegħda" i="1208" m="sit" t="v" />
+<w c="verbs" e="tbissem" i="1209" m="smile" t="v" />
+<w c="verbs" e="għam" i="1210" m="swim" t="v" />
+<w c="verbs" e="ħa" i="1211" m="take" t="v" />
+<w c="verbs" e="qal; tkellem" i="1212" m="talk" t="v" />
+<w c="verbs" e="tifhem" i="1213" m="understand" t="v" />
+<w c="verbs" e="uża" i="1214" m="use" t="v" />
+<w c="verbs" e="kiteb" i="1215" m="write" t="v" />
+<w c="weather" e="sħaba" i="1216" m="cloud" t="n" />
+<w c="weather" e="ġlata" i="1217" m="frost" t="n" />
+<w c="weather" e="berqa" i="1218" m="lightning" t="n" />
+<w c="weather" e="xita" i="1219" m="rain" t="n" />
+<w c="weather" e="qawsalla" i="1220" m="rainbow" t="n" />
+<w c="weather" e="borra" i="1221" m="snow" t="n" />
+<w c="weather" e="tempesta; burraxka" i="1222" m="storm" t="n" />
+<w c="weather" e="ragħad" i="1223" m="thunder" t="n" />
+<w c="weather" e="kurrent; riħ; kurrent ta' l-arja" i="1224" m="wind" t="n" />
+</vocb>

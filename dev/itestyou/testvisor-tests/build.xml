@@ -1,0 +1,129 @@
+<project default="build" basedir=".">
+
+	<property name="src" location="src"/>
+
+	<target name="init">
+		<delete dir="dist" />
+		<mkdir dir="dist" />
+
+		<delete dir="build"/>
+		<mkdir dir="build"/>
+	</target>
+  
+	<target name="compile">
+		<mkdir dir="build/classes" />  
+
+		<path id="classpath">
+			<path location="build/classes" />
+			<fileset dir="lib"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-hmvc/lib"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-hmvc/dist"> 	
+				<include name="**/*.jar"/> 
+			</fileset>			
+			<fileset dir="../testvisor-rpc/dist"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-base/lib"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-base/dist"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-core/lib"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-core/dist"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<fileset dir="../testvisor-lisp/dist"> 	
+				<include name="**/*.jar"/> 
+			</fileset>
+			<path location="../testvisor-api/build/classes" />
+			<path location="../testvisor-test/build/classes" />
+		</path>
+		
+		<javac 
+			srcdir="src"  
+			destdir="build/classes"
+			classpathref="classpath" 
+			debug="on"
+		/>		
+	</target>
+
+	<target name="test">
+		<junit printsummary="true" showoutput="true" failureProperty="test.failure" dir="./"
+			haltonerror="true" haltonfailure="true">
+			<classpath refid="classpath" />
+			<formatter type="brief" usefile="false" />
+			<test name="com.oy.TestSuite" />
+		</junit>
+		<fail message="tests failed" if="test.failure" />
+	</target>
+	
+	<target name="dist">
+		<jar 
+			jarfile="dist/oy-tv-test-1.0.jar" 
+			basedir="build/classes" 
+		/>
+	</target>
+
+	<target name="pre-dist">
+		<tstamp>
+			<format property="touch.time.started" pattern="MM/dd/yyyy hh:mm:ss aa"/>
+		</tstamp>
+		<echo file="dist/manifest.txt" message="Testvisor Tests 1.0" append="false"/>
+		<echo file="dist/manifest.txt" message="Started: ${touch.time.started}" append="true"/>
+	</target>
+
+	<target name="post-dist">
+		<delete dir="build" />
+		<tstamp>  
+			<format property="touch.time.completed" pattern="MM/dd/yyyy hh:mm:ss aa"/>
+		</tstamp>
+		<echo file="dist/manifest.txt"  message="Completed: ${touch.time.completed}" append="true"/>
+	</target>
+
+	<target name="init-data">
+		<java classpathref="classpath" classname="com.oy.TestSuite" />
+	</target>
+	
+	<target name="init-mysql">
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--verbose --user=root --port=10011 --database=ity_local --execute="DELETE FROM oca_object_cache;"' />
+		</exec>
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--verbose --user=root --port=10011 --database=ity_runtime --execute="DELETE FROM uur_unit_rollup_weekly;"' />
+		</exec>
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--verbose --user=root --port=10011 --database=ity_runtime --execute="DELETE FROM uus_unit_rollup_top;"' />
+		</exec>		
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--verbose --user=root --port=10011 --database=ity_runtime --execute="DELETE FROM cpt_checkpoint;"' />
+		</exec>		
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--verbose --user=root --port=10011 --database=ity_runtime --execute="DELETE FROM req_response_queue;"' />
+		</exec>
+		<exec executable="D:/root/testvisor/rtl/mysql_win32-pnp-5.0.27/mysql-5.0.27/bin/mysql" failonerror="true">
+			<arg line='--user=root --port=10011 --database=ity_admin --execute="source sql/unit.sql"' />
+		</exec>
+	</target>
+
+	<target name="official">
+		<antcall target="init" />
+		<antcall target="compile" />
+		<antcall target="init-data" />
+		<antcall target="init-mysql" />
+		<antcall target="test"/>
+		<antcall target="pre-dist" />
+		<antcall target="dist" />
+		<antcall target="post-dist" />
+		<antcall target="init-mysql" />
+	</target>
+
+	<target name="build" depends="official"/>
+
+</project>

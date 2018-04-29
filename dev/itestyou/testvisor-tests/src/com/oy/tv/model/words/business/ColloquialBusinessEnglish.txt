@@ -1,0 +1,878 @@
+<q>A1</q>
+<a>without fault, good in every respect</a>
+
+<q>acid test</q>
+<a>the ultimate test(originally it was a test on metal, to see whether it was gold)</a>
+
+<q>across board</q>
+<a>everywhere; including everything</a>
+
+<q>airy fairy</q>
+<a>unrealistic; not specific</a>
+
+<q>all at sea</q>
+<a>confused; not knowing what is happening</a>
+
+<q>all in</q>
+<a>everything included in a price</a>
+
+<q>at the drop of a hat</q>
+<a>immediately; without hesitation</a>
+
+<q>angel</q>
+<a>individual who funds very young companies - startups</a>
+
+<q>airedale</q>
+<a>slick salesperson</a>
+
+<q>across the board</q>
+<a>encompassing everything in a certain group</a>
+
+<q>a la carte agency</q>
+<a>advertising agency, that provides its services on a piece by piece basis</a>
+
+<q>act of God</q>
+<a>catastrophic event caused by the forces of nature</a>
+
+<q>adhesion contract</q>
+<a>"take it or leave it" agreement</a>
+
+<q>anchor product</q>
+<a>product that accounts for the majority of sales in a company's product line</a>
+
+<q>to ax</q>
+<a>to fire a person; to eliminate a system, function or step</a>
+
+<q>at par</q>
+<a>at a price equal to the face value of a security</a>
+
+<q>back to the drawing board</q>
+<a>to start again from the beginning</a>
+
+<q>babel</q>
+<a>doubletalk</a>
+
+<q>band aid</q>
+<a>quick and dirty temporary solution to a problem</a>
+
+<q>bantam store</q>
+<a>trial store for a franchise</a>
+
+<q>booby trap</q>
+<a>a seemingly good situation that turns bad</a>
+
+<q>beads and trinkets</q>
+<a>when one party in negotiation makes a small concession in return for a major concession</a>
+
+<q>bean counter</q>
+<a>accountant</a>
+
+<q>bear hug</q>
+<a>an offer to buy a company for a substantially higher price than its market value</a>
+
+<q>beat about the bush</q>
+<a>to talk withou saying what is really in your mind</a>
+
+<q>belt and suspenders</q>
+<a>very cautious financiers</a>
+
+<q>big noise</q>
+<a>a person who is a big noise is very important</a>
+
+<q>bench strength</q>
+<a>reserve talent</a>
+
+<q>bozo</q>
+<a>very stupid person, clown</a>
+
+<q>brass</q>
+<a>top management</a>
+
+<q>bricks and mortar</q>
+<a>company's physical plant and facilities</a>
+
+<q>by the book</q>
+<a>in accordance with guidelines</a>
+
+<q>blind alley job</q>
+<a>job without future</a>
+
+<q>blowing your top</q>
+<a>losing your temper</a>
+
+<q>book of words</q>
+<a>instructions; book of rules</a>
+
+<q>not to give a brass farthing</q>
+<a>not caring at all</a>
+
+<q>bring home the bacon</q>
+<a>achieve the desired result</a>
+
+<q>brush off</q>
+<a>When you are given the brush-off means you are not wanted.</a>
+
+<q>by and large</q>
+<a>generally</a>
+
+<q>by hook or by crook</q>
+<a>by one means or another</a>
+
+<q>carry the can</q>
+<a>bear the responsibilitytake the blame</a>
+
+<q>chew over</q>
+<a>discuss</a>
+
+<q>Catch 22</q>
+<a>a no-win situation</a>
+
+<q>cold calling</q>
+<a>unsolicited calls to potential customers in the hope of making a sale</a>
+
+<q>cannibalization</q>
+<a>when increase in sales of a product results in decreased sales of another product of same company</a>
+
+<q>cash cow</q>
+<a>product or brand generating excessive cash</a>
+
+<q>company rag</q>
+<a>internal newsletter published by a company</a>
+
+<q>clamp down</q>
+<a>to reduce expenses</a>
+
+<q>to cream</q>
+<a>to take the best of something</a>
+
+<q>to canvass</q>
+<a>to go door to door selling a product</a>
+
+<q>with a chip on the shoulder</q>
+<a>over-sensitive</a>
+
+<q>she is comfortably off</q>
+<a>she has a plenty of money</a>
+
+<q>cry off</q>
+<a>to cancle something which has been arranged</a>
+
+<q>do away with</q>
+<a>to dispose of something</a>
+
+<q>drop a line</q>
+<a>to send a letter</a>
+
+<q>dog</q>
+<a>product or brand with negative cash flow</a>
+
+<q>dog and pony show</q>
+<a>major presentation about company, especially to a customer</a>
+
+<q>fiddle</q>
+<a>to act dishonestly (eg. with cash or account)</a>
+
+<q>offered for a song</q>
+<a>offered at a very low price</a>
+
+<q>from A to Z</q>
+<a>in great detail</a>
+
+<q>File 13</q>
+<a>waste basket</a>
+
+<q>goldbricking</q>
+<a>where employees hold back their effort</a>
+
+<q>grin fuck</q>
+<a>deliberately vague or dishonest verbal response</a>
+
+<q>gatekeeper</q>
+<a>someone who controls access to an executive</a>
+
+<q>go ballistic</q>
+<a>to lose temper; blow up of a project</a>
+
+<q>golden handcuffs</q>
+<a>financial incentives for key employees</a>
+
+<q>golden parachute</q>
+<a>clause in employment contract with generous severance pay for a senior manager</a>
+
+<q>golden handshake</q>
+<a>generous severance pay for a senior manager, upon termination of employment contract</a>
+
+<q>hard copy</q>
+<a>printout</a>
+
+<q>hatchet man</q>
+<a>manager in charge of closing down operation or negotiating critical situation</a>
+
+<q>hurdle rate</q>
+<a>minimum acceptable rate of return</a>
+
+<q>hush money</q>
+<a>cash given in exchange for silence of the receiving party</a>
+
+<q>to jettison (employees)</q>
+<a>to terminate (employees)</a>
+
+<q>icebreaker</q>
+<a>inoffensive remark or story used to open a presentation or conversation</a>
+
+<q>kickback</q>
+<a>payment made in return for a referral</a>
+
+<q>kill the messenger</q>
+<a>to take action against the bearer of bad news</a>
+
+<q>kudos</q>
+<a>verbal recognition for a job well done</a>
+
+<q>lackey</q>
+<a>person who will do anything to please the boss</a>
+
+<q>lingo</q>
+<a>slang</a>
+
+<q>laundering</q>
+<a>running illegally obtained money through a legitimate business</a>
+
+<q>leapfrog</q>
+<a>to advance</a>
+
+<q>mealy-mouthed</q>
+<a>person unable to get to the point</a>
+
+<q>mint</q>
+<a>unused</a>
+
+<q>mogul</q>
+<a>very powerful individual</a>
+
+<q>mouthpiece</q>
+<a>a politician, lawyer, or corporate spokesperson</a>
+
+<q>movers and shakers</q>
+<a>very important people</a>
+
+<q>mugshot</q>
+<a>head and shoulders photograph of someone</a>
+
+<q>nest egg</q>
+<a>money and financial assets set aside (eg. for retirement)</a>
+
+<q>raider</q>
+<a>someone who attempts to gain control of a company by purchasing its stock</a>
+
+<q>piggybacking</q>
+<a>marketing of products related to one's product lines to optimize effort and increase revenues</a>
+
+<q>push For </q>
+<a>to support an idea</a>
+
+<q>rainmaker</q>
+<a>someone who can make things happen</a>
+
+<q>get away with it</q>
+<a>when someone does something wrong but does not get caught</a>
+
+<q>Rust Belt</q>
+<a>in the U.S., the industrialized Midwest</a>
+
+<q>rogue product</q>
+<a>product that breaks down very often</a>
+
+<q>rollout</q>
+<a>introduction of a new product</a>
+
+<q>round file</q>
+<a>wastebasket</a>
+
+<q>sabbatical</q>
+<a>leave of absence to pursue a personal project</a>
+
+<q>get cracking</q>
+<a>work fast</a>
+
+<q>get into hot water</q>
+<a>get into trouble</a>
+
+<q>get no change out of someone</q>
+<a>they are not being helpful</a>
+
+<q>get wind of</q>
+<a>get to know about</a>
+
+<q>give up the ghost</q>
+<a>to stop trying</a>
+
+<q>go by the book</q>
+<a>to follow the rules strictly</a>
+
+<q>go it alone</q>
+<a>to work on your own</a>
+
+<q>go shares</q>
+<a>each pays own share of the bill</a>
+
+<q>good turn</q>
+<a>a kind act</a>
+
+<q>grit one's teeth</q>
+<a>show determination</a>
+
+<q>guinea pigs</q>
+<a>humans used to test something out</a>
+
+<q>hammer it out</q>
+<a>to keep working until problem is solved</a>
+
+<q>hang-up</q>
+<a>obsession; fear</a>
+
+<q>to hassle someone</q>
+<a>to put someone under pressure</a>
+
+<q>have a bash</q>
+<a>to make an attempt</a>
+
+<q>He has had his chips.</q>
+<a>He is not going to get any more chances.</a>
+
+<q>headache</q>
+<a>a difficult problem</a>
+
+<q>go hell for leather</q>
+<a>to go extremely fast</a>
+
+<q>high and dry</q>
+<a>safe</a>
+
+<q>high-handed</q>
+<a>over-bearing</a>
+
+<q>She hit the roof.</q>
+<a>She seriously lost her temper.</a>
+
+<q>hog the floor</q>
+<a>to not let anyone else speak</a>
+
+<q>hold down a job</q>
+<a>to keep a job and not lose it</a>
+
+<q>Hold your horses.</q>
+<a>Wait!</a>
+
+<q>homework</q>
+<a>you do your homework when you fully investigate a situation</a>
+
+<q>in a nutshell</q>
+<a>briefly and concisely</a>
+
+<q>in clover</q>
+<a>in a very fortunate position</a>
+
+<q>in on something</q>
+<a>being involved in an activity</a>
+
+<q>in the kitty</q>
+<a>savings, cash reserves</a>
+
+<q>in the soup</q>
+<a>in trouble, in difficulty</a>
+
+<q>in the cart</q>
+<a>in trouble, in difficulty</a>
+
+<q>in a jam</q>
+<a>in trouble, in difficulty</a>
+
+<q>jack of all trades</q>
+<a>a person who can do a lot of different kinds of work</a>
+
+<q>jobs for the boys</q>
+<a>good positions in the organisation for one's friends</a>
+
+<q>just as well</q>
+<a>it is good that it happened</a>
+
+<q>keep your head</q>
+<a>stay calm</a>
+
+<q>keep your eyes skinned</q>
+<a>watch carefully</a>
+
+<q>keep on at</q>
+<a>to nag; to insist</a>
+
+<q>leg-pull</q>
+<a>a joke</a>
+
+<q>let the cat out of the bag</q>
+<a>to disclose a secret</a>
+
+<q>let the side down</q>
+<a>to fail to support your colleagues in the firm</a>
+
+<q>light-fingered</q>
+<a>a thief is light-fingered</a>
+
+<q>loaded question</q>
+<a>a question with an ulterior or hidden motive</a>
+
+<q>long in the tooth</q>
+<a>elderly</a>
+
+<q>long-winded</q>
+<a>using more words than necessary to say something</a>
+
+<q>lose face</q>
+<a>lose prestige in the eyes of others</a>
+
+<q>lumbered with</q>
+<a>burdened with; having to do something unpleasant</a>
+
+<q>make both ends meet</q>
+<a>Not to spend more than you earn.(the ends are income and expenditure)</a>
+
+<q>moonlighter</q>
+<a>a person who does two jobs, the second usually in the evening</a>
+
+<q>much of a muchness</q>
+<a>similar</a>
+
+<q>mum's the word</q>
+<a>to keep quiet about it, to say nothing</a>
+
+<q>narrow squeak</q>
+<a>Escaped, but was nearly caught.</a>
+
+<q>nest-egg</q>
+<a>A sum of money put aside for retirement or for an unexpected financial commitment.</a>
+
+<q>to buy on the never-never</q>
+<a>to never finish paying for the goods you buy through hire-purchase</a>
+
+<q>nitty-gritty</q>
+<a>details</a>
+
+<q>off the cuff</q>
+<a>spontaneousremark made without reference to facts</a>
+
+<q>oil a palm</q>
+<a>bribe</a>
+
+<q>grease a palm</q>
+<a>bribe</a>
+
+<q>old hand</q>
+<a>someone with experience</a>
+
+<q>doing on spec</q>
+<a>taking chance, hoping it will be OK</a>
+
+<q>on the carpet</q>
+<a>you are on the carpet when your manager is reprimanding you</a>
+
+<q>on the tip of my tongue</q>
+<a>I cannot think of the word I want</a>
+
+<q>one-upmanship</q>
+<a>doing better than one's colleagues</a>
+
+<q>out of hand</q>
+<a>out of control</a>
+
+<q>out of the frying pan into the fire</q>
+<a>from a bad situation into a worse one</a>
+
+<q>pass the buck</q>
+<a>passing the blame on someone else</a>
+
+<q>pat someone on the back</q>
+<a>give someone praise</a>
+
+<q>pay lip service</q>
+<a>pretend to agree</a>
+
+<q>pick someone's brains</q>
+<a>to obtain information from someone</a>
+
+<q>pigeon holes</q>
+<a>places for letters and messages</a>
+
+<q>plug something</q>
+<a>to keep putting forward your ideas</a>
+
+<q>Point taken.</q>
+<a>I accept your comment as valid.</a>
+
+<q>powers-that-be</q>
+<a>the authorities in control</a>
+
+<q>pull strings</q>
+<a>use your influence</a>
+
+<q>pull out all the stops</q>
+<a>make an all-out effort</a>
+
+<q>pull someone's leg</q>
+<a>to play a joke on them</a>
+
+<q>put someone in the picture</q>
+<a>to give someone information</a>
+
+<q>put someone out</q>
+<a>to cause someone problems</a>
+
+<q>put the cart before the horse</q>
+<a>to see things in reverse</a>
+
+<q>put-up job</q>
+<a>A situation which was worked out previously, deceitfully.</a>
+
+<q>put your foot down</q>
+<a>to insist on being obeyed</a>
+
+<q>quite a few / quite a number</q>
+<a>an amount somewhere between few and many</a>
+
+<q>racket</q>
+<a>an organised scheme for making money illegally</a>
+
+<q>rake-off</q>
+<a>a commission with a hint of deceit</a>
+
+<q>rat-race</q>
+<a>the competitive business world, pitting individual against individual</a>
+
+<q>recap</q>
+<a>to recapitulateto look back at what has happened</a>
+
+<q>a business on the rocks</q>
+<a>collapsing business</a>
+
+<q>through the roof (eg. prices)</q>
+<a>rising rapidly and excessively</a>
+
+<q>run-of-the mil</q>
+<a>ordinary</a>
+
+<q>rusty</q>
+<a>out of practice</a>
+
+<q>sack someone / give them the sack</q>
+<a>dismiss them</a>
+
+<q>send someone packing</q>
+<a>dismiss them</a>
+
+<q>fire someone</q>
+<a>dismiss them</a>
+
+<q>safe as houses</q>
+<a>very safe</a>
+
+<q>sauce / cheek</q>
+<a>It is a sauce or a cheek when someone treats you disrespectfully.</a>
+
+<q>It has saved my bacon.</q>
+<a>It saved me from trouble.</a>
+
+<q>save your breath</q>
+<a>don't waste your time trying to explain</a>
+
+<q>say one's piece</q>
+<a>say what one wants to say</a>
+
+<q>scapegoat</q>
+<a>person who takes the blame for a failure on behalf of an entire group</a>
+
+<q>shark repellent</q>
+<a>corporate activity designed to stop an unwanted takeover</a>
+
+<q>sin tax</q>
+<a>tax levied on products considered vices</a>
+
+<q>Sunbelt</q>
+<a>states in the southern U.S.</a>
+
+<q>to get off scot-free</q>
+<a>to do something wrong without getting punished</a>
+
+<q>scrape the barrel</q>
+<a>to use last/worst resources</a>
+
+<q>scrape through</q>
+<a>to just manage to pass (eg. an examination)</a>
+
+<q>to play a second fiddle</q>
+<a>to play a minor role</a>
+
+<q>sell like hot cakes</q>
+<a>sell quickly and without difficulties</a>
+
+<q>set off on the wrong foot</q>
+<a>start off in the wrong way</a>
+
+<q>set the ball rolling</q>
+<a>to get things started</a>
+
+<q>That company is a shambles.</q>
+<a>That company is in a mess.</a>
+
+<q>shark</q>
+<a>greedy and dishonest businessman</a>
+
+<q>sharp (businessman)</q>
+<a>quick to take advantage of a situation</a>
+
+<q>to shilly-shally</q>
+<a>to be unable to make a decision</a>
+
+<q>to manage on a shoestring</q>
+<a>to manage when income barely meets expenses</a>
+
+<q>shoplifting</q>
+<a>customers stealing from shops</a>
+
+<q>short-sighted</q>
+<a>failing to see what is ahead</a>
+
+<q>show-down</q>
+<a>confrontation</a>
+
+<q>Show a leg !</q>
+<a>Wake up and do some work !</a>
+
+<q>show your paces</q>
+<a>show what you are capable of achieving</a>
+
+<q>sitting duck</q>
+<a>when someone is a sitting duck, they are an easy target for criticism</a>
+
+<q>six of one and half a dozen of the other</q>
+<a>very little differences between the alternatives</a>
+
+<q>to be at sixes and sevens</q>
+<a>to be confused and not know what to do next</a>
+
+<q>skate around a problem</q>
+<a>to avoid facing a problem straightforwardly</a>
+
+<q>slippery customer</q>
+<a>customer unlikely to keep a promise</a>
+
+<q>small beer</q>
+<a>something or someone of little importance</a>
+
+<q>smart alec</q>
+<a>a person who is too clever</a>
+
+<q>snarl-up</q>
+<a>a traffic jam (eg. cars or computers)</a>
+
+<q>soft option</q>
+<a>the less complicated or troublesome alternative</a>
+
+<q>spade work</q>
+<a>preliminary hard work before a project can get started</a>
+
+<q>spiel</q>
+<a>glib talk(from the German spielen = to play)</a>
+
+<q>split the difference (in bargaining)</q>
+<a>coming to the centre of difference between two figures</a>
+
+<q>spot cash</q>
+<a>immediate payment in cash</a>
+
+<q>squash an idea</q>
+<a>to reject it firmly</a>
+
+<q>the price is too steep</q>
+<a>the price is far too high</a>
+
+<q>sticky business</q>
+<a>a difficult and unpleasant problem</a>
+
+<q>sticky wicket / sticky patch</q>
+<a>difficult period</a>
+
+<q>storm in a teacup</q>
+<a>a minor problem being treated as a serious one</a>
+
+<q>tagline</q>
+<a>short slogan used in advertising</a>
+
+<q>making a mountain out of a molehill</q>
+<a>treating minor problem as a serious one</a>
+
+<q>straight from the horse's mouth</q>
+<a>a statement directly from someone in authority</a>
+
+<q>straw that broke the camel's back / the last straw</q>
+<a>too much, to be unable to take any more</a>
+
+<q>stymied</q>
+<a>to cannot reach objectives</a>
+
+<q>suss out</q>
+<a>to investigate thoroughlyto find out the answers to the questions</a>
+
+<q>swallow it hook, line and sinker</q>
+<a>to believe everything that one has been told</a>
+
+<q>It's a sweat.</q>
+<a>It is hard work.</a>
+
+<q>It's no sweat.</q>
+<a>It is not a problem.</a>
+
+<q>swings and roundabouts</q>
+<a>When you invest in a number of different projects, some will be profitable, others will make losses. What you gain on the swings, you will lose on the roundabouts.</a>
+
+<q>swing the lead</q>
+<a>to avoid doing something by making things easy or by making excuses</a>
+
+<q>tail wagging the dog</q>
+<a>when the subordinate makes the decision for the manager</a>
+
+<q>take a back seat</q>
+<a>let the subordinate decide the direction in which we are going</a>
+
+<q>take a knock</q>
+<a>to suffer a setback</a>
+
+<q>take a leaf out of someone's book</q>
+<a>to copy them</a>
+
+<q>take it in one's stride</q>
+<a>to do it without difficulty</a>
+
+<q>take with a pinch of salt</q>
+<a>not to take too seriously</a>
+
+<q>take someone down a peg or two</q>
+<a>deflate someone's ego</a>
+
+<q>take the wind out of his sails</q>
+<a>to make it difficult for someone to do what he intended to do</a>
+
+<q>cutting the ground from under his feet</q>
+<a>making it difficult for someone to do what she intended to do</a>
+
+<q>talk the hind leg off a donkey</q>
+<a>to talk too much</a>
+
+<q>talk out of one's hat</q>
+<a>to talk rubbish</a>
+
+<q>tall order</q>
+<a>order difficult to comply with</a>
+
+<q>tall story</q>
+<a>a story hard to believe</a>
+
+<q>taped</q>
+<a>when you have got someone taped it means you know what they are trying to do</a>
+
+<q>It is my cup of tea.</q>
+<a>I like it.</a>
+
+<q>teach your grandmother how to suck eggs</q>
+<a>to tell an expert how to do something</a>
+
+<q>tear someone off a strip</q>
+<a>to reprimand them severely</a>
+
+<q>tell someone straight</q>
+<a>to tell someone the truth whether or not it hurs them</a>
+
+<q>thank your lucky stars</q>
+<a>when you are very fortunate</a>
+
+<q>thin end of the wedge</q>
+<a>there is much more and worse to come</a>
+
+<q>throw a spanner in the works</q>
+<a>to upset the existing arrangements</a>
+
+<q>throw out the baby with the bath water</q>
+<a>to discard the important things with the trivia</a>
+
+<q>tied up</q>
+<a>not available at the present time</a>
+
+<q>tilt the scales</q>
+<a>a factor which made it possible to reach a desicion</a>
+
+<q>tit for tat</q>
+<a>retaliation</a>
+
+<q>tittle-tattle</q>
+<a>gossip ; idle chatter</a>
+
+<q>top dog</q>
+<a>the person in charge</a>
+
+<q>topsy turvy</q>
+<a>things not as they should be ; things upside down ; confused</a>
+
+<q>tot up</q>
+<a>add up</a>
+
+<q>trashy</q>
+<a>of very poor quality</a>
+
+<q>trump</q>
+<a>put forward your best idea</a>
+
+<q>play your trump card</q>
+<a>put forward your best idea</a>
+
+<q>turn down</q>
+<a>reject</a>
+
+<q>turn over a new leaf</q>
+<a>make a fresh start</a>
+
+<q>turn the heat on</q>
+<a>put pressure on those being investigated</a>
+
+<q>twiddle one's thumbs</q>
+<a>do nothing</a>
+
+<q>two-faced</q>
+<a>a hypocrite</a>
+
+<q>underhand</q>
+<a>devious</a>
+
+<q>up to your eyes in work</q>
+<a>overloaded with work</a>
+
+<q>use your loaf</q>
+<a>use your head</a>
+
+<q>to waffle</q>
+<a>to say or write something which has little or no meaning</a>
+
+<q>a wangle</q>
+<a>a trick</a>
+
+<q>to wangle</q>
+<a>to achieve something by manipulation</a>
+
+<q>wet blanket</q>
+<a>person reducing or dampening our enthusiasm</a>
+
+<q>a whitewash</q>
+<a>a cover up of the truth</a>
+
+<q>windfall</q>
+<a>an unexpected piece of luck</a>
+
+<q>it happened in the year dot</q>
+<a>it happened a long time ago</a>

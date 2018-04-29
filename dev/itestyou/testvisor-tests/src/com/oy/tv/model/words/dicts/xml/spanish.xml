@@ -1,0 +1,1710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Spanish (Espa&#x00F1;ol)">
+<!--generated: Sun Jan 29 02:47:37 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="capacidad; ingenio; poder" i="0" m="ability" t="n" />
+<w c="abstract" e="acción; acto" i="1" m="act" t="n" />
+<w c="abstract" e="acción; acto; hecho" i="2" m="action" t="n" />
+<w c="abstract" e="acción; actividad" i="3" m="activity" t="n" />
+<w c="abstract" e="adición" i="4" m="addition" t="n" />
+<w c="abstract" e="cantidad; cuantía" i="5" m="amount" t="n" />
+<w c="abstract" e="asalto; ataque" i="6" m="attack" t="n" />
+<w c="abstract" e="intento; tentativa; prueba; ensayo; experimento" i="7" m="attempt" t="n" />
+<w c="abstract" e="actitud; disposición; postura" i="8" m="attitude" t="n" />
+<w c="abstract" e="espalda" i="9" m="back" t="n" />
+<w c="abstract" e="comportamiento; conducta" i="10" m="behavior" t="n" />
+<w c="abstract" e="átomo; pedazo; pizca; viruta" i="11" m="bit" t="n" />
+<w c="abstract" e="golpe; impacto" i="12" m="blow" t="n" />
+<w c="abstract" e="descanso; pausa; respiro" i="13" m="break" t="n" />
+<w c="abstract" e="campaña; movimiento" i="14" m="campaign" t="n" />
+<w c="abstract" e="caso" i="15" m="case" t="n" />
+<w c="abstract" e="ocasión; oportunidad" i="16" m="chance" t="n" />
+<w c="abstract" e="alteración; cambio; modificación; variación" i="17" m="change" t="n" />
+<w c="abstract" e="elección; selección; decisión" i="18" m="choice" t="n" />
+<w c="abstract" e="condición; situación" i="19" m="condition" t="n" />
+<w c="abstract" e="conexión" i="20" m="connection" t="n" />
+<w c="abstract" e="conexión" i="21" m="connection" t="n" />
+<w c="abstract" e="grieta" i="22" m="crack" t="n" />
+<w c="abstract" e="estrujamiento" i="23" m="crush" t="n" />
+<w c="abstract" e="corte; tajo" i="24" m="cut" t="n" />
+<w c="abstract" e="daño; perjuicio; siniestro; deterioro" i="25" m="damage" t="n" />
+<w c="abstract" e="peligro; riesgo" i="26" m="danger" t="n" />
+<w c="abstract" e="desaparición; muerte; tránsito" i="27" m="death" t="n" />
+<w c="abstract" e="adorno; decoración" i="28" m="decoration" t="n" />
+<w c="abstract" e="defensa; guardia" i="29" m="defense" t="n" />
+<w c="abstract" e="destrucción" i="30" m="destruction" t="n" />
+<w c="abstract" e="elemento" i="31" m="detail" t="n" />
+<w c="abstract" e="dominación; dominio; sometimiento; sumisión" i="32" m="dominance" t="n" />
+<w c="abstract" e="gota" i="33" m="drop" t="n" />
+<w c="abstract" e="deber" i="34" m="duty" t="n" />
+<w c="abstract" e="afán; dedicación; esfuerzo; agotamiento" i="35" m="effort" t="n" />
+<w c="abstract" e="caída" i="36" m="fall" t="n" />
+<w c="abstract" e="característica; rasgo" i="37" m="feature" t="n" />
+<w c="abstract" e="combate; lucha" i="38" m="fight" t="n" />
+<w c="abstract" e="delantera" i="39" m="front" t="n" />
+<w c="abstract" e="altitud; altura; elevación" i="40" m="height" t="n" />
+<w c="abstract" e="golpe" i="41" m="hit" t="n" />
+<w c="abstract" e="agujero; cavidad; hueco" i="42" m="hole" t="n" />
+<w c="abstract" e="incremento; aumento; alza" i="43" m="increase" t="n" />
+<w c="abstract" e="aumento; crecimiento; incremento; multiplicación" i="44" m="increase" t="n" />
+<w c="abstract" e="internet" i="45" m="internet" t="n" />
+<w c="abstract" e="choque; sacudida" i="46" m="jolt" t="n" />
+<w c="abstract" e="salto" i="47" m="jump" t="n" />
+<w c="abstract" e="patada" i="48" m="kick" t="n" />
+<w c="abstract" e="clase; tipo" i="49" m="kind" t="n" />
+<w c="abstract" e="lazo; nudo" i="50" m="knot" t="n" />
+<w c="abstract" e="lista; repertorio" i="51" m="list" t="n" />
+<w c="abstract" e="mayoría" i="52" m="majority" t="n" />
+<w c="abstract" e="estilo; forma; método; sistema; procedimiento" i="53" m="manner" t="n" />
+<w c="abstract" e="asunto; cosa" i="54" m="matter" t="n" />
+<w c="abstract" e="camino; forma; manera; modo" i="55" m="means" t="n" />
+<w c="abstract" e="cabeza; cerebro; mente; ánimo" i="56" m="mind" t="n" />
+<w c="abstract" e="funcionamiento" i="57" m="operation" t="n" />
+<w c="abstract" e="contrario" i="58" m="opposite" t="n" />
+<w c="abstract" e="estallido; ruptura" i="59" m="outburst" t="n" />
+<w c="abstract" e="componente; parte" i="60" m="part" t="n" />
+<w c="abstract" e="parte; porcentaje" i="61" m="part" t="n" />
+<w c="abstract" e="personalidad" i="62" m="personality" t="n" />
+<w c="abstract" e="pedazo; trozo" i="63" m="piece" t="n" />
+<w c="abstract" e="lugar; sitio" i="64" m="place" t="n" />
+<w c="abstract" e="lugar; puesto; sitio" i="65" m="position" t="n" />
+<w c="abstract" e="energía" i="66" m="power" t="n" />
+<w c="abstract" e="práctica" i="67" m="practice" t="n" />
+<w c="abstract" e="proyecto; tarea; contrata" i="68" m="project" t="n" />
+<w c="abstract" e="propiedad" i="69" m="property" t="n" />
+<w c="abstract" e="calidad; cualidad" i="70" m="quality" t="n" />
+<w c="abstract" e="serenidad; sosiego; tranquilidad; calma; dulzura" i="71" m="quiet" t="n" />
+<w c="abstract" e="alcance" i="72" m="reach" t="n" />
+<w c="abstract" e="estudio; informe; memoria" i="73" m="report" t="n" />
+<w c="abstract" e="responsabilidad; deber" i="74" m="responsibility" t="n" />
+<w c="abstract" e="descansar" i="75" m="rest" t="n" />
+<w c="abstract" e="regreso; vuelta; retorno" i="76" m="return" t="n" />
+<w c="abstract" e="ascensión; ascenso; subida" i="77" m="rise" t="n" />
+<w c="abstract" e="peligro; riesgo; azar" i="78" m="risk" t="n" />
+<w c="abstract" e="asiento; localidad; plaza" i="79" m="seat" t="n" />
+<w c="abstract" e="serie" i="80" m="serial" t="n" />
+<w c="abstract" e="conjunto; juego" i="81" m="set" t="n" />
+<w c="abstract" e="temblor; escalofríos" i="82" m="shake" t="n" />
+<w c="abstract" e="choque" i="83" m="shock" t="n" />
+<w c="abstract" e="silencio; discreción; mordaza; reserva" i="84" m="silence" t="n" />
+<w c="abstract" e="situación" i="85" m="situation" t="n" />
+<w c="abstract" e="trozo" i="86" m="slice" t="n" />
+<w c="abstract" e="estado" i="87" m="state" t="n" />
+<w c="abstract" e="paso; desplazamiento" i="88" m="step" t="n" />
+<w c="abstract" e="parada" i="89" m="stop" t="n" />
+<w c="abstract" e="gusto" i="90" m="taste" t="n" />
+<w c="abstract" e="cosa" i="91" m="thing" t="n" />
+<w c="abstract" e="auge; cima; pico" i="92" m="top" t="n" />
+<w c="abstract" e="toque" i="93" m="touch" t="n" />
+<w c="abstract" e="tratamiento; trato" i="94" m="treatment" t="n" />
+<w c="abstract" e="trampa" i="95" m="trick" t="n" />
+<w c="abstract" e="tipo" i="96" m="type" t="n" />
+<w c="abstract" e="empleo; uso; utilización" i="97" m="use" t="n" />
+<w c="abstract" e="desgaste" i="98" m="wear" t="n" />
+<w c="abstract" e="todo; totalidad" i="99" m="whole" t="n" />
+<w c="abstract" e="voluntad" i="100" m="will" t="n" />
+<w c="abstract" e="deseo; anhelo" i="101" m="wish" t="n" />
+<w c="adjectives" e="ácido" i="102" m="acid" t="adj" />
+<w c="adjectives" e="acerca de" i="103" m="after" t="adj" />
+<w c="adjectives" e="hace" i="104" m="ago" t="adj" />
+<w c="adjectives" e="todo" i="105" m="all" t="adj" />
+<w c="adjectives" e="cualquier" i="106" m="any" t="adj" />
+<w c="adjectives" e="automático" i="107" m="automatic" t="adj" />
+<w c="adjectives" e="disponible" i="108" m="available" t="adj" />
+<w c="adjectives" e="amargo" i="109" m="bitter" t="adj" />
+<w c="adjectives" e="gris; aburridor" i="110" m="boring" t="adj" />
+<w c="adjectives" e="ambos" i="111" m="both" t="adj" />
+<w c="adjectives" e="brillante; vivo" i="112" m="bright" t="adj" />
+<w c="adjectives" e="roto" i="113" m="broken" t="adj" />
+<w c="adjectives" e="central" i="114" m="central" t="adj" />
+<w c="adjectives" e="seguro; cierto" i="115" m="certain" t="adj" />
+<w c="adjectives" e="barato" i="116" m="cheap" t="adj" />
+<w c="adjectives" e="químico" i="117" m="chemical" t="adj" />
+<w c="adjectives" e="claro" i="118" m="clear" t="adj" />
+<w c="adjectives" e="cerrado" i="119" m="closed" t="adj" />
+<w c="adjectives" e="de color; en colores; colores" i="120" m="color" t="adj" />
+<w c="adjectives" e="común" i="121" m="common" t="adj" />
+<w c="adjectives" e="común; mutuo; corriente; ordinario; general" i="122" m="common" t="adj" />
+<w c="adjectives" e="completo" i="123" m="complete" t="adj" />
+<w c="adjectives" e="consciente" i="124" m="conscious" t="adj" />
+<w c="adjectives" e="atroz; bárbaro; brutal; cruel; salvaje" i="125" m="cruel" t="adj" />
+<w c="adjectives" e="vigente" i="126" m="current" t="adj" />
+<w c="adjectives" e="quisquilloso" i="127" m="dainty" t="adj" />
+<w c="adjectives" e="peligroso" i="128" m="dangerous" t="adj" />
+<w c="adjectives" e="delicado" i="129" m="delicate" t="adj" />
+<w c="adjectives" e="diferente" i="130" m="different" t="adj" />
+<w c="adjectives" e="diferente; distinto" i="131" m="different" t="adj" />
+<w c="adjectives" e="diferente; distinto" i="132" m="different" t="adj" />
+<w c="adjectives" e="abajo; debajo" i="133" m="down" t="adj" />
+<w c="adjectives" e="seco" i="134" m="dry" t="adj" />
+<w c="adjectives" e="cada" i="135" m="each" t="adj" />
+<w c="adjectives" e="temprano" i="136" m="early" t="adj" />
+<w c="adjectives" e="fácil" i="137" m="easy" t="adj" />
+<w c="adjectives" e="económico" i="138" m="economic" t="adj" />
+<w c="adjectives" e="económico" i="139" m="economic" t="adj" />
+<w c="adjectives" e="eléctrico" i="140" m="electric" t="adj" />
+<w c="adjectives" e="igual" i="141" m="equal" t="adj" />
+<w c="adjectives" e="par" i="142" m="even" t="adj" />
+<w c="adjectives" e="nivelado" i="143" m="even" t="adj" />
+<w c="adjectives" e="cada" i="144" m="every" t="adj" />
+<w c="adjectives" e="excelente; magnífico" i="145" m="excellent" t="adj" />
+<w c="adjectives" e="artificial; falso" i="146" m="fake" t="adj" />
+<w c="adjectives" e="falso" i="147" m="false" t="adj" />
+<w c="adjectives" e="distante; lejano; remoto" i="148" m="far" t="adj" />
+<w c="adjectives" e="gordo" i="149" m="fat" t="adj" />
+<w c="adjectives" e="gordo" i="150" m="fat" t="adj" />
+<w c="adjectives" e="pocos" i="151" m="few" t="adj" />
+<w c="adjectives" e="final; último" i="152" m="final" t="adj" />
+<w c="adjectives" e="fiscal; financiero" i="153" m="financial" t="adj" />
+<w c="adjectives" e="consistente; firme; sólido; robusto; estable" i="154" m="firm" t="adj" />
+<w c="adjectives" e="primero" i="155" m="first" t="adj" />
+<w c="adjectives" e="fijo" i="156" m="fixed" t="adj" />
+<w c="adjectives" e="liso; llano; plano" i="157" m="flat" t="adj" />
+<w c="adjectives" e="siguiente; próximo" i="158" m="following" t="adj" />
+<w c="adjectives" e="extranjero; extraño; forastero" i="159" m="foreign" t="adj" />
+<w c="adjectives" e="antiguo; anterior" i="160" m="former" t="adj" />
+<w c="adjectives" e="delicado; frágil" i="161" m="fragile" t="adj" />
+<w c="adjectives" e="gratuito" i="162" m="free" t="adj" />
+<w c="adjectives" e="habitual" i="163" m="frequent" t="adj" />
+<w c="adjectives" e="fresco; helado; refrescante" i="164" m="fresh" t="adj" />
+<w c="adjectives" e="delantero" i="165" m="front" t="adj" />
+<w c="adjectives" e="lleno" i="166" m="full" t="adj" />
+<w c="adjectives" e="absoluto; completo; perfecto; total" i="167" m="full" t="adj" />
+<w c="adjectives" e="más" i="168" m="further" t="adj" />
+<w c="adjectives" e="futuro" i="169" m="future" t="adj" />
+<w c="adjectives" e="general" i="170" m="general" t="adj" />
+<w c="adjectives" e="justo; recto" i="171" m="good" t="adj" />
+<w c="adjectives" e="industrial" i="172" m="industrial" t="adj" />
+<w c="adjectives" e="interesante" i="173" m="interesting" t="adj" />
+<w c="adjectives" e="internacional" i="174" m="international" t="adj" />
+<w c="adjectives" e="último" i="175" m="last" t="adj" />
+<w c="adjectives" e="tardío; pausado; lento" i="176" m="late" t="adj" />
+<w c="adjectives" e="legal; oficial" i="177" m="legal" t="adj" />
+<w c="adjectives" e="dietético" i="178" m="light" t="adj" />
+<w c="adjectives" e="líquido" i="179" m="liquid" t="adj" />
+<w c="adjectives" e="local" i="180" m="local" t="adj" />
+<w c="adjectives" e="fuerte" i="181" m="loud" t="adj" />
+<w c="adjectives" e="bajo" i="182" m="low" t="adj" />
+<w c="adjectives" e="afortunado" i="183" m="lucky" t="adj" />
+<w c="adjectives" e="primordial; principal; mayor" i="184" m="main" t="adj" />
+<w c="adjectives" e="principal" i="185" m="major" t="adj" />
+<w c="adjectives" e="muchos" i="186" m="many" t="adj" />
+<w c="adjectives" e="metálico" i="187" m="metal" t="adj" />
+<w c="adjectives" e="militar" i="188" m="military" t="adj" />
+<w c="adjectives" e="diminuto" i="189" m="minute" t="adj" />
+<w c="adjectives" e="moderno" i="190" m="modern" t="adj" />
+<w c="adjectives" e="más" i="191" m="more" t="adj" />
+<w c="adjectives" e="mucho" i="192" m="much" t="adj" />
+<w c="adjectives" e="estrecho" i="193" m="narrow" t="adj" />
+<w c="adjectives" e="nacional" i="194" m="national" t="adj" />
+<w c="adjectives" e="natural" i="195" m="natural" t="adj" />
+<w c="adjectives" e="necesario" i="196" m="necessary" t="adj" />
+<w c="adjectives" e="inmediato" i="197" m="next" t="adj" />
+<w c="adjectives" e="ningún" i="198" m="no" t="adj" />
+<w c="adjectives" e="común; corriente; normal" i="199" m="normal" t="adj" />
+<w c="adjectives" e="desconectado; desenchufado; apagado" i="200" m="off" t="adj" />
+<w c="adjectives" e="en funcionamiento; en operación; conectado; enchufado; encendido" i="201" m="on" t="adj" />
+<w c="adjectives" e="contrario" i="202" m="opposite" t="adj" />
+<w c="adjectives" e="original" i="203" m="original" t="adj" />
+<w c="adjectives" e="otro" i="204" m="other" t="adj" />
+<w c="adjectives" e="propio" i="205" m="own" t="adj" />
+<w c="adjectives" e="paralelo" i="206" m="parallel" t="adj" />
+<w c="adjectives" e="particular" i="207" m="particular" t="adj" />
+<w c="adjectives" e="pasado" i="208" m="past" t="adj" />
+<w c="adjectives" e="individual; particular; personal" i="209" m="personal" t="adj" />
+<w c="adjectives" e="físico" i="210" m="physical" t="adj" />
+<w c="adjectives" e="político" i="211" m="political" t="adj" />
+<w c="adjectives" e="miserable; pobre; triste; indefenso" i="212" m="poor" t="adj" />
+<w c="adjectives" e="popular" i="213" m="popular" t="adj" />
+<w c="adjectives" e="posible; realizable" i="214" m="possible" t="adj" />
+<w c="adjectives" e="actual; presente; ofrenda" i="215" m="present" t="adj" />
+<w c="adjectives" e="anterior" i="216" m="previous" t="adj" />
+<w c="adjectives" e="personal; particular" i="217" m="private" t="adj" />
+<w c="adjectives" e="posible; probable; eventual" i="218" m="probable" t="adj" />
+<w c="adjectives" e="profesional" i="219" m="professional" t="adj" />
+<w c="adjectives" e="público" i="220" m="public" t="adj" />
+<w c="adjectives" e="silencioso" i="221" m="quiet" t="adj" />
+<w c="adjectives" e="listo" i="222" m="ready" t="adj" />
+<w c="adjectives" e="reciente" i="223" m="recent" t="adj" />
+<w c="adjectives" e="regular" i="224" m="regular" t="adj" />
+<w c="adjectives" e="responsable" i="225" m="responsible" t="adj" />
+<w c="adjectives" e="apropiado; correcto" i="226" m="right" t="adj" />
+<w c="adjectives" e="rígido; tieso" i="227" m="rigid" t="adj" />
+<w c="adjectives" e="áspero" i="228" m="rough" t="adj" />
+<w c="adjectives" e="redondo" i="229" m="round" t="adj" />
+<w c="adjectives" e="lamentable; penoso; triste" i="230" m="sad" t="adj" />
+<w c="adjectives" e="seguro" i="231" m="safe" t="adj" />
+<w c="adjectives" e="mismo" i="232" m="same" t="adj" />
+<w c="adjectives" e="segundo" i="233" m="second" t="adj" />
+<w c="adjectives" e="oculto; secreto" i="234" m="secret" t="adj" />
+<w c="adjectives" e="separado" i="235" m="separate" t="adj" />
+<w c="adjectives" e="serio" i="236" m="serious" t="adj" />
+<w c="adjectives" e="determinado" i="237" m="set" t="adj" />
+<w c="adjectives" e="varios" i="238" m="several" t="adj" />
+<w c="adjectives" e="corto; breve" i="239" m="short" t="adj" />
+<w c="adjectives" e="silencioso; callado" i="240" m="silent" t="adj" />
+<w c="adjectives" e="plata; argento; color plateado" i="241" m="silver" t="adj" />
+<w c="adjectives" e="elemental; simple" i="242" m="simple" t="adj" />
+<w c="adjectives" e="solo" i="243" m="single" t="adj" />
+<w c="adjectives" e="menudo; pequeño; chico; breve; escaso; poco" i="244" m="small" t="adj" />
+<w c="adjectives" e="liso; llano; suave" i="245" m="smooth" t="adj" />
+<w c="adjectives" e="social" i="246" m="social" t="adj" />
+<w c="adjectives" e="sólido" i="247" m="solid" t="adj" />
+<w c="adjectives" e="claro; disperso" i="248" m="sparse" t="adj" />
+<w c="adjectives" e="especial; excepcional; particular; singular" i="249" m="special" t="adj" />
+<w c="adjectives" e="específico" i="250" m="specific" t="adj" />
+<w c="adjectives" e="cuadrado; cuadro" i="251" m="square" t="adj" />
+<w c="adjectives" e="estándar" i="252" m="standard" t="adj" />
+<w c="adjectives" e="glutinoso" i="253" m="sticky" t="adj" />
+<w c="adjectives" e="recto; derecho; vertical; perpendicular; directo" i="254" m="straight" t="adj" />
+<w c="adjectives" e="insólito" i="255" m="strange" t="adj" />
+<w c="adjectives" e="elegante" i="256" m="stylish" t="adj" />
+<w c="adjectives" e="repentino" i="257" m="sudden" t="adj" />
+<w c="adjectives" e="dulce; pastel" i="258" m="sweet" t="adj" />
+<w c="adjectives" e="alto" i="259" m="tall" t="adj" />
+<w c="adjectives" e="espeso" i="260" m="thick" t="adj" />
+<w c="adjectives" e="delgado" i="261" m="thin" t="adj" />
+<w c="adjectives" e="apretado" i="262" m="tight" t="adj" />
+<w c="adjectives" e="verdadero" i="263" m="true" t="adj" />
+<w c="adjectives" e="desagradable; horrible" i="264" m="ugly" t="adj" />
+<w c="adjectives" e="bajo; inferior" i="265" m="under" t="adj" />
+<w c="adjectives" e="excepcional; extraordinario; insólito" i="266" m="unusual" t="adj" />
+<w c="adjectives" e="empleado" i="267" m="used" t="adj" />
+<w c="adjectives" e="útil; aprovechable; conveniente; de provecho; práctico; provechoso; usable" i="268" m="useful" t="adj" />
+<w c="adjectives" e="común; habitual; normal; usual" i="269" m="usual" t="adj" />
+<w c="adjectives" e="corriente" i="270" m="usual" t="adj" />
+<w c="adjectives" e="diverso; vario" i="271" m="various" t="adj" />
+<w c="adjectives" e="cálido" i="272" m="warm" t="adj" />
+<w c="adjectives" e="húmedo" i="273" m="wet" t="adj" />
+<w c="adjectives" e="entero" i="274" m="whole" t="adj" />
+<w c="adjectives" e="amplio; ancho" i="275" m="wide" t="adj" />
+<w c="adjectives" e="diferente; distinto" i="276" m="another" t="adj" />
+<w c="adjectives" e="malo" i="277" m="bad" t="adj" />
+<w c="adjectives" e="básico; basilar" i="278" m="basic" t="adj" />
+<w c="adjectives" e="bello; bonito; hermoso; precioso; espléndido" i="279" m="beautiful" t="adj" />
+<w c="adjectives" e="mejor" i="280" m="best" t="adj" />
+<w c="adjectives" e="mejor" i="281" m="better" t="adj" />
+<w c="adjectives" e="gran; grande; voluminoso" i="282" m="big" t="adj" />
+<w c="adjectives" e="limpio; nítido; pobre" i="283" m="clean" t="adj" />
+<w c="adjectives" e="frío; helado" i="284" m="cold" t="adj" />
+<w c="adjectives" e="acertado; correcto" i="285" m="correct" t="adj" />
+<w c="adjectives" e="oscuro; sombrío; misterioso" i="286" m="dark" t="adj" />
+<w c="adjectives" e="profundo; ahuecado; grave; hondo; abstruso; intenso" i="287" m="deep" t="adj" />
+<w c="adjectives" e="difícil; duro; espinoso" i="288" m="difficult" t="adj" />
+<w c="adjectives" e="sucio; asqueroso" i="289" m="dirty" t="adj" />
+<w c="adjectives" e="rápido; veloz" i="290" m="fast" t="adj" />
+<w c="adjectives" e="bueno" i="291" m="good" t="adj" />
+<w c="adjectives" e="grande; vasto" i="292" m="great" t="adj" />
+<w c="adjectives" e="bárbaro; brutal; genial" i="293" m="great" t="adj" />
+<w c="adjectives" e="contento; feliz; alegre" i="294" m="happy" t="adj" />
+<w c="adjectives" e="sano" i="295" m="healthy" t="adj" />
+<w c="adjectives" e="pesado" i="296" m="heavy" t="adj" />
+<w c="adjectives" e="alto" i="297" m="high" t="adj" />
+<w c="adjectives" e="acalorado" i="298" m="hot" t="adj" />
+<w c="adjectives" e="importante" i="299" m="important" t="adj" />
+<w c="adjectives" e="izquierdo" i="300" m="left" t="adj" />
+<w c="adjectives" e="ligero; ágil; leve" i="301" m="light" t="adj" />
+<w c="adjectives" e="insignificante; pequeño; trivial" i="302" m="little" t="adj" />
+<w c="adjectives" e="extenso; largo" i="303" m="long" t="adj" />
+<w c="adjectives" e="cercano" i="304" m="near" t="adj" />
+<w c="adjectives" e="nuevo" i="305" m="new" t="adj" />
+<w c="adjectives" e="agradable; bonito; simpático" i="306" m="nice" t="adj" />
+<w c="adjectives" e="abierto" i="307" m="open" t="adj" />
+<w c="adjectives" e="existente; real" i="308" m="real" t="adj" />
+<w c="adjectives" e="derecho" i="309" m="right" t="adj" />
+<w c="adjectives" e="agudo; afilado; cortante" i="310" m="sharp" t="adj" />
+<w c="adjectives" e="parecido; semejante; similar" i="311" m="similar" t="adj" />
+<w c="adjectives" e="lento" i="312" m="slow" t="adj" />
+<w c="adjectives" e="blando; muelle" i="313" m="soft" t="adj" />
+<w c="adjectives" e="fuerte" i="314" m="strong" t="adj" />
+<w c="adjectives" e="débil" i="315" m="weak" t="adj" />
+<w c="adjectives" e="incorrecto; erróneo" i="316" m="wrong" t="adj" />
+<w c="adjective" e="capaz" i="317" m="able" t="adj" />
+<w c="adjective" e="vivo" i="318" m="alive" t="adj" />
+<w c="adjective" e="solitario" i="319" m="alone" t="adj" />
+<w c="adjective" e="airado" i="320" m="angry" t="adj" />
+<w c="adjective" e="despierto" i="321" m="awake" t="adj" />
+<w c="adjective" e="muerto; difunto" i="322" m="dead" t="adj" />
+<w c="adjective" e="femenino" i="323" m="female" t="adj" />
+<w c="adjective" e="libre; independiente" i="324" m="free" t="adj" />
+<w c="adjective" e="amistoso; amigable" i="325" m="friendly" t="adj" />
+<w c="adjective" e="sano" i="326" m="healthy" t="adj" />
+<w c="adjective" e="humano" i="327" m="human" t="adj" />
+<w c="adjective" e="hambriento" i="328" m="hungry" t="adj" />
+<w c="adjective" e="enfermo" i="329" m="ill" t="adj" />
+<w c="adjective" e="ansioso" i="330" m="impatient" t="adj" />
+<w c="adjective" e="inteligente; astuto; agudo" i="331" m="intelligent" t="adj" />
+<w c="adjective" e="justo; recto" i="332" m="just" t="adj" />
+<w c="adjective" e="amable; simpático; gentil" i="333" m="kind" t="adj" />
+<w c="adjective" e="macho" i="334" m="male" t="adj" />
+<w c="adjective" e="masculino" i="335" m="male" t="adj" />
+<w c="adjective" e="casado" i="336" m="married" t="adj" />
+<w c="adjective" e="mezquino" i="337" m="mean" t="adj" />
+<w c="adjective" e="médico" i="338" m="medical" t="adj" />
+<w c="adjective" e="viejo; veterano" i="339" m="old" t="adj" />
+<w c="adjective" e="paciente" i="340" m="patient" t="adj" />
+<w c="adjective" e="pobre" i="341" m="poor" t="adj" />
+<w c="adjective" e="unipersonal" i="342" m="private" t="adj" />
+<w c="adjective" e="rico" i="343" m="rich" t="adj" />
+<w c="adjective" e="real" i="344" m="royal" t="adj" />
+<w c="adjective" e="triste" i="345" m="sad" t="adj" />
+<w c="adjective" e="astuto" i="346" m="sharp" t="adj" />
+<w c="adjective" e="tonto" i="347" m="silly" t="adj" />
+<w c="adjective" e="sincero; franco; leal" i="348" m="sincere" t="adj" />
+<w c="adjective" e="soltero" i="349" m="single" t="adj" />
+<w c="adjective" e="hábil" i="350" m="skilful" t="adj" />
+<w c="adjective" e="estúpido; imbécil; tonto" i="351" m="stupid" t="adj" />
+<w c="adjective" e="asunto" i="352" m="subject" t="adj" />
+<w c="adjective" e="exitoso; afortunado" i="353" m="successful" t="adj" />
+<w c="adjective" e="sediento" i="354" m="thirsty" t="adj" />
+<w c="adjective" e="cansado" i="355" m="tired" t="adj" />
+<w c="adjective" e="parado" i="356" m="unemployed" t="adj" />
+<w c="adjective" e="violento" i="357" m="violent" t="adj" />
+<w c="adjective" e="sabio; serio; formal" i="358" m="wise" t="adj" />
+<w c="adjective" e="joven" i="359" m="young" t="adj" />
+<w c="adverb" e="alrededor" i="360" m="about" t="adv" />
+<w c="adverb" e="encima de" i="361" m="above" t="adv" />
+<w c="adverb" e="sobre" i="362" m="across" t="adv" />
+<w c="adverb" e="a través de; atravesado" i="363" m="across" t="adv" />
+<w c="adverb" e="otra vez" i="364" m="again" t="adv" />
+<w c="adverb" e="casi; aproximadamente" i="365" m="almost" t="adv" />
+<w c="adverb" e="a lo largo de; junto con" i="366" m="along" t="adv" />
+<w c="adverb" e="ya" i="367" m="already" t="adv" />
+<w c="adverb" e="siempre" i="368" m="always" t="adv" />
+<w c="adverb" e="aproximadamente" i="369" m="approximately" t="adv" />
+<w c="adverb" e="adelante" i="370" m="before" t="adv" />
+<w c="adverb" e="antes" i="371" m="before" t="adv" />
+<w c="adverb" e="detrás" i="372" m="behind" t="adv" />
+<w c="adverb" e="entre" i="373" m="between" t="adv" />
+<w c="adverb" e="tras; détras de;" i="374" m="beyond" t="adv" />
+<w c="adverb" e="por" i="375" m="by" t="adv" />
+<w c="adverb" e="claramente; desnudamente;claramente; evidentemente; obviamente; ostensiblemente" i="376" m="clearly" t="adv" />
+<w c="adverb" e="directamente" i="377" m="directly" t="adv" />
+<w c="adverb" e="abajo" i="378" m="down" t="adv" />
+<w c="adverb" e="pronto" i="379" m="early" t="adv" />
+<w c="adverb" e="cada" i="380" m="either" t="adv" />
+<w c="adverb" e="bastante" i="381" m="enough" t="adv" />
+<w c="adverb" e="solitario" i="382" m="entirely" t="adv" />
+<w c="adverb" e="como" i="383" m="equally" t="adv" />
+<w c="adverb" e="incluso" i="384" m="even" t="adv" />
+<w c="adverb" e="exactamente" i="385" m="exactly" t="adv" />
+<w c="adverb" e="último" i="386" m="finally" t="adv" />
+<w c="adverb" e="primero" i="387" m="first" t="adv" />
+<w c="adverb" e="adelante" i="388" m="forward" t="adv" />
+<w c="adverb" e="aquí" i="389" m="here" t="adv" />
+<w c="adverb" e="ahí" i="390" m="here" t="adv" />
+<w c="adverb" e="aunque" i="391" m="however" t="adv" />
+<w c="adverb" e="inmediatamente" i="392" m="immediately" t="adv" />
+<w c="adverb" e="en" i="393" m="in" t="adv" />
+<w c="adverb" e="verdaderamente" i="394" m="indeed" t="adv" />
+<w c="adverb" e="adentro" i="395" m="inside" t="adv" />
+<w c="adverb" e="en lugar de eso; en cambio; en vez; más bien" i="396" m="instead" t="adv" />
+<w c="adverb" e="tarde" i="397" m="late" t="adv" />
+<w c="adverb" e="después" i="398" m="later" t="adv" />
+<w c="adverb" e="por lo menos; como minimo" i="399" m="least" t="adv" />
+<w c="adverb" e="poco" i="400" m="little" t="adv" />
+<w c="adverb" e="más; otra vez" i="401" m="more" t="adv" />
+<w c="adverb" e="generalmente" i="402" m="mostly" t="adv" />
+<w c="adverb" e="nunca" i="403" m="never" t="adv" />
+<w c="adverb" e="no" i="404" m="not" t="adv" />
+<w c="adverb" e="actualmente" i="405" m="now" t="adv" />
+<w c="adverb" e="visto" i="406" m="obviously" t="adv" />
+<w c="adverb" e="frecuentemente" i="407" m="often" t="adv" />
+<w c="adverb" e="vez" i="408" m="once" t="adv" />
+<w c="adverb" e="fuera" i="409" m="outside" t="adv" />
+<w c="adverb" e="ante todo" i="410" m="particularly" t="adv" />
+<w c="adverb" e="por favor" i="411" m="please" t="adv" />
+<w c="adverb" e="quizás" i="412" m="possibly" t="adv" />
+<w c="adverb" e="más bien" i="413" m="preferably" t="adv" />
+<w c="adverb" e="probablemente" i="414" m="probably" t="adv" />
+<w c="adverb" e="rápidamente; a prisa; al trote; apresuradamente; aprisa; con prontitud; de prisa; ejecutivamente; ligero; prestamente; presto; presurosamente; prontamente; raudamente; velozmente" i="415" m="quickly" t="adv" />
+<w c="adverb" e="bastante" i="416" m="quite" t="adv" />
+<w c="adverb" e="verdaderamente" i="417" m="really" t="adv" />
+<w c="adverb" e="realmente" i="418" m="really" t="adv" />
+<w c="adverb" e="recientemente" i="419" m="recently" t="adv" />
+<w c="adverb" e="solamente" i="420" m="simply" t="adv" />
+<w c="adverb" e="lentamente" i="421" m="slowly" t="adv" />
+<w c="adverb" e="así" i="422" m="so" t="adv" />
+<w c="adverb" e="a veces" i="423" m="sometimes" t="adv" />
+<w c="adverb" e="pronto" i="424" m="soon" t="adv" />
+<w c="adverb" e="todavía" i="425" m="still" t="adv" />
+<w c="adverb" e="tal" i="426" m="such" t="adv" />
+<w c="adverb" e="bruscamente" i="427" m="suddenly" t="adv" />
+<w c="adverb" e="ciertamente" i="428" m="surely" t="adv" />
+<w c="adverb" e="entonces" i="429" m="then" t="adv" />
+<w c="adverb" e="ahí" i="430" m="there" t="adv" />
+<w c="adverb" e="así" i="431" m="therefore" t="adv" />
+<w c="adverb" e="a través de; dentro de; por" i="432" m="through" t="adv" />
+<w c="adverb" e="hoy" i="433" m="today" t="adv" />
+<w c="adverb" e="juntos" i="434" m="together" t="adv" />
+<w c="adverb" e="mañana" i="435" m="tomorrow" t="adv" />
+<w c="adverb" e="esta noche" i="436" m="tonight" t="adv" />
+<w c="adverb" e="también" i="437" m="too" t="adv" />
+<w c="adverb" e="alto" i="438" m="up" t="adv" />
+<w c="adverb" e="normalmente" i="439" m="usually" t="adv" />
+<w c="adverb" e="muy" i="440" m="very" t="adv" />
+<w c="adverb" e="bien" i="441" m="well" t="adv" />
+<w c="adverb" e="por qué" i="442" m="why" t="adv" />
+<w c="anatomy" e="brazo" i="443" m="arm" t="noun" />
+<w c="anatomy" e="espalda; dorso" i="444" m="back" t="noun" />
+<w c="anatomy" e="pico" i="445" m="beak" t="noun" />
+<w c="anatomy" e="sangre" i="446" m="blood" t="noun" />
+<w c="anatomy" e="tronco" i="447" m="body" t="noun" />
+<w c="anatomy" e="hueso" i="448" m="bone" t="noun" />
+<w c="anatomy" e="cerebro" i="449" m="brain" t="noun" />
+<w c="anatomy" e="aliento; respiración; ánimo; soplo; anhelo" i="450" m="breath" t="noun" />
+<w c="anatomy" e="célula; cámara" i="451" m="cell" t="noun" />
+<w c="anatomy" e="pecho" i="452" m="chest" t="noun" />
+<w c="anatomy" e="tórax" i="453" m="chest" t="noun" />
+<w c="anatomy" e="barba; barbilla" i="454" m="chin" t="noun" />
+<w c="anatomy" e="oído; oreja" i="455" m="ear" t="noun" />
+<w c="anatomy" e="ojo" i="456" m="eye" t="noun" />
+<w c="anatomy" e="cara; faz; rostro" i="457" m="face" t="noun" />
+<w c="anatomy" e="dedo" i="458" m="finger" t="noun" />
+<w c="anatomy" e="pie" i="459" m="foot" t="noun" />
+<w c="anatomy" e="frente" i="460" m="forehead" t="noun" />
+<w c="anatomy" e="gen" i="461" m="gene" t="noun" />
+<w c="anatomy" e="pelo" i="462" m="hair" t="noun" />
+<w c="anatomy" e="pelo; cabello" i="463" m="hair" t="noun" />
+<w c="anatomy" e="mano" i="464" m="hand" t="noun" />
+<w c="anatomy" e="cabeza" i="465" m="head" t="noun" />
+<w c="anatomy" e="corazón" i="466" m="heart" t="noun" />
+<w c="anatomy" e="rodilla" i="467" m="knee" t="noun" />
+<w c="anatomy" e="pierna" i="468" m="leg" t="noun" />
+<w c="anatomy" e="labio" i="469" m="lip" t="noun" />
+<w c="anatomy" e="boca" i="470" m="mouth" t="noun" />
+<w c="anatomy" e="músculo" i="471" m="muscle" t="noun" />
+<w c="anatomy" e="uña" i="472" m="nail" t="noun" />
+<w c="anatomy" e="cuello" i="473" m="neck" t="noun" />
+<w c="anatomy" e="nervio" i="474" m="nerve" t="noun" />
+<w c="anatomy" e="nariz" i="475" m="nose" t="noun" />
+<w c="anatomy" e="piel" i="476" m="skin" t="noun" />
+<w c="anatomy" e="estómago" i="477" m="stomach" t="noun" />
+<w c="anatomy" e="cola" i="478" m="tail" t="noun" />
+<w c="anatomy" e="garganta" i="479" m="throat" t="noun" />
+<w c="anatomy" e="pulgar" i="480" m="thumb" t="noun" />
+<w c="anatomy" e="dedo de pie" i="481" m="toe" t="noun" />
+<w c="anatomy" e="lengua" i="482" m="tongue" t="noun" />
+<w c="anatomy" e="diente" i="483" m="tooth" t="noun" />
+<w c="anatomy" e="ala" i="484" m="wing" t="noun" />
+<w c="animals" e="hormiga" i="485" m="ant" t="noun" />
+<w c="animals" e="oso" i="486" m="bear" t="noun" />
+<w c="animals" e="abeja" i="487" m="bee" t="noun" />
+<w c="animals" e="ave; pájaro" i="488" m="bird" t="noun" />
+<w c="animals" e="gato" i="489" m="cat" t="noun" />
+<w c="animals" e="vaca" i="490" m="cow" t="noun" />
+<w c="animals" e="perro" i="491" m="dog" t="noun" />
+<w c="animals" e="elefante" i="492" m="elephant" t="noun" />
+<w c="animals" e="pez" i="493" m="fish" t="noun" />
+<w c="animals" e="mosca" i="494" m="fly" t="noun" />
+<w c="animals" e="cabra" i="495" m="goat" t="noun" />
+<w c="animals" e="caballo" i="496" m="horse" t="noun" />
+<w c="animals" e="insecto" i="497" m="insect" t="noun" />
+<w c="animals" e="león" i="498" m="lion" t="noun" />
+<w c="animals" e="simio; mono" i="499" m="monkey" t="noun" />
+<w c="animals" e="marrano" i="500" m="pig" t="noun" />
+<w c="animals" e="oveja" i="501" m="sheep" t="noun" />
+<w c="animals" e="serpiente" i="502" m="snake" t="noun" />
+<w c="art" e="arte" i="503" m="art" t="n" />
+<w c="art" e="banda" i="504" m="band" t="n" />
+<w c="art" e="color" i="505" m="color" t="n" />
+<w c="art" e="concierto" i="506" m="concert" t="n" />
+<w c="art" e="diversidad; diferencia" i="507" m="diversity" t="n" />
+<w c="art" e="diversión; distracción; divertimiento" i="508" m="entertainment" t="n" />
+<w c="art" e="éxito" i="509" m="hit" t="n" />
+<w c="art" e="imagen" i="510" m="image" t="n" />
+<w c="art" e="película; producción" i="511" m="movie" t="n" />
+<w c="art" e="música" i="512" m="music" t="n" />
+<w c="art" e="nota; tono" i="513" m="note" t="n" />
+<w c="art" e="orquesta" i="514" m="orchestra" t="n" />
+<w c="art" e="pintura" i="515" m="paint" t="n" />
+<w c="art" e="cuadro; pintura" i="516" m="painting" t="n" />
+<w c="art" e="foto; fotografía; imagen" i="517" m="picture" t="n" />
+<w c="art" e="poema; poesía; verso" i="518" m="poem" t="n" />
+<w c="art" e="poesía; verso" i="519" m="poetry" t="n" />
+<w c="art" e="ritmo; compás" i="520" m="rhythm" t="n" />
+<w c="art" e="canción" i="521" m="song" t="n" />
+<w c="art" e="escenario" i="522" m="stage" t="n" />
+<w c="art" e="estilo" i="523" m="style" t="n" />
+<w c="art" e="estilo; tendencia" i="524" m="vogue" t="n" />
+<w c="article" e="el" i="525" m="the" t="" />
+<w c="business" e="cuenta" i="526" m="account" t="n" />
+<w c="business" e="superioridad; ventaja" i="527" m="advantage" t="n" />
+<w c="business" e="anuncio; cartel; letrero" i="528" m="advertisement" t="n" />
+<w c="business" e="advertencia; consejo" i="529" m="advice" t="n" />
+<w c="business" e="acuerdo; pacto; contrato" i="530" m="agreement" t="n" />
+<w c="business" e="atención" i="531" m="attention" t="n" />
+<w c="business" e="autoridad; dominación; dominio; poder; potencia; autorización" i="532" m="authority" t="n" />
+<w c="business" e="billete" i="533" m="banknote" t="n" />
+<w c="business" e="pacto; trato" i="534" m="bargain" t="n" />
+<w c="business" e="marca" i="535" m="brand" t="n" />
+<w c="business" e="negocio" i="536" m="business" t="n" />
+<w c="business" e="mujer de negocios; mujer empresaria" i="537" m="businesswoman" t="n" />
+<w c="business" e="capital" i="538" m="capital" t="n" />
+<w c="business" e="cambio" i="539" m="change" t="n" />
+<w c="business" e="talón; cheque" i="540" m="check" t="n" />
+<w c="business" e="comisión; comité; delegación" i="541" m="committee" t="n" />
+<w c="business" e="compañía" i="542" m="company" t="n" />
+<w c="business" e="competencia; rivalidad" i="543" m="competition" t="n" />
+<w c="business" e="cargo" i="544" m="complaint" t="n" />
+<w c="business" e="campeonato; competición; concurso" i="545" m="contest" t="n" />
+<w c="business" e="contrato" i="546" m="contract" t="n" />
+<w c="business" e="copia" i="547" m="copy" t="n" />
+<w c="business" e="coste; costo" i="548" m="cost" t="n" />
+<w c="business" e="consejo" i="549" m="council" t="n" />
+<w c="business" e="clase; curso" i="550" m="course" t="n" />
+<w c="business" e="cliente" i="551" m="customer" t="n" />
+<w c="business" e="necesidad" i="552" m="demand" t="n" />
+<w c="business" e="departamento" i="553" m="department" t="n" />
+<w c="business" e="diseño" i="554" m="design" t="n" />
+<w c="business" e="dificultad; obstáculo; problema" i="555" m="difficulty" t="n" />
+<w c="business" e="camino; curso; dirección; trayectoria" i="556" m="direction" t="n" />
+<w c="business" e="director" i="557" m="director" t="n" />
+<w c="business" e="economía" i="558" m="economy" t="n" />
+<w c="business" e="entorno; medio; ambiente" i="559" m="environment" t="n" />
+<w c="business" e="experiencia; destreza; dedicación" i="560" m="experience" t="n" />
+<w c="business" e="casa; firma" i="561" m="firm" t="n" />
+<w c="business" e="formulario" i="562" m="form" t="n" />
+<w c="business" e="agrupación; colectivo; grupo" i="563" m="group" t="n" />
+<w c="business" e="asistencia; ayuda" i="564" m="help" t="n" />
+<w c="business" e="vacaciones; feriado" i="565" m="holiday" t="n" />
+<w c="business" e="ingreso; ingresos" i="566" m="income" t="n" />
+<w c="business" e="industria" i="567" m="industry" t="n" />
+<w c="business" e="seguro" i="568" m="insurance" t="n" />
+<w c="business" e="interés" i="569" m="interest" t="n" />
+<w c="business" e="factura; recibo; cuenta" i="570" m="invoice" t="n" />
+<w c="business" e="cometido; faena; quehacer; tarea; trabajo; empleo" i="571" m="job" t="n" />
+<w c="business" e="ley; derecho" i="572" m="law" t="n" />
+<w c="business" e="despedida" i="573" m="leave" t="n" />
+<w c="business" e="pérdida" i="574" m="loss" t="n" />
+<w c="business" e="dirección" i="575" m="management" t="n" />
+<w c="business" e="marca; señal" i="576" m="marker" t="n" />
+<w c="business" e="mercado" i="577" m="market" t="n" />
+<w c="business" e="materia" i="578" m="material" t="n" />
+<w c="business" e="media" i="579" m="mean" t="n" />
+<w c="business" e="encuentro; reunión" i="580" m="meeting" t="n" />
+<w c="business" e="dinero; plata; pelas; pasta; suelto" i="581" m="money" t="n" />
+<w c="business" e="ocupación" i="582" m="occupation" t="n" />
+<w c="business" e="oferta; ganga; saldo; liquidación" i="583" m="offer" t="n" />
+<w c="business" e="oficina" i="584" m="office" t="n" />
+<w c="business" e="funcionario" i="585" m="officer" t="n" />
+<w c="business" e="operación; accionamiento" i="586" m="operation" t="n" />
+<w c="business" e="amo; dueña; dueño; propietario" i="587" m="owner" t="n" />
+<w c="business" e="bulto; lío; paquete" i="588" m="package" t="n" />
+<w c="business" e="división; parte; sección" i="589" m="part" t="n" />
+<w c="business" e="pago" i="590" m="payment" t="n" />
+<w c="business" e="plan; programa; plano; llano; proyecto" i="591" m="plan" t="n" />
+<w c="business" e="coste; precio" i="592" m="price" t="n" />
+<w c="business" e="dificultad; problema" i="593" m="problem" t="n" />
+<w c="business" e="producción; producto" i="594" m="product" t="n" />
+<w c="business" e="ganancia; utilidades" i="595" m="profit" t="n" />
+<w c="business" e="pertenencia; propiedad" i="596" m="property" t="n" />
+<w c="business" e="tarifa; tipo; tasa" i="597" m="rate" t="n" />
+<w c="business" e="restante; resto; residuo; escombro" i="598" m="rest" t="n" />
+<w c="business" e="derecho" i="599" m="right" t="n" />
+<w c="business" e="venta" i="600" m="sale" t="n" />
+<w c="business" e="apartado; sección" i="601" m="section" t="n" />
+<w c="business" e="servicio" i="602" m="service" t="n" />
+<w c="business" e="acción; título" i="603" m="share" t="n" />
+<w c="business" e="establecimiento; almacén; tienda" i="604" m="shop" t="n" />
+<w c="business" e="espectáculo; muestra" i="605" m="show" t="n" />
+<w c="business" e="destreza" i="606" m="skill" t="n" />
+<w c="business" e="personal" i="607" m="staff" t="n" />
+<w c="business" e="estructura" i="608" m="structure" t="n" />
+<w c="business" e="éxito" i="609" m="success" t="n" />
+<w c="business" e="apoyo; ayuda" i="610" m="support" t="n" />
+<w c="business" e="tabla" i="611" m="table" t="n" />
+<w c="business" e="carga; contribución; imposición; impuesto; tasa; tributación" i="612" m="tax" t="n" />
+<w c="business" e="equipo; personal" i="613" m="team" t="n" />
+<w c="business" e="comercio" i="614" m="trade" t="n" />
+<w c="business" e="valor" i="615" m="value" t="n" />
+<w c="business" e="pago; recompensa" i="616" m="wages" t="n" />
+<w c="business" e="trabajo" i="617" m="work" t="n" />
+<w c="business" e="trabajador" i="618" m="worker" t="n" />
+<w c="city" e="aeropuerto; aeródromo" i="619" m="airport" t="n" />
+<w c="city" e="banco" i="620" m="bank" t="n" />
+<w c="city" e="puente" i="621" m="bridge" t="n" />
+<w c="city" e="edificio" i="622" m="building" t="n" />
+<w c="city" e="capital" i="623" m="capital" t="n" />
+<w c="city" e="castillo" i="624" m="castle" t="n" />
+<w c="city" e="iglesia" i="625" m="church" t="n" />
+<w c="city" e="cine; biógrafo" i="626" m="cinema" t="n" />
+<w c="city" e="ciudad; metrópolis" i="627" m="city" t="n" />
+<w c="city" e="fábrica; planta; taller; manufactura; industria; construcción" i="628" m="factory" t="n" />
+<w c="city" e="apartamento; piso; departamento" i="629" m="flat" t="n" />
+<w c="city" e="clínica; hospital" i="630" m="hospital" t="n" />
+<w c="city" e="hotel" i="631" m="hotel" t="n" />
+<w c="city" e="biblioteca" i="632" m="library" t="n" />
+<w c="city" e="museo" i="633" m="museum" t="n" />
+<w c="city" e="parque" i="634" m="park" t="n" />
+<w c="city" e="prisión" i="635" m="prison" t="n" />
+<w c="city" e="restaurante" i="636" m="restaurant" t="n" />
+<w c="city" e="carretera" i="637" m="road" t="n" />
+<w c="city" e="colegio; escuela" i="638" m="school" t="n" />
+<w c="city" e="estación" i="639" m="station" t="n" />
+<w c="city" e="calle; camino; avenida; calzada" i="640" m="street" t="n" />
+<w c="city" e="construcción; estructura" i="641" m="structure" t="n" />
+<w c="city" e="metro; metropolitano" i="642" m="subway" t="n" />
+<w c="city" e="supermercado" i="643" m="supermarket" t="n" />
+<w c="city" e="teatro" i="644" m="theater" t="n" />
+<w c="city" e="población; villa; ciudad" i="645" m="town" t="n" />
+<w c="city" e="universidad" i="646" m="university" t="n" />
+<w c="city" e="pueblo" i="647" m="village" t="n" />
+<w c="clothes" e="bolso" i="648" m="bag" t="n" />
+<w c="clothes" e="bota" i="649" m="boot" t="n" />
+<w c="clothes" e="paño; tejido; tela; trapo; red" i="650" m="cloth" t="n" />
+<w c="clothes" e="vestido; prenda; ropa" i="651" m="clothing" t="n" />
+<w c="clothes" e="chaqueta" i="652" m="coat" t="n" />
+<w c="clothes" e="cuello" i="653" m="collar" t="n" />
+<w c="clothes" e="sombrero" i="654" m="hat" t="n" />
+<w c="clothes" e="chaqueta" i="655" m="jacket" t="n" />
+<w c="clothes" e="joya" i="656" m="jewel" t="n" />
+<w c="clothes" e="anillo" i="657" m="ring" t="n" />
+<w c="clothes" e="camisa" i="658" m="shirt" t="n" />
+<w c="clothes" e="zapato" i="659" m="shoe" t="n" />
+<w c="clothes" e="falda; pollera" i="660" m="skirt" t="n" />
+<w c="clothes" e="calcetín" i="661" m="sock" t="n" />
+<w c="clothes" e="maleta" i="662" m="suitcase" t="n" />
+<w c="clothes" e="corbata" i="663" m="tie" t="n" />
+<w c="colors" e="negro" i="664" m="black" t="adj" />
+<w c="colors" e="azul" i="665" m="blue" t="adj" />
+<w c="colors" e="marrón" i="666" m="brown" t="adj" />
+<w c="colors" e="gris" i="667" m="gray" t="adj" />
+<w c="colors" e="verde" i="668" m="green" t="adj" />
+<w c="colors" e="naranja" i="669" m="orange" t="adj" />
+<w c="colors" e="rosa; rosado" i="670" m="pink" t="adj" />
+<w c="colors" e="rojizo; rojo" i="671" m="red" t="adj" />
+<w c="colors" e="morado; violeta" i="672" m="violet" t="adj" />
+<w c="colors" e="blanco; cándido" i="673" m="white" t="adj" />
+<w c="colors" e="amarillo" i="674" m="yellow" t="adj" />
+<w c="communication" e="anuncio; proclamación" i="675" m="announcement" t="n" />
+<w c="communication" e="respuesta" i="676" m="answer" t="n" />
+<w c="communication" e="aprobación; aceptación; adhesión; consentimiento; consenso" i="677" m="approval" t="n" />
+<w c="communication" e="discusión; disputa; pelea" i="678" m="argument" t="n" />
+<w c="communication" e="argumento" i="679" m="argument" t="n" />
+<w c="communication" e="ejemplar; libro; volumen" i="680" m="book" t="n" />
+<w c="communication" e="llamada" i="681" m="call" t="n" />
+<w c="communication" e="carácter" i="682" m="character" t="n" />
+<w c="communication" e="grito; protesta; alarido" i="683" m="cry" t="n" />
+<w c="communication" e="datos" i="684" m="data" t="n" />
+<w c="communication" e="decisión; determinación; resolución; resultado" i="685" m="decision" t="n" />
+<w c="communication" e="diccionario; léxico; índice; glosario" i="686" m="dictionary" t="n" />
+<w c="communication" e="debate; discusión" i="687" m="discussion" t="n" />
+<w c="communication" e="duda; incertidumbre; inseguridad; irresolución" i="688" m="doubt" t="n" />
+<w c="communication" e="experiencia" i="689" m="experience" t="n" />
+<w c="communication" e="apariencia; aspecto; estampa; expresión" i="690" m="expression" t="n" />
+<w c="communication" e="sentimiento" i="691" m="feeling" t="n" />
+<w c="communication" e="humorismo" i="692" m="humor" t="n" />
+<w c="communication" e="idea; pensamiento; intención; concepción; imagen" i="693" m="idea" t="n" />
+<w c="communication" e="información" i="694" m="information" t="n" />
+<w c="communication" e="interés" i="695" m="interest" t="n" />
+<w c="communication" e="entrevista" i="696" m="interview" t="n" />
+<w c="communication" e="lenguaje" i="697" m="language" t="n" />
+<w c="communication" e="lengua" i="698" m="language" t="n" />
+<w c="communication" e="carácter; letra" i="699" m="letter" t="n" />
+<w c="communication" e="carta; misiva; esquela; epístola" i="700" m="letter" t="n" />
+<w c="communication" e="bola; historia; mentira; película; falsedad" i="701" m="lie" t="n" />
+<w c="communication" e="revista" i="702" m="magazine" t="n" />
+<w c="communication" e="correo" i="703" m="mail" t="n" />
+<w c="communication" e="memoria" i="704" m="memory" t="n" />
+<w c="communication" e="memoria" i="705" m="memory" t="n" />
+<w c="communication" e="error; fallo; falta; equivocación" i="706" m="mistake" t="n" />
+<w c="communication" e="nombre; apodo" i="707" m="name" t="n" />
+<w c="communication" e="diario; periódico; gaceta; rotativo" i="708" m="newspaper" t="n" />
+<w c="communication" e="notación; ángel" i="709" m="note" t="n" />
+<w c="communication" e="número" i="710" m="number" t="n" />
+<w c="communication" e="apreciación; opinión; parecer; visión; dictamen; conjetura; informe; concepto" i="711" m="opinion" t="n" />
+<w c="communication" e="página; hoja" i="712" m="page" t="n" />
+<w c="communication" e="punto; puntillo" i="713" m="point" t="n" />
+<w c="communication" e="pronunciación" i="714" m="pronunciation" t="n" />
+<w c="communication" e="proposición" i="715" m="proposal" t="n" />
+<w c="communication" e="protesta" i="716" m="protest" t="n" />
+<w c="communication" e="demanda; pregunta; búsqueda" i="717" m="question" t="n" />
+<w c="communication" e="reacción" i="718" m="reaction" t="n" />
+<w c="communication" e="razón; motivo" i="719" m="reason" t="n" />
+<w c="communication" e="relación" i="720" m="relation" t="n" />
+<w c="communication" e="instancia; petición; solicitud" i="721" m="request" t="n" />
+<w c="communication" e="secreto" i="722" m="secret" t="n" />
+<w c="communication" e="oración; frase" i="723" m="sentence" t="n" />
+<w c="communication" e="figura" i="724" m="shape" t="n" />
+<w c="communication" e="signo" i="725" m="sign" t="n" />
+<w c="communication" e="habla; lenguaje; decir" i="726" m="speech" t="n" />
+<w c="communication" e="ortografía" i="727" m="spelling" t="n" />
+<w c="communication" e="criterio; estándar; patrón; pauta; regla" i="728" m="standard" t="n" />
+<w c="communication" e="afirmación; declaración" i="729" m="statement" t="n" />
+<w c="communication" e="asunto; objeto; tema; premisa" i="730" m="subject" t="n" />
+<w c="communication" e="proposición; propuesta; sugerencia" i="731" m="suggestion" t="n" />
+<w c="communication" e="voz" i="732" m="voice" t="n" />
+<w c="communication" e="palabra; oferta" i="733" m="word" t="n" />
+<w c="communication" e="escritura" i="734" m="writing" t="n" />
+<w c="conjunction" e="más" i="735" m="and" t="conj" />
+<w c="conjunction" e="porque" i="736" m="because" t="conj" />
+<w c="conjunction" e="ya que" i="737" m="for" t="conj" />
+<w c="conjunction" e="si" i="738" m="if" t="conj" />
+<w c="conjunction" e="o" i="739" m="or" t="conj" />
+<w c="conjunction" e="que" i="740" m="than" t="conj" />
+<w c="conjunction" e="hasta" i="741" m="until" t="conj" />
+<w c="conjunction" e="cuando quiera" i="742" m="whenever" t="conj" />
+<w c="containers" e="bolsa; bolso" i="743" m="bag" t="n" />
+<w c="containers" e="cesto; aro; cesta" i="744" m="basket" t="n" />
+<w c="containers" e="botella" i="745" m="bottle" t="n" />
+<w c="containers" e="caja; cajita" i="746" m="box" t="n" />
+<w c="containers" e="bote; lata; frasco" i="747" m="can" t="n" />
+<w c="containers" e="taza" i="748" m="cup" t="n" />
+<w c="containers" e="vaso; copa" i="749" m="glass" t="n" />
+<w c="containers" e="plato" i="750" m="plate" t="n" />
+<w c="conversation" e="no sé" i="751" m="I don't know" t="" />
+<w c="conversation" e="no entiendo" i="752" m="I don't understand" t="" />
+<w c="conversation" e="salud" i="753" m="cheers" t="" />
+<w c="conversation" e="hablas inglés" i="754" m="do you speak English" t="" />
+<w c="conversation" e="buenos días" i="755" m="good day" t="" />
+<w c="conversation" e="buena suerte" i="756" m="good luck" t="" />
+<w c="conversation" e="feliz cumpleaños" i="757" m="happy birthday" t="" />
+<w c="conversation" e="hola" i="758" m="hello" t="" />
+<w c="conversation" e="¿es" i="759" m="how are you" t="" />
+<w c="conversation" e="¿Cuánto cuesta?" i="760" m="how much is it" t="" />
+<w c="conversation" e="muchas gracias" i="761" m="many thanks" t="" />
+<w c="conversation" e="me llamo" i="762" m="my name is" t="" />
+<w c="conversation" e="no" i="763" m="no" t="" />
+<w c="conversation" e="discúlpame" i="764" m="sorry" t="" />
+<w c="conversation" e="¿cómo" i="765" m="sorry" t="" />
+<w c="conversation" e="muchas gracias" i="766" m="thank you very much" t="" />
+<w c="conversation" e="cómo se llama usted" i="767" m="what is your name" t="" />
+<w c="conversation" e="sí" i="768" m="yes" t="" />
+<w c="conversation" e="de nada" i="769" m="you're welcome" t="" />
+<w c="countries" e="China" i="770" m="China" t="n" />
+<w c="countries" e="República Checa" i="771" m="Czech Republic" t="n" />
+<w c="countries" e="República Francesa" i="772" m="France" t="n" />
+<w c="countries" e="República Federal de Alemania" i="773" m="Germany" t="n" />
+<w c="countries" e="República de la India" i="774" m="India" t="n" />
+<w c="countries" e="Italia" i="775" m="Italy" t="n" />
+<w c="countries" e="Japón" i="776" m="Japan" t="n" />
+<w c="countries" e="Reino de España" i="777" m="Spain" t="n" />
+<w c="countries" e="Reino Unido" i="778" m="United Kingdom" t="n" />
+<w c="countries" e="Estados Unidos" i="779" m="United States" t="n" />
+<w c="devices" e="cámara" i="780" m="camera" t="n" />
+<w c="devices" e="móvil; celular" i="781" m="cellphone" t="n" />
+<w c="devices" e="reloj" i="782" m="clock" t="n" />
+<w c="devices" e="ordenador" i="783" m="computer" t="n" />
+<w c="devices" e="ascensor" i="784" m="elevator" t="n" />
+<w c="devices" e="motor" i="785" m="engine" t="n" />
+<w c="devices" e="instrumento" i="786" m="instrument" t="n" />
+<w c="devices" e="máquina" i="787" m="machine" t="n" />
+<w c="devices" e="horno" i="788" m="oven" t="n" />
+<w c="devices" e="tele; televisión; televisor" i="789" m="television" t="n" />
+<w c="devices" e="cámara" i="790" m="television camera" t="n" />
+<w c="devices" e="reloj" i="791" m="watch" t="n" />
+<w c="drinks" e="cerveza" i="792" m="beer" t="n" />
+<w c="drinks" e="café" i="793" m="coffee" t="n" />
+<w c="drinks" e="bebida" i="794" m="drink" t="n" />
+<w c="drinks" e="leche" i="795" m="milk" t="n" />
+<w c="drinks" e="batido" i="796" m="milkshake" t="n" />
+<w c="drinks" e="té" i="797" m="tea" t="n" />
+<w c="drinks" e="agua" i="798" m="water" t="n" />
+<w c="drinks" e="vino" i="799" m="wine" t="n" />
+<w c="education" e="clase; curso; sección" i="800" m="class" t="n" />
+<w c="education" e="educación; formación; instrucción" i="801" m="education" t="n" />
+<w c="education" e="educación" i="802" m="education" t="n" />
+<w c="education" e="educación; enseñanza" i="803" m="education" t="n" />
+<w c="education" e="examen; test" i="804" m="examination" t="n" />
+<w c="education" e="calificación; nota" i="805" m="grade" t="n" />
+<w c="education" e="conocimiento; saber" i="806" m="knowledge" t="n" />
+<w c="education" e="alumno; estudiante" i="807" m="student" t="n" />
+<w c="education" e="profesor; maestro; educador" i="808" m="teacher" t="n" />
+<w c="education" e="formación; preparación; capacitación; entrenamiento" i="809" m="training" t="n" />
+<w c="environment" e="lluvia ácida" i="810" m="acid rain" t="n" />
+<w c="environment" e="aire; atmósfera" i="811" m="atmosphere" t="n" />
+<w c="environment" e="cambio climático" i="812" m="climate change" t="n" />
+<w c="environment" e="vaciadero" i="813" m="dump" t="n" />
+<w c="environment" e="ecología" i="814" m="ecology" t="n" />
+<w c="environment" e="entorno" i="815" m="environment" t="n" />
+<w c="environment" e="combustible fósil" i="816" m="fossil fuel" t="n" />
+<w c="environment" e="calentamiento global" i="817" m="global warming" t="n" />
+<w c="environment" e="efecto invernadero" i="818" m="greenhouse effect" t="n" />
+<w c="environment" e="mina" i="819" m="mine" t="n" />
+<w c="environment" e="ozono" i="820" m="ozone" t="n" />
+<w c="environment" e="contaminación" i="821" m="pollution" t="n" />
+<w c="environment" e="reciclaje" i="822" m="recycling" t="n" />
+<w c="environment" e="niebla mezclada con humo" i="823" m="smog" t="n" />
+<w c="environment" e="desperdicios" i="824" m="waste" t="n" />
+<w c="family" e="criatura" i="825" m="baby" t="n" />
+<w c="family" e="nacimiento" i="826" m="birth" t="n" />
+<w c="family" e="cumpleaños" i="827" m="birthday" t="n" />
+<w c="family" e="chaval; chico; garzón; joven; mozo; muchacho; niño" i="828" m="boy" t="n" />
+<w c="family" e="hermano; colega" i="829" m="brother" t="n" />
+<w c="family" e="hija; hijo" i="830" m="child" t="n" />
+<w c="family" e="hija" i="831" m="daughter" t="n" />
+<w c="family" e="muerte" i="832" m="death" t="n" />
+<w c="family" e="familia" i="833" m="family" t="n" />
+<w c="family" e="padre; papa; papá; viejo" i="834" m="father" t="n" />
+<w c="family" e="amigo" i="835" m="friend" t="n" />
+<w c="family" e="chica; joven; señorita" i="836" m="girl" t="n" />
+<w c="family" e="abuelo" i="837" m="grandfather" t="n" />
+<w c="family" e="hombre" i="838" m="human" t="n" />
+<w c="family" e="esposo; hombre; marido" i="839" m="husband" t="n" />
+<w c="family" e="existencia; vida" i="840" m="life" t="n" />
+<w c="family" e="hombre; varón; macho" i="841" m="man" t="n" />
+<w c="family" e="matrimonio; unión" i="842" m="marriage" t="n" />
+<w c="family" e="madre" i="843" m="mother" t="n" />
+<w c="family" e="vecina; vecino; cercano" i="844" m="neighbor" t="n" />
+<w c="family" e="madre" i="845" m="parent" t="n" />
+<w c="family" e="mortal" i="846" m="person" t="n" />
+<w c="family" e="relación" i="847" m="relationship" t="n" />
+<w c="family" e="hermana" i="848" m="sister" t="n" />
+<w c="family" e="hijo" i="849" m="son" t="n" />
+<w c="family" e="boda" i="850" m="wedding" t="n" />
+<w c="family" e="boda; boda nupcial; casamiento;" i="851" m="wedding" t="n" />
+<w c="family" e="esposa" i="852" m="wife" t="n" />
+<w c="family" e="mujer" i="853" m="woman" t="n" />
+<w c="feelings" e="miedo; terror; inseguridad; aprensión; susto" i="854" m="fear" t="n" />
+<w c="feelings" e="odio" i="855" m="hate" t="n" />
+<w c="feelings" e="amor; pasión" i="856" m="love" t="n" />
+<w c="feelings" e="placer; gusto" i="857" m="pleasure" t="n" />
+<w c="feelings" e="esperanza" i="858" m="promise" t="n" />
+<w c="food" e="pan" i="859" m="bread" t="n" />
+<w c="food" e="almuerzo; desayuno" i="860" m="breakfast" t="n" />
+<w c="food" e="mantequilla" i="861" m="butter" t="n" />
+<w c="food" e="pastel" i="862" m="cake" t="n" />
+<w c="food" e="queso" i="863" m="cheese" t="n" />
+<w c="food" e="chocolate" i="864" m="chocolate" t="n" />
+<w c="food" e="copa" i="865" m="cup" t="n" />
+<w c="food" e="huevo; óvulo" i="866" m="egg" t="n" />
+<w c="food" e="alimento; comida" i="867" m="food" t="n" />
+<w c="food" e="tenedor" i="868" m="fork" t="n" />
+<w c="food" e="fruto" i="869" m="fruit" t="n" />
+<w c="food" e="cuchillo" i="870" m="knife" t="n" />
+<w c="food" e="almuerzo; comida" i="871" m="lunch" t="n" />
+<w c="food" e="comida" i="872" m="meal" t="n" />
+<w c="food" e="carne" i="873" m="meat" t="n" />
+<w c="food" e="aceite" i="874" m="oil" t="n" />
+<w c="food" e="ensalada" i="875" m="salad" t="n" />
+<w c="food" e="sal" i="876" m="salt" t="n" />
+<w c="food" e="bocadillo" i="877" m="sandwich" t="n" />
+<w c="food" e="salsa" i="878" m="sauce" t="n" />
+<w c="food" e="sopa; caldo" i="879" m="soup" t="n" />
+<w c="food" e="cuchara" i="880" m="spoon" t="n" />
+<w c="food" e="azúcar" i="881" m="sugar" t="n" />
+<w c="food" e="dulzura" i="882" m="sweet" t="n" />
+<w c="fruits" e="manzana" i="883" m="apple" t="n" />
+<w c="fruits" e="damasco" i="884" m="apricot" t="n" />
+<w c="fruits" e="plátano" i="885" m="banana" t="n" />
+<w c="fruits" e="mora" i="886" m="blackberry" t="n" />
+<w c="fruits" e="cereza" i="887" m="cherry" t="n" />
+<w c="fruits" e="limón" i="888" m="lemon" t="n" />
+<w c="fruits" e="nuez" i="889" m="nut" t="n" />
+<w c="fruits" e="naranja" i="890" m="orange" t="n" />
+<w c="fruits" e="melocotón" i="891" m="peach" t="n" />
+<w c="fruits" e="pera" i="892" m="pear" t="n" />
+<w c="fruits" e="ananá" i="893" m="pineapple" t="n" />
+<w c="fruits" e="ciruela" i="894" m="plum" t="n" />
+<w c="fruits" e="frambuesa" i="895" m="raspberry" t="n" />
+<w c="fruits" e="fresa" i="896" m="strawberry" t="n" />
+<w c="furniture" e="cama" i="897" m="bed" t="n" />
+<w c="furniture" e="alfombra; tapete; tapiz; moqueta" i="898" m="carpet" t="n" />
+<w c="furniture" e="silla" i="899" m="chair" t="n" />
+<w c="furniture" e="armario" i="900" m="cupboard" t="n" />
+<w c="furniture" e="cortina" i="901" m="curtain" t="n" />
+<w c="furniture" e="mesa; escritorio" i="902" m="desk" t="n" />
+<w c="furniture" e="cajón" i="903" m="drawer" t="n" />
+<w c="furniture" e="asiento; banco; butaca; escaño; silla" i="904" m="seat" t="n" />
+<w c="furniture" e="estante" i="905" m="shelf" t="n" />
+<w c="furniture" e="fregadero; pila" i="906" m="sink" t="n" />
+<w c="furniture" e="mesa" i="907" m="table" t="n" />
+<w c="geography" e="globo; mundo; tierra" i="908" m="Earth" t="n" />
+<w c="geography" e="luna" i="909" m="Moon" t="n" />
+<w c="geography" e="margen; orilla; vera" i="910" m="bank" t="n" />
+<w c="geography" e="playa" i="911" m="beach" t="n" />
+<w c="geography" e="este; oriente; levante" i="912" m="east" t="n" />
+<w c="geography" e="colina; monte" i="913" m="hill" t="n" />
+<w c="geography" e="isla" i="914" m="island" t="n" />
+<w c="geography" e="lago" i="915" m="lake" t="n" />
+<w c="geography" e="tierra" i="916" m="land" t="n" />
+<w c="geography" e="mapa; plano; carta" i="917" m="map" t="n" />
+<w c="geography" e="norte" i="918" m="north" t="n" />
+<w c="geography" e="campaña; llanura" i="919" m="plain" t="n" />
+<w c="geography" e="parte; región" i="920" m="region" t="n" />
+<w c="geography" e="río" i="921" m="river" t="n" />
+<w c="geography" e="mar; océano" i="922" m="sea" t="n" />
+<w c="geography" e="sur" i="923" m="south" t="n" />
+<w c="geography" e="espacio" i="924" m="space" t="n" />
+<w c="geography" e="estrella; astro" i="925" m="star" t="n" />
+<w c="geography" e="sol" i="926" m="sun" t="n" />
+<w c="geography" e="oeste" i="927" m="west" t="n" />
+<w c="house" e="dirección; ubicación" i="928" m="address" t="n" />
+<w c="house" e="baño" i="929" m="bathroom" t="n" />
+<w c="house" e="alcoba; dormitorio; habitación; pieza; cuarto; dependencia" i="930" m="bedroom" t="n" />
+<w c="house" e="ladrillo" i="931" m="brick" t="n" />
+<w c="house" e="puerta; hoja" i="932" m="door" t="n" />
+<w c="house" e="piso; suelo; pavimento" i="933" m="floor" t="n" />
+<w c="house" e="piso; planta" i="934" m="floor" t="n" />
+<w c="house" e="mueble; decoración" i="935" m="furniture" t="n" />
+<w c="house" e="cochera" i="936" m="garage" t="n" />
+<w c="house" e="jardín" i="937" m="garden" t="n" />
+<w c="house" e="verja; reja; valla" i="938" m="gate" t="n" />
+<w c="house" e="entrada; recibidor; vestíbulo" i="939" m="hall" t="n" />
+<w c="house" e="casa; hogar; techo; familia" i="940" m="home" t="n" />
+<w c="house" e="casa" i="941" m="house" t="n" />
+<w c="house" e="cocina" i="942" m="kitchen" t="n" />
+<w c="house" e="techo" i="943" m="roof" t="n" />
+<w c="house" e="cuarto; habitación" i="944" m="room" t="n" />
+<w c="house" e="ducha" i="945" m="shower" t="n" />
+<w c="house" e="escalón" i="946" m="step" t="n" />
+<w c="house" e="baño; letrina" i="947" m="toilet" t="n" />
+<w c="house" e="muro; pared; tabique" i="948" m="wall" t="n" />
+<w c="house" e="pozo" i="949" m="well" t="n" />
+<w c="house" e="ventana" i="950" m="window" t="n" />
+<w c="languages" e="chino" i="951" m="Chinese" t="n" />
+<w c="languages" e="inglés" i="952" m="English" t="n" />
+<w c="languages" e="francés; francés" i="953" m="French" t="n" />
+<w c="languages" e="alemán" i="954" m="German" t="n" />
+<w c="languages" e="hindi" i="955" m="Hindi" t="n" />
+<w c="languages" e="italiano" i="956" m="Italian" t="n" />
+<w c="languages" e="japonés" i="957" m="Japanese" t="n" />
+<w c="languages" e="ruso" i="958" m="Russian" t="n" />
+<w c="languages" e="castellano; español" i="959" m="Spanish" t="n" />
+<w c="materials" e="ácido; agrio" i="960" m="acid" t="n" />
+<w c="materials" e="sustancia química" i="961" m="chemical" t="n" />
+<w c="materials" e="elemento" i="962" m="chemical element" t="n" />
+<w c="materials" e="carbón" i="963" m="coal" t="n" />
+<w c="materials" e="algodón" i="964" m="cotton" t="n" />
+<w c="materials" e="polvo" i="965" m="dust" t="n" />
+<w c="materials" e="tierra" i="966" m="earth" t="n" />
+<w c="materials" e="grasa" i="967" m="fat" t="n" />
+<w c="materials" e="vidrio" i="968" m="glass" t="n" />
+<w c="materials" e="cola; goma; pegamento" i="969" m="glue" t="n" />
+<w c="materials" e="oro" i="970" m="gold" t="n" />
+<w c="materials" e="grano" i="971" m="grain" t="n" />
+<w c="materials" e="hielo" i="972" m="ice" t="n" />
+<w c="materials" e="tinta" i="973" m="ink" t="n" />
+<w c="materials" e="hierro" i="974" m="iron" t="n" />
+<w c="materials" e="plomo" i="975" m="lead" t="n" />
+<w c="materials" e="cuero; piel" i="976" m="leather" t="n" />
+<w c="materials" e="líquido; licor" i="977" m="liquid" t="n" />
+<w c="materials" e="materia; sustancia" i="978" m="matter" t="n" />
+<w c="materials" e="metal" i="979" m="metallic element" t="n" />
+<w c="materials" e="petróleo" i="980" m="oil" t="n" />
+<w c="materials" e="papel" i="981" m="paper" t="n" />
+<w c="materials" e="tóxico" i="982" m="poison" t="n" />
+<w c="materials" e="polvo" i="983" m="powder" t="n" />
+<w c="materials" e="arena" i="984" m="sand" t="n" />
+<w c="materials" e="seda" i="985" m="silk" t="n" />
+<w c="materials" e="plata" i="986" m="silver" t="n" />
+<w c="materials" e="jabón" i="987" m="soap" t="n" />
+<w c="materials" e="acero" i="988" m="steel" t="n" />
+<w c="materials" e="madera" i="989" m="wood" t="n" />
+<w c="materials" e="lana" i="990" m="wool" t="n" />
+<w c="mathematics" e="suma" i="991" m="addition" t="n" />
+<w c="mathematics" e="ángulo" i="992" m="angle" t="n" />
+<w c="mathematics" e="área; superficie" i="993" m="area" t="n" />
+<w c="mathematics" e="centro" i="994" m="center" t="n" />
+<w c="mathematics" e="círculo" i="995" m="circle" t="n" />
+<w c="mathematics" e="componente; elemento; factor" i="996" m="component" t="n" />
+<w c="mathematics" e="curva; arco" i="997" m="curve" t="n" />
+<w c="mathematics" e="grado" i="998" m="degree" t="n" />
+<w c="mathematics" e="grado; nivel" i="999" m="degree" t="n" />
+<w c="mathematics" e="diferencia; desigualdad; divergencia; desemejanza" i="1000" m="difference" t="n" />
+<w c="mathematics" e="distancia" i="1001" m="distance" t="n" />
+<w c="mathematics" e="división; partición" i="1002" m="division" t="n" />
+<w c="mathematics" e="borde; canto; margen; arista; orilla" i="1003" m="edge" t="n" />
+<w c="mathematics" e="función; oficio; papel" i="1004" m="function" t="n" />
+<w c="mathematics" e="mitad" i="1005" m="half" t="n" />
+<w c="mathematics" e="límite; raya" i="1006" m="limit" t="n" />
+<w c="mathematics" e="línea; linea" i="1007" m="line" t="n" />
+<w c="mathematics" e="red; malla" i="1008" m="net" t="n" />
+<w c="mathematics" e="orden" i="1009" m="order" t="n" />
+<w c="mathematics" e="exterior" i="1010" m="outside" t="n" />
+<w c="mathematics" e="porcentaje" i="1011" m="percent" t="n" />
+<w c="mathematics" e="función; propósito" i="1012" m="purpose" t="n" />
+<w c="mathematics" e="consecuencia; resultado; fruto" i="1013" m="result" t="n" />
+<w c="mathematics" e="raíz" i="1014" m="root" t="n" />
+<w c="mathematics" e="norma; regla; regulación" i="1015" m="rule" t="n" />
+<w c="mathematics" e="conjunto" i="1016" m="set" t="n" />
+<w c="mathematics" e="lado" i="1017" m="side" t="n" />
+<w c="mathematics" e="cuadrado" i="1018" m="square" t="n" />
+<w c="mathematics" e="cuadrado" i="1019" m="square" t="n" />
+<w c="mathematics" e="sustitución" i="1020" m="substitution" t="n" />
+<w c="mathematics" e="superficie" i="1021" m="surface" t="n" />
+<w c="mathematics" e="monto; suma; total" i="1022" m="total" t="n" />
+<w c="medicine" e="atención; cuidado" i="1023" m="care" t="n" />
+<w c="medicine" e="resfriado" i="1024" m="cold" t="n" />
+<w c="medicine" e="tos" i="1025" m="cough" t="n" />
+<w c="medicine" e="afección; enfermedad" i="1026" m="disease" t="n" />
+<w c="medicine" e="doctor; médico" i="1027" m="doctor" t="n" />
+<w c="medicine" e="salud" i="1028" m="health" t="n" />
+<w c="medicine" e="mes; regla" i="1029" m="menstruation" t="n" />
+<w c="medicine" e="enfermera" i="1030" m="nurse" t="n" />
+<w c="medicine" e="intervención; operación" i="1031" m="operation" t="n" />
+<w c="medicine" e="dolor" i="1032" m="pain" t="n" />
+<w c="medicine" e="paciente" i="1033" m="patient" t="n" />
+<w c="medicine" e="punto" i="1034" m="stitch" t="n" />
+<w c="nature" e="aire" i="1035" m="air" t="n" />
+<w c="nature" e="animal; bestia; criatura" i="1036" m="animal" t="n" />
+<w c="nature" e="rama" i="1037" m="branch" t="n" />
+<w c="nature" e="corriente; actual" i="1038" m="current" t="n" />
+<w c="nature" e="desarrollo; evolución" i="1039" m="evolution" t="n" />
+<w c="nature" e="cortijo; estancia; hacienda; masía; granja" i="1040" m="farm" t="n" />
+<w c="nature" e="campo; terreno" i="1041" m="field" t="n" />
+<w c="nature" e="fuego; llama; incendio" i="1042" m="fire" t="n" />
+<w c="nature" e="flor" i="1043" m="flower" t="n" />
+<w c="nature" e="bosque; floresta; jungla" i="1044" m="forest" t="n" />
+<w c="nature" e="hierba" i="1045" m="grass" t="n" />
+<w c="nature" e="hoja" i="1046" m="leaf" t="n" />
+<w c="nature" e="existencia; vida" i="1047" m="life" t="n" />
+<w c="nature" e="humedad" i="1048" m="moisture" t="n" />
+<w c="nature" e="naturaleza" i="1049" m="nature" t="n" />
+<w c="nature" e="flora; planta" i="1050" m="plant" t="n" />
+<w c="nature" e="raíz" i="1051" m="root" t="n" />
+<w c="nature" e="sexo" i="1052" m="sex" t="n" />
+<w c="nature" e="cielo" i="1053" m="sky" t="n" />
+<w c="nature" e="sueño" i="1054" m="sleep" t="n" />
+<w c="nature" e="olor; hedor" i="1055" m="smell" t="n" />
+<w c="nature" e="vapor" i="1056" m="smoke" t="n" />
+<w c="nature" e="fuente" i="1057" m="spring" t="n" />
+<w c="nature" e="tallo; pedúnculo" i="1058" m="stem" t="n" />
+<w c="nature" e="corriente; curso" i="1059" m="stream" t="n" />
+<w c="nature" e="árbol" i="1060" m="tree" t="n" />
+<w c="nature" e="ola" i="1061" m="wave" t="n" />
+<w c="nature" e="tiempo; clima" i="1062" m="weather" t="n" />
+<w c="nature" e="planeta" i="1063" m="world" t="n" />
+<w c="numbers" e="par; pareja" i="1064" m="couple" t="n" />
+<w c="numbers" e="ocho" i="1065" m="eight" t="n" />
+<w c="numbers" e="dieciocho" i="1066" m="eighteen" t="n" />
+<w c="numbers" e="ochenta" i="1067" m="eighty" t="n" />
+<w c="numbers" e="once" i="1068" m="eleven" t="n" />
+<w c="numbers" e="decimoquinto" i="1069" m="fifteen" t="n" />
+<w c="numbers" e="cincuenta" i="1070" m="fifty" t="n" />
+<w c="numbers" e="primero; primeramente; primer" i="1071" m="first" t="n" />
+<w c="numbers" e="cinco" i="1072" m="five" t="n" />
+<w c="numbers" e="cuarenta" i="1073" m="forty" t="n" />
+<w c="numbers" e="cuatro" i="1074" m="four" t="n" />
+<w c="numbers" e="catorce" i="1075" m="fourteen" t="n" />
+<w c="numbers" e="cien; ciento; centenar" i="1076" m="hundred" t="n" />
+<w c="numbers" e="millón" i="1077" m="million" t="n" />
+<w c="numbers" e="nueve" i="1078" m="nine" t="n" />
+<w c="numbers" e="diecinueve" i="1079" m="nineteen" t="n" />
+<w c="numbers" e="noventa" i="1080" m="ninety" t="n" />
+<w c="numbers" e="cero; nada" i="1081" m="nothing" t="n" />
+<w c="numbers" e="uno; a" i="1082" m="one" t="n" />
+<w c="numbers" e="siete" i="1083" m="seven" t="n" />
+<w c="numbers" e="diecisiete" i="1084" m="seventeen" t="n" />
+<w c="numbers" e="setenta" i="1085" m="seventy" t="n" />
+<w c="numbers" e="seis" i="1086" m="six" t="n" />
+<w c="numbers" e="dieciséis" i="1087" m="sixteen" t="n" />
+<w c="numbers" e="sesenta" i="1088" m="sixty" t="n" />
+<w c="numbers" e="diez" i="1089" m="ten" t="n" />
+<w c="numbers" e="tercero" i="1090" m="third" t="n" />
+<w c="numbers" e="trece" i="1091" m="thirteen" t="n" />
+<w c="numbers" e="treinta" i="1092" m="thirty" t="n" />
+<w c="numbers" e="mil; millar" i="1093" m="thousand" t="n" />
+<w c="numbers" e="mil; millar" i="1094" m="thousand" t="n" />
+<w c="numbers" e="tres" i="1095" m="three" t="n" />
+<w c="numbers" e="veinte" i="1096" m="twenty" t="n" />
+<w c="numbers" e="dos" i="1097" m="two" t="n" />
+<w c="objects" e="balón; pelota" i="1098" m="ball" t="n" />
+<w c="objects" e="hoja; cuchilla" i="1099" m="blade" t="n" />
+<w c="objects" e="tabla; tablero" i="1100" m="board" t="n" />
+<w c="objects" e="carta" i="1101" m="card" t="n" />
+<w c="objects" e="cadena" i="1102" m="chain" t="n" />
+<w c="objects" e="mazo; garrote; maza" i="1103" m="club" t="n" />
+<w c="objects" e="rollo" i="1104" m="coil" t="n" />
+<w c="objects" e="pantalla" i="1105" m="cover" t="n" />
+<w c="objects" e="sobre" i="1106" m="envelope" t="n" />
+<w c="objects" e="pluma" i="1107" m="feather" t="n" />
+<w c="objects" e="bandera" i="1108" m="flag" t="n" />
+<w c="objects" e="marco" i="1109" m="frame" t="n" />
+<w c="objects" e="asa; mango" i="1110" m="handle" t="n" />
+<w c="objects" e="carta" i="1111" m="menu" t="n" />
+<w c="objects" e="tuerca" i="1112" m="nut" t="n" />
+<w c="objects" e="alfiler" i="1113" m="pin" t="n" />
+<w c="objects" e="tubería; conducto" i="1114" m="pipe" t="n" />
+<w c="objects" e="regalo; presente" i="1115" m="present" t="n" />
+<w c="objects" e="cuerda" i="1116" m="rope" t="n" />
+<w c="objects" e="vela" i="1117" m="sail" t="n" />
+<w c="objects" e="pepita; semilla" i="1118" m="seed" t="n" />
+<w c="objects" e="porte" i="1119" m="stamp" t="n" />
+<w c="objects" e="palo; vara; bastón" i="1120" m="stick" t="n" />
+<w c="objects" e="piedra; roca" i="1121" m="stone" t="n" />
+<w c="objects" e="billete; pasaje" i="1122" m="ticket" t="n" />
+<w c="objects" e="rueda" i="1123" m="wheel" t="n" />
+<w c="objects" e="alambre" i="1124" m="wire" t="n" />
+<w c="physics" e="equilibrio" i="1125" m="balance" t="n" />
+<w c="physics" e="carga" i="1126" m="charge" t="n" />
+<w c="physics" e="energía" i="1127" m="energy" t="n" />
+<w c="physics" e="luz" i="1128" m="light" t="n" />
+<w c="physics" e="masa" i="1129" m="mass" t="n" />
+<w c="physics" e="masa; volumen; multitud" i="1130" m="mass" t="n" />
+<w c="physics" e="medición" i="1131" m="measurement" t="n" />
+<w c="physics" e="espejo" i="1132" m="mirror" t="n" />
+<w c="physics" e="movimiento" i="1133" m="movement" t="n" />
+<w c="physics" e="presión" i="1134" m="pressure" t="n" />
+<w c="physics" e="proceso" i="1135" m="process" t="n" />
+<w c="physics" e="medida; tamaño" i="1136" m="size" t="n" />
+<w c="physics" e="sonido" i="1137" m="sound" t="n" />
+<w c="physics" e="humo" i="1138" m="steam" t="n" />
+<w c="physics" e="fuerza" i="1139" m="strength" t="n" />
+<w c="physics" e="tiempo" i="1140" m="time" t="n" />
+<w c="physics" e="unidad" i="1141" m="unit" t="n" />
+<w c="physics" e="peso" i="1142" m="weight" t="n" />
+<w c="prepositions" e="contra" i="1143" m="against" t="prep" />
+<w c="prepositions" e="en medio de" i="1144" m="among" t="prep" />
+<w c="prepositions" e="a" i="1145" m="at" t="prep" />
+<w c="prepositions" e="a" i="1146" m="at" t="prep" />
+<w c="prepositions" e="además de" i="1147" m="beside" t="prep" />
+<w c="prepositions" e="durante" i="1148" m="during" t="prep" />
+<w c="prepositions" e="para" i="1149" m="for" t="prep" />
+<w c="prepositions" e="de" i="1150" m="from" t="prep" />
+<w c="prepositions" e="de" i="1151" m="from" t="prep" />
+<w c="prepositions" e="en" i="1152" m="into" t="prep" />
+<w c="prepositions" e="de" i="1153" m="of" t="prep" />
+<w c="prepositions" e="sobre" i="1154" m="on" t="prep" />
+<w c="prepositions" e="sobre" i="1155" m="on" t="prep" />
+<w c="prepositions" e="desde" i="1156" m="since" t="prep" />
+<w c="prepositions" e="por" i="1157" m="to" t="prep" />
+<w c="prepositions" e="con" i="1158" m="with" t="prep" />
+<w c="prepositions" e="con" i="1159" m="with" t="prep" />
+<w c="prepositions" e="sin" i="1160" m="without" t="prep" />
+<w c="professions" e="actor; intérprete; farandulero; cómico" i="1161" m="actor" t="n" />
+<w c="professions" e="actriz" i="1162" m="actress" t="n" />
+<w c="professions" e="artista" i="1163" m="artist" t="n" />
+<w c="professions" e="empresario; comerciante" i="1164" m="businessman" t="n" />
+<w c="professions" e="cocinero" i="1165" m="cook" t="n" />
+<w c="professions" e="experto" i="1166" m="expert" t="n" />
+<w c="professions" e="general" i="1167" m="general" t="n" />
+<w c="professions" e="periodista; corresponsal; cronista; editor" i="1168" m="journalist" t="n" />
+<w c="professions" e="juez; magistrado" i="1169" m="judge" t="n" />
+<w c="professions" e="ministro" i="1170" m="minister" t="n" />
+<w c="professions" e="músico" i="1171" m="musician" t="n" />
+<w c="professions" e="fotógrafo" i="1172" m="photographer" t="n" />
+<w c="professions" e="piloto" i="1173" m="pilot" t="n" />
+<w c="professions" e="agente; guardia; oficial; policía" i="1174" m="policeman" t="n" />
+<w c="professions" e="político" i="1175" m="politician" t="n" />
+<w c="professions" e="presidente" i="1176" m="president" t="n" />
+<w c="professions" e="profesional" i="1177" m="professional" t="n" />
+<w c="professions" e="representante" i="1178" m="representative" t="n" />
+<w c="professions" e="marinero" i="1179" m="sailor" t="n" />
+<w c="professions" e="científico" i="1180" m="scientist" t="n" />
+<w c="professions" e="secretario" i="1181" m="secretary" t="n" />
+<w c="professions" e="criado" i="1182" m="servant" t="n" />
+<w c="professions" e="cantante" i="1183" m="singer" t="n" />
+<w c="professions" e="soldado" i="1184" m="soldier" t="n" />
+<w c="professions" e="autor; escritor" i="1185" m="writer" t="n" />
+<w c="pronouns" e="todos" i="1186" m="everybody" t="pron" />
+<w c="pronouns" e="todo" i="1187" m="everything" t="pron" />
+<w c="pronouns" e="él" i="1188" m="he" t="pron" />
+<w c="pronouns" e="su" i="1189" m="her" t="pron" />
+<w c="pronouns" e="se" i="1190" m="herself" t="pron" />
+<w c="pronouns" e="él" i="1191" m="him" t="pron" />
+<w c="pronouns" e="sí" i="1192" m="himself" t="pron" />
+<w c="pronouns" e="su" i="1193" m="his" t="pron" />
+<w c="pronouns" e="eso" i="1194" m="it" t="pron" />
+<w c="pronouns" e="mismo" i="1195" m="itself" t="pron" />
+<w c="pronouns" e="me" i="1196" m="me" t="pron" />
+<w c="pronouns" e="mi" i="1197" m="my" t="pron" />
+<w c="pronouns" e="nuestro" i="1198" m="our" t="pron" />
+<w c="pronouns" e="ella" i="1199" m="she" t="pron" />
+<w c="pronouns" e="aquel" i="1200" m="that" t="pron" />
+<w c="pronouns" e="su" i="1201" m="their" t="pron" />
+<w c="pronouns" e="los" i="1202" m="them" t="pron" />
+<w c="pronouns" e="estos" i="1203" m="these" t="pron" />
+<w c="pronouns" e="ellos" i="1204" m="they" t="pron" />
+<w c="pronouns" e="esta" i="1205" m="this" t="pron" />
+<w c="pronouns" e="esas" i="1206" m="those" t="pron" />
+<w c="pronouns" e="nos" i="1207" m="us" t="pron" />
+<w c="pronouns" e="nosotros" i="1208" m="we" t="pron" />
+<w c="pronouns" e="que" i="1209" m="what" t="pron" />
+<w c="pronouns" e="cuando" i="1210" m="when" t="pron" />
+<w c="pronouns" e="cuál" i="1211" m="which" t="pron" />
+<w c="pronouns" e="cuál" i="1212" m="which" t="pron" />
+<w c="pronouns" e="quién" i="1213" m="who" t="pron" />
+<w c="pronouns" e="quién" i="1214" m="whom" t="pron" />
+<w c="pronouns" e="cuyo" i="1215" m="whose" t="pron" />
+<w c="pronouns" e="su" i="1216" m="your" t="pron" />
+<w c="pronouns" e="te" i="1217" m="yourself" t="pron" />
+<w c="relations" e="compañero; novio; pareja" i="1218" m="boyfriend" t="n" />
+<w c="relations" e="compromiso; cita" i="1219" m="date" t="n" />
+<w c="relations" e="amor; cariño; cielo; corazón; sol; dulzura; querida" i="1220" m="dear" t="n" />
+<w c="relations" e="chica; compañera; novia; pareja" i="1221" m="girlfriend" t="n" />
+<w c="relations" e="huésped; invitado" i="1222" m="guest" t="n" />
+<w c="relations" e="beso" i="1223" m="kiss" t="n" />
+<w c="relations" e="fiesta" i="1224" m="party" t="n" />
+<w c="relations" e="sexo" i="1225" m="sex" t="n" />
+<w c="relations" e="sonrisa" i="1226" m="smile" t="n" />
+<w c="relations" e="asombro; desconcierto; sorpresa" i="1227" m="surprise" t="n" />
+<w c="relations" e="visita" i="1228" m="visit" t="n" />
+<w c="science" e="biología" i="1229" m="biology" t="n" />
+<w c="science" e="causa" i="1230" m="cause" t="n" />
+<w c="science" e="centro; corazón; esencia; núcleo; sustancia" i="1231" m="center" t="n" />
+<w c="science" e="química" i="1232" m="chemistry" t="n" />
+<w c="science" e="confrontación" i="1233" m="comparison" t="n" />
+<w c="science" e="consecuencia; efecto; resultado; corolario; secuela; conclusión" i="1234" m="consequence" t="n" />
+<w c="science" e="control; mando; poder" i="1235" m="control" t="n" />
+<w c="science" e="ámbito; área; campo; disciplina" i="1236" m="discipline" t="n" />
+<w c="science" e="hallazgo" i="1237" m="discovery" t="n" />
+<w c="science" e="descubrimiento; hallazgo" i="1238" m="discovery" t="n" />
+<w c="science" e="evento; suceso; episodio; hecho" i="1239" m="event" t="n" />
+<w c="science" e="evidencia" i="1240" m="evidence" t="n" />
+<w c="science" e="ejemplo" i="1241" m="example" t="n" />
+<w c="science" e="evidencia; hecho" i="1242" m="fact" t="n" />
+<w c="science" e="concepción; invención" i="1243" m="invention" t="n" />
+<w c="science" e="problema" i="1244" m="issue" t="n" />
+<w c="science" e="método" i="1245" m="method" t="n" />
+<w c="science" e="modelo" i="1246" m="model" t="n" />
+<w c="science" e="alternativa; elección; opción" i="1247" m="option" t="n" />
+<w c="science" e="estadio; etapa; fase" i="1248" m="phase" t="n" />
+<w c="science" e="procedimiento; proceso; método" i="1249" m="procedure" t="n" />
+<w c="science" e="producción; creación; elaboración" i="1250" m="production" t="n" />
+<w c="science" e="programa" i="1251" m="program" t="n" />
+<w c="science" e="proyecto" i="1252" m="project" t="n" />
+<w c="science" e="alcance; ámbito; esfera; marco" i="1253" m="range" t="n" />
+<w c="science" e="investigación" i="1254" m="research" t="n" />
+<w c="science" e="estudio; investigación" i="1255" m="research" t="n" />
+<w c="science" e="ciencia" i="1256" m="science" t="n" />
+<w c="science" e="sociedad" i="1257" m="society" t="n" />
+<w c="science" e="sistema" i="1258" m="system" t="n" />
+<w c="science" e="tecnología" i="1259" m="technology" t="n" />
+<w c="science" e="teoría" i="1260" m="theory" t="n" />
+<w c="science" e="tendencia" i="1261" m="trend" t="n" />
+<w c="science" e="problema" i="1262" m="trouble" t="n" />
+<w c="science" e="usuario" i="1263" m="user" t="n" />
+<w c="society" e="ejército; tropa" i="1264" m="army" t="n" />
+<w c="society" e="base" i="1265" m="base" t="n" />
+<w c="society" e="asociación; club; clube; sociedad; círculo" i="1266" m="club" t="n" />
+<w c="society" e="comitiva" i="1267" m="company" t="n" />
+<w c="society" e="estado; nación; país; tierra" i="1268" m="country" t="n" />
+<w c="society" e="juzgado; tribunal" i="1269" m="court" t="n" />
+<w c="society" e="crimen; delito" i="1270" m="crime" t="n" />
+<w c="society" e="civilización; cultura; conocimiento; ilustración" i="1271" m="culture" t="n" />
+<w c="society" e="democracia; república" i="1272" m="democracy" t="n" />
+<w c="society" e="autoridad; dominio" i="1273" m="dominion" t="n" />
+<w c="society" e="elección" i="1274" m="election" t="n" />
+<w c="society" e="existencia; vida; vivencia; presencia" i="1275" m="existence" t="n" />
+<w c="society" e="hembra" i="1276" m="female" t="n" />
+<w c="society" e="autoridad; gobierno; régimen" i="1277" m="government" t="n" />
+<w c="society" e="historia" i="1278" m="history" t="n" />
+<w c="society" e="individuo" i="1279" m="individual" t="n" />
+<w c="society" e="institución; instituto" i="1280" m="institution" t="n" />
+<w c="society" e="monarca; rey" i="1281" m="king" t="n" />
+<w c="society" e="autoridad; dirigente; líder" i="1282" m="leader" t="n" />
+<w c="society" e="macho" i="1283" m="male" t="n" />
+<w c="society" e="miembro" i="1284" m="member" t="n" />
+<w c="society" e="nación" i="1285" m="nation" t="n" />
+<w c="society" e="noticias" i="1286" m="news" t="n" />
+<w c="society" e="ruido" i="1287" m="noise" t="n" />
+<w c="society" e="orden" i="1288" m="order" t="n" />
+<w c="society" e="organización" i="1289" m="organization" t="n" />
+<w c="society" e="pase" i="1290" m="pass" t="n" />
+<w c="society" e="pasaporte" i="1291" m="passport" t="n" />
+<w c="society" e="paz" i="1292" m="peace" t="n" />
+<w c="society" e="gente" i="1293" m="people" t="n" />
+<w c="society" e="guardia; policía" i="1294" m="police" t="n" />
+<w c="society" e="política" i="1295" m="policy" t="n" />
+<w c="society" e="población" i="1296" m="population" t="n" />
+<w c="society" e="mundo; pueblo" i="1297" m="public" t="n" />
+<w c="society" e="castigo" i="1298" m="punishment" t="n" />
+<w c="society" e="iglesia" i="1299" m="religion" t="n" />
+<w c="society" e="fe; religión; seguridad" i="1300" m="religion" t="n" />
+<w c="society" e="estado" i="1301" m="state" t="n" />
+<w c="society" e="título" i="1302" m="title" t="n" />
+<w c="society" e="unión" i="1303" m="union" t="n" />
+<w c="society" e="guerra" i="1304" m="war" t="n" />
+<w c="society" e="voluntad" i="1305" m="will" t="n" />
+<w c="society" e="testamento" i="1306" m="will" t="n" />
+<w c="sports" e="honor; laurel; premio; reconocimiento" i="1307" m="award" t="n" />
+<w c="sports" e="béisbol" i="1308" m="baseball" t="n" />
+<w c="sports" e="campeonato" i="1309" m="championship" t="n" />
+<w c="sports" e="adversario; rival" i="1310" m="competitor" t="n" />
+<w c="sports" e="destino; lugar" i="1311" m="finish" t="n" />
+<w c="sports" e="fútbol" i="1312" m="football" t="n" />
+<w c="sports" e="juego" i="1313" m="game" t="n" />
+<w c="sports" e="gol" i="1314" m="goal" t="n" />
+<w c="sports" e="golf" i="1315" m="golf" t="n" />
+<w c="sports" e="partido; equipo" i="1316" m="match" t="n" />
+<w c="sports" e="jugador" i="1317" m="player" t="n" />
+<w c="sports" e="marca" i="1318" m="record" t="n" />
+<w c="sports" e="tenis" i="1319" m="tennis" t="n" />
+<w c="sports" e="lanzamiento" i="1320" m="throw" t="n" />
+<w c="sports" e="triunfo" i="1321" m="win" t="n" />
+<w c="time" e="abril" i="1322" m="April" t="n" />
+<w c="time" e="agosto" i="1323" m="August" t="n" />
+<w c="time" e="diciembre" i="1324" m="December" t="n" />
+<w c="time" e="febrero" i="1325" m="February" t="n" />
+<w c="time" e="viernes" i="1326" m="Friday" t="n" />
+<w c="time" e="enero" i="1327" m="January" t="n" />
+<w c="time" e="julio" i="1328" m="July" t="n" />
+<w c="time" e="junio" i="1329" m="June" t="n" />
+<w c="time" e="mayo" i="1330" m="May" t="n" />
+<w c="time" e="lunes" i="1331" m="Monday" t="n" />
+<w c="time" e="noviembre" i="1332" m="November" t="n" />
+<w c="time" e="octubre" i="1333" m="October" t="n" />
+<w c="time" e="sábado" i="1334" m="Saturday" t="n" />
+<w c="time" e="septiembre" i="1335" m="September" t="n" />
+<w c="time" e="domingo" i="1336" m="Sunday" t="n" />
+<w c="time" e="jueves" i="1337" m="Thursday" t="n" />
+<w c="time" e="martes" i="1338" m="Tuesday" t="n" />
+<w c="time" e="miércoles" i="1339" m="Wednesday" t="n" />
+<w c="time" e="tarde" i="1340" m="afternoon" t="n" />
+<w c="time" e="edad" i="1341" m="age" t="n" />
+<w c="time" e="otoño" i="1342" m="autumn" t="n" />
+<w c="time" e="comienzo; inicio; principio; umbral" i="1343" m="beginning" t="n" />
+<w c="time" e="siglo" i="1344" m="century" t="n" />
+<w c="time" e="fecha" i="1345" m="date" t="n" />
+<w c="time" e="día" i="1346" m="day" t="n" />
+<w c="time" e="cabo; final" i="1347" m="end" t="n" />
+<w c="time" e="anochecer; atardecer; noche" i="1348" m="evening" t="n" />
+<w c="time" e="futuro; porvenir" i="1349" m="future" t="n" />
+<w c="time" e="h; hora" i="1350" m="hour" t="n" />
+<w c="time" e="medianoche" i="1351" m="midnight" t="n" />
+<w c="time" e="minuto" i="1352" m="minute" t="n" />
+<w c="time" e="instante; momento" i="1353" m="moment" t="n" />
+<w c="time" e="instante; minuto; momento; segundo" i="1354" m="moment" t="n" />
+<w c="time" e="mes" i="1355" m="month" t="n" />
+<w c="time" e="mañana" i="1356" m="morning" t="n" />
+<w c="time" e="noche" i="1357" m="night" t="n" />
+<w c="time" e="recientemente" i="1358" m="now" t="n" />
+<w c="time" e="pasado" i="1359" m="past" t="n" />
+<w c="time" e="pausa; suspensión" i="1360" m="pause" t="n" />
+<w c="time" e="período; ciclo" i="1361" m="period" t="n" />
+<w c="time" e="actualidad; presente" i="1362" m="present" t="n" />
+<w c="time" e="temporada" i="1363" m="season" t="n" />
+<w c="time" e="s; segundo" i="1364" m="second" t="n" />
+<w c="time" e="primavera" i="1365" m="spring" t="n" />
+<w c="time" e="verano" i="1366" m="summer" t="n" />
+<w c="time" e="hoy" i="1367" m="today" t="n" />
+<w c="time" e="mañana" i="1368" m="tomorrow" t="n" />
+<w c="time" e="semana" i="1369" m="week" t="n" />
+<w c="time" e="fin de semana" i="1370" m="weekend" t="n" />
+<w c="time" e="instante; minuto; momento; segundo" i="1371" m="while" t="n" />
+<w c="time" e="invierno" i="1372" m="winter" t="n" />
+<w c="time" e="año" i="1373" m="year" t="n" />
+<w c="tools" e="campana" i="1374" m="bell" t="n" />
+<w c="tools" e="cepillo" i="1375" m="brush" t="n" />
+<w c="tools" e="botón; tecla" i="1376" m="button" t="n" />
+<w c="tools" e="pistola" i="1377" m="gun" t="n" />
+<w c="tools" e="macillo" i="1378" m="hammer" t="n" />
+<w c="tools" e="gancho; garfio; horquilla" i="1379" m="hook" t="n" />
+<w c="tools" e="llave" i="1380" m="key" t="n" />
+<w c="tools" e="cerradura" i="1381" m="lock" t="n" />
+<w c="tools" e="fósforo" i="1382" m="match" t="n" />
+<w c="tools" e="clavo" i="1383" m="nail" t="n" />
+<w c="tools" e="aguja" i="1384" m="needle" t="n" />
+<w c="tools" e="pluma" i="1385" m="pen" t="n" />
+<w c="tools" e="lápiz" i="1386" m="pencil" t="n" />
+<w c="tools" e="bomba" i="1387" m="pump" t="n" />
+<w c="tools" e="tijeras" i="1388" m="scissors" t="n" />
+<w c="tools" e="muelle" i="1389" m="spring" t="n" />
+<w c="tools" e="sello; cajetín; timbre" i="1390" m="stamp" t="n" />
+<w c="tools" e="azote" i="1391" m="whip" t="n" />
+<w c="transport" e="accidente" i="1392" m="accident" t="n" />
+<w c="transport" e="bicicleta" i="1393" m="bike" t="n" />
+<w c="transport" e="barca" i="1394" m="boat" t="n" />
+<w c="transport" e="autobús; colectivo; camión" i="1395" m="bus" t="n" />
+<w c="transport" e="auto; automóvil; coche; turismo; carro; cacharro" i="1396" m="car" t="n" />
+<w c="transport" e="curva" i="1397" m="curve" t="n" />
+<w c="transport" e="expreso" i="1398" m="express" t="n" />
+<w c="transport" e="vuelo" i="1399" m="flight" t="n" />
+<w c="transport" e="viaje" i="1400" m="journey" t="n" />
+<w c="transport" e="pasajero; pasajera" i="1401" m="passenger" t="n" />
+<w c="transport" e="avión" i="1402" m="plane" t="n" />
+<w c="transport" e="barco; buque; nave" i="1403" m="ship" t="n" />
+<w c="transport" e="patinazo" i="1404" m="skid" t="n" />
+<w c="transport" e="carril; riel; linea" i="1405" m="track" t="n" />
+<w c="transport" e="ferrocarril; tren" i="1406" m="train" t="n" />
+<w c="transport" e="transporte" i="1407" m="transport" t="n" />
+<w c="vegetables" e="alubia; judía" i="1408" m="bean" t="n" />
+<w c="vegetables" e="repollo" i="1409" m="cabbage" t="n" />
+<w c="vegetables" e="zanahoria" i="1410" m="carrot" t="n" />
+<w c="vegetables" e="pepino" i="1411" m="cucumber" t="n" />
+<w c="vegetables" e="ajo" i="1412" m="garlic" t="n" />
+<w c="vegetables" e="aceituna" i="1413" m="olive" t="n" />
+<w c="vegetables" e="cebolla" i="1414" m="onion" t="n" />
+<w c="vegetables" e="pastinaca sativa" i="1415" m="parsnip" t="n" />
+<w c="vegetables" e="patata" i="1416" m="potato" t="n" />
+<w c="vegetables" e="rábano" i="1417" m="radish" t="n" />
+<w c="vegetables" e="arroz" i="1418" m="rice" t="n" />
+<w c="vegetables" e="tomate" i="1419" m="tomato" t="n" />
+<w c="verbs" e="aceptar; querer; alojar" i="1420" m="accept" t="v" />
+<w c="verbs" e="acusar" i="1421" m="accuse" t="v" />
+<w c="verbs" e="alcanzar; lograr" i="1422" m="achieve" t="v" />
+<w c="verbs" e="actuar; hacer; representar" i="1423" m="act" t="v" />
+<w c="verbs" e="agregar; añadir" i="1424" m="add" t="v" />
+<w c="verbs" e="sumar" i="1425" m="add" t="v" />
+<w c="verbs" e="admitir; reconocer" i="1426" m="admit" t="v" />
+<w c="verbs" e="afectar; conmover" i="1427" m="affect" t="v" />
+<w c="verbs" e="coincidir; consentir" i="1428" m="agree" t="v" />
+<w c="verbs" e="dejar; permitir" i="1429" m="allow" t="v" />
+<w c="verbs" e="anunciar; proclamar" i="1430" m="announce" t="v" />
+<w c="verbs" e="debatir; discutir" i="1431" m="argue" t="v" />
+<w c="verbs" e="llegar; arribar" i="1432" m="arrive" t="v" />
+<w c="verbs" e="preguntar; solicitar; interrogar; averiguar" i="1433" m="ask" t="v" />
+<w c="verbs" e="asaltar; atacar" i="1434" m="attack" t="v" />
+<w c="verbs" e="evitar; excusar; prevenir" i="1435" m="avoid" t="v" />
+<w c="verbs" e="durar; existir; vivir" i="1436" m="be" t="v" />
+<w c="verbs" e="llevar; traer" i="1437" m="bear" t="v" />
+<w c="verbs" e="vencer" i="1438" m="beat" t="v" />
+<w c="verbs" e="convertirse" i="1439" m="become" t="v" />
+<w c="verbs" e="funcionar" i="1440" m="behave" t="v" />
+<w c="verbs" e="considerar; creer; confiar" i="1441" m="believe" t="v" />
+<w c="verbs" e="beneficiar" i="1442" m="benefit" t="v" />
+<w c="verbs" e="morder" i="1443" m="bite" t="v" />
+<w c="verbs" e="acarrear; llevar; traer; transportar" i="1444" m="bring" t="v" />
+<w c="verbs" e="construir; edificar; fabricar" i="1445" m="build" t="v" />
+<w c="verbs" e="arder; incendiar; quemar" i="1446" m="burn" t="v" />
+<w c="verbs" e="llamar; telefonear" i="1447" m="call" t="v" />
+<w c="verbs" e="importar; concernirse; interesarse; ser compasivo" i="1448" m="care" t="v" />
+<w c="verbs" e="cargar; transportar" i="1449" m="carry" t="v" />
+<w c="verbs" e="cazar" i="1450" m="catch" t="v" />
+<w c="verbs" e="causar; hacer; inducir" i="1451" m="cause" t="v" />
+<w c="verbs" e="alterar; cambiar" i="1452" m="change" t="v" />
+<w c="verbs" e="coger; escoger; seleccionar; preferir" i="1453" m="choose" t="v" />
+<w c="verbs" e="clasificar; separar; organizar" i="1454" m="classify" t="v" />
+<w c="verbs" e="limpiar; pulir" i="1455" m="clean" t="v" />
+<w c="verbs" e="comparar" i="1456" m="compare" t="v" />
+<w c="verbs" e="conectar; acoplar; empalmar; encadenar; unir; asociar; relacionar; estar conectado; hacer conexión;" i="1457" m="connect" t="v" />
+<w c="verbs" e="contener; incluir; integrar" i="1458" m="contain" t="v" />
+<w c="verbs" e="continuar; avanzar" i="1459" m="continue" t="v" />
+<w c="verbs" e="controlar" i="1460" m="control" t="v" />
+<w c="verbs" e="preparar; cocer" i="1461" m="cook" t="v" />
+<w c="verbs" e="copiar; recrear" i="1462" m="copy" t="v" />
+<w c="verbs" e="toser" i="1463" m="cough" t="v" />
+<w c="verbs" e="aplastar" i="1464" m="crush" t="v" />
+<w c="verbs" e="aplastar; machacar" i="1465" m="crush" t="v" />
+<w c="verbs" e="llorar" i="1466" m="cry" t="v" />
+<w c="verbs" e="decidir; determinar" i="1467" m="decide" t="v" />
+<w c="verbs" e="entregar; librar" i="1468" m="deliver" t="v" />
+<w c="verbs" e="describir; explicar; detallar" i="1469" m="describe" t="v" />
+<w c="verbs" e="diseñar" i="1470" m="design" t="v" />
+<w c="verbs" e="desear; querer" i="1471" m="desire" t="v" />
+<w c="verbs" e="averiguar; determinar" i="1472" m="determine" t="v" />
+<w c="verbs" e="desarrollar" i="1473" m="develop" t="v" />
+<w c="verbs" e="expirar; fallecer; sucumbir" i="1474" m="die" t="v" />
+<w c="verbs" e="descubrir" i="1475" m="discover" t="v" />
+<w c="verbs" e="discutir" i="1476" m="discuss" t="v" />
+<w c="verbs" e="desagradar; caer mal; desfavorecer; disgustar; displacer; malquerer; mirar con mala cara; no gustar de; odiar; repugnar; tener antipatía a; tener aversión a; tener tema a" i="1477" m="dislike" t="v" />
+<w c="verbs" e="dividir; partir; repartir; separar" i="1478" m="divide" t="v" />
+<w c="verbs" e="dudar" i="1479" m="doubt" t="v" />
+<w c="verbs" e="conducir; manejar" i="1480" m="drive" t="v" />
+<w c="verbs" e="comprender; cubrir" i="1481" m="embrace" t="v" />
+<w c="verbs" e="animar; estimular" i="1482" m="encourage" t="v" />
+<w c="verbs" e="acabar; cesar; concluir; parar; terminar" i="1483" m="end" t="v" />
+<w c="verbs" e="acrecentar" i="1484" m="enhance" t="v" />
+<w c="verbs" e="disfrutar; gustar" i="1485" m="enjoy" t="v" />
+<w c="verbs" e="entrar; penetrar" i="1486" m="enter" t="v" />
+<w c="verbs" e="constituir; instaurar; fundar" i="1487" m="establish" t="v" />
+<w c="verbs" e="calcular; echar; estimar" i="1488" m="estimate" t="v" />
+<w c="verbs" e="superar" i="1489" m="exceed" t="v" />
+<w c="verbs" e="existir; haber; ser" i="1490" m="exist" t="v" />
+<w c="verbs" e="aguardar; contar; esperar" i="1491" m="expect" t="v" />
+<w c="verbs" e="explicar; contar; desarrollar; comentar" i="1492" m="explain" t="v" />
+<w c="verbs" e="expresar; indicar" i="1493" m="express" t="v" />
+<w c="verbs" e="luchar; pelear; combatir; batallar; contender; resistir" i="1494" m="fight" t="v" />
+<w c="verbs" e="llenar; abarrotar" i="1495" m="fill" t="v" />
+<w c="verbs" e="descubrir; detectar; encontrar; observar; revelar; localizar" i="1496" m="find" t="v" />
+<w c="verbs" e="completar" i="1497" m="finish" t="v" />
+<w c="verbs" e="igualar" i="1498" m="flush" t="v" />
+<w c="verbs" e="perdonar; excusar" i="1499" m="forgive" t="v" />
+<w c="verbs" e="liberar; eximir; franquear; exonerar; perdonar" i="1500" m="free" t="v" />
+<w c="verbs" e="levantar" i="1501" m="get up" t="v" />
+<w c="verbs" e="desistir" i="1502" m="give up" t="v" />
+<w c="verbs" e="crecer; progresar" i="1503" m="grow" t="v" />
+<w c="verbs" e="ocurrir; pasar; suceder; suceso" i="1504" m="happen" t="v" />
+<w c="verbs" e="detestar; odiar; aborrecer; rechazar" i="1505" m="hate" t="v" />
+<w c="verbs" e="esconder; ocultar; tapar" i="1506" m="hide" t="v" />
+<w c="verbs" e="aguantar; sostener; sujetar" i="1507" m="hold" t="v" />
+<w c="verbs" e="identificar" i="1508" m="identify" t="v" />
+<w c="verbs" e="implicar; suponer" i="1509" m="imply" t="v" />
+<w c="verbs" e="incluir" i="1510" m="include" t="v" />
+<w c="verbs" e="aumentar; incrementar; crecer" i="1511" m="increase" t="v" />
+<w c="verbs" e="herir; torturar" i="1512" m="injure" t="v" />
+<w c="verbs" e="introducir" i="1513" m="introduce" t="v" />
+<w c="verbs" e="presentar" i="1514" m="introduce" t="v" />
+<w c="verbs" e="acoplar; reunir" i="1515" m="join" t="v" />
+<w c="verbs" e="conservar; mantener" i="1516" m="keep" t="v" />
+<w c="verbs" e="patada" i="1517" m="kick" t="v" />
+<w c="verbs" e="matar" i="1518" m="kill" t="v" />
+<w c="verbs" e="aterrizar" i="1519" m="land" t="v" />
+<w c="verbs" e="conducir; llevar" i="1520" m="lead" t="v" />
+<w c="verbs" e="abandonar; dejar" i="1521" m="leave" t="v" />
+<w c="verbs" e="dejar; consentir; autorizar" i="1522" m="let" t="v" />
+<w c="verbs" e="alzar; elevar; levantar; subir; acosar; realzar" i="1523" m="lift" t="v" />
+<w c="verbs" e="limitar" i="1524" m="limit" t="v" />
+<w c="verbs" e="cargar" i="1525" m="load" t="v" />
+<w c="verbs" e="cerrar" i="1526" m="lock" t="v" />
+<w c="verbs" e="parecer" i="1527" m="look" t="v" />
+<w c="verbs" e="perder" i="1528" m="lose" t="v" />
+<w c="verbs" e="manejar; tratar" i="1529" m="manage" t="v" />
+<w c="verbs" e="casarse" i="1530" m="marry" t="v" />
+<w c="verbs" e="corresponder" i="1531" m="match" t="v" />
+<w c="verbs" e="representar; significar" i="1532" m="mean" t="v" />
+<w c="verbs" e="pensar; fraguar" i="1533" m="mean" t="v" />
+<w c="verbs" e="medir" i="1534" m="measure" t="v" />
+<w c="verbs" e="aludir; citar; mencionar; mentar; nombrar" i="1535" m="mention" t="v" />
+<w c="verbs" e="perder" i="1536" m="miss" t="v" />
+<w c="verbs" e="fallar" i="1537" m="miss" t="v" />
+<w c="verbs" e="llamar" i="1538" m="name" t="v" />
+<w c="verbs" e="controlar; operar" i="1539" m="operate" t="v" />
+<w c="verbs" e="encargar" i="1540" m="order" t="v" />
+<w c="verbs" e="poseer; tener" i="1541" m="own" t="v" />
+<w c="verbs" e="ceder; dar; entregar; pasar; traspasar" i="1542" m="pass" t="v" />
+<w c="verbs" e="pelar; mondar" i="1543" m="peel" t="v" />
+<w c="verbs" e="planificar" i="1544" m="plan" t="v" />
+<w c="verbs" e="agradar; complacer; encantar" i="1545" m="please" t="v" />
+<w c="verbs" e="arar; binar" i="1546" m="plow" t="v" />
+<w c="verbs" e="envenenar" i="1547" m="poison" t="v" />
+<w c="verbs" e="abrillantar" i="1548" m="polish" t="v" />
+<w c="verbs" e="disponer; preparar; coordinar; organizar; aprestar" i="1549" m="prepare" t="v" />
+<w c="verbs" e="apretar; presionar" i="1550" m="press" t="v" />
+<w c="verbs" e="estorbar; impedir" i="1551" m="prevent" t="v" />
+<w c="verbs" e="imprimir; moldear; sellar" i="1552" m="print" t="v" />
+<w c="verbs" e="procesar; tratar" i="1553" m="process" t="v" />
+<w c="verbs" e="beneficiarse" i="1554" m="profit" t="v" />
+<w c="verbs" e="protestar; reclamar; amenazar; luchar" i="1555" m="protest" t="v" />
+<w c="verbs" e="mostrar" i="1556" m="prove" t="v" />
+<w c="verbs" e="publicar; sacar" i="1557" m="publish" t="v" />
+<w c="verbs" e="criar; asistir" i="1558" m="raise" t="v" />
+<w c="verbs" e="clasificar" i="1559" m="rate" t="v" />
+<w c="verbs" e="alcanzar; ganar" i="1560" m="reach" t="v" />
+<w c="verbs" e="recibir" i="1561" m="receive" t="v" />
+<w c="verbs" e="grabar; registrar" i="1562" m="record" t="v" />
+<w c="verbs" e="cortar; recortar" i="1563" m="reduce" t="v" />
+<w c="verbs" e="reflejar" i="1564" m="reflect" t="v" />
+<w c="verbs" e="rechazar; declinar; desairar; desterrar; excluir; rehusar" i="1565" m="refuse" t="v" />
+<w c="verbs" e="quitar; sacar" i="1566" m="remove" t="v" />
+<w c="verbs" e="devolver; entregar" i="1567" m="render" t="v" />
+<w c="verbs" e="reemplazar" i="1568" m="replace" t="v" />
+<w c="verbs" e="responder" i="1569" m="reply" t="v" />
+<w c="verbs" e="informar; relatar" i="1570" m="report" t="v" />
+<w c="verbs" e="corresponder; representar" i="1571" m="represent" t="v" />
+<w c="verbs" e="pedir; solicitar; demandar" i="1572" m="request" t="v" />
+<w c="verbs" e="honrar; venerar; admirar" i="1573" m="respect" t="v" />
+<w c="verbs" e="reposar" i="1574" m="rest" t="v" />
+<w c="verbs" e="declarar; manifestar; revelar; descubrir; denunciar" i="1575" m="reveal" t="v" />
+<w c="verbs" e="arriesgar; aventurar" i="1576" m="risk" t="v" />
+<w c="verbs" e="redondear" i="1577" m="round off" t="v" />
+<w c="verbs" e="gobernar; regir" i="1578" m="rule" t="v" />
+<w c="verbs" e="ahorrar" i="1579" m="save" t="v" />
+<w c="verbs" e="salvar; sacar; librar" i="1580" m="save" t="v" />
+<w c="verbs" e="ver" i="1581" m="see" t="v" />
+<w c="verbs" e="considerar; ver" i="1582" m="see" t="v" />
+<w c="verbs" e="echar; enviar; mandar; remitir" i="1583" m="send" t="v" />
+<w c="verbs" e="ejercer" i="1584" m="serve" t="v" />
+<w c="verbs" e="coser" i="1585" m="sew" t="v" />
+<w c="verbs" e="compartir" i="1586" m="share" t="v" />
+<w c="verbs" e="gritar; llamar" i="1587" m="shout" t="v" />
+<w c="verbs" e="exhibir; mostrar; indicar" i="1588" m="show" t="v" />
+<w c="verbs" e="aplastar" i="1589" m="smash" t="v" />
+<w c="verbs" e="oler" i="1590" m="smell" t="v" />
+<w c="verbs" e="oler" i="1591" m="smell" t="v" />
+<w c="verbs" e="oler; olfatear; aspirar" i="1592" m="smell" t="v" />
+<w c="verbs" e="fumar" i="1593" m="smoke" t="v" />
+<w c="verbs" e="pasar" i="1594" m="spend" t="v" />
+<w c="verbs" e="alzar; levantar" i="1595" m="stand" t="v" />
+<w c="verbs" e="permanecer; mantener; esperar" i="1596" m="stay" t="v" />
+<w c="verbs" e="afanar; quitar" i="1597" m="steal" t="v" />
+<w c="verbs" e="detener" i="1598" m="stop" t="v" />
+<w c="verbs" e="estudiar" i="1599" m="study" t="v" />
+<w c="verbs" e="soportar; sufrir" i="1600" m="suffer" t="v" />
+<w c="verbs" e="proponer; sugerir; aconsejar; inspirar; apuntar" i="1601" m="suggest" t="v" />
+<w c="verbs" e="facilitar; proporcionar; suministrar; proveer" i="1602" m="supply" t="v" />
+<w c="verbs" e="apoyar; respaldar" i="1603" m="support" t="v" />
+<w c="verbs" e="suponer" i="1604" m="suppose" t="v" />
+<w c="verbs" e="sorprender" i="1605" m="surprise" t="v" />
+<w c="verbs" e="durar" i="1606" m="survive" t="v" />
+<w c="verbs" e="probar" i="1607" m="taste" t="v" />
+<w c="verbs" e="enseñar; instruir" i="1608" m="teach" t="v" />
+<w c="verbs" e="ensayar; examinar; probar" i="1609" m="test" t="v" />
+<w c="verbs" e="agradecer" i="1610" m="thank" t="v" />
+<w c="verbs" e="discurrir; pensar" i="1611" m="think" t="v" />
+<w c="verbs" e="lanzar; echar; tirar; arrojar" i="1612" m="throw" t="v" />
+<w c="verbs" e="autorizar; titular" i="1613" m="title" t="v" />
+<w c="verbs" e="comerciar" i="1614" m="trade" t="v" />
+<w c="verbs" e="enseñar" i="1615" m="train" t="v" />
+<w c="verbs" e="ir" i="1616" m="travel" t="v" />
+<w c="verbs" e="cuidar; tratar" i="1617" m="treat" t="v" />
+<w c="verbs" e="embaucar" i="1618" m="trick" t="v" />
+<w c="verbs" e="intentar; pretender" i="1619" m="try" t="v" />
+<w c="verbs" e="girar; rotar" i="1620" m="turn" t="v" />
+<w c="verbs" e="ver; visitar" i="1621" m="visit" t="v" />
+<w c="verbs" e="andar; caminar" i="1622" m="walk" t="v" />
+<w c="verbs" e="calentar" i="1623" m="warm" t="v" />
+<w c="verbs" e="lavar" i="1624" m="wash" t="v" />
+<w c="verbs" e="ver" i="1625" m="watch" t="v" />
+<w c="verbs" e="llevar; vestir" i="1626" m="wear" t="v" />
+<w c="verbs" e="pesar" i="1627" m="weigh" t="v" />
+<w c="verbs" e="ganar; triunfar; vencer" i="1628" m="win" t="v" />
+<w c="verbs" e="desear" i="1629" m="wish" t="v" />
+<w c="verbs" e="ser" i="1630" m="be" t="v" />
+<w c="verbs" e="comenzar; empezar; iniciar" i="1631" m="begin" t="v" />
+<w c="verbs" e="partir; quebrar; romper; destrozar" i="1632" m="break" t="v" />
+<w c="verbs" e="adquirir; comprar" i="1633" m="buy" t="v" />
+<w c="verbs" e="cerrar; tapar; cercar" i="1634" m="close" t="v" />
+<w c="verbs" e="llegar; venir" i="1635" m="come" t="v" />
+<w c="verbs" e="cortar" i="1636" m="cut" t="v" />
+<w c="verbs" e="bailar; saltar" i="1637" m="dance" t="v" />
+<w c="verbs" e="ejercer" i="1638" m="do" t="v" />
+<w c="verbs" e="beber; tomar" i="1639" m="drink" t="v" />
+<w c="verbs" e="comer" i="1640" m="eat" t="v" />
+<w c="verbs" e="caer; derrumbarse; desplomarse" i="1641" m="fall" t="v" />
+<w c="verbs" e="palpar" i="1642" m="feel" t="v" />
+<w c="verbs" e="encontrar; recuperar" i="1643" m="find" t="v" />
+<w c="verbs" e="disparar" i="1644" m="fire" t="v" />
+<w c="verbs" e="volar" i="1645" m="fly" t="v" />
+<w c="verbs" e="seguir; continuar; proseguir" i="1646" m="follow" t="v" />
+<w c="verbs" e="olvidar; ignorar; omitir" i="1647" m="forget" t="v" />
+<w c="verbs" e="conseguir; obtener; sacar; tomar" i="1648" m="get" t="v" />
+<w c="verbs" e="dar" i="1649" m="give" t="v" />
+<w c="verbs" e="tener" i="1650" m="have" t="v" />
+<w c="verbs" e="oír" i="1651" m="hear" t="v" />
+<w c="verbs" e="ayudar; asistir" i="1652" m="help" t="v" />
+<w c="verbs" e="esperar" i="1653" m="hope" t="v" />
+<w c="verbs" e="saltar; brincar" i="1654" m="jump" t="v" />
+<w c="verbs" e="besar" i="1655" m="kiss" t="v" />
+<w c="verbs" e="conocer; saber" i="1656" m="know" t="v" />
+<w c="verbs" e="reír" i="1657" m="laugh" t="v" />
+<w c="verbs" e="aprender" i="1658" m="learn" t="v" />
+<w c="verbs" e="yacer" i="1659" m="lie" t="v" />
+<w c="verbs" e="mentir" i="1660" m="lie" t="v" />
+<w c="verbs" e="simpatizar; considerar; estimar; apreciar" i="1661" m="like" t="v" />
+<w c="verbs" e="escuchar; sentir" i="1662" m="listen" t="v" />
+<w c="verbs" e="contemplar; admirar; calcular; considerar" i="1663" m="look" t="v" />
+<w c="verbs" e="perder" i="1664" m="lose" t="v" />
+<w c="verbs" e="amar; querer" i="1665" m="love" t="v" />
+<w c="verbs" e="meter" i="1666" m="make" t="v" />
+<w c="verbs" e="encontrar" i="1667" m="meet" t="v" />
+<w c="verbs" e="desplazar; mover" i="1668" m="move" t="v" />
+<w c="verbs" e="necesitar; precisar" i="1669" m="need" t="v" />
+<w c="verbs" e="ofrecer" i="1670" m="offer" t="v" />
+<w c="verbs" e="abrir" i="1671" m="open" t="v" />
+<w c="verbs" e="abonar; pagar" i="1672" m="pay" t="v" />
+<w c="verbs" e="jugar; tocar" i="1673" m="play" t="v" />
+<w c="verbs" e="arrastrar; estirar; tirar" i="1674" m="pull" t="v" />
+<w c="verbs" e="apretar; empujar" i="1675" m="push" t="v" />
+<w c="verbs" e="poner" i="1676" m="put" t="v" />
+<w c="verbs" e="leer" i="1677" m="read" t="v" />
+<w c="verbs" e="recordar; avisar; recuperar" i="1678" m="remember" t="v" />
+<w c="verbs" e="correr" i="1679" m="run" t="v" />
+<w c="verbs" e="decir; manifestar" i="1680" m="say" t="v" />
+<w c="verbs" e="vender" i="1681" m="sell" t="v" />
+<w c="verbs" e="cantar" i="1682" m="sing" t="v" />
+<w c="verbs" e="sentar" i="1683" m="sit" t="v" />
+<w c="verbs" e="sonreír" i="1684" m="smile" t="v" />
+<w c="verbs" e="nadar" i="1685" m="swim" t="v" />
+<w c="verbs" e="coger; tomar" i="1686" m="take" t="v" />
+<w c="verbs" e="decir; hablar; conversar" i="1687" m="talk" t="v" />
+<w c="verbs" e="dibujar; trazar; delinear" i="1688" m="trace" t="v" />
+<w c="verbs" e="coger; comprender; entender" i="1689" m="understand" t="v" />
+<w c="verbs" e="emplear; usar; utilizar" i="1690" m="use" t="v" />
+<w c="verbs" e="esperar" i="1691" m="wait" t="v" />
+<w c="verbs" e="trabajar" i="1692" m="work" t="v" />
+<w c="verbs" e="escribir" i="1693" m="write" t="v" />
+<w c="weather" e="nube" i="1694" m="cloud" t="n" />
+<w c="weather" e="rocío" i="1695" m="dew" t="n" />
+<w c="weather" e="niebla" i="1696" m="fog" t="n" />
+<w c="weather" e="escarcha" i="1697" m="frost" t="n" />
+<w c="weather" e="rayo" i="1698" m="lightning" t="n" />
+<w c="weather" e="lluvia" i="1699" m="rain" t="n" />
+<w c="weather" e="arco iris" i="1700" m="rainbow" t="n" />
+<w c="weather" e="nieve" i="1701" m="snow" t="n" />
+<w c="weather" e="tormenta" i="1702" m="storm" t="n" />
+<w c="weather" e="trueno" i="1703" m="thunder" t="n" />
+<w c="weather" e="corriente; aire; viento; brisa" i="1704" m="wind" t="n" />
+</vocb>

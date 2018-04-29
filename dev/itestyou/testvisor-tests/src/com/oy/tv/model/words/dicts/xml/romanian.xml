@@ -1,0 +1,1498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Romanian (Rom&#x00E2;n&#x0103;)">
+<!--generated: Sun Jan 29 02:47:42 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="putinţă" i="0" m="ability" t="n" />
+<w c="abstract" e="act" i="1" m="act" t="n" />
+<w c="abstract" e="acţiune" i="2" m="action" t="n" />
+<w c="abstract" e="dinamism" i="3" m="activity" t="n" />
+<w c="abstract" e="adaos" i="4" m="addition" t="n" />
+<w c="abstract" e="cantitate" i="5" m="amount" t="n" />
+<w c="abstract" e="atac" i="6" m="attack" t="n" />
+<w c="abstract" e="tentativă" i="7" m="attempt" t="n" />
+<w c="abstract" e="atitudine" i="8" m="attitude" t="n" />
+<w c="abstract" e="spate" i="9" m="back" t="n" />
+<w c="abstract" e="comportament" i="10" m="behavior" t="n" />
+<w c="abstract" e="bucăţică" i="11" m="bit" t="n" />
+<w c="abstract" e="lovitură" i="12" m="blow" t="n" />
+<w c="abstract" e="pauză" i="13" m="break" t="n" />
+<w c="abstract" e="campanie" i="14" m="campaign" t="n" />
+<w c="abstract" e="caz" i="15" m="case" t="n" />
+<w c="abstract" e="oportunitate" i="16" m="chance" t="n" />
+<w c="abstract" e="schimbare" i="17" m="change" t="n" />
+<w c="abstract" e="alegere" i="18" m="choice" t="n" />
+<w c="abstract" e="condiţie" i="19" m="condition" t="n" />
+<w c="abstract" e="conector" i="20" m="connection" t="n" />
+<w c="abstract" e="crăpătură" i="21" m="crack" t="n" />
+<w c="abstract" e="întrerupere" i="22" m="cut" t="n" />
+<w c="abstract" e="pagubă" i="23" m="damage" t="n" />
+<w c="abstract" e="pericol" i="24" m="danger" t="n" />
+<w c="abstract" e="moarte" i="25" m="death" t="n" />
+<w c="abstract" e="ornament" i="26" m="decoration" t="n" />
+<w c="abstract" e="distrugere" i="27" m="destruction" t="n" />
+<w c="abstract" e="detaliu" i="28" m="detail" t="n" />
+<w c="abstract" e="putere" i="29" m="dominance" t="n" />
+<w c="abstract" e="picătură" i="30" m="drop" t="n" />
+<w c="abstract" e="datorie" i="31" m="duty" t="n" />
+<w c="abstract" e="efort" i="32" m="effort" t="n" />
+<w c="abstract" e="cădere" i="33" m="fall" t="n" />
+<w c="abstract" e="caracteristică" i="34" m="feature" t="n" />
+<w c="abstract" e="luptă" i="35" m="fight" t="n" />
+<w c="abstract" e="parte din faţă" i="36" m="front" t="n" />
+<w c="abstract" e="altitudine" i="37" m="height" t="n" />
+<w c="abstract" e="lovitură" i="38" m="hit" t="n" />
+<w c="abstract" e="gaură" i="39" m="hole" t="n" />
+<w c="abstract" e="crestere" i="40" m="increase" t="n" />
+<w c="abstract" e="creştere" i="41" m="increase" t="n" />
+<w c="abstract" e="internet" i="42" m="internet" t="n" />
+<w c="abstract" e="zdruncinătură" i="43" m="jolt" t="n" />
+<w c="abstract" e="salt" i="44" m="jump" t="n" />
+<w c="abstract" e="lovitură cu piciorul" i="45" m="kick" t="n" />
+<w c="abstract" e="fel" i="46" m="kind" t="n" />
+<w c="abstract" e="nod" i="47" m="knot" t="n" />
+<w c="abstract" e="listă" i="48" m="list" t="n" />
+<w c="abstract" e="majoritate" i="49" m="majority" t="n" />
+<w c="abstract" e="mod" i="50" m="manner" t="n" />
+<w c="abstract" e="chestiune" i="51" m="matter" t="n" />
+<w c="abstract" e="fel" i="52" m="means" t="n" />
+<w c="abstract" e="minte" i="53" m="mind" t="n" />
+<w c="abstract" e="funcţionare" i="54" m="operation" t="n" />
+<w c="abstract" e="opus" i="55" m="opposite" t="n" />
+<w c="abstract" e="salvă" i="56" m="outburst" t="n" />
+<w c="abstract" e="parte" i="57" m="part" t="n" />
+<w c="abstract" e="parte" i="58" m="part" t="n" />
+<w c="abstract" e="bucată" i="59" m="piece" t="n" />
+<w c="abstract" e="loc" i="60" m="place" t="n" />
+<w c="abstract" e="loc" i="61" m="position" t="n" />
+<w c="abstract" e="putere" i="62" m="power" t="n" />
+<w c="abstract" e="practică" i="63" m="practice" t="n" />
+<w c="abstract" e="îndatorire" i="64" m="project" t="n" />
+<w c="abstract" e="proprietate" i="65" m="property" t="n" />
+<w c="abstract" e="calitate" i="66" m="quality" t="n" />
+<w c="abstract" e="seninătate" i="67" m="quiet" t="n" />
+<w c="abstract" e="bătaie" i="68" m="reach" t="n" />
+<w c="abstract" e="responsabilitate" i="69" m="responsibility" t="n" />
+<w c="abstract" e="odihnă" i="70" m="rest" t="n" />
+<w c="abstract" e="întoarcere" i="71" m="return" t="n" />
+<w c="abstract" e="ascensiune" i="72" m="rise" t="n" />
+<w c="abstract" e="pericol" i="73" m="risk" t="n" />
+<w c="abstract" e="loc" i="74" m="seat" t="n" />
+<w c="abstract" e="set" i="75" m="set" t="n" />
+<w c="abstract" e="tremur" i="76" m="shake" t="n" />
+<w c="abstract" e="şoc" i="77" m="shock" t="n" />
+<w c="abstract" e="linişte" i="78" m="silence" t="n" />
+<w c="abstract" e="situaţie" i="79" m="situation" t="n" />
+<w c="abstract" e="bucată" i="80" m="slice" t="n" />
+<w c="abstract" e="stare" i="81" m="state" t="n" />
+<w c="abstract" e="pas" i="82" m="step" t="n" />
+<w c="abstract" e="oprire" i="83" m="stop" t="n" />
+<w c="abstract" e="gust" i="84" m="taste" t="n" />
+<w c="abstract" e="lucru" i="85" m="thing" t="n" />
+<w c="abstract" e="punct culminant" i="86" m="top" t="n" />
+<w c="abstract" e="atingere" i="87" m="touch" t="n" />
+<w c="abstract" e="tratament" i="88" m="treatment" t="n" />
+<w c="abstract" e="şiretlic" i="89" m="trick" t="n" />
+<w c="abstract" e="tip" i="90" m="type" t="n" />
+<w c="abstract" e="uz" i="91" m="use" t="n" />
+<w c="abstract" e="uzură" i="92" m="wear" t="n" />
+<w c="abstract" e="tot" i="93" m="whole" t="n" />
+<w c="abstract" e="voinţă" i="94" m="will" t="n" />
+<w c="abstract" e="pretenţii" i="95" m="wish" t="n" />
+<w c="adjectives" e="acid" i="96" m="acid" t="adj" />
+<w c="adjectives" e="tot" i="97" m="all" t="adj" />
+<w c="adjectives" e="nici un" i="98" m="any" t="adj" />
+<w c="adjectives" e="automat" i="99" m="automatic" t="adj" />
+<w c="adjectives" e="disponibil" i="100" m="available" t="adj" />
+<w c="adjectives" e="amar" i="101" m="bitter" t="adj" />
+<w c="adjectives" e="plictisitor" i="102" m="boring" t="adj" />
+<w c="adjectives" e="clar" i="103" m="bright" t="adj" />
+<w c="adjectives" e="spart" i="104" m="broken" t="adj" />
+<w c="adjectives" e="principal" i="105" m="central" t="adj" />
+<w c="adjectives" e="sigur" i="106" m="certain" t="adj" />
+<w c="adjectives" e="ieftin" i="107" m="cheap" t="adj" />
+<w c="adjectives" e="chimic" i="108" m="chemical" t="adj" />
+<w c="adjectives" e="senin" i="109" m="clear" t="adj" />
+<w c="adjectives" e="închis" i="110" m="closed" t="adj" />
+<w c="adjectives" e="obişnuit" i="111" m="common" t="adj" />
+<w c="adjectives" e="comun" i="112" m="common" t="adj" />
+<w c="adjectives" e="complet" i="113" m="complete" t="adj" />
+<w c="adjectives" e="crud" i="114" m="cruel" t="adj" />
+<w c="adjectives" e="actual" i="115" m="current" t="adj" />
+<w c="adjectives" e="periculos" i="116" m="dangerous" t="adj" />
+<w c="adjectives" e="fin" i="117" m="delicate" t="adj" />
+<w c="adjectives" e="diferit" i="118" m="different" t="adj" />
+<w c="adjectives" e="jos" i="119" m="down" t="adj" />
+<w c="adjectives" e="uscat" i="120" m="dry" t="adj" />
+<w c="adjectives" e="fiecare" i="121" m="each" t="adj" />
+<w c="adjectives" e="devreme" i="122" m="early" t="adj" />
+<w c="adjectives" e="uşor" i="123" m="easy" t="adj" />
+<w c="adjectives" e="economic" i="124" m="economic" t="adj" />
+<w c="adjectives" e="economic" i="125" m="economic" t="adj" />
+<w c="adjectives" e="electric" i="126" m="electric" t="adj" />
+<w c="adjectives" e="egal" i="127" m="equal" t="adj" />
+<w c="adjectives" e="par" i="128" m="even" t="adj" />
+<w c="adjectives" e="egal" i="129" m="even" t="adj" />
+<w c="adjectives" e="fiecare" i="130" m="every" t="adj" />
+<w c="adjectives" e="excelent" i="131" m="excellent" t="adj" />
+<w c="adjectives" e="fals" i="132" m="fake" t="adj" />
+<w c="adjectives" e="fals" i="133" m="false" t="adj" />
+<w c="adjectives" e="departe" i="134" m="far" t="adj" />
+<w c="adjectives" e="gras" i="135" m="fat" t="adj" />
+<w c="adjectives" e="mare" i="136" m="fat" t="adj" />
+<w c="adjectives" e="puţin" i="137" m="few" t="adj" />
+<w c="adjectives" e="ultim" i="138" m="final" t="adj" />
+<w c="adjectives" e="financiar" i="139" m="financial" t="adj" />
+<w c="adjectives" e="tare" i="140" m="firm" t="adj" />
+<w c="adjectives" e="plat" i="141" m="flat" t="adj" />
+<w c="adjectives" e="următor" i="142" m="following" t="adj" />
+<w c="adjectives" e="străin" i="143" m="foreign" t="adj" />
+<w c="adjectives" e="de altădată" i="144" m="former" t="adj" />
+<w c="adjectives" e="delicat" i="145" m="fragile" t="adj" />
+<w c="adjectives" e="gratuit" i="146" m="free" t="adj" />
+<w c="adjectives" e="frecvent" i="147" m="frequent" t="adj" />
+<w c="adjectives" e="proaspăt" i="148" m="fresh" t="adj" />
+<w c="adjectives" e="plin" i="149" m="full" t="adj" />
+<w c="adjectives" e="total" i="150" m="full" t="adj" />
+<w c="adjectives" e="mai departe" i="151" m="further" t="adj" />
+<w c="adjectives" e="viitor" i="152" m="future" t="adj" />
+<w c="adjectives" e="general" i="153" m="general" t="adj" />
+<w c="adjectives" e="industrial" i="154" m="industrial" t="adj" />
+<w c="adjectives" e="interesant" i="155" m="interesting" t="adj" />
+<w c="adjectives" e="internaţional" i="156" m="international" t="adj" />
+<w c="adjectives" e="ultim" i="157" m="last" t="adj" />
+<w c="adjectives" e="legal" i="158" m="legal" t="adj" />
+<w c="adjectives" e="lichid" i="159" m="liquid" t="adj" />
+<w c="adjectives" e="local" i="160" m="local" t="adj" />
+<w c="adjectives" e="tare" i="161" m="loud" t="adj" />
+<w c="adjectives" e="jos" i="162" m="low" t="adj" />
+<w c="adjectives" e="norocos" i="163" m="lucky" t="adj" />
+<w c="adjectives" e="principal" i="164" m="main" t="adj" />
+<w c="adjectives" e="mare" i="165" m="major" t="adj" />
+<w c="adjectives" e="mult" i="166" m="many" t="adj" />
+<w c="adjectives" e="metalic" i="167" m="metal" t="adj" />
+<w c="adjectives" e="militar" i="168" m="military" t="adj" />
+<w c="adjectives" e="infim" i="169" m="minute" t="adj" />
+<w c="adjectives" e="modern" i="170" m="modern" t="adj" />
+<w c="adjectives" e="mai mult" i="171" m="more" t="adj" />
+<w c="adjectives" e="mult" i="172" m="much" t="adj" />
+<w c="adjectives" e="îngust" i="173" m="narrow" t="adj" />
+<w c="adjectives" e="naţional" i="174" m="national" t="adj" />
+<w c="adjectives" e="natural" i="175" m="natural" t="adj" />
+<w c="adjectives" e="necesar" i="176" m="necessary" t="adj" />
+<w c="adjectives" e="învecinat" i="177" m="next" t="adj" />
+<w c="adjectives" e="nici o" i="178" m="no" t="adj" />
+<w c="adjectives" e="obişnuit" i="179" m="normal" t="adj" />
+<w c="adjectives" e="opus" i="180" m="opposite" t="adj" />
+<w c="adjectives" e="original" i="181" m="original" t="adj" />
+<w c="adjectives" e="celălalt" i="182" m="other" t="adj" />
+<w c="adjectives" e="propriu" i="183" m="own" t="adj" />
+<w c="adjectives" e="paralel" i="184" m="parallel" t="adj" />
+<w c="adjectives" e="deosebit" i="185" m="particular" t="adj" />
+<w c="adjectives" e="trecut" i="186" m="past" t="adj" />
+<w c="adjectives" e="personal" i="187" m="personal" t="adj" />
+<w c="adjectives" e="fizic" i="188" m="physical" t="adj" />
+<w c="adjectives" e="politic" i="189" m="political" t="adj" />
+<w c="adjectives" e="sărac" i="190" m="poor" t="adj" />
+<w c="adjectives" e="popular" i="191" m="popular" t="adj" />
+<w c="adjectives" e="posibil" i="192" m="possible" t="adj" />
+<w c="adjectives" e="actual" i="193" m="present" t="adj" />
+<w c="adjectives" e="precedent" i="194" m="previous" t="adj" />
+<w c="adjectives" e="privat" i="195" m="private" t="adj" />
+<w c="adjectives" e="probabil" i="196" m="probable" t="adj" />
+<w c="adjectives" e="profesional" i="197" m="professional" t="adj" />
+<w c="adjectives" e="public" i="198" m="public" t="adj" />
+<w c="adjectives" e="liniştit" i="199" m="quiet" t="adj" />
+<w c="adjectives" e="gata" i="200" m="ready" t="adj" />
+<w c="adjectives" e="recent" i="201" m="recent" t="adj" />
+<w c="adjectives" e="regulat" i="202" m="regular" t="adj" />
+<w c="adjectives" e="responsabil" i="203" m="responsible" t="adj" />
+<w c="adjectives" e="rigid" i="204" m="rigid" t="adj" />
+<w c="adjectives" e="violent" i="205" m="rough" t="adj" />
+<w c="adjectives" e="rotund" i="206" m="round" t="adj" />
+<w c="adjectives" e="trist" i="207" m="sad" t="adj" />
+<w c="adjectives" e="sigur" i="208" m="safe" t="adj" />
+<w c="adjectives" e="neschimbat" i="209" m="same" t="adj" />
+<w c="adjectives" e="al doilea" i="210" m="second" t="adj" />
+<w c="adjectives" e="sub acoperire" i="211" m="secret" t="adj" />
+<w c="adjectives" e="distinct" i="212" m="separate" t="adj" />
+<w c="adjectives" e="grav" i="213" m="serious" t="adj" />
+<w c="adjectives" e="mai mulţi" i="214" m="several" t="adj" />
+<w c="adjectives" e="scurt" i="215" m="short" t="adj" />
+<w c="adjectives" e="liniştit" i="216" m="silent" t="adj" />
+<w c="adjectives" e="simplu" i="217" m="simple" t="adj" />
+<w c="adjectives" e="singur" i="218" m="single" t="adj" />
+<w c="adjectives" e="mic" i="219" m="small" t="adj" />
+<w c="adjectives" e="neted" i="220" m="smooth" t="adj" />
+<w c="adjectives" e="solid" i="221" m="solid" t="adj" />
+<w c="adjectives" e="rar" i="222" m="sparse" t="adj" />
+<w c="adjectives" e="special" i="223" m="special" t="adj" />
+<w c="adjectives" e="specific" i="224" m="specific" t="adj" />
+<w c="adjectives" e="pătrat" i="225" m="square" t="adj" />
+<w c="adjectives" e="standard" i="226" m="standard" t="adj" />
+<w c="adjectives" e="lipicios" i="227" m="sticky" t="adj" />
+<w c="adjectives" e="drept" i="228" m="straight" t="adj" />
+<w c="adjectives" e="bizar" i="229" m="strange" t="adj" />
+<w c="adjectives" e="elegant" i="230" m="stylish" t="adj" />
+<w c="adjectives" e="brusc" i="231" m="sudden" t="adj" />
+<w c="adjectives" e="dulce" i="232" m="sweet" t="adj" />
+<w c="adjectives" e="înalt" i="233" m="tall" t="adj" />
+<w c="adjectives" e="dens" i="234" m="thick" t="adj" />
+<w c="adjectives" e="subţire" i="235" m="thin" t="adj" />
+<w c="adjectives" e="strâmt" i="236" m="tight" t="adj" />
+<w c="adjectives" e="adevărat" i="237" m="true" t="adj" />
+<w c="adjectives" e="urât" i="238" m="ugly" t="adj" />
+<w c="adjectives" e="sub" i="239" m="under" t="adj" />
+<w c="adjectives" e="neobişnuit" i="240" m="unusual" t="adj" />
+<w c="adjectives" e="obişnuit" i="241" m="usual" t="adj" />
+<w c="adjectives" e="divers" i="242" m="various" t="adj" />
+<w c="adjectives" e="cald" i="243" m="warm" t="adj" />
+<w c="adjectives" e="umed" i="244" m="wet" t="adj" />
+<w c="adjectives" e="întreg" i="245" m="whole" t="adj" />
+<w c="adjectives" e="larg" i="246" m="wide" t="adj" />
+<w c="adjectives" e="alt" i="247" m="another" t="adj" />
+<w c="adjectives" e="prost" i="248" m="bad" t="adj" />
+<w c="adjectives" e="de bază" i="249" m="basic" t="adj" />
+<w c="adjectives" e="frumos" i="250" m="beautiful" t="adj" />
+<w c="adjectives" e="cel mai bun" i="251" m="best" t="adj" />
+<w c="adjectives" e="mai bun" i="252" m="better" t="adj" />
+<w c="adjectives" e="mare" i="253" m="big" t="adj" />
+<w c="adjectives" e="curat" i="254" m="clean" t="adj" />
+<w c="adjectives" e="rece" i="255" m="cold" t="adj" />
+<w c="adjectives" e="corect" i="256" m="correct" t="adj" />
+<w c="adjectives" e="întunecat" i="257" m="dark" t="adj" />
+<w c="adjectives" e="dificil" i="258" m="difficult" t="adj" />
+<w c="adjectives" e="murdar" i="259" m="dirty" t="adj" />
+<w c="adjectives" e="rapid" i="260" m="fast" t="adj" />
+<w c="adjectives" e="bun" i="261" m="good" t="adj" />
+<w c="adjectives" e="mare" i="262" m="great" t="adj" />
+<w c="adjectives" e="grozav" i="263" m="great" t="adj" />
+<w c="adjectives" e="fericit" i="264" m="happy" t="adj" />
+<w c="adjectives" e="sănătos" i="265" m="healthy" t="adj" />
+<w c="adjectives" e="greu" i="266" m="heavy" t="adj" />
+<w c="adjectives" e="înalt" i="267" m="high" t="adj" />
+<w c="adjectives" e="fierbinte" i="268" m="hot" t="adj" />
+<w c="adjectives" e="important" i="269" m="important" t="adj" />
+<w c="adjectives" e="stâng" i="270" m="left" t="adj" />
+<w c="adjectives" e="uşor" i="271" m="light" t="adj" />
+<w c="adjectives" e="lung" i="272" m="long" t="adj" />
+<w c="adjectives" e="aproape" i="273" m="near" t="adj" />
+<w c="adjectives" e="nou" i="274" m="new" t="adj" />
+<w c="adjectives" e="frumos" i="275" m="nice" t="adj" />
+<w c="adjectives" e="deschis" i="276" m="open" t="adj" />
+<w c="adjectives" e="adevărat" i="277" m="real" t="adj" />
+<w c="adjectives" e="drept" i="278" m="right" t="adj" />
+<w c="adjectives" e="fin" i="279" m="sharp" t="adj" />
+<w c="adjectives" e="asemănător" i="280" m="similar" t="adj" />
+<w c="adjectives" e="lent" i="281" m="slow" t="adj" />
+<w c="adjectives" e="moale" i="282" m="soft" t="adj" />
+<w c="adjectives" e="puternic" i="283" m="strong" t="adj" />
+<w c="adjectives" e="slab" i="284" m="weak" t="adj" />
+<w c="adjectives" e="incorect" i="285" m="wrong" t="adj" />
+<w c="adjective" e="capabil" i="286" m="able" t="adj" />
+<w c="adjective" e="viu" i="287" m="alive" t="adj" />
+<w c="adjective" e="solitar" i="288" m="alone" t="adj" />
+<w c="adjective" e="furios" i="289" m="angry" t="adj" />
+<w c="adjective" e="treaz" i="290" m="awake" t="adj" />
+<w c="adjective" e="mort" i="291" m="dead" t="adj" />
+<w c="adjective" e="liber" i="292" m="free" t="adj" />
+<w c="adjective" e="amical" i="293" m="friendly" t="adj" />
+<w c="adjective" e="sănătos" i="294" m="healthy" t="adj" />
+<w c="adjective" e="uman" i="295" m="human" t="adj" />
+<w c="adjective" e="înfometat" i="296" m="hungry" t="adj" />
+<w c="adjective" e="bolnav" i="297" m="ill" t="adj" />
+<w c="adjective" e="nerăbdător" i="298" m="impatient" t="adj" />
+<w c="adjective" e="inteligent" i="299" m="intelligent" t="adj" />
+<w c="adjective" e="drept" i="300" m="just" t="adj" />
+<w c="adjective" e="drăguţ" i="301" m="kind" t="adj" />
+<w c="adjective" e="mascul" i="302" m="male" t="adj" />
+<w c="adjective" e="bărbat" i="303" m="male" t="adj" />
+<w c="adjective" e="căsătorit" i="304" m="married" t="adj" />
+<w c="adjective" e="rău" i="305" m="mean" t="adj" />
+<w c="adjective" e="medical" i="306" m="medical" t="adj" />
+<w c="adjective" e="vechi" i="307" m="old" t="adj" />
+<w c="adjective" e="răbdător" i="308" m="patient" t="adj" />
+<w c="adjective" e="special" i="309" m="private" t="adj" />
+<w c="adjective" e="bogat" i="310" m="rich" t="adj" />
+<w c="adjective" e="regal" i="311" m="royal" t="adj" />
+<w c="adjective" e="trist" i="312" m="sad" t="adj" />
+<w c="adjective" e="abil" i="313" m="sharp" t="adj" />
+<w c="adjective" e="sincer" i="314" m="sincere" t="adj" />
+<w c="adjective" e="priceput" i="315" m="skilful" t="adj" />
+<w c="adjective" e="stupid" i="316" m="stupid" t="adj" />
+<w c="adjective" e="însetat" i="317" m="thirsty" t="adj" />
+<w c="adjective" e="obosit" i="318" m="tired" t="adj" />
+<w c="adjective" e="violent" i="319" m="violent" t="adj" />
+<w c="adjective" e="înţelept" i="320" m="wise" t="adj" />
+<w c="adjective" e="tânăr" i="321" m="young" t="adj" />
+<w c="adverb" e="deasupra" i="322" m="above" t="adv" />
+<w c="adverb" e="din nou" i="323" m="again" t="adv" />
+<w c="adverb" e="aproape" i="324" m="almost" t="adv" />
+<w c="adverb" e="de-a lungul" i="325" m="along" t="adv" />
+<w c="adverb" e="deja" i="326" m="already" t="adv" />
+<w c="adverb" e="mereu" i="327" m="always" t="adv" />
+<w c="adverb" e="aproximativ" i="328" m="approximately" t="adv" />
+<w c="adverb" e="înainte" i="329" m="before" t="adv" />
+<w c="adverb" e="în spatele" i="330" m="behind" t="adv" />
+<w c="adverb" e="între" i="331" m="between" t="adv" />
+<w c="adverb" e="pe" i="332" m="by" t="adv" />
+<w c="adverb" e="direct" i="333" m="directly" t="adv" />
+<w c="adverb" e="jos" i="334" m="down" t="adv" />
+<w c="adverb" e="destul" i="335" m="enough" t="adv" />
+<w c="adverb" e="ca" i="336" m="equally" t="adv" />
+<w c="adverb" e="chiar" i="337" m="even" t="adv" />
+<w c="adverb" e="exact" i="338" m="exactly" t="adv" />
+<w c="adverb" e="în final" i="339" m="finally" t="adv" />
+<w c="adverb" e="mai întâi" i="340" m="first" t="adv" />
+<w c="adverb" e="aici" i="341" m="here" t="adv" />
+<w c="adverb" e="aici" i="342" m="here" t="adv" />
+<w c="adverb" e="totuşi" i="343" m="however" t="adv" />
+<w c="adverb" e="imediat" i="344" m="immediately" t="adv" />
+<w c="adverb" e="în" i="345" m="in" t="adv" />
+<w c="adverb" e="în" i="346" m="inside" t="adv" />
+<w c="adverb" e="în loc" i="347" m="instead" t="adv" />
+<w c="adverb" e="târziu" i="348" m="late" t="adv" />
+<w c="adverb" e="cel mai puţin" i="349" m="least" t="adv" />
+<w c="adverb" e="puţin" i="350" m="little" t="adv" />
+<w c="adverb" e="mai mult" i="351" m="more" t="adv" />
+<w c="adverb" e="în general" i="352" m="mostly" t="adv" />
+<w c="adverb" e="nu" i="353" m="not" t="adv" />
+<w c="adverb" e="evident" i="354" m="obviously" t="adv" />
+<w c="adverb" e="adesea" i="355" m="often" t="adv" />
+<w c="adverb" e="afară" i="356" m="outside" t="adv" />
+<w c="adverb" e="mai ales" i="357" m="particularly" t="adv" />
+<w c="adverb" e="poate" i="358" m="possibly" t="adv" />
+<w c="adverb" e="probabil" i="359" m="probably" t="adv" />
+<w c="adverb" e="repede" i="360" m="quickly" t="adv" />
+<w c="adverb" e="într-adevăr" i="361" m="really" t="adv" />
+<w c="adverb" e="cu adevărat" i="362" m="really" t="adv" />
+<w c="adverb" e="în ultimul timp" i="363" m="recently" t="adv" />
+<w c="adverb" e="numai" i="364" m="simply" t="adv" />
+<w c="adverb" e="încet" i="365" m="slowly" t="adv" />
+<w c="adverb" e="asa" i="366" m="so" t="adv" />
+<w c="adverb" e="câteodată" i="367" m="sometimes" t="adv" />
+<w c="adverb" e="devreme" i="368" m="soon" t="adv" />
+<w c="adverb" e="încă" i="369" m="still" t="adv" />
+<w c="adverb" e="la fel" i="370" m="such" t="adv" />
+<w c="adverb" e="brusc" i="371" m="suddenly" t="adv" />
+<w c="adverb" e="sigur" i="372" m="surely" t="adv" />
+<w c="adverb" e="atunci" i="373" m="then" t="adv" />
+<w c="adverb" e="deci" i="374" m="therefore" t="adv" />
+<w c="adverb" e="azi" i="375" m="today" t="adv" />
+<w c="adverb" e="împreună" i="376" m="together" t="adv" />
+<w c="adverb" e="de asemenea" i="377" m="too" t="adv" />
+<w c="adverb" e="de obicei" i="378" m="usually" t="adv" />
+<w c="adverb" e="foarte" i="379" m="very" t="adv" />
+<w c="adverb" e="bine" i="380" m="well" t="adv" />
+<w c="adverb" e="de ce" i="381" m="why" t="adv" />
+<w c="anatomy" e="braţ" i="382" m="arm" t="noun" />
+<w c="anatomy" e="spate" i="383" m="back" t="noun" />
+<w c="anatomy" e="cioc" i="384" m="beak" t="noun" />
+<w c="anatomy" e="sânge" i="385" m="blood" t="noun" />
+<w c="anatomy" e="trunchi" i="386" m="body" t="noun" />
+<w c="anatomy" e="os" i="387" m="bone" t="noun" />
+<w c="anatomy" e="minte" i="388" m="brain" t="noun" />
+<w c="anatomy" e="răsuflare" i="389" m="breath" t="noun" />
+<w c="anatomy" e="celulă" i="390" m="cell" t="noun" />
+<w c="anatomy" e="piept" i="391" m="chest" t="noun" />
+<w c="anatomy" e="piept" i="392" m="chest" t="noun" />
+<w c="anatomy" e="bărbie" i="393" m="chin" t="noun" />
+<w c="anatomy" e="ureche" i="394" m="ear" t="noun" />
+<w c="anatomy" e="ochi" i="395" m="eye" t="noun" />
+<w c="anatomy" e="figură" i="396" m="face" t="noun" />
+<w c="anatomy" e="în formă de deget" i="397" m="finger" t="noun" />
+<w c="anatomy" e="picior" i="398" m="foot" t="noun" />
+<w c="anatomy" e="frunte" i="399" m="forehead" t="noun" />
+<w c="anatomy" e="genă" i="400" m="gene" t="noun" />
+<w c="anatomy" e="păr" i="401" m="hair" t="noun" />
+<w c="anatomy" e="păr" i="402" m="hair" t="noun" />
+<w c="anatomy" e="mână" i="403" m="hand" t="noun" />
+<w c="anatomy" e="cap" i="404" m="head" t="noun" />
+<w c="anatomy" e="inimă" i="405" m="heart" t="noun" />
+<w c="anatomy" e="genunchi" i="406" m="knee" t="noun" />
+<w c="anatomy" e="picior" i="407" m="leg" t="noun" />
+<w c="anatomy" e="buză" i="408" m="lip" t="noun" />
+<w c="anatomy" e="gură" i="409" m="mouth" t="noun" />
+<w c="anatomy" e="muşchi" i="410" m="muscle" t="noun" />
+<w c="anatomy" e="unghie" i="411" m="nail" t="noun" />
+<w c="anatomy" e="gât" i="412" m="neck" t="noun" />
+<w c="anatomy" e="nerv" i="413" m="nerve" t="noun" />
+<w c="anatomy" e="nas" i="414" m="nose" t="noun" />
+<w c="anatomy" e="piele" i="415" m="skin" t="noun" />
+<w c="anatomy" e="stomac" i="416" m="stomach" t="noun" />
+<w c="anatomy" e="coadă" i="417" m="tail" t="noun" />
+<w c="anatomy" e="gât" i="418" m="throat" t="noun" />
+<w c="anatomy" e="deget mare" i="419" m="thumb" t="noun" />
+<w c="anatomy" e="deget de la picior" i="420" m="toe" t="noun" />
+<w c="anatomy" e="limbă" i="421" m="tongue" t="noun" />
+<w c="anatomy" e="dinte" i="422" m="tooth" t="noun" />
+<w c="anatomy" e="aripă" i="423" m="wing" t="noun" />
+<w c="animals" e="furnică" i="424" m="ant" t="noun" />
+<w c="animals" e="urs" i="425" m="bear" t="noun" />
+<w c="animals" e="albină" i="426" m="bee" t="noun" />
+<w c="animals" e="pasăre" i="427" m="bird" t="noun" />
+<w c="animals" e="pisică" i="428" m="cat" t="noun" />
+<w c="animals" e="vacă" i="429" m="cow" t="noun" />
+<w c="animals" e="câine" i="430" m="dog" t="noun" />
+<w c="animals" e="elefant" i="431" m="elephant" t="noun" />
+<w c="animals" e="peşte" i="432" m="fish" t="noun" />
+<w c="animals" e="musca" i="433" m="fly" t="noun" />
+<w c="animals" e="ţap" i="434" m="goat" t="noun" />
+<w c="animals" e="cal" i="435" m="horse" t="noun" />
+<w c="animals" e="insectă" i="436" m="insect" t="noun" />
+<w c="animals" e="leu" i="437" m="lion" t="noun" />
+<w c="animals" e="maimuţă" i="438" m="monkey" t="noun" />
+<w c="animals" e="porc" i="439" m="pig" t="noun" />
+<w c="animals" e="oaie" i="440" m="sheep" t="noun" />
+<w c="animals" e="şarpe" i="441" m="snake" t="noun" />
+<w c="art" e="artă" i="442" m="art" t="n" />
+<w c="art" e="trupă" i="443" m="band" t="n" />
+<w c="art" e="culori" i="444" m="color" t="n" />
+<w c="art" e="concert" i="445" m="concert" t="n" />
+<w c="art" e="diversitate" i="446" m="diversity" t="n" />
+<w c="art" e="distracţie" i="447" m="entertainment" t="n" />
+<w c="art" e="hit" i="448" m="hit" t="n" />
+<w c="art" e="film" i="449" m="movie" t="n" />
+<w c="art" e="muzica" i="450" m="music" t="n" />
+<w c="art" e="notă" i="451" m="note" t="n" />
+<w c="art" e="orchestră" i="452" m="orchestra" t="n" />
+<w c="art" e="vopsea" i="453" m="paint" t="n" />
+<w c="art" e="tablou" i="454" m="painting" t="n" />
+<w c="art" e="imagine" i="455" m="picture" t="n" />
+<w c="art" e="poem" i="456" m="poem" t="n" />
+<w c="art" e="versuri" i="457" m="poetry" t="n" />
+<w c="art" e="ritm" i="458" m="rhythm" t="n" />
+<w c="art" e="cîntec" i="459" m="song" t="n" />
+<w c="art" e="scenă" i="460" m="stage" t="n" />
+<w c="art" e="stil" i="461" m="style" t="n" />
+<w c="art" e="modă" i="462" m="vogue" t="n" />
+<w c="article" e="-ul" i="463" m="the" t="" />
+<w c="business" e="cont" i="464" m="account" t="n" />
+<w c="business" e="avantaj" i="465" m="advantage" t="n" />
+<w c="business" e="publicitate" i="466" m="advertisement" t="n" />
+<w c="business" e="sfat" i="467" m="advice" t="n" />
+<w c="business" e="înţelegere" i="468" m="agreement" t="n" />
+<w c="business" e="atenţie" i="469" m="attention" t="n" />
+<w c="business" e="autoritate" i="470" m="authority" t="n" />
+<w c="business" e="bancnotă" i="471" m="banknote" t="n" />
+<w c="business" e="afacere" i="472" m="bargain" t="n" />
+<w c="business" e="marcă" i="473" m="brand" t="n" />
+<w c="business" e="magazin" i="474" m="business" t="n" />
+<w c="business" e="capital" i="475" m="capital" t="n" />
+<w c="business" e="mărunt" i="476" m="change" t="n" />
+<w c="business" e="cec" i="477" m="check" t="n" />
+<w c="business" e="comitet" i="478" m="committee" t="n" />
+<w c="business" e="companie" i="479" m="company" t="n" />
+<w c="business" e="concurenţă" i="480" m="competition" t="n" />
+<w c="business" e="acuzaţie" i="481" m="complaint" t="n" />
+<w c="business" e="concurs" i="482" m="contest" t="n" />
+<w c="business" e="contract" i="483" m="contract" t="n" />
+<w c="business" e="copie" i="484" m="copy" t="n" />
+<w c="business" e="consiliu" i="485" m="council" t="n" />
+<w c="business" e="oră" i="486" m="course" t="n" />
+<w c="business" e="client" i="487" m="customer" t="n" />
+<w c="business" e="nevoie" i="488" m="demand" t="n" />
+<w c="business" e="departament" i="489" m="department" t="n" />
+<w c="business" e="schiţă" i="490" m="design" t="n" />
+<w c="business" e="greutăţi" i="491" m="difficulty" t="n" />
+<w c="business" e="direcţie" i="492" m="direction" t="n" />
+<w c="business" e="director" i="493" m="director" t="n" />
+<w c="business" e="economie" i="494" m="economy" t="n" />
+<w c="business" e="mediu înconjurător" i="495" m="environment" t="n" />
+<w c="business" e="experienţă" i="496" m="experience" t="n" />
+<w c="business" e="firmă" i="497" m="firm" t="n" />
+<w c="business" e="formular" i="498" m="form" t="n" />
+<w c="business" e="grup" i="499" m="group" t="n" />
+<w c="business" e="ajutor" i="500" m="help" t="n" />
+<w c="business" e="vacanţă" i="501" m="holiday" t="n" />
+<w c="business" e="venit" i="502" m="income" t="n" />
+<w c="business" e="industrie" i="503" m="industry" t="n" />
+<w c="business" e="asigurare" i="504" m="insurance" t="n" />
+<w c="business" e="interes" i="505" m="interest" t="n" />
+<w c="business" e="carnet de cecuri" i="506" m="invoice" t="n" />
+<w c="business" e="ocupaţie" i="507" m="job" t="n" />
+<w c="business" e="lege" i="508" m="law" t="n" />
+<w c="business" e="permisie" i="509" m="leave" t="n" />
+<w c="business" e="pierdere" i="510" m="loss" t="n" />
+<w c="business" e="îndrumare" i="511" m="management" t="n" />
+<w c="business" e="semn" i="512" m="marker" t="n" />
+<w c="business" e="piaţă" i="513" m="market" t="n" />
+<w c="business" e="material" i="514" m="material" t="n" />
+<w c="business" e="medie" i="515" m="mean" t="n" />
+<w c="business" e="întâlnire" i="516" m="meeting" t="n" />
+<w c="business" e="bani" i="517" m="money" t="n" />
+<w c="business" e="ocupaţie" i="518" m="occupation" t="n" />
+<w c="business" e="ofertă" i="519" m="offer" t="n" />
+<w c="business" e="birou" i="520" m="office" t="n" />
+<w c="business" e="ofiţer de poliţie" i="521" m="officer" t="n" />
+<w c="business" e="proprietar" i="522" m="owner" t="n" />
+<w c="business" e="pachet" i="523" m="package" t="n" />
+<w c="business" e="divizie" i="524" m="part" t="n" />
+<w c="business" e="plată" i="525" m="payment" t="n" />
+<w c="business" e="plan" i="526" m="plan" t="n" />
+<w c="business" e="preţ" i="527" m="price" t="n" />
+<w c="business" e="problemă" i="528" m="problem" t="n" />
+<w c="business" e="produs" i="529" m="product" t="n" />
+<w c="business" e="profit" i="530" m="profit" t="n" />
+<w c="business" e="proprietate" i="531" m="property" t="n" />
+<w c="business" e="tarif" i="532" m="rate" t="n" />
+<w c="business" e="rest" i="533" m="rest" t="n" />
+<w c="business" e="drept" i="534" m="right" t="n" />
+<w c="business" e="vânzare" i="535" m="sale" t="n" />
+<w c="business" e="serviciu" i="536" m="service" t="n" />
+<w c="business" e="acţiune" i="537" m="share" t="n" />
+<w c="business" e="magazin" i="538" m="shop" t="n" />
+<w c="business" e="abilitate" i="539" m="skill" t="n" />
+<w c="business" e="succes" i="540" m="success" t="n" />
+<w c="business" e="sprijin" i="541" m="support" t="n" />
+<w c="business" e="tabel" i="542" m="table" t="n" />
+<w c="business" e="taxă" i="543" m="tax" t="n" />
+<w c="business" e="echipă" i="544" m="team" t="n" />
+<w c="business" e="comerţ" i="545" m="trade" t="n" />
+<w c="business" e="valoare" i="546" m="value" t="n" />
+<w c="business" e="răsplată" i="547" m="wages" t="n" />
+<w c="business" e="loc de muncă" i="548" m="work" t="n" />
+<w c="business" e="muncitor" i="549" m="worker" t="n" />
+<w c="city" e="aeroport" i="550" m="airport" t="n" />
+<w c="city" e="bancă" i="551" m="bank" t="n" />
+<w c="city" e="a construi un pod peste" i="552" m="bridge" t="n" />
+<w c="city" e="clădire" i="553" m="building" t="n" />
+<w c="city" e="capitală" i="554" m="capital" t="n" />
+<w c="city" e="castel" i="555" m="castle" t="n" />
+<w c="city" e="biserică" i="556" m="church" t="n" />
+<w c="city" e="cinematograf" i="557" m="cinema" t="n" />
+<w c="city" e="oraş" i="558" m="city" t="n" />
+<w c="city" e="fabrică" i="559" m="factory" t="n" />
+<w c="city" e="apartament" i="560" m="flat" t="n" />
+<w c="city" e="spital" i="561" m="hospital" t="n" />
+<w c="city" e="hotel" i="562" m="hotel" t="n" />
+<w c="city" e="bibliotecă" i="563" m="library" t="n" />
+<w c="city" e="muzeu" i="564" m="museum" t="n" />
+<w c="city" e="parc" i="565" m="park" t="n" />
+<w c="city" e="închisoare" i="566" m="prison" t="n" />
+<w c="city" e="restaurant" i="567" m="restaurant" t="n" />
+<w c="city" e="drum" i="568" m="road" t="n" />
+<w c="city" e="şcoală" i="569" m="school" t="n" />
+<w c="city" e="post" i="570" m="station" t="n" />
+<w c="city" e="stradă" i="571" m="street" t="n" />
+<w c="city" e="construcţie" i="572" m="structure" t="n" />
+<w c="city" e="metrou" i="573" m="subway" t="n" />
+<w c="city" e="teatru" i="574" m="theater" t="n" />
+<w c="city" e="oraş" i="575" m="town" t="n" />
+<w c="city" e="universitar" i="576" m="university" t="n" />
+<w c="city" e="sat" i="577" m="village" t="n" />
+<w c="clothes" e="poşetă" i="578" m="bag" t="n" />
+<w c="clothes" e="gheată" i="579" m="boot" t="n" />
+<w c="clothes" e="ţesătură" i="580" m="cloth" t="n" />
+<w c="clothes" e="haine" i="581" m="clothing" t="n" />
+<w c="clothes" e="haină" i="582" m="coat" t="n" />
+<w c="clothes" e="guler" i="583" m="collar" t="n" />
+<w c="clothes" e="pălărie" i="584" m="hat" t="n" />
+<w c="clothes" e="piatră preţioasă" i="585" m="jewel" t="n" />
+<w c="clothes" e="inel" i="586" m="ring" t="n" />
+<w c="clothes" e="cămaşă" i="587" m="shirt" t="n" />
+<w c="clothes" e="pantof" i="588" m="shoe" t="n" />
+<w c="clothes" e="fustă" i="589" m="skirt" t="n" />
+<w c="clothes" e="şosetă" i="590" m="sock" t="n" />
+<w c="clothes" e="valiza" i="591" m="suitcase" t="n" />
+<w c="clothes" e="cravată" i="592" m="tie" t="n" />
+<w c="colors" e="negru" i="593" m="black" t="adj" />
+<w c="colors" e="albăstrui" i="594" m="blue" t="adj" />
+<w c="colors" e="maro" i="595" m="brown" t="adj" />
+<w c="colors" e="gri" i="596" m="gray" t="adj" />
+<w c="colors" e="verde" i="597" m="green" t="adj" />
+<w c="colors" e="portocaliu" i="598" m="orange" t="adj" />
+<w c="colors" e="roz" i="599" m="pink" t="adj" />
+<w c="colors" e="roşu" i="600" m="red" t="adj" />
+<w c="colors" e="violet" i="601" m="violet" t="adj" />
+<w c="colors" e="alb" i="602" m="white" t="adj" />
+<w c="colors" e="galben" i="603" m="yellow" t="adj" />
+<w c="communication" e="anunţ" i="604" m="announcement" t="n" />
+<w c="communication" e="răspuns" i="605" m="answer" t="n" />
+<w c="communication" e="aprobare" i="606" m="approval" t="n" />
+<w c="communication" e="ceartă" i="607" m="argument" t="n" />
+<w c="communication" e="argument" i="608" m="argument" t="n" />
+<w c="communication" e="carte" i="609" m="book" t="n" />
+<w c="communication" e="apel" i="610" m="call" t="n" />
+<w c="communication" e="caracter" i="611" m="character" t="n" />
+<w c="communication" e="strigăt" i="612" m="cry" t="n" />
+<w c="communication" e="date" i="613" m="data" t="n" />
+<w c="communication" e="decizie" i="614" m="decision" t="n" />
+<w c="communication" e="dicţionar" i="615" m="dictionary" t="n" />
+<w c="communication" e="discuţie" i="616" m="discussion" t="n" />
+<w c="communication" e="dubiu" i="617" m="doubt" t="n" />
+<w c="communication" e="încercare" i="618" m="experience" t="n" />
+<w c="communication" e="privire" i="619" m="expression" t="n" />
+<w c="communication" e="sentiment" i="620" m="feeling" t="n" />
+<w c="communication" e="umor" i="621" m="humor" t="n" />
+<w c="communication" e="idee" i="622" m="idea" t="n" />
+<w c="communication" e="interes" i="623" m="interest" t="n" />
+<w c="communication" e="interviu" i="624" m="interview" t="n" />
+<w c="communication" e="limbă" i="625" m="language" t="n" />
+<w c="communication" e="limbă" i="626" m="language" t="n" />
+<w c="communication" e="literă" i="627" m="letter" t="n" />
+<w c="communication" e="scrisoare" i="628" m="letter" t="n" />
+<w c="communication" e="minciună" i="629" m="lie" t="n" />
+<w c="communication" e="revistă" i="630" m="magazine" t="n" />
+<w c="communication" e="poştă" i="631" m="mail" t="n" />
+<w c="communication" e="amintire" i="632" m="memory" t="n" />
+<w c="communication" e="memorie" i="633" m="memory" t="n" />
+<w c="communication" e="greşeală" i="634" m="mistake" t="n" />
+<w c="communication" e="nume" i="635" m="name" t="n" />
+<w c="communication" e="ziar" i="636" m="newspaper" t="n" />
+<w c="communication" e="notã" i="637" m="note" t="n" />
+<w c="communication" e="număr" i="638" m="number" t="n" />
+<w c="communication" e="părere" i="639" m="opinion" t="n" />
+<w c="communication" e="pagină" i="640" m="page" t="n" />
+<w c="communication" e="punct" i="641" m="point" t="n" />
+<w c="communication" e="pronunţare" i="642" m="pronunciation" t="n" />
+<w c="communication" e="propunere" i="643" m="proposal" t="n" />
+<w c="communication" e="protest" i="644" m="protest" t="n" />
+<w c="communication" e="întrebare" i="645" m="question" t="n" />
+<w c="communication" e="reacţie" i="646" m="reaction" t="n" />
+<w c="communication" e="motiv" i="647" m="reason" t="n" />
+<w c="communication" e="relaţii" i="648" m="relation" t="n" />
+<w c="communication" e="rugăminte" i="649" m="request" t="n" />
+<w c="communication" e="secret" i="650" m="secret" t="n" />
+<w c="communication" e="frază" i="651" m="sentence" t="n" />
+<w c="communication" e="formă" i="652" m="shape" t="n" />
+<w c="communication" e="simbol" i="653" m="sign" t="n" />
+<w c="communication" e="limbă" i="654" m="speech" t="n" />
+<w c="communication" e="ortografie" i="655" m="spelling" t="n" />
+<w c="communication" e="criteriu" i="656" m="standard" t="n" />
+<w c="communication" e="subiect" i="657" m="subject" t="n" />
+<w c="communication" e="propunere" i="658" m="suggestion" t="n" />
+<w c="communication" e="voce" i="659" m="voice" t="n" />
+<w c="communication" e="promisiune" i="660" m="word" t="n" />
+<w c="communication" e="scris" i="661" m="writing" t="n" />
+<w c="conjunction" e="şi" i="662" m="and" t="conj" />
+<w c="conjunction" e="pentru că" i="663" m="because" t="conj" />
+<w c="conjunction" e="deoarece" i="664" m="for" t="conj" />
+<w c="conjunction" e="dacă" i="665" m="if" t="conj" />
+<w c="conjunction" e="sau" i="666" m="or" t="conj" />
+<w c="conjunction" e="ca" i="667" m="than" t="conj" />
+<w c="containers" e="sacoşă" i="668" m="bag" t="n" />
+<w c="containers" e="coş" i="669" m="basket" t="n" />
+<w c="containers" e="sticlă" i="670" m="bottle" t="n" />
+<w c="containers" e="cutie" i="671" m="box" t="n" />
+<w c="containers" e="ceaşcă" i="672" m="cup" t="n" />
+<w c="containers" e="pahar" i="673" m="glass" t="n" />
+<w c="containers" e="farfurie" i="674" m="plate" t="n" />
+<w c="conversation" e="nu ştiu" i="675" m="I don't know" t="" />
+<w c="conversation" e="nu înţeleg" i="676" m="I don't understand" t="" />
+<w c="conversation" e="(hai) noroc" i="677" m="cheers" t="" />
+<w c="conversation" e="vorbiţi engleză" i="678" m="do you speak English" t="" />
+<w c="conversation" e="bună ziua" i="679" m="good day" t="" />
+<w c="conversation" e="noroc" i="680" m="good luck" t="" />
+<w c="conversation" e="la mulţi ani" i="681" m="happy birthday" t="" />
+<w c="conversation" e="salut!" i="682" m="hello" t="" />
+<w c="conversation" e="ce mai faceţi" i="683" m="how are you" t="" />
+<w c="conversation" e="multe mulţumiri" i="684" m="many thanks" t="" />
+<w c="conversation" e="nu" i="685" m="no" t="" />
+<w c="conversation" e="îmi pare rău" i="686" m="sorry" t="" />
+<w c="conversation" e="mulţumesc mult" i="687" m="thank you very much" t="" />
+<w c="conversation" e="da" i="688" m="yes" t="" />
+<w c="conversation" e="cu plăcere" i="689" m="you're welcome" t="" />
+<w c="countries" e="China; China" i="690" m="China" t="n" />
+<w c="countries" e="Republica Cehă; Republica Cehă" i="691" m="Czech Republic" t="n" />
+<w c="countries" e="Republica Franceză; Republica Franceză" i="692" m="France" t="n" />
+<w c="countries" e="Republica Federală Germană; Republica Federală Germană" i="693" m="Germany" t="n" />
+<w c="countries" e="Republica India; Republica India" i="694" m="India" t="n" />
+<w c="countries" e="Italia; Italia" i="695" m="Italy" t="n" />
+<w c="countries" e="Japonia; Japonia" i="696" m="Japan" t="n" />
+<w c="countries" e="Regatul Spaniei; Regatul Spaniei" i="697" m="Spain" t="n" />
+<w c="countries" e="Regatul Unit" i="698" m="United Kingdom" t="n" />
+<w c="countries" e="Statele Unite ale Americii" i="699" m="United States" t="n" />
+<w c="devices" e="aparat de fotografiat" i="700" m="camera" t="n" />
+<w c="devices" e="telefon celular" i="701" m="cellphone" t="n" />
+<w c="devices" e="ceas" i="702" m="clock" t="n" />
+<w c="devices" e="computer" i="703" m="computer" t="n" />
+<w c="devices" e="lift" i="704" m="elevator" t="n" />
+<w c="devices" e="motor" i="705" m="engine" t="n" />
+<w c="devices" e="instrument" i="706" m="instrument" t="n" />
+<w c="devices" e="maşină" i="707" m="machine" t="n" />
+<w c="devices" e="cuptor" i="708" m="oven" t="n" />
+<w c="devices" e="televizor" i="709" m="television" t="n" />
+<w c="devices" e="aparat de fotografiat" i="710" m="television camera" t="n" />
+<w c="devices" e="ceas" i="711" m="watch" t="n" />
+<w c="drinks" e="bere" i="712" m="beer" t="n" />
+<w c="drinks" e="cafea" i="713" m="coffee" t="n" />
+<w c="drinks" e="băutură" i="714" m="drink" t="n" />
+<w c="drinks" e="lapte" i="715" m="milk" t="n" />
+<w c="drinks" e="ceai" i="716" m="tea" t="n" />
+<w c="drinks" e="apă" i="717" m="water" t="n" />
+<w c="drinks" e="vin" i="718" m="wine" t="n" />
+<w c="education" e="clasă" i="719" m="class" t="n" />
+<w c="education" e="educaţie" i="720" m="education" t="n" />
+<w c="education" e="educaţie" i="721" m="education" t="n" />
+<w c="education" e="studii" i="722" m="education" t="n" />
+<w c="education" e="examen" i="723" m="examination" t="n" />
+<w c="education" e="notă" i="724" m="grade" t="n" />
+<w c="education" e="cunoaştere" i="725" m="knowledge" t="n" />
+<w c="education" e="student" i="726" m="student" t="n" />
+<w c="education" e="profesor" i="727" m="teacher" t="n" />
+<w c="education" e="pregătire" i="728" m="training" t="n" />
+<w c="environment" e="ploaie acidă" i="729" m="acid rain" t="n" />
+<w c="environment" e="atmosferă" i="730" m="atmosphere" t="n" />
+<w c="environment" e="ecologie" i="731" m="ecology" t="n" />
+<w c="environment" e="împrejurimi" i="732" m="environment" t="n" />
+<w c="environment" e="combustibil fosil" i="733" m="fossil fuel" t="n" />
+<w c="environment" e="încălzirea globală" i="734" m="global warming" t="n" />
+<w c="environment" e="efect de seră" i="735" m="greenhouse effect" t="n" />
+<w c="environment" e="mină" i="736" m="mine" t="n" />
+<w c="environment" e="ozon" i="737" m="ozone" t="n" />
+<w c="environment" e="poluare" i="738" m="pollution" t="n" />
+<w c="environment" e="reciclare" i="739" m="recycling" t="n" />
+<w c="environment" e="smog" i="740" m="smog" t="n" />
+<w c="environment" e="deşeuri" i="741" m="waste" t="n" />
+<w c="family" e="bebeluş" i="742" m="baby" t="n" />
+<w c="family" e="naştere" i="743" m="birth" t="n" />
+<w c="family" e="zi de naştere" i="744" m="birthday" t="n" />
+<w c="family" e="băiat" i="745" m="boy" t="n" />
+<w c="family" e="frate" i="746" m="brother" t="n" />
+<w c="family" e="copil" i="747" m="child" t="n" />
+<w c="family" e="fiică" i="748" m="daughter" t="n" />
+<w c="family" e="moarte" i="749" m="death" t="n" />
+<w c="family" e="familie" i="750" m="family" t="n" />
+<w c="family" e="tată" i="751" m="father" t="n" />
+<w c="family" e="prieten" i="752" m="friend" t="n" />
+<w c="family" e="fetiţă" i="753" m="girl" t="n" />
+<w c="family" e="bunică" i="754" m="grandfather" t="n" />
+<w c="family" e="fiinţă umană" i="755" m="human" t="n" />
+<w c="family" e="soţ" i="756" m="husband" t="n" />
+<w c="family" e="viaţă" i="757" m="life" t="n" />
+<w c="family" e="bărbat" i="758" m="man" t="n" />
+<w c="family" e="căsătorie" i="759" m="marriage" t="n" />
+<w c="family" e="mamă" i="760" m="mother" t="n" />
+<w c="family" e="vecin" i="761" m="neighbor" t="n" />
+<w c="family" e="părinte" i="762" m="parent" t="n" />
+<w c="family" e="persoană" i="763" m="person" t="n" />
+<w c="family" e="relaţie" i="764" m="relationship" t="n" />
+<w c="family" e="sorã" i="765" m="sister" t="n" />
+<w c="family" e="fiu" i="766" m="son" t="n" />
+<w c="family" e="nuntă" i="767" m="wedding" t="n" />
+<w c="family" e="nuntă" i="768" m="wedding" t="n" />
+<w c="family" e="soţie" i="769" m="wife" t="n" />
+<w c="family" e="femeie" i="770" m="woman" t="n" />
+<w c="feelings" e="frică" i="771" m="fear" t="n" />
+<w c="feelings" e="ură" i="772" m="hate" t="n" />
+<w c="feelings" e="dragoste" i="773" m="love" t="n" />
+<w c="feelings" e="plăcere" i="774" m="pleasure" t="n" />
+<w c="feelings" e="speranţă" i="775" m="promise" t="n" />
+<w c="food" e="p&amp;acirc;ine" i="776" m="bread" t="n" />
+<w c="food" e="mic dejun" i="777" m="breakfast" t="n" />
+<w c="food" e="unt" i="778" m="butter" t="n" />
+<w c="food" e="prăjitură" i="779" m="cake" t="n" />
+<w c="food" e="brânză" i="780" m="cheese" t="n" />
+<w c="food" e="ciocolată" i="781" m="chocolate" t="n" />
+<w c="food" e="cupă" i="782" m="cup" t="n" />
+<w c="food" e="ou" i="783" m="egg" t="n" />
+<w c="food" e="hrană" i="784" m="food" t="n" />
+<w c="food" e="furculiţă" i="785" m="fork" t="n" />
+<w c="food" e="fruct" i="786" m="fruit" t="n" />
+<w c="food" e="cuţit" i="787" m="knife" t="n" />
+<w c="food" e="prânz" i="788" m="lunch" t="n" />
+<w c="food" e="masă" i="789" m="meal" t="n" />
+<w c="food" e="carne" i="790" m="meat" t="n" />
+<w c="food" e="ulei" i="791" m="oil" t="n" />
+<w c="food" e="salată" i="792" m="salad" t="n" />
+<w c="food" e="sare" i="793" m="salt" t="n" />
+<w c="food" e="sandvis" i="794" m="sandwich" t="n" />
+<w c="food" e="sos" i="795" m="sauce" t="n" />
+<w c="food" e="ciorbă" i="796" m="soup" t="n" />
+<w c="food" e="lingură" i="797" m="spoon" t="n" />
+<w c="food" e="zahăr" i="798" m="sugar" t="n" />
+<w c="food" e="farmec" i="799" m="sweet" t="n" />
+<w c="fruits" e="măr" i="800" m="apple" t="n" />
+<w c="fruits" e="caisă" i="801" m="apricot" t="n" />
+<w c="fruits" e="banană" i="802" m="banana" t="n" />
+<w c="fruits" e="mură" i="803" m="blackberry" t="n" />
+<w c="fruits" e="vişină" i="804" m="cherry" t="n" />
+<w c="fruits" e="lămâie" i="805" m="lemon" t="n" />
+<w c="fruits" e="nucă" i="806" m="nut" t="n" />
+<w c="fruits" e="portocală" i="807" m="orange" t="n" />
+<w c="fruits" e="piersică" i="808" m="peach" t="n" />
+<w c="fruits" e="pară" i="809" m="pear" t="n" />
+<w c="fruits" e="ananas" i="810" m="pineapple" t="n" />
+<w c="fruits" e="prună" i="811" m="plum" t="n" />
+<w c="fruits" e="zmeură" i="812" m="raspberry" t="n" />
+<w c="fruits" e="căpşună" i="813" m="strawberry" t="n" />
+<w c="furniture" e="pat" i="814" m="bed" t="n" />
+<w c="furniture" e="covor" i="815" m="carpet" t="n" />
+<w c="furniture" e="scaun" i="816" m="chair" t="n" />
+<w c="furniture" e="dulap" i="817" m="cupboard" t="n" />
+<w c="furniture" e="cortină" i="818" m="curtain" t="n" />
+<w c="furniture" e="birou" i="819" m="desk" t="n" />
+<w c="furniture" e="sertar" i="820" m="drawer" t="n" />
+<w c="furniture" e="loc" i="821" m="seat" t="n" />
+<w c="furniture" e="raft" i="822" m="shelf" t="n" />
+<w c="furniture" e="chiuvetă" i="823" m="sink" t="n" />
+<w c="furniture" e="oamenii care stau la masă" i="824" m="table" t="n" />
+<w c="geography" e="Pământ" i="825" m="Earth" t="n" />
+<w c="geography" e="lună" i="826" m="Moon" t="n" />
+<w c="geography" e="mal" i="827" m="bank" t="n" />
+<w c="geography" e="plajă" i="828" m="beach" t="n" />
+<w c="geography" e="est" i="829" m="east" t="n" />
+<w c="geography" e="deal" i="830" m="hill" t="n" />
+<w c="geography" e="insulă" i="831" m="island" t="n" />
+<w c="geography" e="lac" i="832" m="lake" t="n" />
+<w c="geography" e="pământ" i="833" m="land" t="n" />
+<w c="geography" e="hartă" i="834" m="map" t="n" />
+<w c="geography" e="nord" i="835" m="north" t="n" />
+<w c="geography" e="câmpie" i="836" m="plain" t="n" />
+<w c="geography" e="regiune" i="837" m="region" t="n" />
+<w c="geography" e="fluviu" i="838" m="river" t="n" />
+<w c="geography" e="mare" i="839" m="sea" t="n" />
+<w c="geography" e="sud" i="840" m="south" t="n" />
+<w c="geography" e="spaţiu" i="841" m="space" t="n" />
+<w c="geography" e="stea" i="842" m="star" t="n" />
+<w c="geography" e="soare" i="843" m="sun" t="n" />
+<w c="geography" e="vest" i="844" m="west" t="n" />
+<w c="house" e="adresă" i="845" m="address" t="n" />
+<w c="house" e="baie" i="846" m="bathroom" t="n" />
+<w c="house" e="dormitor" i="847" m="bedroom" t="n" />
+<w c="house" e="cărămidă" i="848" m="brick" t="n" />
+<w c="house" e="uşă" i="849" m="door" t="n" />
+<w c="house" e="podea" i="850" m="floor" t="n" />
+<w c="house" e="etaj" i="851" m="floor" t="n" />
+<w c="house" e="mobilă" i="852" m="furniture" t="n" />
+<w c="house" e="garaj" i="853" m="garage" t="n" />
+<w c="house" e="grădină" i="854" m="garden" t="n" />
+<w c="house" e="poartă" i="855" m="gate" t="n" />
+<w c="house" e="foaier" i="856" m="hall" t="n" />
+<w c="house" e="casă" i="857" m="home" t="n" />
+<w c="house" e="casă" i="858" m="house" t="n" />
+<w c="house" e="bucătărie" i="859" m="kitchen" t="n" />
+<w c="house" e="acoperiş" i="860" m="roof" t="n" />
+<w c="house" e="cameră" i="861" m="room" t="n" />
+<w c="house" e="duş,burlan,jgheab" i="862" m="shower" t="n" />
+<w c="house" e="treaptă" i="863" m="step" t="n" />
+<w c="house" e="toaletă" i="864" m="toilet" t="n" />
+<w c="house" e="zid" i="865" m="wall" t="n" />
+<w c="house" e="fântână" i="866" m="well" t="n" />
+<w c="house" e="fereastră" i="867" m="window" t="n" />
+<w c="languages" e="Chineză" i="868" m="Chinese" t="n" />
+<w c="languages" e="Engleză" i="869" m="English" t="n" />
+<w c="languages" e="Franceză" i="870" m="French" t="n" />
+<w c="languages" e="Germană" i="871" m="German" t="n" />
+<w c="languages" e="Hindi" i="872" m="Hindi" t="n" />
+<w c="languages" e="Italiană" i="873" m="Italian" t="n" />
+<w c="languages" e="Japoneză" i="874" m="Japanese" t="n" />
+<w c="languages" e="Rusă" i="875" m="Russian" t="n" />
+<w c="languages" e="Spaniolă" i="876" m="Spanish" t="n" />
+<w c="materials" e="acid" i="877" m="acid" t="n" />
+<w c="materials" e="produs chimic" i="878" m="chemical" t="n" />
+<w c="materials" e="element chimic" i="879" m="chemical element" t="n" />
+<w c="materials" e="cărbune" i="880" m="coal" t="n" />
+<w c="materials" e="bumbac" i="881" m="cotton" t="n" />
+<w c="materials" e="praf" i="882" m="dust" t="n" />
+<w c="materials" e="pământ" i="883" m="earth" t="n" />
+<w c="materials" e="grăsime" i="884" m="fat" t="n" />
+<w c="materials" e="sticlã" i="885" m="glass" t="n" />
+<w c="materials" e="clei" i="886" m="glue" t="n" />
+<w c="materials" e="ban de aur" i="887" m="gold" t="n" />
+<w c="materials" e="bob" i="888" m="grain" t="n" />
+<w c="materials" e="gheaţă" i="889" m="ice" t="n" />
+<w c="materials" e="cerneală" i="890" m="ink" t="n" />
+<w c="materials" e="fier" i="891" m="iron" t="n" />
+<w c="materials" e="plumb" i="892" m="lead" t="n" />
+<w c="materials" e="piele" i="893" m="leather" t="n" />
+<w c="materials" e="lichid" i="894" m="liquid" t="n" />
+<w c="materials" e="materie" i="895" m="matter" t="n" />
+<w c="materials" e="metal" i="896" m="metallic element" t="n" />
+<w c="materials" e="petrol" i="897" m="oil" t="n" />
+<w c="materials" e="hârtie" i="898" m="paper" t="n" />
+<w c="materials" e="otravă" i="899" m="poison" t="n" />
+<w c="materials" e="praf" i="900" m="powder" t="n" />
+<w c="materials" e="nisip" i="901" m="sand" t="n" />
+<w c="materials" e="mătase" i="902" m="silk" t="n" />
+<w c="materials" e="argint" i="903" m="silver" t="n" />
+<w c="materials" e="săpun" i="904" m="soap" t="n" />
+<w c="materials" e="oţel" i="905" m="steel" t="n" />
+<w c="materials" e="lemn" i="906" m="wood" t="n" />
+<w c="materials" e="lână" i="907" m="wool" t="n" />
+<w c="mathematics" e="adunare" i="908" m="addition" t="n" />
+<w c="mathematics" e="unghi" i="909" m="angle" t="n" />
+<w c="mathematics" e="arie" i="910" m="area" t="n" />
+<w c="mathematics" e="centru" i="911" m="center" t="n" />
+<w c="mathematics" e="cerc" i="912" m="circle" t="n" />
+<w c="mathematics" e="element" i="913" m="component" t="n" />
+<w c="mathematics" e="curbă" i="914" m="curve" t="n" />
+<w c="mathematics" e="grad" i="915" m="degree" t="n" />
+<w c="mathematics" e="nivel" i="916" m="degree" t="n" />
+<w c="mathematics" e="diferenţă" i="917" m="difference" t="n" />
+<w c="mathematics" e="distanţă" i="918" m="distance" t="n" />
+<w c="mathematics" e="împărţire" i="919" m="division" t="n" />
+<w c="mathematics" e="margine" i="920" m="edge" t="n" />
+<w c="mathematics" e="rol" i="921" m="function" t="n" />
+<w c="mathematics" e="limită" i="922" m="limit" t="n" />
+<w c="mathematics" e="linie" i="923" m="line" t="n" />
+<w c="mathematics" e="plasă" i="924" m="net" t="n" />
+<w c="mathematics" e="afară" i="925" m="outside" t="n" />
+<w c="mathematics" e="parte" i="926" m="percent" t="n" />
+<w c="mathematics" e="scop" i="927" m="purpose" t="n" />
+<w c="mathematics" e="urmare" i="928" m="result" t="n" />
+<w c="mathematics" e="regulă" i="929" m="rule" t="n" />
+<w c="mathematics" e="mulţime" i="930" m="set" t="n" />
+<w c="mathematics" e="parte" i="931" m="side" t="n" />
+<w c="mathematics" e="pătrat" i="932" m="square" t="n" />
+<w c="mathematics" e="pătrat" i="933" m="square" t="n" />
+<w c="mathematics" e="schimb" i="934" m="substitution" t="n" />
+<w c="mathematics" e="suprafaţă" i="935" m="surface" t="n" />
+<w c="mathematics" e="sumă" i="936" m="total" t="n" />
+<w c="medicine" e="în grija" i="937" m="care" t="n" />
+<w c="medicine" e="răceală" i="938" m="cold" t="n" />
+<w c="medicine" e="tuse" i="939" m="cough" t="n" />
+<w c="medicine" e="boală" i="940" m="disease" t="n" />
+<w c="medicine" e="doctor" i="941" m="doctor" t="n" />
+<w c="medicine" e="sănătate" i="942" m="health" t="n" />
+<w c="medicine" e="infirmieră" i="943" m="nurse" t="n" />
+<w c="medicine" e="operaţie" i="944" m="operation" t="n" />
+<w c="medicine" e="durere" i="945" m="pain" t="n" />
+<w c="medicine" e="pacient" i="946" m="patient" t="n" />
+<w c="medicine" e="punct" i="947" m="stitch" t="n" />
+<w c="nature" e="aer" i="948" m="air" t="n" />
+<w c="nature" e="animal" i="949" m="animal" t="n" />
+<w c="nature" e="ramură" i="950" m="branch" t="n" />
+<w c="nature" e="curent" i="951" m="current" t="n" />
+<w c="nature" e="evoluţie" i="952" m="evolution" t="n" />
+<w c="nature" e="fermă" i="953" m="farm" t="n" />
+<w c="nature" e="câmp" i="954" m="field" t="n" />
+<w c="nature" e="foc" i="955" m="fire" t="n" />
+<w c="nature" e="floare" i="956" m="flower" t="n" />
+<w c="nature" e="pădure" i="957" m="forest" t="n" />
+<w c="nature" e="iarbă" i="958" m="grass" t="n" />
+<w c="nature" e="frunză" i="959" m="leaf" t="n" />
+<w c="nature" e="viaţă" i="960" m="life" t="n" />
+<w c="nature" e="umiditate" i="961" m="moisture" t="n" />
+<w c="nature" e="natură" i="962" m="nature" t="n" />
+<w c="nature" e="plantă" i="963" m="plant" t="n" />
+<w c="nature" e="rădăcină" i="964" m="root" t="n" />
+<w c="nature" e="sex" i="965" m="sex" t="n" />
+<w c="nature" e="cer" i="966" m="sky" t="n" />
+<w c="nature" e="somn" i="967" m="sleep" t="n" />
+<w c="nature" e="miros" i="968" m="smell" t="n" />
+<w c="nature" e="fum" i="969" m="smoke" t="n" />
+<w c="nature" e="izvor" i="970" m="spring" t="n" />
+<w c="nature" e="tulpină" i="971" m="stem" t="n" />
+<w c="nature" e="curent" i="972" m="stream" t="n" />
+<w c="nature" e="pom" i="973" m="tree" t="n" />
+<w c="nature" e="val,undă" i="974" m="wave" t="n" />
+<w c="nature" e="vreme" i="975" m="weather" t="n" />
+<w c="nature" e="lume" i="976" m="world" t="n" />
+<w c="numbers" e="pereche" i="977" m="couple" t="n" />
+<w c="numbers" e="opt" i="978" m="eight" t="n" />
+<w c="numbers" e="optsprezece" i="979" m="eighteen" t="n" />
+<w c="numbers" e="optzeci" i="980" m="eighty" t="n" />
+<w c="numbers" e="unsprezece" i="981" m="eleven" t="n" />
+<w c="numbers" e="cincizeci" i="982" m="fifty" t="n" />
+<w c="numbers" e="cinci" i="983" m="five" t="n" />
+<w c="numbers" e="patruzeci" i="984" m="forty" t="n" />
+<w c="numbers" e="patru" i="985" m="four" t="n" />
+<w c="numbers" e="paisprezece" i="986" m="fourteen" t="n" />
+<w c="numbers" e="milion" i="987" m="million" t="n" />
+<w c="numbers" e="nouă" i="988" m="nine" t="n" />
+<w c="numbers" e="nouăzeci" i="989" m="ninety" t="n" />
+<w c="numbers" e="nimic" i="990" m="nothing" t="n" />
+<w c="numbers" e="un" i="991" m="one" t="n" />
+<w c="numbers" e="şaptezeci" i="992" m="seventy" t="n" />
+<w c="numbers" e="ºase" i="993" m="six" t="n" />
+<w c="numbers" e="şaizeci" i="994" m="sixty" t="n" />
+<w c="numbers" e="zece" i="995" m="ten" t="n" />
+<w c="numbers" e="al treilea" i="996" m="third" t="n" />
+<w c="numbers" e="treisprezece" i="997" m="thirteen" t="n" />
+<w c="numbers" e="treizeci" i="998" m="thirty" t="n" />
+<w c="numbers" e="mie de dolari" i="999" m="thousand" t="n" />
+<w c="numbers" e="mie" i="1000" m="thousand" t="n" />
+<w c="numbers" e="trei" i="1001" m="three" t="n" />
+<w c="objects" e="balon" i="1002" m="ball" t="n" />
+<w c="objects" e="lamă" i="1003" m="blade" t="n" />
+<w c="objects" e="scândură" i="1004" m="board" t="n" />
+<w c="objects" e="carte (de joc)" i="1005" m="card" t="n" />
+<w c="objects" e="lanţ" i="1006" m="chain" t="n" />
+<w c="objects" e="băţ" i="1007" m="club" t="n" />
+<w c="objects" e="buclă" i="1008" m="coil" t="n" />
+<w c="objects" e="capac" i="1009" m="cover" t="n" />
+<w c="objects" e="plic" i="1010" m="envelope" t="n" />
+<w c="objects" e="pană" i="1011" m="feather" t="n" />
+<w c="objects" e="steag" i="1012" m="flag" t="n" />
+<w c="objects" e="cadru" i="1013" m="frame" t="n" />
+<w c="objects" e="mâner" i="1014" m="handle" t="n" />
+<w c="objects" e="piuliţă" i="1015" m="nut" t="n" />
+<w c="objects" e="ac cu gămălie" i="1016" m="pin" t="n" />
+<w c="objects" e="ţeavă" i="1017" m="pipe" t="n" />
+<w c="objects" e="cadou" i="1018" m="present" t="n" />
+<w c="objects" e="coardă" i="1019" m="rope" t="n" />
+<w c="objects" e="corabie" i="1020" m="sail" t="n" />
+<w c="objects" e="sămânţă" i="1021" m="seed" t="n" />
+<w c="objects" e="tarif poştal" i="1022" m="stamp" t="n" />
+<w c="objects" e="baston" i="1023" m="stick" t="n" />
+<w c="objects" e="piatră" i="1024" m="stone" t="n" />
+<w c="objects" e="bilet" i="1025" m="ticket" t="n" />
+<w c="objects" e="roată" i="1026" m="wheel" t="n" />
+<w c="objects" e="sârmă" i="1027" m="wire" t="n" />
+<w c="physics" e="echilibru" i="1028" m="balance" t="n" />
+<w c="physics" e="încărcătură" i="1029" m="charge" t="n" />
+<w c="physics" e="energie" i="1030" m="energy" t="n" />
+<w c="physics" e="lumină" i="1031" m="light" t="n" />
+<w c="physics" e="masă" i="1032" m="mass" t="n" />
+<w c="physics" e="masă" i="1033" m="mass" t="n" />
+<w c="physics" e="oglindă" i="1034" m="mirror" t="n" />
+<w c="physics" e="mişcare" i="1035" m="movement" t="n" />
+<w c="physics" e="presiune" i="1036" m="pressure" t="n" />
+<w c="physics" e="proces" i="1037" m="process" t="n" />
+<w c="physics" e="măsură" i="1038" m="size" t="n" />
+<w c="physics" e="sunet" i="1039" m="sound" t="n" />
+<w c="physics" e="abur" i="1040" m="steam" t="n" />
+<w c="physics" e="forţă" i="1041" m="strength" t="n" />
+<w c="physics" e="timp" i="1042" m="time" t="n" />
+<w c="physics" e="unitate" i="1043" m="unit" t="n" />
+<w c="physics" e="greutate" i="1044" m="weight" t="n" />
+<w c="prepositions" e="împotriva" i="1045" m="against" t="prep" />
+<w c="prepositions" e="în mijlocul" i="1046" m="among" t="prep" />
+<w c="prepositions" e="la" i="1047" m="at" t="prep" />
+<w c="prepositions" e="la" i="1048" m="at" t="prep" />
+<w c="prepositions" e="în perioada" i="1049" m="during" t="prep" />
+<w c="prepositions" e="pentru" i="1050" m="for" t="prep" />
+<w c="prepositions" e="în" i="1051" m="into" t="prep" />
+<w c="prepositions" e="a" i="1052" m="of" t="prep" />
+<w c="prepositions" e="de la" i="1053" m="since" t="prep" />
+<w c="prepositions" e="la" i="1054" m="to" t="prep" />
+<w c="prepositions" e="cu" i="1055" m="with" t="prep" />
+<w c="prepositions" e="cu" i="1056" m="with" t="prep" />
+<w c="prepositions" e="fără" i="1057" m="without" t="prep" />
+<w c="professions" e="actor" i="1058" m="actor" t="n" />
+<w c="professions" e="artist (plastic)" i="1059" m="artist" t="n" />
+<w c="professions" e="om de afaceri" i="1060" m="businessman" t="n" />
+<w c="professions" e="bucătar" i="1061" m="cook" t="n" />
+<w c="professions" e="expert" i="1062" m="expert" t="n" />
+<w c="professions" e="general" i="1063" m="general" t="n" />
+<w c="professions" e="ziarist" i="1064" m="journalist" t="n" />
+<w c="professions" e="judecător" i="1065" m="judge" t="n" />
+<w c="professions" e="ministru" i="1066" m="minister" t="n" />
+<w c="professions" e="muzician" i="1067" m="musician" t="n" />
+<w c="professions" e="fotograf" i="1068" m="photographer" t="n" />
+<w c="professions" e="pilot" i="1069" m="pilot" t="n" />
+<w c="professions" e="poliţist" i="1070" m="policeman" t="n" />
+<w c="professions" e="politician" i="1071" m="politician" t="n" />
+<w c="professions" e="preşedinte" i="1072" m="president" t="n" />
+<w c="professions" e="profesionist" i="1073" m="professional" t="n" />
+<w c="professions" e="reprezentant" i="1074" m="representative" t="n" />
+<w c="professions" e="marinar" i="1075" m="sailor" t="n" />
+<w c="professions" e="om de ştiinţă" i="1076" m="scientist" t="n" />
+<w c="professions" e="secretar" i="1077" m="secretary" t="n" />
+<w c="professions" e="servitor" i="1078" m="servant" t="n" />
+<w c="professions" e="cântăreţ" i="1079" m="singer" t="n" />
+<w c="professions" e="soldat" i="1080" m="soldier" t="n" />
+<w c="professions" e="scriitor" i="1081" m="writer" t="n" />
+<w c="pronouns" e="orice" i="1082" m="anything" t="pron" />
+<w c="pronouns" e="toată lumea" i="1083" m="everybody" t="pron" />
+<w c="pronouns" e="tot" i="1084" m="everything" t="pron" />
+<w c="pronouns" e="ei" i="1085" m="her" t="pron" />
+<w c="pronouns" e="ea însăşi" i="1086" m="herself" t="pron" />
+<w c="pronouns" e="îl" i="1087" m="him" t="pron" />
+<w c="pronouns" e="ai" i="1088" m="his" t="pron" />
+<w c="pronouns" e="it" i="1089" m="it" t="pron" />
+<w c="pronouns" e="mă" i="1090" m="me" t="pron" />
+<w c="pronouns" e="meu" i="1091" m="my" t="pron" />
+<w c="pronouns" e="nostru" i="1092" m="our" t="pron" />
+<w c="pronouns" e="ea" i="1093" m="she" t="pron" />
+<w c="pronouns" e="acea" i="1094" m="that" t="pron" />
+<w c="pronouns" e="lor" i="1095" m="their" t="pron" />
+<w c="pronouns" e="lor" i="1096" m="them" t="pron" />
+<w c="pronouns" e="ei" i="1097" m="they" t="pron" />
+<w c="pronouns" e="acest" i="1098" m="this" t="pron" />
+<w c="pronouns" e="pe noi" i="1099" m="us" t="pron" />
+<w c="pronouns" e="noi" i="1100" m="we" t="pron" />
+<w c="pronouns" e="ce" i="1101" m="what" t="pron" />
+<w c="pronouns" e="când" i="1102" m="when" t="pron" />
+<w c="pronouns" e="care" i="1103" m="which" t="pron" />
+<w c="pronouns" e="care" i="1104" m="which" t="pron" />
+<w c="pronouns" e="cine" i="1105" m="who" t="pron" />
+<w c="pronouns" e="pe cine" i="1106" m="whom" t="pron" />
+<w c="pronouns" e="cui" i="1107" m="whose" t="pron" />
+<w c="pronouns" e="tu însuţi" i="1108" m="yourself" t="pron" />
+<w c="relations" e="prieten" i="1109" m="boyfriend" t="n" />
+<w c="relations" e="întâlnire" i="1110" m="date" t="n" />
+<w c="relations" e="dragă" i="1111" m="dear" t="n" />
+<w c="relations" e="oaspete" i="1112" m="guest" t="n" />
+<w c="relations" e="sărut" i="1113" m="kiss" t="n" />
+<w c="relations" e="sărbătoare" i="1114" m="party" t="n" />
+<w c="relations" e="sex" i="1115" m="sex" t="n" />
+<w c="relations" e="zâmbet" i="1116" m="smile" t="n" />
+<w c="relations" e="surpriză" i="1117" m="surprise" t="n" />
+<w c="relations" e="vizită" i="1118" m="visit" t="n" />
+<w c="science" e="biologie" i="1119" m="biology" t="n" />
+<w c="science" e="cauză" i="1120" m="cause" t="n" />
+<w c="science" e="esenţă" i="1121" m="center" t="n" />
+<w c="science" e="chimie" i="1122" m="chemistry" t="n" />
+<w c="science" e="comparaţie" i="1123" m="comparison" t="n" />
+<w c="science" e="consecinţă" i="1124" m="consequence" t="n" />
+<w c="science" e="control" i="1125" m="control" t="n" />
+<w c="science" e="descoperire" i="1126" m="discovery" t="n" />
+<w c="science" e="eveniment" i="1127" m="event" t="n" />
+<w c="science" e="probă" i="1128" m="evidence" t="n" />
+<w c="science" e="specimen" i="1129" m="example" t="n" />
+<w c="science" e="fapt" i="1130" m="fact" t="n" />
+<w c="science" e="invenţie" i="1131" m="invention" t="n" />
+<w c="science" e="chestiune" i="1132" m="issue" t="n" />
+<w c="science" e="metodă" i="1133" m="method" t="n" />
+<w c="science" e="model" i="1134" m="model" t="n" />
+<w c="science" e="alegere" i="1135" m="option" t="n" />
+<w c="science" e="fază" i="1136" m="phase" t="n" />
+<w c="science" e="procedură" i="1137" m="procedure" t="n" />
+<w c="science" e="producţie" i="1138" m="production" t="n" />
+<w c="science" e="program" i="1139" m="program" t="n" />
+<w c="science" e="proiect" i="1140" m="project" t="n" />
+<w c="science" e="cuprins" i="1141" m="range" t="n" />
+<w c="science" e="cercetare" i="1142" m="research" t="n" />
+<w c="science" e="anchetă" i="1143" m="research" t="n" />
+<w c="science" e="ştiinţă" i="1144" m="science" t="n" />
+<w c="science" e="societate" i="1145" m="society" t="n" />
+<w c="science" e="sistem" i="1146" m="system" t="n" />
+<w c="science" e="tehnologie" i="1147" m="technology" t="n" />
+<w c="science" e="teorie" i="1148" m="theory" t="n" />
+<w c="science" e="tendinţă" i="1149" m="trend" t="n" />
+<w c="science" e="necaz" i="1150" m="trouble" t="n" />
+<w c="science" e="utilizator" i="1151" m="user" t="n" />
+<w c="society" e="armată" i="1152" m="army" t="n" />
+<w c="society" e="bază" i="1153" m="base" t="n" />
+<w c="society" e="club" i="1154" m="club" t="n" />
+<w c="society" e="companie" i="1155" m="company" t="n" />
+<w c="society" e="ţară" i="1156" m="country" t="n" />
+<w c="society" e="curte" i="1157" m="court" t="n" />
+<w c="society" e="delict" i="1158" m="crime" t="n" />
+<w c="society" e="cultură" i="1159" m="culture" t="n" />
+<w c="society" e="republică" i="1160" m="democracy" t="n" />
+<w c="society" e="autoritate" i="1161" m="dominion" t="n" />
+<w c="society" e="alegeri" i="1162" m="election" t="n" />
+<w c="society" e="existenţă" i="1163" m="existence" t="n" />
+<w c="society" e="guvern" i="1164" m="government" t="n" />
+<w c="society" e="istorie" i="1165" m="history" t="n" />
+<w c="society" e="individ" i="1166" m="individual" t="n" />
+<w c="society" e="institutie" i="1167" m="institution" t="n" />
+<w c="society" e="rege" i="1168" m="king" t="n" />
+<w c="society" e="conducător" i="1169" m="leader" t="n" />
+<w c="society" e="mascul" i="1170" m="male" t="n" />
+<w c="society" e="membru" i="1171" m="member" t="n" />
+<w c="society" e="naţiune" i="1172" m="nation" t="n" />
+<w c="society" e="noutate" i="1173" m="news" t="n" />
+<w c="society" e="zgomot" i="1174" m="noise" t="n" />
+<w c="society" e="ordin" i="1175" m="order" t="n" />
+<w c="society" e="organizaţie" i="1176" m="organization" t="n" />
+<w c="society" e="paşaport" i="1177" m="passport" t="n" />
+<w c="society" e="pace" i="1178" m="peace" t="n" />
+<w c="society" e="oameni" i="1179" m="people" t="n" />
+<w c="society" e="poliţist" i="1180" m="police" t="n" />
+<w c="society" e="politică" i="1181" m="policy" t="n" />
+<w c="society" e="populaţie" i="1182" m="population" t="n" />
+<w c="society" e="populaţie" i="1183" m="public" t="n" />
+<w c="society" e="pedeapsă" i="1184" m="punishment" t="n" />
+<w c="society" e="religie" i="1185" m="religion" t="n" />
+<w c="society" e="credinţă" i="1186" m="religion" t="n" />
+<w c="society" e="stat" i="1187" m="state" t="n" />
+<w c="society" e="titlu" i="1188" m="title" t="n" />
+<w c="society" e="unire" i="1189" m="union" t="n" />
+<w c="society" e="război" i="1190" m="war" t="n" />
+<w c="society" e="voinţă" i="1191" m="will" t="n" />
+<w c="society" e="testament" i="1192" m="will" t="n" />
+<w c="sports" e="distincţie" i="1193" m="award" t="n" />
+<w c="sports" e="baseball" i="1194" m="baseball" t="n" />
+<w c="sports" e="campionat" i="1195" m="championship" t="n" />
+<w c="sports" e="concurent" i="1196" m="competitor" t="n" />
+<w c="sports" e="scop" i="1197" m="finish" t="n" />
+<w c="sports" e="fotbal" i="1198" m="football" t="n" />
+<w c="sports" e="joc" i="1199" m="game" t="n" />
+<w c="sports" e="gol" i="1200" m="goal" t="n" />
+<w c="sports" e="golf" i="1201" m="golf" t="n" />
+<w c="sports" e="vânat" i="1202" m="match" t="n" />
+<w c="sports" e="jucător" i="1203" m="player" t="n" />
+<w c="sports" e="record" i="1204" m="record" t="n" />
+<w c="sports" e="tenis" i="1205" m="tennis" t="n" />
+<w c="sports" e="aruncare" i="1206" m="throw" t="n" />
+<w c="sports" e="victorie" i="1207" m="win" t="n" />
+<w c="time" e="Aprilie" i="1208" m="April" t="n" />
+<w c="time" e="august" i="1209" m="August" t="n" />
+<w c="time" e="Decembrie" i="1210" m="December" t="n" />
+<w c="time" e="Februarie" i="1211" m="February" t="n" />
+<w c="time" e="Vineri" i="1212" m="Friday" t="n" />
+<w c="time" e="Ianuarie" i="1213" m="January" t="n" />
+<w c="time" e="Iulie" i="1214" m="July" t="n" />
+<w c="time" e="Iunie" i="1215" m="June" t="n" />
+<w c="time" e="mai" i="1216" m="May" t="n" />
+<w c="time" e="Luni" i="1217" m="Monday" t="n" />
+<w c="time" e="Noiembrie" i="1218" m="November" t="n" />
+<w c="time" e="Octombrie" i="1219" m="October" t="n" />
+<w c="time" e="Septembrie" i="1220" m="September" t="n" />
+<w c="time" e="Duminică" i="1221" m="Sunday" t="n" />
+<w c="time" e="Joi" i="1222" m="Thursday" t="n" />
+<w c="time" e="Marţi" i="1223" m="Tuesday" t="n" />
+<w c="time" e="Miercuri" i="1224" m="Wednesday" t="n" />
+<w c="time" e="după-amiază" i="1225" m="afternoon" t="n" />
+<w c="time" e="vechime" i="1226" m="age" t="n" />
+<w c="time" e="toamnă" i="1227" m="autumn" t="n" />
+<w c="time" e="început" i="1228" m="beginning" t="n" />
+<w c="time" e="secol" i="1229" m="century" t="n" />
+<w c="time" e="dată" i="1230" m="date" t="n" />
+<w c="time" e="zi" i="1231" m="day" t="n" />
+<w c="time" e="capăt" i="1232" m="end" t="n" />
+<w c="time" e="seară" i="1233" m="evening" t="n" />
+<w c="time" e="viitor" i="1234" m="future" t="n" />
+<w c="time" e="oră" i="1235" m="hour" t="n" />
+<w c="time" e="miez de noapte" i="1236" m="midnight" t="n" />
+<w c="time" e="minut" i="1237" m="minute" t="n" />
+<w c="time" e="clipă" i="1238" m="moment" t="n" />
+<w c="time" e="clipă" i="1239" m="moment" t="n" />
+<w c="time" e="lună" i="1240" m="month" t="n" />
+<w c="time" e="dimineaţă" i="1241" m="morning" t="n" />
+<w c="time" e="noaptea" i="1242" m="night" t="n" />
+<w c="time" e="acum" i="1243" m="now" t="n" />
+<w c="time" e="trecut" i="1244" m="past" t="n" />
+<w c="time" e="pauză" i="1245" m="pause" t="n" />
+<w c="time" e="perioadă" i="1246" m="period" t="n" />
+<w c="time" e="prezent" i="1247" m="present" t="n" />
+<w c="time" e="sezon" i="1248" m="season" t="n" />
+<w c="time" e="secundă" i="1249" m="second" t="n" />
+<w c="time" e="primăvară" i="1250" m="spring" t="n" />
+<w c="time" e="vară" i="1251" m="summer" t="n" />
+<w c="time" e="săptămână" i="1252" m="week" t="n" />
+<w c="time" e="ceva timp" i="1253" m="while" t="n" />
+<w c="time" e="iarnă" i="1254" m="winter" t="n" />
+<w c="time" e="an" i="1255" m="year" t="n" />
+<w c="tools" e="clopot" i="1256" m="bell" t="n" />
+<w c="tools" e="perie" i="1257" m="brush" t="n" />
+<w c="tools" e="nasture" i="1258" m="button" t="n" />
+<w c="tools" e="armă de foc" i="1259" m="gun" t="n" />
+<w c="tools" e="ciocan" i="1260" m="hammer" t="n" />
+<w c="tools" e="cârlig" i="1261" m="hook" t="n" />
+<w c="tools" e="cheie" i="1262" m="key" t="n" />
+<w c="tools" e="ială,închizătoare" i="1263" m="lock" t="n" />
+<w c="tools" e="chibrit" i="1264" m="match" t="n" />
+<w c="tools" e="cui" i="1265" m="nail" t="n" />
+<w c="tools" e="ac" i="1266" m="needle" t="n" />
+<w c="tools" e="stilou" i="1267" m="pen" t="n" />
+<w c="tools" e="creion" i="1268" m="pencil" t="n" />
+<w c="tools" e="pompă" i="1269" m="pump" t="n" />
+<w c="tools" e="foarfece" i="1270" m="scissors" t="n" />
+<w c="tools" e="resort" i="1271" m="spring" t="n" />
+<w c="tools" e="ştampilă" i="1272" m="stamp" t="n" />
+<w c="tools" e="bici" i="1273" m="whip" t="n" />
+<w c="transport" e="accident" i="1274" m="accident" t="n" />
+<w c="transport" e="bicicletă" i="1275" m="bike" t="n" />
+<w c="transport" e="barcă" i="1276" m="boat" t="n" />
+<w c="transport" e="autobuz" i="1277" m="bus" t="n" />
+<w c="transport" e="automobil" i="1278" m="car" t="n" />
+<w c="transport" e="curbă" i="1279" m="curve" t="n" />
+<w c="transport" e="expres" i="1280" m="express" t="n" />
+<w c="transport" e="zbor" i="1281" m="flight" t="n" />
+<w c="transport" e="voiaj" i="1282" m="journey" t="n" />
+<w c="transport" e="pasager" i="1283" m="passenger" t="n" />
+<w c="transport" e="avion" i="1284" m="plane" t="n" />
+<w c="transport" e="navetă spaţială" i="1285" m="ship" t="n" />
+<w c="transport" e="şină" i="1286" m="track" t="n" />
+<w c="transport" e="tren" i="1287" m="train" t="n" />
+<w c="transport" e="transport" i="1288" m="transport" t="n" />
+<w c="vegetables" e="fasole" i="1289" m="bean" t="n" />
+<w c="vegetables" e="varză" i="1290" m="cabbage" t="n" />
+<w c="vegetables" e="morcov" i="1291" m="carrot" t="n" />
+<w c="vegetables" e="castravete" i="1292" m="cucumber" t="n" />
+<w c="vegetables" e="usturoi" i="1293" m="garlic" t="n" />
+<w c="vegetables" e="măslină" i="1294" m="olive" t="n" />
+<w c="vegetables" e="ceapă" i="1295" m="onion" t="n" />
+<w c="vegetables" e="păstârnac" i="1296" m="parsnip" t="n" />
+<w c="vegetables" e="cartof" i="1297" m="potato" t="n" />
+<w c="vegetables" e="ridiche" i="1298" m="radish" t="n" />
+<w c="vegetables" e="orez" i="1299" m="rice" t="n" />
+<w c="vegetables" e="roşie" i="1300" m="tomato" t="n" />
+<w c="verbs" e="accepta" i="1301" m="accept" t="v" />
+<w c="verbs" e="recunoaşte" i="1302" m="admit" t="v" />
+<w c="verbs" e="a fi de acord" i="1303" m="agree" t="v" />
+<w c="verbs" e="anunţa" i="1304" m="announce" t="v" />
+<w c="verbs" e="a sosi" i="1305" m="arrive" t="v" />
+<w c="verbs" e="a cere" i="1306" m="ask" t="v" />
+<w c="verbs" e="ataca" i="1307" m="attack" t="v" />
+<w c="verbs" e="evita" i="1308" m="avoid" t="v" />
+<w c="verbs" e="a trăi" i="1309" m="be" t="v" />
+<w c="verbs" e="a purta" i="1310" m="bear" t="v" />
+<w c="verbs" e="a deveni" i="1311" m="become" t="v" />
+<w c="verbs" e="a crede" i="1312" m="believe" t="v" />
+<w c="verbs" e="a construi" i="1313" m="build" t="v" />
+<w c="verbs" e="a chema" i="1314" m="call" t="v" />
+<w c="verbs" e="a duce" i="1315" m="carry" t="v" />
+<w c="verbs" e="a (se) schimba" i="1316" m="change" t="v" />
+<w c="verbs" e="a alege" i="1317" m="choose" t="v" />
+<w c="verbs" e="a clasifica" i="1318" m="classify" t="v" />
+<w c="verbs" e="a compara" i="1319" m="compare" t="v" />
+<w c="verbs" e="conţine" i="1320" m="contain" t="v" />
+<w c="verbs" e="a continua" i="1321" m="continue" t="v" />
+<w c="verbs" e="a controla" i="1322" m="control" t="v" />
+<w c="verbs" e="a găti" i="1323" m="cook" t="v" />
+<w c="verbs" e="copia" i="1324" m="copy" t="v" />
+<w c="verbs" e="a strivi" i="1325" m="crush" t="v" />
+<w c="verbs" e="a plânge" i="1326" m="cry" t="v" />
+<w c="verbs" e="a (se) hotărî" i="1327" m="decide" t="v" />
+<w c="verbs" e="descrie" i="1328" m="describe" t="v" />
+<w c="verbs" e="a vrea" i="1329" m="desire" t="v" />
+<w c="verbs" e="a developa" i="1330" m="develop" t="v" />
+<w c="verbs" e="a muri" i="1331" m="die" t="v" />
+<w c="verbs" e="a descoperi" i="1332" m="discover" t="v" />
+<w c="verbs" e="a discuta" i="1333" m="discuss" t="v" />
+<w c="verbs" e="a împărţi" i="1334" m="divide" t="v" />
+<w c="verbs" e="a cuprinde" i="1335" m="embrace" t="v" />
+<w c="verbs" e="a încuraja" i="1336" m="encourage" t="v" />
+<w c="verbs" e="creşte" i="1337" m="enhance" t="v" />
+<w c="verbs" e="a intra" i="1338" m="enter" t="v" />
+<w c="verbs" e="stabili" i="1339" m="establish" t="v" />
+<w c="verbs" e="a întrece" i="1340" m="exceed" t="v" />
+<w c="verbs" e="a exista" i="1341" m="exist" t="v" />
+<w c="verbs" e="aştepta" i="1342" m="expect" t="v" />
+<w c="verbs" e="explica" i="1343" m="explain" t="v" />
+<w c="verbs" e="luptă" i="1344" m="fight" t="v" />
+<w c="verbs" e="a (se) umple" i="1345" m="fill" t="v" />
+<w c="verbs" e="descoperi" i="1346" m="find" t="v" />
+<w c="verbs" e="termina" i="1347" m="finish" t="v" />
+<w c="verbs" e="a egala" i="1348" m="flush" t="v" />
+<w c="verbs" e="a ierta" i="1349" m="forgive" t="v" />
+<w c="verbs" e="a elibera" i="1350" m="free" t="v" />
+<w c="verbs" e="a se produce" i="1351" m="happen" t="v" />
+<w c="verbs" e="a urî" i="1352" m="hate" t="v" />
+<w c="verbs" e="a ascunde" i="1353" m="hide" t="v" />
+<w c="verbs" e="a rezista" i="1354" m="hold" t="v" />
+<w c="verbs" e="identifica" i="1355" m="identify" t="v" />
+<w c="verbs" e="răni" i="1356" m="injure" t="v" />
+<w c="verbs" e="a prezenta" i="1357" m="introduce" t="v" />
+<w c="verbs" e="a uni" i="1358" m="join" t="v" />
+<w c="verbs" e="a păstra" i="1359" m="keep" t="v" />
+<w c="verbs" e="a lovi" i="1360" m="kick" t="v" />
+<w c="verbs" e="a ucide" i="1361" m="kill" t="v" />
+<w c="verbs" e="a debarca" i="1362" m="land" t="v" />
+<w c="verbs" e="a conduce" i="1363" m="lead" t="v" />
+<w c="verbs" e="a lăsa" i="1364" m="leave" t="v" />
+<w c="verbs" e="a ridica" i="1365" m="lift" t="v" />
+<w c="verbs" e="a limita" i="1366" m="limit" t="v" />
+<w c="verbs" e="a (se) încuia" i="1367" m="lock" t="v" />
+<w c="verbs" e="a părea" i="1368" m="look" t="v" />
+<w c="verbs" e="a pierde" i="1369" m="lose" t="v" />
+<w c="verbs" e="a conduce" i="1370" m="manage" t="v" />
+<w c="verbs" e="a se potrivi" i="1371" m="match" t="v" />
+<w c="verbs" e="a însemna" i="1372" m="mean" t="v" />
+<w c="verbs" e="a intenţiona" i="1373" m="mean" t="v" />
+<w c="verbs" e="a menţiona" i="1374" m="mention" t="v" />
+<w c="verbs" e="a pierde" i="1375" m="miss" t="v" />
+<w c="verbs" e="a boteza" i="1376" m="name" t="v" />
+<w c="verbs" e="a poseda" i="1377" m="own" t="v" />
+<w c="verbs" e="otravă" i="1378" m="poison" t="v" />
+<w c="verbs" e="a lustrui" i="1379" m="polish" t="v" />
+<w c="verbs" e="a (se) pregăti" i="1380" m="prepare" t="v" />
+<w c="verbs" e="împiedica" i="1381" m="prevent" t="v" />
+<w c="verbs" e="a prelucra" i="1382" m="process" t="v" />
+<w c="verbs" e="a protesta" i="1383" m="protest" t="v" />
+<w c="verbs" e="a dovedi" i="1384" m="prove" t="v" />
+<w c="verbs" e="publica" i="1385" m="publish" t="v" />
+<w c="verbs" e="ridica" i="1386" m="raise" t="v" />
+<w c="verbs" e="a aprecia" i="1387" m="rate" t="v" />
+<w c="verbs" e="a ajunge" i="1388" m="reach" t="v" />
+<w c="verbs" e="a primi" i="1389" m="receive" t="v" />
+<w c="verbs" e="a înregistra" i="1390" m="record" t="v" />
+<w c="verbs" e="a reduce" i="1391" m="reduce" t="v" />
+<w c="verbs" e="a reflecta" i="1392" m="reflect" t="v" />
+<w c="verbs" e="a refuza" i="1393" m="refuse" t="v" />
+<w c="verbs" e="a lua" i="1394" m="remove" t="v" />
+<w c="verbs" e="înlocui" i="1395" m="replace" t="v" />
+<w c="verbs" e="a replica" i="1396" m="reply" t="v" />
+<w c="verbs" e="a anunţa" i="1397" m="report" t="v" />
+<w c="verbs" e="a simboliza" i="1398" m="represent" t="v" />
+<w c="verbs" e="a cere" i="1399" m="request" t="v" />
+<w c="verbs" e="respecta" i="1400" m="respect" t="v" />
+<w c="verbs" e="a dezvălui" i="1401" m="reveal" t="v" />
+<w c="verbs" e="a risca" i="1402" m="risk" t="v" />
+<w c="verbs" e="a economisi" i="1403" m="save" t="v" />
+<w c="verbs" e="a salva" i="1404" m="save" t="v" />
+<w c="verbs" e="a vedea" i="1405" m="see" t="v" />
+<w c="verbs" e="a considera" i="1406" m="see" t="v" />
+<w c="verbs" e="poştă" i="1407" m="send" t="v" />
+<w c="verbs" e="a coase" i="1408" m="sew" t="v" />
+<w c="verbs" e="a împărţi" i="1409" m="share" t="v" />
+<w c="verbs" e="a striga" i="1410" m="shout" t="v" />
+<w c="verbs" e="a demonstra" i="1411" m="show" t="v" />
+<w c="verbs" e="a mirosi" i="1412" m="smell" t="v" />
+<w c="verbs" e="a mirosi" i="1413" m="smell" t="v" />
+<w c="verbs" e="a petrece" i="1414" m="spend" t="v" />
+<w c="verbs" e="a sta" i="1415" m="stand" t="v" />
+<w c="verbs" e="a fura" i="1416" m="steal" t="v" />
+<w c="verbs" e="a opri" i="1417" m="stop" t="v" />
+<w c="verbs" e="a studia" i="1418" m="study" t="v" />
+<w c="verbs" e="sugera" i="1419" m="suggest" t="v" />
+<w c="verbs" e="furniza" i="1420" m="supply" t="v" />
+<w c="verbs" e="sprijini" i="1421" m="support" t="v" />
+<w c="verbs" e="a surprinde" i="1422" m="surprise" t="v" />
+<w c="verbs" e="a gusta" i="1423" m="taste" t="v" />
+<w c="verbs" e="instrui" i="1424" m="teach" t="v" />
+<w c="verbs" e="a încerca" i="1425" m="test" t="v" />
+<w c="verbs" e="mulţumi" i="1426" m="thank" t="v" />
+<w c="verbs" e="a arunca" i="1427" m="throw" t="v" />
+<w c="verbs" e="a intitula" i="1428" m="title" t="v" />
+<w c="verbs" e="comerţ" i="1429" m="trade" t="v" />
+<w c="verbs" e="antrena" i="1430" m="train" t="v" />
+<w c="verbs" e="a merge" i="1431" m="travel" t="v" />
+<w c="verbs" e="a trata" i="1432" m="treat" t="v" />
+<w c="verbs" e="înşela" i="1433" m="trick" t="v" />
+<w c="verbs" e="a încerca" i="1434" m="try" t="v" />
+<w c="verbs" e="a vizita" i="1435" m="visit" t="v" />
+<w c="verbs" e="a se plimba" i="1436" m="walk" t="v" />
+<w c="verbs" e="a (se) spăla" i="1437" m="wash" t="v" />
+<w c="verbs" e="a privi" i="1438" m="watch" t="v" />
+<w c="verbs" e="a cântări" i="1439" m="weigh" t="v" />
+<w c="verbs" e="victorie" i="1440" m="win" t="v" />
+<w c="verbs" e="a dori" i="1441" m="wish" t="v" />
+<w c="verbs" e="a rupe" i="1442" m="break" t="v" />
+<w c="verbs" e="a cumpãra" i="1443" m="buy" t="v" />
+<w c="verbs" e="a închide" i="1444" m="close" t="v" />
+<w c="verbs" e="a veni" i="1445" m="come" t="v" />
+<w c="verbs" e="a dansa" i="1446" m="dance" t="v" />
+<w c="verbs" e="a exercita" i="1447" m="do" t="v" />
+<w c="verbs" e="a bea" i="1448" m="drink" t="v" />
+<w c="verbs" e="a trage" i="1449" m="fire" t="v" />
+<w c="verbs" e="a zbura" i="1450" m="fly" t="v" />
+<w c="verbs" e="a urma" i="1451" m="follow" t="v" />
+<w c="verbs" e="a uita" i="1452" m="forget" t="v" />
+<w c="verbs" e="a da" i="1453" m="give" t="v" />
+<w c="verbs" e="a avea" i="1454" m="have" t="v" />
+<w c="verbs" e="a afla" i="1455" m="hear" t="v" />
+<w c="verbs" e="ajuta" i="1456" m="help" t="v" />
+<w c="verbs" e="a spera" i="1457" m="hope" t="v" />
+<w c="verbs" e="a sări" i="1458" m="jump" t="v" />
+<w c="verbs" e="a consta" i="1459" m="lie" t="v" />
+<w c="verbs" e="a auzi" i="1460" m="listen" t="v" />
+<w c="verbs" e="a se uita" i="1461" m="look" t="v" />
+<w c="verbs" e="a pierde" i="1462" m="lose" t="v" />
+<w c="verbs" e="iubi" i="1463" m="love" t="v" />
+<w c="verbs" e="a (se) mişca" i="1464" m="move" t="v" />
+<w c="verbs" e="avea nevoie de" i="1465" m="need" t="v" />
+<w c="verbs" e="a oferi" i="1466" m="offer" t="v" />
+<w c="verbs" e="a (se) deschide" i="1467" m="open" t="v" />
+<w c="verbs" e="a achita" i="1468" m="pay" t="v" />
+<w c="verbs" e="a se juca" i="1469" m="play" t="v" />
+<w c="verbs" e="a trage" i="1470" m="pull" t="v" />
+<w c="verbs" e="a împinge" i="1471" m="push" t="v" />
+<w c="verbs" e="a culca" i="1472" m="put" t="v" />
+<w c="verbs" e="a-şi aminti" i="1473" m="remember" t="v" />
+<w c="verbs" e="a alerga" i="1474" m="run" t="v" />
+<w c="verbs" e="a povesti" i="1475" m="say" t="v" />
+<w c="verbs" e="a se vinde" i="1476" m="sell" t="v" />
+<w c="verbs" e="a zâmbi" i="1477" m="smile" t="v" />
+<w c="verbs" e="a vorbi" i="1478" m="talk" t="v" />
+<w c="verbs" e="a desena" i="1479" m="trace" t="v" />
+<w c="verbs" e="a folosi" i="1480" m="use" t="v" />
+<w c="verbs" e="a scrie" i="1481" m="write" t="v" />
+<w c="weather" e="nor" i="1482" m="cloud" t="n" />
+<w c="weather" e="rouă" i="1483" m="dew" t="n" />
+<w c="weather" e="ceaţă deasă" i="1484" m="fog" t="n" />
+<w c="weather" e="chiciură" i="1485" m="frost" t="n" />
+<w c="weather" e="fulger" i="1486" m="lightning" t="n" />
+<w c="weather" e="ploaie" i="1487" m="rain" t="n" />
+<w c="weather" e="curcubeu" i="1488" m="rainbow" t="n" />
+<w c="weather" e="zăpadă" i="1489" m="snow" t="n" />
+<w c="weather" e="furtună" i="1490" m="storm" t="n" />
+<w c="weather" e="tunet" i="1491" m="thunder" t="n" />
+<w c="weather" e="vânt" i="1492" m="wind" t="n" />
+</vocb>

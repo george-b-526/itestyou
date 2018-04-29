@@ -1,0 +1,342 @@
+TODO 	
+	- add tags and categories
+	- open facebook group
+	- join facebook groups
+	- add flyover toolbar and bottom bar
+	- top bar login
+	- bottom bar twitter, digg, facebook sharing etc
+	- add corner foldout to visit the main site
+	- make font smaller
+	- add tags, make index page
+	- crosslink from unit to same tags
+	- correct page titles so they make sense and can be used for Google search
+	- move images and plots to sub-domain
+		- turn plot into tag 
+	- add class='graph' to graphs in the xml source
+	- add DCP connection manager
+
+HOSTING
+	- http://www.codero.com
+
+COMPETITORS & RESOURCES  
+	- http://www.number2.com
+		- they only have 20 practice questions per subject
+		- only official test, not grade 1-8 support
+		- no math AI  
+		- not multilinguial
+		- no variations
+		+ cover all subject
+		+ track words you did not know in vocabulary builder
+		+ free  
+		+ nice looking and has polished content
+	- http://maths.york.ac.uk/yorkmoodle/course/view.php?id=70
+	- http://maths.york.ac.uk/yorkmoodle/course/view.php?id=67
+	- http://themathworksheetsite.com/
+	- http://www.algebra.com/algebra/homework/quadratic/Parabola-tangent.solver
+
+PRODUCT 
+	- Yacas
+			- add Echo() for decimals as native Java code with masks
+	- unit selection recommendation engine
+	- vocabulary test
+		- put word set, track each word success
+	- i18n support
+		- allow translations  for units
+		- add locale to test  
+		- add locale switching to the site
+	- limit some features to foce login
+	- unit editor  
+		- name, desc
+		- tags
+		- add unit, edit unit
+		- edit unit data editor
+	- search/explore units
+		- global search
+		- by tags
+		- by age/grade
+		- mark favorites, add to test
+	- stats
+		- most popular unit and test
+		- most popular users
+	- create test
+		- add units
+		- into, outro
+		- options
+	- take test
+		- administer unit by unit
+		- record time spent
+		- record answers given
+		- give the final score; show answer card and pass/fail marks like in the real test
+		- show right answers ($)
+	- my account  
+		- must have an account to create or take test 
+		- see the test I took (3 max, $ unlimited)
+		- show me my progress ($)
+		- suggest test ($)
+		- create test for others (3 max, $ unlimited)
+	- rights
+		- all test and units are shared, unless ($)
+		- custom logo, header/footer ($)
+		- billing for students using private tests ($)
+		- private help on private tests ($)
+	- embedding  
+		? template := {list, table}
+		? theme    
+			- bgcolor // image background works fine
+			- font name
+			- font size
+			- font color
+		? lang := {EN, FR, ES, RU}
+		+ fixed width		
+		+ show_solution := {true, false} // fraud
+		+ unit_id
+		+ variation_id := 
+			- 12345
+			- any   
+			values := {1,2,3,4,5} // fraud
+	
+			   
+MAYBE
+	- watch transaction semantics
+		Transaction tx = em.getTransaction();
+		try {
+		    tx.begin();
+		    ... do work ...
+		    tx.commit();
+		} finally {
+		    if (tx.isActive()) {
+		        tx.rollback();
+		    }
+		    em.close();
+		}
+	- replace "correct/incorrect" with icon
+	- how to prevent back button andthe same exact repost?
+	- when embedded and I leave for login or comments and comeback - I get POST warning
+	- re-POST generates new vote; thiscan be used to inflate scores
+	- yacass format number function
+	- replace lineplot with tag to resolve host name
+	- turn plot references into tags
+	- add theme; choose css per theme; clean up page for THEME_IFRAME_DEFAULT
+	- replace chart with tag  
+	- express all tags as XSD schemas; use JAXB to validate and load XML documents
+	- change http://www.itestyou.com/api/ml into http://ml.api.itestyou.com
+	- usability of test taking
+		- change vote buttons to dropdown list or radio list
+		- how to indicate that answer is submitted and prevent immediate click on the next answer
+		- provide score 3/3 and detailed answer sheet table
+		- how to run test with immediate or post test feedback
+		- allow review the score for test and review  the test
+		- do we allow to review answers; how do we actually teach? to teach we should show answers
+	- provide Moodle XML file export
+	- provide alternative question types
+		- http://docs.moodle.org/en/Moodle_XML
+	- complete web site flow
+		- how to organize the conversations between the web sites?
+		- create bundle
+		- create test 
+		- start test
+		- view test results
+	- extract <eval> from XML; cache <eval> for variations; cache the rest; make  rest translatable
+	- allow providing unit values in the test
+	- hide most of yacas constructs
+		- hold => Quote()
+		- eval => Eval()  
+		- simplify => Simplify() 
+		- make basic & advanced version of /scripts 
+	- handle parse/eval error in the user interface
+   
+DONE  
+	- http://www.addthis.com/
+	- freemania, freestufftimes, freebierreporter
+	- enable webalizer
+	- enable backup
+	- complete 10 units per grade
+	- add "Try It Again", "Try Something Different"
+	- add widget embed help 
+	- add returnto to widget login; add # and random A# to jump to middle of the page
+	- link embed back to main site link to the unit
+		- make login link bigger  
+		- complete login in a popup window
+	- add "create as an variation for CA math tests"
+	- crosslink from unit to same grade
+	- questions  
+		- how to name pages that have units
+		    + Mathematics/Grade_2/Practice/Challenge_1
+			- page names have meanings
+			- they show up on category pages 
+		- how to categorize pages
+			- use category
+			- use something else
+		- we need uids, not sequential numbering
+		- how to do multiple languages			
+		- talk page requires manual work for
+			- 	Comments on [[{{PAGENAME}}]]
+				<comments />
+				----- __NOEDITSECTION__<startFeed /><onlyinclude>
+				<!--COMMENTS_BELOW-->
+				</onlyinclude><endFeed />
+		- how to add dynamic balast content
+	- site 
+		- we can allow anonymous comments with Captcha using Wordpress 
+		- write basic content		
+		- add "Feedback" link at the top
+	- features	
+		- demand login for voting
+		- add star voting and rating         	
+		- add oy-lw monitoring
+	- comments  
+		- if no comments are made yet, comments page does not exist
+	- add /learn/math/units detailed pages
+		- add embed tab for Google Gadget
+		- html embed
+		- usage for this user
+		- usage for all users
+		- comments
+	- 7.4 has some variations that format as  $09.34
+	- add site catalyst to other pages
+	- complete widget of the day Google
+	- move ml to oyoyoy.org for load reduction
+	- IE rendering of search page is non-incremental and slow
+	- optimize 
+		http://www.mediawiki.org/wiki/User:Aaron_Schulz/How_to_make_MediaWiki_fast
+	- make search page tabs Grade 1-12
+	- rewrite /learn/math/grade/2 to /learn/browse?grd=2
+	- complete 
+		http://www.itestyou.com/learn/index.php?title=Special:Log&page=Content%3AHome%2Fru
+		http://www.itestyou.com/learn/Special:Search/Content:Home/ru
+	- add in terms of use note that we this is not official educational system  
+	- how do we work under COPPA
+		- http://www.miniclip.com/games/en/privacy-policy.php
+		- http://www.ftc.gov/bcp/edu/pubs/business/idtheft/bus45.shtm
+	- resize to standard youtube video (512x322)
+	- consider
+		# http://www.mediawiki.org/wiki/Manual:$wgSMTP
+		# http://www.mediawiki.org/wiki/Manual:Navigation_bar
+	- fix up http://www.itestyou.com/learn/Special:Preferences
+
+	- build weekly summary per user/unit
+	- feedback loop  
+		- build daily summary page aut-livestats
+		- add invisible pixel
+		- add counters to the Deck object; count challenge, response, retry, success
+	- create iframe embedding js file
+	- where is login on php or java or shared via DB session
+	- add events table; track challenge, response retry by uintId, variationId to report most popular later
+	- track all responses
+	- add Google Analytics
+	- start working on the library web site
+	- get email working for support and admin@itestyou.com
+	- deploy drupal
+	- where is identity hosted
+	- what platform: Java || PHP
+	- pilot into Authoratory and SSW sites
+	- widget  
+		- solve vertical size problem
+	- add favicon.ico
+	- add robots.txt
+	- change uid to correlationId to have date + nextInt()
+	- cache for html fragments
+	- add date to cache
+	- clean System Error and Null Pointer for http://www.itestyou.com/test/bin/app
+	- test composition and web site design is last
+		- if one unit type is used twice in the test, there should be 
+		  a unique row index for each unit instance 
+	- apply filter in the surveyPhase() to prevent IFRAME, CSS and JS injections (allow only <b/>, <p/>)
+	- deploy to live site   
+	- make <a> link from SCRIPT; to where?  
+	- move to IFRAME
+		- digg emits a <iframe> with computer URL
+		- consolidate all CSS in one place (embed)
+	- NO: add cookie to test so external system can do re-mapping
+	- decide how to host  
+    - NO: synchronization block in ActionDisptahcer can exchaus thread pool
+	- add some style and rounded corner images and stuff to the embed
+	- try to make java into a service
+		- where to store test results????
+		- where to store mapping on node to unit
+		- should we fully expand all variations	
+	- predefine test sets to have 5, 10, 20 tests of one kind
+	- add variation/unit show/answered events so even anonymous user can be tracked
+	- what if page session timeout while embedded?
+	- make default embed completely stateless
+	- add range to variation values
+	- complete test taking, answer sheet and results saving
+	- who what was answered wrong    
+	- save  
+		- test context and test id
+		- test progress results   
+		- test results per unit type
+		- score      
+	- test administration
+		- create answer sheet for <test>
+		- add shuffle <choices>    
+	- taxonomy
+		- words in one taxonomy are unique
+		- taxonomy is a pure tree
+		- start directory by showing all roots (level 0)
+		- use large update SQL statement that will update count per taxonomy element 
+		- each unit can have multiple assoications to multiple nodes in multiple taxonomies  
+	- instantiate/choose distinck variations
+	- hide variations from embed, types are publicm variations are private
+	- shuffle
+	- how to handle rendering error in the tester
+	- add intro/outro pages to test with basic directions page 
+	- show unique session id for issue resolution
+	- add exit url, error url when starting test
+	- add "site not available" to test
+	- there is no cube root in Yacas
+	- disable \environment in mimeTex
+	- review flag and webform modules
+	- <draw/> does eval so we can't just pass text to mimeTex
+	- &amp; is ok, but not &gt; , &lt;
+	- remove transparent from PNG, IE can't render that
+	- add charts  
+	- save & from encoding
+	- allow ${a} variable reference for echo
+	- after 100 uses throw away YaccEvaluatorEx
+	- add to variation tester check for negative numbers, fractions, and complex numbers
+		- check if any of the echo has these 
+	- allow bulk review of all variations for being globally/locally unique		
+	- how to make creating variations fast and error free
+		- add standard dataset of "nice" quadratic equations
+		- split {1,2,3} into a dynamic sort table 1|2|3 and allow bulk review and 
+	  	  edit of all variations at once
+		- thread out eval() to speed it up    
+		- allow bulk import of variations via large text memo in which you paste {1,2,3,4}
+	- variable list must match value list or stack overflow occurs; enforced
+	- how to spot duplicate variations
+		- duplicate values  
+		- duplicate appearance; color in red  	
+	- highlight answer in preview
+	- delete variation
+	- put variations into table 
+	- add variation selector to preview
+	- turn XML file into import (edit and add+import screens look different now); make transformer 
+	  work against database and DAO not against XML  
+	- add name, desc : no, we dont need them
+	- change error text in mimTex.cgi
+	- do not delete, mark enabled or disabled
+	- add test document type
+	- data set  support
+		- add column names to unit
+		- add several data rows to unit
+	- add more test types
+	- add handler for net.sf.yacas.Yacasexception
+	
+	
+HOW TO 
+	- add JPackage
+		cd /etc/yum.repos.d/
+		wget http://jpackage.org/jpackage.repo
+		Edit jpackage.repo and specify 'enabled=1' in the [jpackage-rhel] section
+		yum search mod_jk*
+		yum install mod_jk-ap20
+	- yum provides apxs
+	- /usr/sbin/apxs
+	- install APC
+		yum install httpd-devel
+		yum install php-pear
+		yum install php-pear*
+		yum install php-devel
+		pecl install APC -with-apxs=/usr/sbin/apxs
+		edit /etc/php.ini to add "extension=apc.so"

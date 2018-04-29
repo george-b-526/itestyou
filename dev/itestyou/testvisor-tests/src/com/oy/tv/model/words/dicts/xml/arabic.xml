@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Arabic (&#x627;&#x644;&#x639;&#x631;&#x628;&#x64a;&#x629;)">
+<!--generated: Sun Jan 29 02:47:12 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="مقدِرة" i="0" m="ability" t="n" />
+<w c="abstract" e="تصرف" i="1" m="act" t="n" />
+<w c="abstract" e="عمل، إجراء" i="2" m="action" t="n" />
+<w c="abstract" e="فعل" i="3" m="activity" t="n" />
+<w c="abstract" e="إضافة" i="4" m="addition" t="n" />
+<w c="abstract" e="مقدار" i="5" m="amount" t="n" />
+<w c="abstract" e="هجوم" i="6" m="attack" t="n" />
+<w c="abstract" e="محاولة" i="7" m="attempt" t="n" />
+<w c="abstract" e="موقِف" i="8" m="attitude" t="n" />
+<w c="abstract" e="خلف" i="9" m="back" t="n" />
+<w c="abstract" e="سلوك" i="10" m="behavior" t="n" />
+<w c="abstract" e="قطعة" i="11" m="bit" t="n" />
+<w c="abstract" e="ضربة" i="12" m="blow" t="n" />
+<w c="abstract" e="استراحة" i="13" m="break" t="n" />
+<w c="abstract" e="حملةٌ عسكرِيه" i="14" m="campaign" t="n" />
+<w c="abstract" e="حاله" i="15" m="case" t="n" />
+<w c="abstract" e="فرصة" i="16" m="chance" t="n" />
+<w c="abstract" e="تغيير" i="17" m="change" t="n" />
+<w c="abstract" e="اختيار" i="18" m="choice" t="n" />
+<w c="abstract" e="شرط" i="19" m="condition" t="n" />
+<w c="abstract" e="اتصال" i="20" m="connection" t="n" />
+<w c="abstract" e="اتصال" i="21" m="connection" t="n" />
+<w c="abstract" e="شق" i="22" m="crack" t="n" />
+<w c="abstract" e="سحق" i="23" m="crush" t="n" />
+<w c="abstract" e="قطع" i="24" m="cut" t="n" />
+<w c="abstract" e="أذية; ضرر" i="25" m="damage" t="n" />
+<w c="abstract" e="خطر" i="26" m="danger" t="n" />
+<w c="abstract" e="زخرفة" i="27" m="decoration" t="n" />
+<w c="abstract" e="تدمير" i="28" m="destruction" t="n" />
+<w c="abstract" e="تفصيل" i="29" m="detail" t="n" />
+<w c="abstract" e="تحكم" i="30" m="dominance" t="n" />
+<w c="abstract" e="قطرة" i="31" m="drop" t="n" />
+<w c="abstract" e="واجب" i="32" m="duty" t="n" />
+<w c="abstract" e="جهد" i="33" m="effort" t="n" />
+<w c="abstract" e="سقوط" i="34" m="fall" t="n" />
+<w c="abstract" e="ميزة" i="35" m="feature" t="n" />
+<w c="abstract" e="قتال" i="36" m="fight" t="n" />
+<w c="abstract" e="أمام" i="37" m="front" t="n" />
+<w c="abstract" e="مِقياس الإرتِفاع" i="38" m="height" t="n" />
+<w c="abstract" e="ضرب، إصابه" i="39" m="hit" t="n" />
+<w c="abstract" e="ثقب; فجوة" i="40" m="hole" t="n" />
+<w c="abstract" e="زيادة" i="41" m="increase" t="n" />
+<w c="abstract" e="نمو" i="42" m="increase" t="n" />
+<w c="abstract" e="إنترنت" i="43" m="internet" t="n" />
+<w c="abstract" e="ارتجاج" i="44" m="jolt" t="n" />
+<w c="abstract" e="قفزة" i="45" m="jump" t="n" />
+<w c="abstract" e="ركلة" i="46" m="kick" t="n" />
+<w c="abstract" e="نوع" i="47" m="kind" t="n" />
+<w c="abstract" e="عقدة" i="48" m="knot" t="n" />
+<w c="abstract" e="ﻻئحة" i="49" m="list" t="n" />
+<w c="abstract" e="أغلبية" i="50" m="majority" t="n" />
+<w c="abstract" e="سلوك" i="51" m="manner" t="n" />
+<w c="abstract" e="أمر" i="52" m="matter" t="n" />
+<w c="abstract" e="وسيلة" i="53" m="means" t="n" />
+<w c="abstract" e="عقل" i="54" m="mind" t="n" />
+<w c="abstract" e="إجراء" i="55" m="operation" t="n" />
+<w c="abstract" e="مضاد" i="56" m="opposite" t="n" />
+<w c="abstract" e="مباغتة" i="57" m="outburst" t="n" />
+<w c="abstract" e="جزء" i="58" m="part" t="n" />
+<w c="abstract" e="جزء" i="59" m="part" t="n" />
+<w c="abstract" e="قِطعه" i="60" m="piece" t="n" />
+<w c="abstract" e="موقع" i="61" m="place" t="n" />
+<w c="abstract" e="موضع" i="62" m="position" t="n" />
+<w c="abstract" e="قوة" i="63" m="power" t="n" />
+<w c="abstract" e="تمرين" i="64" m="practice" t="n" />
+<w c="abstract" e="واجب" i="65" m="project" t="n" />
+<w c="abstract" e="خاصية" i="66" m="property" t="n" />
+<w c="abstract" e="جودة" i="67" m="quality" t="n" />
+<w c="abstract" e="مسؤولِيه" i="68" m="responsibility" t="n" />
+<w c="abstract" e="راحة" i="69" m="rest" t="n" />
+<w c="abstract" e="عوده" i="70" m="return" t="n" />
+<w c="abstract" e="صعود" i="71" m="rise" t="n" />
+<w c="abstract" e="مخاطرة" i="72" m="risk" t="n" />
+<w c="abstract" e="مقعد" i="73" m="seat" t="n" />
+<w c="abstract" e="طقم" i="74" m="set" t="n" />
+<w c="abstract" e="اهتزاز" i="75" m="shake" t="n" />
+<w c="abstract" e="صدمة" i="76" m="shock" t="n" />
+<w c="abstract" e="سكون" i="77" m="silence" t="n" />
+<w c="abstract" e="حاله، وضع" i="78" m="situation" t="n" />
+<w c="abstract" e="حاله" i="79" m="state" t="n" />
+<w c="abstract" e="خطوة" i="80" m="step" t="n" />
+<w c="abstract" e="توقف" i="81" m="stop" t="n" />
+<w c="abstract" e="مذاق" i="82" m="taste" t="n" />
+<w c="abstract" e="شيء" i="83" m="thing" t="n" />
+<w c="abstract" e="قمة" i="84" m="top" t="n" />
+<w c="abstract" e="لمس" i="85" m="touch" t="n" />
+<w c="abstract" e="تدبير" i="86" m="treatment" t="n" />
+<w c="abstract" e="خدعة" i="87" m="trick" t="n" />
+<w c="abstract" e="نوع، طِراز، نموذج" i="88" m="type" t="n" />
+<w c="abstract" e="استخدام" i="89" m="use" t="n" />
+<w c="abstract" e="البِلى بالإستِعمال العادي" i="90" m="wear" t="n" />
+<w c="abstract" e="وحده كامِله" i="91" m="whole" t="n" />
+<w c="abstract" e="إرادة" i="92" m="will" t="n" />
+<w c="abstract" e="رغبة" i="93" m="wish" t="n" />
+<w c="adjectives" e="حامض" i="94" m="acid" t="adj" />
+<w c="adjectives" e="ماضِ، فِي الماضِي، منذ زمن" i="95" m="ago" t="adj" />
+<w c="adjectives" e="كل" i="96" m="all" t="adj" />
+<w c="adjectives" e="اختياري" i="97" m="any" t="adj" />
+<w c="adjectives" e="آلي" i="98" m="automatic" t="adj" />
+<w c="adjectives" e="متيسِر، متاح، متوفِر" i="99" m="available" t="adj" />
+<w c="adjectives" e="مر" i="100" m="bitter" t="adj" />
+<w c="adjectives" e="ممل" i="101" m="boring" t="adj" />
+<w c="adjectives" e="لامع" i="102" m="bright" t="adj" />
+<w c="adjectives" e="مكسور" i="103" m="broken" t="adj" />
+<w c="adjectives" e="يقيني" i="104" m="certain" t="adj" />
+<w c="adjectives" e="رخيص" i="105" m="cheap" t="adj" />
+<w c="adjectives" e="كيميائي" i="106" m="chemical" t="adj" />
+<w c="adjectives" e="صافي" i="107" m="clear" t="adj" />
+<w c="adjectives" e="مغلق" i="108" m="closed" t="adj" />
+<w c="adjectives" e="ملون" i="109" m="color" t="adj" />
+<w c="adjectives" e="شائع" i="110" m="common" t="adj" />
+<w c="adjectives" e="مشترك" i="111" m="common" t="adj" />
+<w c="adjectives" e="مكتمل" i="112" m="complete" t="adj" />
+<w c="adjectives" e="واعي" i="113" m="conscious" t="adj" />
+<w c="adjectives" e="وحشي" i="114" m="cruel" t="adj" />
+<w c="adjectives" e="حالي" i="115" m="current" t="adj" />
+<w c="adjectives" e="خطِر" i="116" m="dangerous" t="adj" />
+<w c="adjectives" e="لذيذ" i="117" m="delicate" t="adj" />
+<w c="adjectives" e="مختلف" i="118" m="different" t="adj" />
+<w c="adjectives" e="مختلف" i="119" m="different" t="adj" />
+<w c="adjectives" e="أسفل" i="120" m="down" t="adj" />
+<w c="adjectives" e="جاف" i="121" m="dry" t="adj" />
+<w c="adjectives" e="كل" i="122" m="each" t="adj" />
+<w c="adjectives" e="مبكر" i="123" m="early" t="adj" />
+<w c="adjectives" e="سهل" i="124" m="easy" t="adj" />
+<w c="adjectives" e="إقتِصادي" i="125" m="economic" t="adj" />
+<w c="adjectives" e="مقتصِد" i="126" m="economic" t="adj" />
+<w c="adjectives" e="كهربائي" i="127" m="electric" t="adj" />
+<w c="adjectives" e="مساوي" i="128" m="equal" t="adj" />
+<w c="adjectives" e="زوجي" i="129" m="even" t="adj" />
+<w c="adjectives" e="متساوي" i="130" m="even" t="adj" />
+<w c="adjectives" e="كل" i="131" m="every" t="adj" />
+<w c="adjectives" e="ممتاز" i="132" m="excellent" t="adj" />
+<w c="adjectives" e="خطأ" i="133" m="fake" t="adj" />
+<w c="adjectives" e="خطأ" i="134" m="false" t="adj" />
+<w c="adjectives" e="بعيد" i="135" m="far" t="adj" />
+<w c="adjectives" e="سمين" i="136" m="fat" t="adj" />
+<w c="adjectives" e="دسم" i="137" m="fat" t="adj" />
+<w c="adjectives" e="قليل" i="138" m="few" t="adj" />
+<w c="adjectives" e="نِهائي" i="139" m="final" t="adj" />
+<w c="adjectives" e="مالي" i="140" m="financial" t="adj" />
+<w c="adjectives" e="صلب" i="141" m="firm" t="adj" />
+<w c="adjectives" e="أول" i="142" m="first" t="adj" />
+<w c="adjectives" e="محدد" i="143" m="fixed" t="adj" />
+<w c="adjectives" e="مسطح" i="144" m="flat" t="adj" />
+<w c="adjectives" e="التالي" i="145" m="following" t="adj" />
+<w c="adjectives" e="غريب" i="146" m="foreign" t="adj" />
+<w c="adjectives" e="سابِق" i="147" m="former" t="adj" />
+<w c="adjectives" e="هش" i="148" m="fragile" t="adj" />
+<w c="adjectives" e="مجاني" i="149" m="free" t="adj" />
+<w c="adjectives" e="متكرر" i="150" m="frequent" t="adj" />
+<w c="adjectives" e="طازج" i="151" m="fresh" t="adj" />
+<w c="adjectives" e="أمامي" i="152" m="front" t="adj" />
+<w c="adjectives" e="كامل; مليء" i="153" m="full" t="adj" />
+<w c="adjectives" e="كامل" i="154" m="full" t="adj" />
+<w c="adjectives" e="مستقبلي" i="155" m="future" t="adj" />
+<w c="adjectives" e="عام" i="156" m="general" t="adj" />
+<w c="adjectives" e="صِناعي" i="157" m="industrial" t="adj" />
+<w c="adjectives" e="مهِم, * ممتِع" i="158" m="interesting" t="adj" />
+<w c="adjectives" e="دولي، اممي" i="159" m="international" t="adj" />
+<w c="adjectives" e="أخير" i="160" m="last" t="adj" />
+<w c="adjectives" e="متأخر" i="161" m="late" t="adj" />
+<w c="adjectives" e="قانوني" i="162" m="legal" t="adj" />
+<w c="adjectives" e="خفيف" i="163" m="light" t="adj" />
+<w c="adjectives" e="سائل" i="164" m="liquid" t="adj" />
+<w c="adjectives" e="محلي" i="165" m="local" t="adj" />
+<w c="adjectives" e="مرتفع; صاخب" i="166" m="loud" t="adj" />
+<w c="adjectives" e="منخفض" i="167" m="low" t="adj" />
+<w c="adjectives" e="محظوظ" i="168" m="lucky" t="adj" />
+<w c="adjectives" e="رئيسي" i="169" m="main" t="adj" />
+<w c="adjectives" e="عظيم، كبير، رئيسي" i="170" m="major" t="adj" />
+<w c="adjectives" e="كثير" i="171" m="many" t="adj" />
+<w c="adjectives" e="معدني" i="172" m="metal" t="adj" />
+<w c="adjectives" e="عسكري" i="173" m="military" t="adj" />
+<w c="adjectives" e="دقيق" i="174" m="minute" t="adj" />
+<w c="adjectives" e="أكثر" i="175" m="more" t="adj" />
+<w c="adjectives" e="كثير" i="176" m="much" t="adj" />
+<w c="adjectives" e="ضيق" i="177" m="narrow" t="adj" />
+<w c="adjectives" e="وطني" i="178" m="national" t="adj" />
+<w c="adjectives" e="طبيعي" i="179" m="natural" t="adj" />
+<w c="adjectives" e="ضروري" i="180" m="necessary" t="adj" />
+<w c="adjectives" e="غير" i="181" m="no" t="adj" />
+<w c="adjectives" e="عادي" i="182" m="normal" t="adj" />
+<w c="adjectives" e="مطفأ" i="183" m="off" t="adj" />
+<w c="adjectives" e="مشغل" i="184" m="on" t="adj" />
+<w c="adjectives" e="مضاد" i="185" m="opposite" t="adj" />
+<w c="adjectives" e="أصلي، أولي" i="186" m="original" t="adj" />
+<w c="adjectives" e="آخر" i="187" m="other" t="adj" />
+<w c="adjectives" e="متوازي" i="188" m="parallel" t="adj" />
+<w c="adjectives" e="خاص" i="189" m="particular" t="adj" />
+<w c="adjectives" e="ماضي" i="190" m="past" t="adj" />
+<w c="adjectives" e="خصوصي" i="191" m="personal" t="adj" />
+<w c="adjectives" e="جسدي" i="192" m="physical" t="adj" />
+<w c="adjectives" e="سياسي" i="193" m="political" t="adj" />
+<w c="adjectives" e="فقير" i="194" m="poor" t="adj" />
+<w c="adjectives" e="شعبي، مفهوم عند أكثرية الشعب" i="195" m="popular" t="adj" />
+<w c="adjectives" e="ممكن" i="196" m="possible" t="adj" />
+<w c="adjectives" e="حالي" i="197" m="present" t="adj" />
+<w c="adjectives" e="سابِق" i="198" m="previous" t="adj" />
+<w c="adjectives" e="خاص" i="199" m="private" t="adj" />
+<w c="adjectives" e="تقريبي" i="200" m="probable" t="adj" />
+<w c="adjectives" e="مِهني" i="201" m="professional" t="adj" />
+<w c="adjectives" e="عمومي" i="202" m="public" t="adj" />
+<w c="adjectives" e="ساكن" i="203" m="quiet" t="adj" />
+<w c="adjectives" e="جاهز" i="204" m="ready" t="adj" />
+<w c="adjectives" e="جديد" i="205" m="recent" t="adj" />
+<w c="adjectives" e="اعتيادي" i="206" m="regular" t="adj" />
+<w c="adjectives" e="مسؤول" i="207" m="responsible" t="adj" />
+<w c="adjectives" e="قاسي" i="208" m="rigid" t="adj" />
+<w c="adjectives" e="خشن" i="209" m="rough" t="adj" />
+<w c="adjectives" e="دائري" i="210" m="round" t="adj" />
+<w c="adjectives" e="تعيس" i="211" m="sad" t="adj" />
+<w c="adjectives" e="آمن" i="212" m="safe" t="adj" />
+<w c="adjectives" e="مثل" i="213" m="same" t="adj" />
+<w c="adjectives" e="ثاني" i="214" m="second" t="adj" />
+<w c="adjectives" e="سري; مستتر" i="215" m="secret" t="adj" />
+<w c="adjectives" e="مفصول" i="216" m="separate" t="adj" />
+<w c="adjectives" e="جاد" i="217" m="serious" t="adj" />
+<w c="adjectives" e="معين سلفا" i="218" m="set" t="adj" />
+<w c="adjectives" e="عِدة" i="219" m="several" t="adj" />
+<w c="adjectives" e="قصير" i="220" m="short" t="adj" />
+<w c="adjectives" e="ساكن" i="221" m="silent" t="adj" />
+<w c="adjectives" e="فضي" i="222" m="silver" t="adj" />
+<w c="adjectives" e="بسيط" i="223" m="simple" t="adj" />
+<w c="adjectives" e="وحيد، مفرد" i="224" m="single" t="adj" />
+<w c="adjectives" e="صغير" i="225" m="small" t="adj" />
+<w c="adjectives" e="مصقول" i="226" m="smooth" t="adj" />
+<w c="adjectives" e="صلب" i="227" m="solid" t="adj" />
+<w c="adjectives" e="نحيل" i="228" m="sparse" t="adj" />
+<w c="adjectives" e="خاص" i="229" m="special" t="adj" />
+<w c="adjectives" e="معين، محدد، خاص" i="230" m="specific" t="adj" />
+<w c="adjectives" e="مربع" i="231" m="square" t="adj" />
+<w c="adjectives" e="نموذجي، موحد، عادي" i="232" m="standard" t="adj" />
+<w c="adjectives" e="لاصق" i="233" m="sticky" t="adj" />
+<w c="adjectives" e="مستقيم" i="234" m="straight" t="adj" />
+<w c="adjectives" e="غريب" i="235" m="strange" t="adj" />
+<w c="adjectives" e="أنيق، على الطِراز" i="236" m="stylish" t="adj" />
+<w c="adjectives" e="فجائي" i="237" m="sudden" t="adj" />
+<w c="adjectives" e="حلو" i="238" m="sweet" t="adj" />
+<w c="adjectives" e="طويل" i="239" m="tall" t="adj" />
+<w c="adjectives" e="كثيف" i="240" m="thick" t="adj" />
+<w c="adjectives" e="نحيف" i="241" m="thin" t="adj" />
+<w c="adjectives" e="محكم" i="242" m="tight" t="adj" />
+<w c="adjectives" e="حقيقي" i="243" m="true" t="adj" />
+<w c="adjectives" e="قبيح" i="244" m="ugly" t="adj" />
+<w c="adjectives" e="تحت" i="245" m="under" t="adj" />
+<w c="adjectives" e="غير عادي" i="246" m="unusual" t="adj" />
+<w c="adjectives" e="عادي" i="247" m="usual" t="adj" />
+<w c="adjectives" e="دافئ" i="248" m="warm" t="adj" />
+<w c="adjectives" e="رطب" i="249" m="wet" t="adj" />
+<w c="adjectives" e="كامِل، تام" i="250" m="whole" t="adj" />
+<w c="adjectives" e="عريض" i="251" m="wide" t="adj" />
+<w c="adjectives" e="آخر" i="252" m="another" t="adj" />
+<w c="adjectives" e="سيئ" i="253" m="bad" t="adj" />
+<w c="adjectives" e="قاعدي" i="254" m="basic" t="adj" />
+<w c="adjectives" e="جميل" i="255" m="beautiful" t="adj" />
+<w c="adjectives" e="أفضل ، الأفضل" i="256" m="best" t="adj" />
+<w c="adjectives" e="أفضل، أحسن" i="257" m="better" t="adj" />
+<w c="adjectives" e="كبير" i="258" m="big" t="adj" />
+<w c="adjectives" e="نظيف" i="259" m="clean" t="adj" />
+<w c="adjectives" e="بارد" i="260" m="cold" t="adj" />
+<w c="adjectives" e="صحيح" i="261" m="correct" t="adj" />
+<w c="adjectives" e="مظلم" i="262" m="dark" t="adj" />
+<w c="adjectives" e="صعب" i="263" m="difficult" t="adj" />
+<w c="adjectives" e="وسخ" i="264" m="dirty" t="adj" />
+<w c="adjectives" e="سريع" i="265" m="fast" t="adj" />
+<w c="adjectives" e="جيد" i="266" m="good" t="adj" />
+<w c="adjectives" e="عظيم" i="267" m="great" t="adj" />
+<w c="adjectives" e="عظيم" i="268" m="great" t="adj" />
+<w c="adjectives" e="سعيد" i="269" m="happy" t="adj" />
+<w c="adjectives" e="صحي" i="270" m="healthy" t="adj" />
+<w c="adjectives" e="ثقيل" i="271" m="heavy" t="adj" />
+<w c="adjectives" e="عالي" i="272" m="high" t="adj" />
+<w c="adjectives" e="حار" i="273" m="hot" t="adj" />
+<w c="adjectives" e="يسار" i="274" m="left" t="adj" />
+<w c="adjectives" e="خفيف" i="275" m="light" t="adj" />
+<w c="adjectives" e="قليل" i="276" m="little" t="adj" />
+<w c="adjectives" e="طويل" i="277" m="long" t="adj" />
+<w c="adjectives" e="قريب" i="278" m="near" t="adj" />
+<w c="adjectives" e="جديد" i="279" m="new" t="adj" />
+<w c="adjectives" e="جميل" i="280" m="nice" t="adj" />
+<w c="adjectives" e="مفتوح" i="281" m="open" t="adj" />
+<w c="adjectives" e="حقيقي" i="282" m="real" t="adj" />
+<w c="adjectives" e="يمين" i="283" m="right" t="adj" />
+<w c="adjectives" e="حاد" i="284" m="sharp" t="adj" />
+<w c="adjectives" e="بطيء" i="285" m="slow" t="adj" />
+<w c="adjectives" e="ناعم" i="286" m="soft" t="adj" />
+<w c="adjectives" e="قوي" i="287" m="strong" t="adj" />
+<w c="adjectives" e="ضعيف" i="288" m="weak" t="adj" />
+<w c="adjectives" e="خطأ" i="289" m="wrong" t="adj" />
+<w c="adjective" e="قادر" i="290" m="able" t="adj" />
+<w c="adjective" e="حي، غير ميِت" i="291" m="alive" t="adj" />
+<w c="adjective" e="منعزل" i="292" m="alone" t="adj" />
+<w c="adjective" e="غاضب" i="293" m="angry" t="adj" />
+<w c="adjective" e="مستيقظ" i="294" m="awake" t="adj" />
+<w c="adjective" e="ميت" i="295" m="dead" t="adj" />
+<w c="adjective" e="أنثى" i="296" m="female" t="adj" />
+<w c="adjective" e="حر" i="297" m="free" t="adj" />
+<w c="adjective" e="ودي" i="298" m="friendly" t="adj" />
+<w c="adjective" e="صحي" i="299" m="healthy" t="adj" />
+<w c="adjective" e="إنساني" i="300" m="human" t="adj" />
+<w c="adjective" e="جائِع ، تواق إلى" i="301" m="hungry" t="adj" />
+<w c="adjective" e="مريض" i="302" m="ill" t="adj" />
+<w c="adjective" e="غير صبور" i="303" m="impatient" t="adj" />
+<w c="adjective" e="ذكي" i="304" m="intelligent" t="adj" />
+<w c="adjective" e="لطيف" i="305" m="kind" t="adj" />
+<w c="adjective" e="ذكر" i="306" m="male" t="adj" />
+<w c="adjective" e="ذكري" i="307" m="male" t="adj" />
+<w c="adjective" e="متزوج" i="308" m="married" t="adj" />
+<w c="adjective" e="خسيس، دنيء" i="309" m="mean" t="adj" />
+<w c="adjective" e="طبي" i="310" m="medical" t="adj" />
+<w c="adjective" e="قديم" i="311" m="old" t="adj" />
+<w c="adjective" e="صبور" i="312" m="patient" t="adj" />
+<w c="adjective" e="فقير" i="313" m="poor" t="adj" />
+<w c="adjective" e="خاص، فردي" i="314" m="private" t="adj" />
+<w c="adjective" e="غني" i="315" m="rich" t="adj" />
+<w c="adjective" e="ملكي" i="316" m="royal" t="adj" />
+<w c="adjective" e="حزين" i="317" m="sad" t="adj" />
+<w c="adjective" e="فطن" i="318" m="sharp" t="adj" />
+<w c="adjective" e="مخلص" i="319" m="sincere" t="adj" />
+<w c="adjective" e="مفرد" i="320" m="single" t="adj" />
+<w c="adjective" e="خبير" i="321" m="skilful" t="adj" />
+<w c="adjective" e="غبي" i="322" m="stupid" t="adj" />
+<w c="adjective" e="تابع" i="323" m="subject" t="adj" />
+<w c="adjective" e="ناجِح" i="324" m="successful" t="adj" />
+<w c="adjective" e="عطشان" i="325" m="thirsty" t="adj" />
+<w c="adjective" e="متعب" i="326" m="tired" t="adj" />
+<w c="adjective" e="عنيف" i="327" m="violent" t="adj" />
+<w c="adjective" e="حكيم" i="328" m="wise" t="adj" />
+<w c="adjective" e="شاب" i="329" m="young" t="adj" />
+<w c="adverb" e="على، حول" i="330" m="about" t="adv" />
+<w c="adverb" e="فوق" i="331" m="above" t="adv" />
+<w c="adverb" e="مجدداً" i="332" m="again" t="adv" />
+<w c="adverb" e="على وشك" i="333" m="almost" t="adv" />
+<w c="adverb" e="بجانب (bijá:nib)" i="334" m="along" t="adv" />
+<w c="adverb" e="سابِقاً، قبل الآن، قد، الآن" i="335" m="already" t="adv" />
+<w c="adverb" e="تقريباً" i="336" m="approximately" t="adv" />
+<w c="adverb" e="أمام" i="337" m="before" t="adv" />
+<w c="adverb" e="قبل" i="338" m="before" t="adv" />
+<w c="adverb" e="خلف، وراء" i="339" m="behind" t="adv" />
+<w c="adverb" e="بين" i="340" m="between" t="adv" />
+<w c="adverb" e="عبر" i="341" m="by" t="adv" />
+<w c="adverb" e="مباشرة" i="342" m="directly" t="adv" />
+<w c="adverb" e="أسفل" i="343" m="down" t="adv" />
+<w c="adverb" e="باكراً" i="344" m="early" t="adv" />
+<w c="adverb" e="في أيٍ مِنهما" i="345" m="either" t="adv" />
+<w c="adverb" e="بشكل كافٍ" i="346" m="enough" t="adv" />
+<w c="adverb" e="وحده; وحيداً" i="347" m="entirely" t="adv" />
+<w c="adverb" e="مثل" i="348" m="equally" t="adv" />
+<w c="adverb" e="حتى" i="349" m="even" t="adv" />
+<w c="adverb" e="بالضبط" i="350" m="exactly" t="adv" />
+<w c="adverb" e="آخر واحد" i="351" m="finally" t="adv" />
+<w c="adverb" e="أولاً" i="352" m="first" t="adv" />
+<w c="adverb" e="نحو الأمام" i="353" m="forward" t="adv" />
+<w c="adverb" e="هنا" i="354" m="here" t="adv" />
+<w c="adverb" e="إلى هنا" i="355" m="here" t="adv" />
+<w c="adverb" e="رغم" i="356" m="however" t="adv" />
+<w c="adverb" e="فوراً" i="357" m="immediately" t="adv" />
+<w c="adverb" e="في" i="358" m="in" t="adv" />
+<w c="adverb" e="حقـا: تستعمل للتوكيد" i="359" m="indeed" t="adv" />
+<w c="adverb" e="داخل" i="360" m="inside" t="adv" />
+<w c="adverb" e="بدلا من" i="361" m="instead" t="adv" />
+<w c="adverb" e="متأخراً" i="362" m="late" t="adv" />
+<w c="adverb" e="فيما بعد" i="363" m="later" t="adv" />
+<w c="adverb" e="الأقل" i="364" m="least" t="adv" />
+<w c="adverb" e="قليلاً" i="365" m="little" t="adv" />
+<w c="adverb" e="أكثر (ʔakθar)" i="366" m="more" t="adv" />
+<w c="adverb" e="بصورة عامه" i="367" m="mostly" t="adv" />
+<w c="adverb" e="ابداً" i="368" m="never" t="adv" />
+<w c="adverb" e="لا" i="369" m="not" t="adv" />
+<w c="adverb" e="حالياً" i="370" m="now" t="adv" />
+<w c="adverb" e="كما يبدو بِوضوح" i="371" m="obviously" t="adv" />
+<w c="adverb" e="تِكراراً" i="372" m="often" t="adv" />
+<w c="adverb" e="خارج" i="373" m="outside" t="adv" />
+<w c="adverb" e="من فضلك (min fáɖlak)" i="374" m="please" t="adv" />
+<w c="adverb" e="ربما" i="375" m="possibly" t="adv" />
+<w c="adverb" e="من المحتمل" i="376" m="probably" t="adv" />
+<w c="adverb" e="فِي الواقِع، فِي الحقِيقة، فِعلاً" i="377" m="really" t="adv" />
+<w c="adverb" e="جدا" i="378" m="really" t="adv" />
+<w c="adverb" e="مؤخرا" i="379" m="recently" t="adv" />
+<w c="adverb" e="فقط" i="380" m="simply" t="adv" />
+<w c="adverb" e="ببطء" i="381" m="slowly" t="adv" />
+<w c="adverb" e="جداً" i="382" m="so" t="adv" />
+<w c="adverb" e="أحيانا" i="383" m="sometimes" t="adv" />
+<w c="adverb" e="قريبا، عما قريب" i="384" m="soon" t="adv" />
+<w c="adverb" e="دائماً" i="385" m="still" t="adv" />
+<w c="adverb" e="هكذا" i="386" m="such" t="adv" />
+<w c="adverb" e="فجأة (faj’áa)" i="387" m="suddenly" t="adv" />
+<w c="adverb" e="بالتأكيد" i="388" m="surely" t="adv" />
+<w c="adverb" e="ثم" i="389" m="then" t="adv" />
+<w c="adverb" e="هناك" i="390" m="there" t="adv" />
+<w c="adverb" e="لِذلِك" i="391" m="therefore" t="adv" />
+<w c="adverb" e="اليوم" i="392" m="today" t="adv" />
+<w c="adverb" e="معاً" i="393" m="together" t="adv" />
+<w c="adverb" e="غداً" i="394" m="tomorrow" t="adv" />
+<w c="adverb" e="الليلة (al-léila)" i="395" m="tonight" t="adv" />
+<w c="adverb" e="أيضاً" i="396" m="too" t="adv" />
+<w c="adverb" e="فوق" i="397" m="up" t="adv" />
+<w c="adverb" e="عادةً" i="398" m="usually" t="adv" />
+<w c="adverb" e="جداً" i="399" m="very" t="adv" />
+<w c="adverb" e="جيداً" i="400" m="well" t="adv" />
+<w c="adverb" e="لماذا" i="401" m="why" t="adv" />
+<w c="anatomy" e="ذراع" i="402" m="arm" t="noun" />
+<w c="anatomy" e="ظهر" i="403" m="back" t="noun" />
+<w c="anatomy" e="منقار" i="404" m="beak" t="noun" />
+<w c="anatomy" e="دم" i="405" m="blood" t="noun" />
+<w c="anatomy" e="جسم; جسد" i="406" m="body" t="noun" />
+<w c="anatomy" e="عظم" i="407" m="bone" t="noun" />
+<w c="anatomy" e="دماغ" i="408" m="brain" t="noun" />
+<w c="anatomy" e="نفس" i="409" m="breath" t="noun" />
+<w c="anatomy" e="خلية" i="410" m="cell" t="noun" />
+<w c="anatomy" e="صدر" i="411" m="chest" t="noun" />
+<w c="anatomy" e="صدر" i="412" m="chest" t="noun" />
+<w c="anatomy" e="ذقن" i="413" m="chin" t="noun" />
+<w c="anatomy" e="أذن" i="414" m="ear" t="noun" />
+<w c="anatomy" e="عين" i="415" m="eye" t="noun" />
+<w c="anatomy" e="وجه" i="416" m="face" t="noun" />
+<w c="anatomy" e="إسبع; إصبع" i="417" m="finger" t="noun" />
+<w c="anatomy" e="قدم" i="418" m="foot" t="noun" />
+<w c="anatomy" e="جبهة" i="419" m="forehead" t="noun" />
+<w c="anatomy" e="مورثه" i="420" m="gene" t="noun" />
+<w c="anatomy" e="شعر" i="421" m="hair" t="noun" />
+<w c="anatomy" e="وبر" i="422" m="hair" t="noun" />
+<w c="anatomy" e="يد; كف" i="423" m="hand" t="noun" />
+<w c="anatomy" e="رأس" i="424" m="head" t="noun" />
+<w c="anatomy" e="قلب" i="425" m="heart" t="noun" />
+<w c="anatomy" e="ركبة" i="426" m="knee" t="noun" />
+<w c="anatomy" e="ساق" i="427" m="leg" t="noun" />
+<w c="anatomy" e="شفة" i="428" m="lip" t="noun" />
+<w c="anatomy" e="فم" i="429" m="mouth" t="noun" />
+<w c="anatomy" e="عضلة" i="430" m="muscle" t="noun" />
+<w c="anatomy" e="ظفر" i="431" m="nail" t="noun" />
+<w c="anatomy" e="عنق" i="432" m="neck" t="noun" />
+<w c="anatomy" e="عصب" i="433" m="nerve" t="noun" />
+<w c="anatomy" e="أنف" i="434" m="nose" t="noun" />
+<w c="anatomy" e="جلد" i="435" m="skin" t="noun" />
+<w c="anatomy" e="معدة" i="436" m="stomach" t="noun" />
+<w c="anatomy" e="ذيل" i="437" m="tail" t="noun" />
+<w c="anatomy" e="بلعوم" i="438" m="throat" t="noun" />
+<w c="anatomy" e="إبهام" i="439" m="thumb" t="noun" />
+<w c="anatomy" e="إبهام الرجل" i="440" m="toe" t="noun" />
+<w c="anatomy" e="لسان" i="441" m="tongue" t="noun" />
+<w c="anatomy" e="سن" i="442" m="tooth" t="noun" />
+<w c="anatomy" e="جناح" i="443" m="wing" t="noun" />
+<w c="animals" e="نملة" i="444" m="ant" t="noun" />
+<w c="animals" e="دب" i="445" m="bear" t="noun" />
+<w c="animals" e="نحلة" i="446" m="bee" t="noun" />
+<w c="animals" e="طائر" i="447" m="bird" t="noun" />
+<w c="animals" e="قط" i="448" m="cat" t="noun" />
+<w c="animals" e="بقرة" i="449" m="cow" t="noun" />
+<w c="animals" e="كلب" i="450" m="dog" t="noun" />
+<w c="animals" e="فيل" i="451" m="elephant" t="noun" />
+<w c="animals" e="سمك" i="452" m="fish" t="noun" />
+<w c="animals" e="ذبابة" i="453" m="fly" t="noun" />
+<w c="animals" e="عنزة" i="454" m="goat" t="noun" />
+<w c="animals" e="حصان" i="455" m="horse" t="noun" />
+<w c="animals" e="حشرة" i="456" m="insect" t="noun" />
+<w c="animals" e="أسد" i="457" m="lion" t="noun" />
+<w c="animals" e="قرد" i="458" m="monkey" t="noun" />
+<w c="animals" e="خنزير" i="459" m="pig" t="noun" />
+<w c="animals" e="خروف" i="460" m="sheep" t="noun" />
+<w c="animals" e="أفعى" i="461" m="snake" t="noun" />
+<w c="art" e="فن" i="462" m="art" t="n" />
+<w c="art" e="فرقة" i="463" m="band" t="n" />
+<w c="art" e="لون; مادة تلوين" i="464" m="color" t="n" />
+<w c="art" e="جوقة موسيقية; حفلة موسيقية" i="465" m="concert" t="n" />
+<w c="art" e="الاختلاف" i="466" m="diversity" t="n" />
+<w c="art" e="استمتاع" i="467" m="entertainment" t="n" />
+<w c="art" e="ضربة ناجِحه، عمل ناجِح" i="468" m="hit" t="n" />
+<w c="art" e="رأي، فِكره عامه" i="469" m="image" t="n" />
+<w c="art" e="فيلم" i="470" m="movie" t="n" />
+<w c="art" e="موسيقى" i="471" m="music" t="n" />
+<w c="art" e="نوتة" i="472" m="note" t="n" />
+<w c="art" e="أوركسترا" i="473" m="orchestra" t="n" />
+<w c="art" e="طلاء" i="474" m="paint" t="n" />
+<w c="art" e="الصورة" i="475" m="painting" t="n" />
+<w c="art" e="صورة" i="476" m="picture" t="n" />
+<w c="art" e="قصيده" i="477" m="poem" t="n" />
+<w c="art" e="شعر" i="478" m="poetry" t="n" />
+<w c="art" e="إيقاع" i="479" m="rhythm" t="n" />
+<w c="art" e="أغنية" i="480" m="song" t="n" />
+<w c="art" e="منصة" i="481" m="stage" t="n" />
+<w c="art" e="نمط" i="482" m="style" t="n" />
+<w c="art" e="زي، موضه" i="483" m="vogue" t="n" />
+<w c="article" e="ال" i="484" m="the" t="" />
+<w c="business" e="حساب" i="485" m="account" t="n" />
+<w c="business" e="فائِده" i="486" m="advantage" t="n" />
+<w c="business" e="إعلان" i="487" m="advertisement" t="n" />
+<w c="business" e="نصِيحه" i="488" m="advice" t="n" />
+<w c="business" e="موافقة; اتفاق" i="489" m="agreement" t="n" />
+<w c="business" e="انتباه" i="490" m="attention" t="n" />
+<w c="business" e="سلطة" i="491" m="authority" t="n" />
+<w c="business" e="ورقة نقدية" i="492" m="banknote" t="n" />
+<w c="business" e="إتفاق على بيع وشِراء" i="493" m="bargain" t="n" />
+<w c="business" e="نمط" i="494" m="brand" t="n" />
+<w c="business" e="أعمال" i="495" m="business" t="n" />
+<w c="business" e="عاصمة" i="496" m="capital" t="n" />
+<w c="business" e="فكة" i="497" m="change" t="n" />
+<w c="business" e="شيك مصرفي" i="498" m="check" t="n" />
+<w c="business" e="مبعوث" i="499" m="committee" t="n" />
+<w c="business" e="شركة" i="500" m="company" t="n" />
+<w c="business" e="منافسة" i="501" m="competition" t="n" />
+<w c="business" e="تهمه، إتِهام" i="502" m="complaint" t="n" />
+<w c="business" e="منافسة" i="503" m="contest" t="n" />
+<w c="business" e="عقد، إلتِزام، تعهد، إتِفاقِيه" i="504" m="contract" t="n" />
+<w c="business" e="نسخة" i="505" m="copy" t="n" />
+<w c="business" e="مجلِـس (استِشاري)" i="506" m="council" t="n" />
+<w c="business" e="زبون" i="507" m="customer" t="n" />
+<w c="business" e="حاجة" i="508" m="demand" t="n" />
+<w c="business" e="قسم" i="509" m="department" t="n" />
+<w c="business" e="تصميم" i="510" m="design" t="n" />
+<w c="business" e="صعوبه" i="511" m="difficulty" t="n" />
+<w c="business" e="اتجاه" i="512" m="direction" t="n" />
+<w c="business" e="مدير" i="513" m="director" t="n" />
+<w c="business" e="إقتِصاد الدوله" i="514" m="economy" t="n" />
+<w c="business" e="بيئة" i="515" m="environment" t="n" />
+<w c="business" e="خبرة" i="516" m="experience" t="n" />
+<w c="business" e="شركة" i="517" m="firm" t="n" />
+<w c="business" e="نموذج" i="518" m="form" t="n" />
+<w c="business" e="مجموعة" i="519" m="group" t="n" />
+<w c="business" e="مساعدة" i="520" m="help" t="n" />
+<w c="business" e="عطلة" i="521" m="holiday" t="n" />
+<w c="business" e="دخل، إيراد شهري" i="522" m="income" t="n" />
+<w c="business" e="مصنع" i="523" m="industry" t="n" />
+<w c="business" e="تأمين" i="524" m="insurance" t="n" />
+<w c="business" e="فائدة" i="525" m="interest" t="n" />
+<w c="business" e="حساب" i="526" m="invoice" t="n" />
+<w c="business" e="عمل" i="527" m="job" t="n" />
+<w c="business" e="قانون" i="528" m="law" t="n" />
+<w c="business" e="في إجازه، في عطله" i="529" m="leave" t="n" />
+<w c="business" e="فقدان" i="530" m="loss" t="n" />
+<w c="business" e="إرشاد، توجيه" i="531" m="management" t="n" />
+<w c="business" e="رمز" i="532" m="marker" t="n" />
+<w c="business" e="سوق" i="533" m="market" t="n" />
+<w c="business" e="مادة" i="534" m="material" t="n" />
+<w c="business" e="متوسِط" i="535" m="mean" t="n" />
+<w c="business" e="اجتماع" i="536" m="meeting" t="n" />
+<w c="business" e="مال" i="537" m="money" t="n" />
+<w c="business" e="مِهنه، وظيفه" i="538" m="occupation" t="n" />
+<w c="business" e="تقديم" i="539" m="offer" t="n" />
+<w c="business" e="مكتب" i="540" m="office" t="n" />
+<w c="business" e="ضابِط شرطه" i="541" m="officer" t="n" />
+<w c="business" e="عملية" i="542" m="operation" t="n" />
+<w c="business" e="مالك" i="543" m="owner" t="n" />
+<w c="business" e="حزمة" i="544" m="package" t="n" />
+<w c="business" e="قسم" i="545" m="part" t="n" />
+<w c="business" e="دفع" i="546" m="payment" t="n" />
+<w c="business" e="مشروع" i="547" m="plan" t="n" />
+<w c="business" e="ثمن" i="548" m="price" t="n" />
+<w c="business" e="مشكلة" i="549" m="problem" t="n" />
+<w c="business" e="منتوج" i="550" m="product" t="n" />
+<w c="business" e="صافي" i="551" m="profit" t="n" />
+<w c="business" e="ملكية" i="552" m="property" t="n" />
+<w c="business" e="نسبة" i="553" m="rate" t="n" />
+<w c="business" e="باقي" i="554" m="rest" t="n" />
+<w c="business" e="حق" i="555" m="right" t="n" />
+<w c="business" e="بيع" i="556" m="sale" t="n" />
+<w c="business" e="خِدمه" i="557" m="service" t="n" />
+<w c="business" e="سهم" i="558" m="share" t="n" />
+<w c="business" e="دكان" i="559" m="shop" t="n" />
+<w c="business" e="براعه، حِذق" i="560" m="skill" t="n" />
+<w c="business" e="هيئه، طاقم" i="561" m="staff" t="n" />
+<w c="business" e="هيكلية" i="562" m="structure" t="n" />
+<w c="business" e="نجاح" i="563" m="success" t="n" />
+<w c="business" e="دعم" i="564" m="support" t="n" />
+<w c="business" e="مصفوفة" i="565" m="table" t="n" />
+<w c="business" e="ضريبة" i="566" m="tax" t="n" />
+<w c="business" e="فريق" i="567" m="team" t="n" />
+<w c="business" e="تجارة" i="568" m="trade" t="n" />
+<w c="business" e="قيمة" i="569" m="value" t="n" />
+<w c="business" e="مكافأة" i="570" m="wages" t="n" />
+<w c="business" e="عمل" i="571" m="work" t="n" />
+<w c="business" e="عامل" i="572" m="worker" t="n" />
+<w c="city" e="مطار" i="573" m="airport" t="n" />
+<w c="city" e="مصرف" i="574" m="bank" t="n" />
+<w c="city" e="جسر" i="575" m="bridge" t="n" />
+<w c="city" e="بناء" i="576" m="building" t="n" />
+<w c="city" e="عاصمة" i="577" m="capital" t="n" />
+<w c="city" e="قلعة" i="578" m="castle" t="n" />
+<w c="city" e="كنيسة" i="579" m="church" t="n" />
+<w c="city" e="سينما" i="580" m="cinema" t="n" />
+<w c="city" e="مدينة" i="581" m="city" t="n" />
+<w c="city" e="مصنع" i="582" m="factory" t="n" />
+<w c="city" e="شقة" i="583" m="flat" t="n" />
+<w c="city" e="مستشفى" i="584" m="hospital" t="n" />
+<w c="city" e="فُندق" i="585" m="hotel" t="n" />
+<w c="city" e="مكتبة" i="586" m="library" t="n" />
+<w c="city" e="متحف" i="587" m="museum" t="n" />
+<w c="city" e="حديقة" i="588" m="park" t="n" />
+<w c="city" e="سجن" i="589" m="prison" t="n" />
+<w c="city" e="المطعم" i="590" m="restaurant" t="n" />
+<w c="city" e="طريق" i="591" m="road" t="n" />
+<w c="city" e="مدرسة" i="592" m="school" t="n" />
+<w c="city" e="محطة" i="593" m="station" t="n" />
+<w c="city" e="شارع" i="594" m="street" t="n" />
+<w c="city" e="بنية" i="595" m="structure" t="n" />
+<w c="city" e="المترو" i="596" m="subway" t="n" />
+<w c="city" e="سوبرماركِت: متجر كبير تباع فيه السِلع بطريقة ال" i="597" m="supermarket" t="n" />
+<w c="city" e="مسرح" i="598" m="theater" t="n" />
+<w c="city" e="مدينة" i="599" m="town" t="n" />
+<w c="city" e="الجامعة" i="600" m="university" t="n" />
+<w c="city" e="قرية" i="601" m="village" t="n" />
+<w c="clothes" e="الحقيبة" i="602" m="bag" t="n" />
+<w c="clothes" e="جزمة" i="603" m="boot" t="n" />
+<w c="clothes" e="ثوب" i="604" m="cloth" t="n" />
+<w c="clothes" e="ملابِس، ألبِسه، أغطِيه" i="605" m="clothing" t="n" />
+<w c="clothes" e="معطف" i="606" m="coat" t="n" />
+<w c="clothes" e="ياقة" i="607" m="collar" t="n" />
+<w c="clothes" e="قبعة" i="608" m="hat" t="n" />
+<w c="clothes" e="السترة" i="609" m="jacket" t="n" />
+<w c="clothes" e="مجوهرات" i="610" m="jewel" t="n" />
+<w c="clothes" e="خاتم" i="611" m="ring" t="n" />
+<w c="clothes" e="قميص" i="612" m="shirt" t="n" />
+<w c="clothes" e="حذاء" i="613" m="shoe" t="n" />
+<w c="clothes" e="تنورة" i="614" m="skirt" t="n" />
+<w c="clothes" e="جورب" i="615" m="sock" t="n" />
+<w c="clothes" e="الحقيبة" i="616" m="suitcase" t="n" />
+<w c="clothes" e="ربطة عنق" i="617" m="tie" t="n" />
+<w c="colors" e="أسود" i="618" m="black" t="adj" />
+<w c="colors" e="أزرق" i="619" m="blue" t="adj" />
+<w c="colors" e="بني" i="620" m="brown" t="adj" />
+<w c="colors" e="رمادي" i="621" m="gray" t="adj" />
+<w c="colors" e="أخضر" i="622" m="green" t="adj" />
+<w c="colors" e="برتقالي" i="623" m="orange" t="adj" />
+<w c="colors" e="وردي" i="624" m="pink" t="adj" />
+<w c="colors" e="أحمر" i="625" m="red" t="adj" />
+<w c="colors" e="بنفسجي" i="626" m="violet" t="adj" />
+<w c="colors" e="أبيض" i="627" m="white" t="adj" />
+<w c="colors" e="أصفر" i="628" m="yellow" t="adj" />
+<w c="communication" e="إعلان" i="629" m="announcement" t="n" />
+<w c="communication" e="جواب" i="630" m="answer" t="n" />
+<w c="communication" e="استحسان" i="631" m="approval" t="n" />
+<w c="communication" e="حجة" i="632" m="argument" t="n" />
+<w c="communication" e="برهان" i="633" m="argument" t="n" />
+<w c="communication" e="كتاب" i="634" m="book" t="n" />
+<w c="communication" e="مكالمه هاتفيه، إتِصال هاتفي" i="635" m="call" t="n" />
+<w c="communication" e="رسمة" i="636" m="character" t="n" />
+<w c="communication" e="صياح" i="637" m="cry" t="n" />
+<w c="communication" e="معطيات، بيانات" i="638" m="data" t="n" />
+<w c="communication" e="قرار" i="639" m="decision" t="n" />
+<w c="communication" e="قاموس; قاموس ؛ معجم" i="640" m="dictionary" t="n" />
+<w c="communication" e="مناقشة" i="641" m="discussion" t="n" />
+<w c="communication" e="شك" i="642" m="doubt" t="n" />
+<w c="communication" e="تجربة" i="643" m="experience" t="n" />
+<w c="communication" e="منظر; مظهر" i="644" m="expression" t="n" />
+<w c="communication" e="شعور" i="645" m="feeling" t="n" />
+<w c="communication" e="دعابة" i="646" m="humor" t="n" />
+<w c="communication" e="فكرة" i="647" m="idea" t="n" />
+<w c="communication" e="معلومة، معلومات" i="648" m="information" t="n" />
+<w c="communication" e="اهتمام" i="649" m="interest" t="n" />
+<w c="communication" e="مقابلة" i="650" m="interview" t="n" />
+<w c="communication" e="لغة" i="651" m="language" t="n" />
+<w c="communication" e="لغه" i="652" m="language" t="n" />
+<w c="communication" e="حرف" i="653" m="letter" t="n" />
+<w c="communication" e="رسالة" i="654" m="letter" t="n" />
+<w c="communication" e="بهتان" i="655" m="lie" t="n" />
+<w c="communication" e="مجلة" i="656" m="magazine" t="n" />
+<w c="communication" e="بريد" i="657" m="mail" t="n" />
+<w c="communication" e="ذكرى" i="658" m="memory" t="n" />
+<w c="communication" e="ذاكرة" i="659" m="memory" t="n" />
+<w c="communication" e="خطأ" i="660" m="mistake" t="n" />
+<w c="communication" e="اسم" i="661" m="name" t="n" />
+<w c="communication" e="صحيفة" i="662" m="newspaper" t="n" />
+<w c="communication" e="تعليق" i="663" m="note" t="n" />
+<w c="communication" e="عدد" i="664" m="number" t="n" />
+<w c="communication" e="رأي" i="665" m="opinion" t="n" />
+<w c="communication" e="صفحة" i="666" m="page" t="n" />
+<w c="communication" e="نقطة" i="667" m="point" t="n" />
+<w c="communication" e="لفظ" i="668" m="pronunciation" t="n" />
+<w c="communication" e="إقتِراح، عرض" i="669" m="proposal" t="n" />
+<w c="communication" e="احتجاج" i="670" m="protest" t="n" />
+<w c="communication" e="سؤال" i="671" m="question" t="n" />
+<w c="communication" e="ردة فعل" i="672" m="reaction" t="n" />
+<w c="communication" e="سبب" i="673" m="reason" t="n" />
+<w c="communication" e="علاقة" i="674" m="relation" t="n" />
+<w c="communication" e="طلب" i="675" m="request" t="n" />
+<w c="communication" e="سر" i="676" m="secret" t="n" />
+<w c="communication" e="جملة" i="677" m="sentence" t="n" />
+<w c="communication" e="شكل" i="678" m="shape" t="n" />
+<w c="communication" e="إشارة" i="679" m="sign" t="n" />
+<w c="communication" e="حديث" i="680" m="speech" t="n" />
+<w c="communication" e="تهجِئه" i="681" m="spelling" t="n" />
+<w c="communication" e="مقدار معين من" i="682" m="standard" t="n" />
+<w c="communication" e="تصريح" i="683" m="statement" t="n" />
+<w c="communication" e="موضوع" i="684" m="subject" t="n" />
+<w c="communication" e="اقتراح" i="685" m="suggestion" t="n" />
+<w c="communication" e="صوت" i="686" m="voice" t="n" />
+<w c="communication" e="كلمة" i="687" m="word" t="n" />
+<w c="communication" e="كتابة" i="688" m="writing" t="n" />
+<w c="conjunction" e="و" i="689" m="and" t="conj" />
+<w c="conjunction" e="لأن" i="690" m="because" t="conj" />
+<w c="conjunction" e="لأجل" i="691" m="for" t="conj" />
+<w c="conjunction" e="إذا" i="692" m="if" t="conj" />
+<w c="conjunction" e="أو" i="693" m="or" t="conj" />
+<w c="conjunction" e="من" i="694" m="than" t="conj" />
+<w c="conjunction" e="حتى" i="695" m="until" t="conj" />
+<w c="conjunction" e="كلما" i="696" m="whenever" t="conj" />
+<w c="containers" e="حقيبة" i="697" m="bag" t="n" />
+<w c="containers" e="سلة" i="698" m="basket" t="n" />
+<w c="containers" e="قارورة" i="699" m="bottle" t="n" />
+<w c="containers" e="صندوق" i="700" m="box" t="n" />
+<w c="containers" e="صفيحة" i="701" m="can" t="n" />
+<w c="containers" e="قدح" i="702" m="cup" t="n" />
+<w c="containers" e="كأس" i="703" m="glass" t="n" />
+<w c="containers" e="صحن" i="704" m="plate" t="n" />
+<w c="conversation" e="لا أعرف" i="705" m="I don't know" t="" />
+<w c="conversation" e="لا أفهم" i="706" m="I don't understand" t="" />
+<w c="conversation" e="هل تتكلم الإنجليزية" i="707" m="do you speak English" t="" />
+<w c="conversation" e="نهارك سعيد" i="708" m="good day" t="" />
+<w c="conversation" e="حظ سعيد" i="709" m="good luck" t="" />
+<w c="conversation" e="صباح الخير (ʂabá:ħ al-χéir)" i="710" m="good morning" t="" />
+<w c="conversation" e="كل عام وأنتم بخير" i="711" m="happy birthday" t="" />
+<w c="conversation" e="مرحبا'مرحبًا (márħaban)" i="712" m="hello" t="" />
+<w c="conversation" e="بكم هذا" i="713" m="how much is it" t="" />
+<w c="conversation" e="لا" i="714" m="no" t="" />
+<w c="conversation" e="آسف" i="715" m="sorry" t="" />
+<w c="conversation" e="عفوا" i="716" m="sorry" t="" />
+<w c="conversation" e="شكرا جزيلا" i="717" m="thank you very much" t="" />
+<w c="conversation" e="ما اسمك" i="718" m="what is your name" t="" />
+<w c="conversation" e="نعم" i="719" m="yes" t="" />
+<w c="countries" e="الصين" i="720" m="China" t="n" />
+<w c="countries" e="تشيكيا" i="721" m="Czech Republic" t="n" />
+<w c="countries" e="فرنسا" i="722" m="France" t="n" />
+<w c="countries" e="ألمانيا" i="723" m="Germany" t="n" />
+<w c="countries" e="الهند" i="724" m="India" t="n" />
+<w c="countries" e="إيطاليا" i="725" m="Italy" t="n" />
+<w c="countries" e="اليابان" i="726" m="Japan" t="n" />
+<w c="countries" e="إسبانيا" i="727" m="Spain" t="n" />
+<w c="countries" e="المملكة المتحدة" i="728" m="United Kingdom" t="n" />
+<w c="countries" e="الولايات المتحدة الأمريكية" i="729" m="United States" t="n" />
+<w c="devices" e="آلة تصوير" i="730" m="camera" t="n" />
+<w c="devices" e="هاتف نقال" i="731" m="cellphone" t="n" />
+<w c="devices" e="ساعة" i="732" m="clock" t="n" />
+<w c="devices" e="حاسوب" i="733" m="computer" t="n" />
+<w c="devices" e="مصعد" i="734" m="elevator" t="n" />
+<w c="devices" e="محرك" i="735" m="engine" t="n" />
+<w c="devices" e="أداة" i="736" m="instrument" t="n" />
+<w c="devices" e="آلة" i="737" m="machine" t="n" />
+<w c="devices" e="فرن" i="738" m="oven" t="n" />
+<w c="devices" e="التلفاز" i="739" m="television" t="n" />
+<w c="devices" e="آلة تصوير" i="740" m="television camera" t="n" />
+<w c="devices" e="ساعة" i="741" m="watch" t="n" />
+<w c="drinks" e="بيرة" i="742" m="beer" t="n" />
+<w c="drinks" e="قهوة" i="743" m="coffee" t="n" />
+<w c="drinks" e="شراب" i="744" m="drink" t="n" />
+<w c="drinks" e="حليب" i="745" m="milk" t="n" />
+<w c="drinks" e="كوكتيل" i="746" m="milkshake" t="n" />
+<w c="drinks" e="شاي" i="747" m="tea" t="n" />
+<w c="drinks" e="ماء" i="748" m="water" t="n" />
+<w c="drinks" e="نبيذ" i="749" m="wine" t="n" />
+<w c="education" e="صنف" i="750" m="class" t="n" />
+<w c="education" e="تعليم" i="751" m="education" t="n" />
+<w c="education" e="تعليم" i="752" m="education" t="n" />
+<w c="education" e="تعليم" i="753" m="education" t="n" />
+<w c="education" e="امتحان" i="754" m="examination" t="n" />
+<w c="education" e="علامة" i="755" m="grade" t="n" />
+<w c="education" e="معرفة" i="756" m="knowledge" t="n" />
+<w c="education" e="تلميذ" i="757" m="student" t="n" />
+<w c="education" e="معلم" i="758" m="teacher" t="n" />
+<w c="education" e="تدريب" i="759" m="training" t="n" />
+<w c="environment" e="مطر حمضي" i="760" m="acid rain" t="n" />
+<w c="environment" e="جو; غلاف جوي" i="761" m="atmosphere" t="n" />
+<w c="environment" e="تغير مناخي" i="762" m="climate change" t="n" />
+<w c="environment" e="علم البيئة" i="763" m="ecology" t="n" />
+<w c="environment" e="بيئة" i="764" m="environment" t="n" />
+<w c="environment" e="وقود أحفوري" i="765" m="fossil fuel" t="n" />
+<w c="environment" e="احترار عالمي" i="766" m="global warming" t="n" />
+<w c="environment" e="احتباس حراري" i="767" m="greenhouse effect" t="n" />
+<w c="environment" e="منجم" i="768" m="mine" t="n" />
+<w c="environment" e="أوزون" i="769" m="ozone" t="n" />
+<w c="environment" e="تلوث" i="770" m="pollution" t="n" />
+<w c="environment" e="إعادة تصنيع" i="771" m="recycling" t="n" />
+<w c="environment" e="ضبخن: ضباب ودخان" i="772" m="smog" t="n" />
+<w c="environment" e="قمامة" i="773" m="waste" t="n" />
+<w c="family" e="رضيع" i="774" m="baby" t="n" />
+<w c="family" e="ولادة" i="775" m="birth" t="n" />
+<w c="family" e="يوم ميلاد; عيد ميلاد" i="776" m="birthday" t="n" />
+<w c="family" e="ولد; صبي" i="777" m="boy" t="n" />
+<w c="family" e="أخ" i="778" m="brother" t="n" />
+<w c="family" e="ولد" i="779" m="child" t="n" />
+<w c="family" e="ابنة" i="780" m="daughter" t="n" />
+<w c="family" e="موت" i="781" m="death" t="n" />
+<w c="family" e="عائلة" i="782" m="family" t="n" />
+<w c="family" e="أب" i="783" m="father" t="n" />
+<w c="family" e="صديق" i="784" m="friend" t="n" />
+<w c="family" e="بنت" i="785" m="girl" t="n" />
+<w c="family" e="جد" i="786" m="grandfather" t="n" />
+<w c="family" e="رجل; إنسان" i="787" m="human" t="n" />
+<w c="family" e="زوج" i="788" m="husband" t="n" />
+<w c="family" e="حياه" i="789" m="life" t="n" />
+<w c="family" e="رجل" i="790" m="man" t="n" />
+<w c="family" e="زواج، حياة الزواج" i="791" m="marriage" t="n" />
+<w c="family" e="أم" i="792" m="mother" t="n" />
+<w c="family" e="جار" i="793" m="neighbor" t="n" />
+<w c="family" e="أحد الوالِدين" i="794" m="parent" t="n" />
+<w c="family" e="شخص" i="795" m="person" t="n" />
+<w c="family" e="قرابة" i="796" m="relationship" t="n" />
+<w c="family" e="أخت" i="797" m="sister" t="n" />
+<w c="family" e="ابن" i="798" m="son" t="n" />
+<w c="family" e="عرس" i="799" m="wedding" t="n" />
+<w c="family" e="زواج (zawá:j) (m)" i="800" m="wedding" t="n" />
+<w c="family" e="زوجة" i="801" m="wife" t="n" />
+<w c="family" e="امرأة" i="802" m="woman" t="n" />
+<w c="feelings" e="خوف" i="803" m="fear" t="n" />
+<w c="feelings" e="كره" i="804" m="hate" t="n" />
+<w c="feelings" e="حب" i="805" m="love" t="n" />
+<w c="feelings" e="سرور" i="806" m="pleasure" t="n" />
+<w c="feelings" e="أمل" i="807" m="promise" t="n" />
+<w c="food" e="خبز" i="808" m="bread" t="n" />
+<w c="food" e="إفطار" i="809" m="breakfast" t="n" />
+<w c="food" e="زبدة" i="810" m="butter" t="n" />
+<w c="food" e="كعك" i="811" m="cake" t="n" />
+<w c="food" e="جبن" i="812" m="cheese" t="n" />
+<w c="food" e="شوكولا" i="813" m="chocolate" t="n" />
+<w c="food" e="كأس" i="814" m="cup" t="n" />
+<w c="food" e="بيضة" i="815" m="egg" t="n" />
+<w c="food" e="طعام" i="816" m="food" t="n" />
+<w c="food" e="شوكة" i="817" m="fork" t="n" />
+<w c="food" e="فاكهة" i="818" m="fruit" t="n" />
+<w c="food" e="سكين" i="819" m="knife" t="n" />
+<w c="food" e="غداء" i="820" m="lunch" t="n" />
+<w c="food" e="وجبة" i="821" m="meal" t="n" />
+<w c="food" e="لحم" i="822" m="meat" t="n" />
+<w c="food" e="زيت" i="823" m="oil" t="n" />
+<w c="food" e="سلطة" i="824" m="salad" t="n" />
+<w c="food" e="ملح" i="825" m="salt" t="n" />
+<w c="food" e="السندويتش" i="826" m="sandwich" t="n" />
+<w c="food" e="صلصة" i="827" m="sauce" t="n" />
+<w c="food" e="حساء" i="828" m="soup" t="n" />
+<w c="food" e="ملعقة" i="829" m="spoon" t="n" />
+<w c="food" e="سكر" i="830" m="sugar" t="n" />
+<w c="food" e="حلاوة" i="831" m="sweet" t="n" />
+<w c="fruits" e="تفاحة" i="832" m="apple" t="n" />
+<w c="fruits" e="مشمش" i="833" m="apricot" t="n" />
+<w c="fruits" e="موز" i="834" m="banana" t="n" />
+<w c="fruits" e="تُوت" i="835" m="blackberry" t="n" />
+<w c="fruits" e="كرز" i="836" m="cherry" t="n" />
+<w c="fruits" e="ليمون" i="837" m="lemon" t="n" />
+<w c="fruits" e="جوز" i="838" m="nut" t="n" />
+<w c="fruits" e="برتقال" i="839" m="orange" t="n" />
+<w c="fruits" e="دراق" i="840" m="peach" t="n" />
+<w c="fruits" e="إجاص" i="841" m="pear" t="n" />
+<w c="fruits" e="أناناس" i="842" m="pineapple" t="n" />
+<w c="fruits" e="خوخ" i="843" m="plum" t="n" />
+<w c="fruits" e="توت أحمر; توت العليق" i="844" m="raspberry" t="n" />
+<w c="fruits" e="فراولة" i="845" m="strawberry" t="n" />
+<w c="furniture" e="سرير" i="846" m="bed" t="n" />
+<w c="furniture" e="سجادة" i="847" m="carpet" t="n" />
+<w c="furniture" e="كرسي" i="848" m="chair" t="n" />
+<w c="furniture" e="خِزانه" i="849" m="cupboard" t="n" />
+<w c="furniture" e="ستارة" i="850" m="curtain" t="n" />
+<w c="furniture" e="مكتب" i="851" m="desk" t="n" />
+<w c="furniture" e="درج" i="852" m="drawer" t="n" />
+<w c="furniture" e="مقعد للجلوس" i="853" m="seat" t="n" />
+<w c="furniture" e="رف" i="854" m="shelf" t="n" />
+<w c="furniture" e="المغسلة" i="855" m="sink" t="n" />
+<w c="furniture" e="طاولة" i="856" m="table" t="n" />
+<w c="geography" e="الأرض" i="857" m="Earth" t="n" />
+<w c="geography" e="قمر" i="858" m="Moon" t="n" />
+<w c="geography" e="ضفة ضِفة النهر" i="859" m="bank" t="n" />
+<w c="geography" e="شاطئ; شّاطئ" i="860" m="beach" t="n" />
+<w c="geography" e="شرق" i="861" m="east" t="n" />
+<w c="geography" e="تل" i="862" m="hill" t="n" />
+<w c="geography" e="جزيرة" i="863" m="island" t="n" />
+<w c="geography" e="بحيرة" i="864" m="lake" t="n" />
+<w c="geography" e="أرض" i="865" m="land" t="n" />
+<w c="geography" e="خريطة" i="866" m="map" t="n" />
+<w c="geography" e="شمال" i="867" m="north" t="n" />
+<w c="geography" e="حقل" i="868" m="plain" t="n" />
+<w c="geography" e="نهر" i="869" m="river" t="n" />
+<w c="geography" e="بحر" i="870" m="sea" t="n" />
+<w c="geography" e="جنوب" i="871" m="south" t="n" />
+<w c="geography" e="فضاء" i="872" m="space" t="n" />
+<w c="geography" e="نجمة" i="873" m="star" t="n" />
+<w c="geography" e="شمس" i="874" m="sun" t="n" />
+<w c="geography" e="غرب" i="875" m="west" t="n" />
+<w c="house" e="عنوان" i="876" m="address" t="n" />
+<w c="house" e="الحمّام" i="877" m="bathroom" t="n" />
+<w c="house" e="غرفة نوم" i="878" m="bedroom" t="n" />
+<w c="house" e="قرميد" i="879" m="brick" t="n" />
+<w c="house" e="باب" i="880" m="door" t="n" />
+<w c="house" e="أرضية" i="881" m="floor" t="n" />
+<w c="house" e="طابق" i="882" m="floor" t="n" />
+<w c="house" e="أثاث" i="883" m="furniture" t="n" />
+<w c="house" e="مرآب" i="884" m="garage" t="n" />
+<w c="house" e="بستان" i="885" m="garden" t="n" />
+<w c="house" e="بوابة" i="886" m="gate" t="n" />
+<w c="house" e="صاله، ردهه" i="887" m="hall" t="n" />
+<w c="house" e="مسكن" i="888" m="home" t="n" />
+<w c="house" e="بيت" i="889" m="house" t="n" />
+<w c="house" e="مطبخ" i="890" m="kitchen" t="n" />
+<w c="house" e="سقف" i="891" m="roof" t="n" />
+<w c="house" e="غرفة" i="892" m="room" t="n" />
+<w c="house" e="حمام; دش" i="893" m="shower" t="n" />
+<w c="house" e="سلم" i="894" m="step" t="n" />
+<w c="house" e="مرحاض" i="895" m="toilet" t="n" />
+<w c="house" e="جدار" i="896" m="wall" t="n" />
+<w c="house" e="بئر" i="897" m="well" t="n" />
+<w c="house" e="نافذة" i="898" m="window" t="n" />
+<w c="languages" e="الصينية" i="899" m="Chinese" t="n" />
+<w c="languages" e="إنجليزي ؛ إنكليزي" i="900" m="English" t="n" />
+<w c="languages" e="الفرنسية" i="901" m="French" t="n" />
+<w c="languages" e="اللغة الألمانية" i="902" m="German" t="n" />
+<w c="languages" e="اللغة الهندية" i="903" m="Hindi" t="n" />
+<w c="languages" e="الإيطالية" i="904" m="Italian" t="n" />
+<w c="languages" e="اليابانية" i="905" m="Japanese" t="n" />
+<w c="languages" e="الروسية" i="906" m="Russian" t="n" />
+<w c="languages" e="الأسبانية" i="907" m="Spanish" t="n" />
+<w c="materials" e="حامض" i="908" m="acid" t="n" />
+<w c="materials" e="كيميائي" i="909" m="chemical" t="n" />
+<w c="materials" e="عنصر" i="910" m="chemical element" t="n" />
+<w c="materials" e="فحم" i="911" m="coal" t="n" />
+<w c="materials" e="قطن" i="912" m="cotton" t="n" />
+<w c="materials" e="غبار" i="913" m="dust" t="n" />
+<w c="materials" e="أرض" i="914" m="earth" t="n" />
+<w c="materials" e="دهن" i="915" m="fat" t="n" />
+<w c="materials" e="زجاج" i="916" m="glass" t="n" />
+<w c="materials" e="صمغ" i="917" m="glue" t="n" />
+<w c="materials" e="ذهب" i="918" m="gold" t="n" />
+<w c="materials" e="حبيبة; بذرة" i="919" m="grain" t="n" />
+<w c="materials" e="جليد" i="920" m="ice" t="n" />
+<w c="materials" e="حبر" i="921" m="ink" t="n" />
+<w c="materials" e="حديد" i="922" m="iron" t="n" />
+<w c="materials" e="رصاص" i="923" m="lead" t="n" />
+<w c="materials" e="جلد" i="924" m="leather" t="n" />
+<w c="materials" e="سائل" i="925" m="liquid" t="n" />
+<w c="materials" e="ماده" i="926" m="matter" t="n" />
+<w c="materials" e="معدن" i="927" m="metallic element" t="n" />
+<w c="materials" e="نفط" i="928" m="oil" t="n" />
+<w c="materials" e="ورق" i="929" m="paper" t="n" />
+<w c="materials" e="سم" i="930" m="poison" t="n" />
+<w c="materials" e="مسحوق" i="931" m="powder" t="n" />
+<w c="materials" e="رمل" i="932" m="sand" t="n" />
+<w c="materials" e="حرير" i="933" m="silk" t="n" />
+<w c="materials" e="فضة" i="934" m="silver" t="n" />
+<w c="materials" e="صابون" i="935" m="soap" t="n" />
+<w c="materials" e="فولاذ" i="936" m="steel" t="n" />
+<w c="materials" e="خشب" i="937" m="wood" t="n" />
+<w c="materials" e="صوف" i="938" m="wool" t="n" />
+<w c="mathematics" e="إضافة; جمع" i="939" m="addition" t="n" />
+<w c="mathematics" e="زاوية" i="940" m="angle" t="n" />
+<w c="mathematics" e="مساحه" i="941" m="area" t="n" />
+<w c="mathematics" e="دائرة" i="942" m="circle" t="n" />
+<w c="mathematics" e="عنصر" i="943" m="component" t="n" />
+<w c="mathematics" e="منحنى" i="944" m="curve" t="n" />
+<w c="mathematics" e="درجة" i="945" m="degree" t="n" />
+<w c="mathematics" e="مستوى" i="946" m="degree" t="n" />
+<w c="mathematics" e="إختِلاف" i="947" m="difference" t="n" />
+<w c="mathematics" e="مسافة" i="948" m="distance" t="n" />
+<w c="mathematics" e="تقسيم" i="949" m="division" t="n" />
+<w c="mathematics" e="حافة" i="950" m="edge" t="n" />
+<w c="mathematics" e="وظيفه، عمل" i="951" m="function" t="n" />
+<w c="mathematics" e="نصف" i="952" m="half" t="n" />
+<w c="mathematics" e="حد" i="953" m="limit" t="n" />
+<w c="mathematics" e="خط" i="954" m="line" t="n" />
+<w c="mathematics" e="شبكة" i="955" m="net" t="n" />
+<w c="mathematics" e="حكم" i="956" m="order" t="n" />
+<w c="mathematics" e="خارِج، الجِهة الخارجِيه" i="957" m="outside" t="n" />
+<w c="mathematics" e="نسبة مئوية" i="958" m="percent" t="n" />
+<w c="mathematics" e="غاية" i="959" m="purpose" t="n" />
+<w c="mathematics" e="نتيجة" i="960" m="result" t="n" />
+<w c="mathematics" e="جذر" i="961" m="root" t="n" />
+<w c="mathematics" e="قاعدة" i="962" m="rule" t="n" />
+<w c="mathematics" e="مجموعة" i="963" m="set" t="n" />
+<w c="mathematics" e="جانب" i="964" m="side" t="n" />
+<w c="mathematics" e="مربع" i="965" m="square" t="n" />
+<w c="mathematics" e="مربع" i="966" m="square" t="n" />
+<w c="mathematics" e="استبدال" i="967" m="substitution" t="n" />
+<w c="mathematics" e="سطح خارِجي" i="968" m="surface" t="n" />
+<w c="mathematics" e="مبلغ" i="969" m="total" t="n" />
+<w c="medicine" e="انتباه" i="970" m="care" t="n" />
+<w c="medicine" e="زكام" i="971" m="cold" t="n" />
+<w c="medicine" e="سعال" i="972" m="cough" t="n" />
+<w c="medicine" e="مرض" i="973" m="disease" t="n" />
+<w c="medicine" e="طبيب" i="974" m="doctor" t="n" />
+<w c="medicine" e="صحة" i="975" m="health" t="n" />
+<w c="medicine" e="حيض" i="976" m="menstruation" t="n" />
+<w c="medicine" e="ممرض" i="977" m="nurse" t="n" />
+<w c="medicine" e="عملية; عملية جراحية" i="978" m="operation" t="n" />
+<w c="medicine" e="ألم" i="979" m="pain" t="n" />
+<w c="medicine" e="مريض" i="980" m="patient" t="n" />
+<w c="medicine" e="غرزة" i="981" m="stitch" t="n" />
+<w c="nature" e="هواء" i="982" m="air" t="n" />
+<w c="nature" e="حيوان" i="983" m="animal" t="n" />
+<w c="nature" e="فرع" i="984" m="branch" t="n" />
+<w c="nature" e="تيار" i="985" m="current" t="n" />
+<w c="nature" e="تطوير; تطور" i="986" m="evolution" t="n" />
+<w c="nature" e="مزرعة" i="987" m="farm" t="n" />
+<w c="nature" e="حقل" i="988" m="field" t="n" />
+<w c="nature" e="نار" i="989" m="fire" t="n" />
+<w c="nature" e="زهرة" i="990" m="flower" t="n" />
+<w c="nature" e="غابة" i="991" m="forest" t="n" />
+<w c="nature" e="عشب" i="992" m="grass" t="n" />
+<w c="nature" e="ورق" i="993" m="leaf" t="n" />
+<w c="nature" e="حياة" i="994" m="life" t="n" />
+<w c="nature" e="رطوبة" i="995" m="moisture" t="n" />
+<w c="nature" e="الطبيعه" i="996" m="nature" t="n" />
+<w c="nature" e="نبات" i="997" m="plant" t="n" />
+<w c="nature" e="جذر" i="998" m="root" t="n" />
+<w c="nature" e="جنس" i="999" m="sex" t="n" />
+<w c="nature" e="سماء" i="1000" m="sky" t="n" />
+<w c="nature" e="نوم" i="1001" m="sleep" t="n" />
+<w c="nature" e="رائحة" i="1002" m="smell" t="n" />
+<w c="nature" e="دخان" i="1003" m="smoke" t="n" />
+<w c="nature" e="نبع" i="1004" m="spring" t="n" />
+<w c="nature" e="جذع" i="1005" m="stem" t="n" />
+<w c="nature" e="تيار" i="1006" m="stream" t="n" />
+<w c="nature" e="شجرة" i="1007" m="tree" t="n" />
+<w c="nature" e="موجة" i="1008" m="wave" t="n" />
+<w c="nature" e="طقس" i="1009" m="weather" t="n" />
+<w c="nature" e="عالم" i="1010" m="world" t="n" />
+<w c="numbers" e="ثمانية" i="1011" m="eight" t="n" />
+<w c="numbers" e="ثمانية عشر" i="1012" m="eighteen" t="n" />
+<w c="numbers" e="ثمانون" i="1013" m="eighty" t="n" />
+<w c="numbers" e="أحد عشر" i="1014" m="eleven" t="n" />
+<w c="numbers" e="خمسة عشر" i="1015" m="fifteen" t="n" />
+<w c="numbers" e="خمسون" i="1016" m="fifty" t="n" />
+<w c="numbers" e="خمسة" i="1017" m="five" t="n" />
+<w c="numbers" e="أربعون" i="1018" m="forty" t="n" />
+<w c="numbers" e="أربعة" i="1019" m="four" t="n" />
+<w c="numbers" e="أربعة عشر" i="1020" m="fourteen" t="n" />
+<w c="numbers" e="مائة" i="1021" m="hundred" t="n" />
+<w c="numbers" e="مليون" i="1022" m="million" t="n" />
+<w c="numbers" e="تسعة" i="1023" m="nine" t="n" />
+<w c="numbers" e="تسعة عشر" i="1024" m="nineteen" t="n" />
+<w c="numbers" e="تسعون" i="1025" m="ninety" t="n" />
+<w c="numbers" e="صِفر، لا شيء" i="1026" m="nothing" t="n" />
+<w c="numbers" e="واحد" i="1027" m="one" t="n" />
+<w c="numbers" e="سبعة" i="1028" m="seven" t="n" />
+<w c="numbers" e="سبعة عشر (sábʕaʈ ʕášar)" i="1029" m="seventeen" t="n" />
+<w c="numbers" e="سبعون" i="1030" m="seventy" t="n" />
+<w c="numbers" e="ستة" i="1031" m="six" t="n" />
+<w c="numbers" e="ستة عشر" i="1032" m="sixteen" t="n" />
+<w c="numbers" e="ستون" i="1033" m="sixty" t="n" />
+<w c="numbers" e="عشرة" i="1034" m="ten" t="n" />
+<w c="numbers" e="ثلاثة عشر" i="1035" m="thirteen" t="n" />
+<w c="numbers" e="ثلاثون" i="1036" m="thirty" t="n" />
+<w c="numbers" e="ألف" i="1037" m="thousand" t="n" />
+<w c="numbers" e="ألف" i="1038" m="thousand" t="n" />
+<w c="numbers" e="ثلاثة" i="1039" m="three" t="n" />
+<w c="numbers" e="عشرون" i="1040" m="twenty" t="n" />
+<w c="numbers" e="اثنان" i="1041" m="two" t="n" />
+<w c="objects" e="كرة" i="1042" m="ball" t="n" />
+<w c="objects" e="نصل" i="1043" m="blade" t="n" />
+<w c="objects" e="لوح" i="1044" m="board" t="n" />
+<w c="objects" e="بطاقة" i="1045" m="card" t="n" />
+<w c="objects" e="سلسلة" i="1046" m="chain" t="n" />
+<w c="objects" e="النادي" i="1047" m="club" t="n" />
+<w c="objects" e="لفافة" i="1048" m="coil" t="n" />
+<w c="objects" e="غطاء" i="1049" m="cover" t="n" />
+<w c="objects" e="مغلف" i="1050" m="envelope" t="n" />
+<w c="objects" e="ريش" i="1051" m="feather" t="n" />
+<w c="objects" e="علم" i="1052" m="flag" t="n" />
+<w c="objects" e="إطار" i="1053" m="frame" t="n" />
+<w c="objects" e="مقبض" i="1054" m="handle" t="n" />
+<w c="objects" e="قائمة (qā'imâ'''" i="1055" m="menu" t="n" />
+<w c="objects" e="علبة مجوفة" i="1056" m="nut" t="n" />
+<w c="objects" e="دبوس" i="1057" m="pin" t="n" />
+<w c="objects" e="أنبوب" i="1058" m="pipe" t="n" />
+<w c="objects" e="هدية" i="1059" m="present" t="n" />
+<w c="objects" e="حبل" i="1060" m="rope" t="n" />
+<w c="objects" e="شراع; حاجز معدني" i="1061" m="sail" t="n" />
+<w c="objects" e="بذرة" i="1062" m="seed" t="n" />
+<w c="objects" e="طابع بريد" i="1063" m="stamp" t="n" />
+<w c="objects" e="عود" i="1064" m="stick" t="n" />
+<w c="objects" e="حجر" i="1065" m="stone" t="n" />
+<w c="objects" e="تذكرة" i="1066" m="ticket" t="n" />
+<w c="objects" e="عجلة" i="1067" m="wheel" t="n" />
+<w c="objects" e="سلك" i="1068" m="wire" t="n" />
+<w c="physics" e="ميزان" i="1069" m="balance" t="n" />
+<w c="physics" e="شحنةٌ كهربائِيه" i="1070" m="charge" t="n" />
+<w c="physics" e="طاقة" i="1071" m="energy" t="n" />
+<w c="physics" e="ضوء" i="1072" m="light" t="n" />
+<w c="physics" e="وزن" i="1073" m="mass" t="n" />
+<w c="physics" e="حجم" i="1074" m="mass" t="n" />
+<w c="physics" e="قياس" i="1075" m="measurement" t="n" />
+<w c="physics" e="مرآة" i="1076" m="mirror" t="n" />
+<w c="physics" e="حركة" i="1077" m="movement" t="n" />
+<w c="physics" e="ضغط" i="1078" m="pressure" t="n" />
+<w c="physics" e="إجراء" i="1079" m="process" t="n" />
+<w c="physics" e="حجم" i="1080" m="size" t="n" />
+<w c="physics" e="صوت" i="1081" m="sound" t="n" />
+<w c="physics" e="بخار" i="1082" m="steam" t="n" />
+<w c="physics" e="قوة" i="1083" m="strength" t="n" />
+<w c="physics" e="وقت" i="1084" m="time" t="n" />
+<w c="physics" e="وحدة" i="1085" m="unit" t="n" />
+<w c="physics" e="وزن" i="1086" m="weight" t="n" />
+<w c="prepositions" e="ضد" i="1087" m="against" t="prep" />
+<w c="prepositions" e="بين" i="1088" m="among" t="prep" />
+<w c="prepositions" e="عند" i="1089" m="at" t="prep" />
+<w c="prepositions" e="عند" i="1090" m="at" t="prep" />
+<w c="prepositions" e="بجانب" i="1091" m="beside" t="prep" />
+<w c="prepositions" e="خلال" i="1092" m="during" t="prep" />
+<w c="prepositions" e="من أجل" i="1093" m="for" t="prep" />
+<w c="prepositions" e="من" i="1094" m="from" t="prep" />
+<w c="prepositions" e="من" i="1095" m="from" t="prep" />
+<w c="prepositions" e="داخل" i="1096" m="into" t="prep" />
+<w c="prepositions" e="على" i="1097" m="on" t="prep" />
+<w c="prepositions" e="على" i="1098" m="on" t="prep" />
+<w c="prepositions" e="منذ" i="1099" m="since" t="prep" />
+<w c="prepositions" e="إلى" i="1100" m="to" t="prep" />
+<w c="prepositions" e="مع" i="1101" m="with" t="prep" />
+<w c="prepositions" e="مع" i="1102" m="with" t="prep" />
+<w c="prepositions" e="بدون" i="1103" m="without" t="prep" />
+<w c="professions" e="ممثل" i="1104" m="actor" t="n" />
+<w c="professions" e="الممثّلة" i="1105" m="actress" t="n" />
+<w c="professions" e="فنان، رسام، نحات" i="1106" m="artist" t="n" />
+<w c="professions" e="رجل أعمال" i="1107" m="businessman" t="n" />
+<w c="professions" e="طاهي; طباخ" i="1108" m="cook" t="n" />
+<w c="professions" e="خبير" i="1109" m="expert" t="n" />
+<w c="professions" e="لواء" i="1110" m="general" t="n" />
+<w c="professions" e="صحفي" i="1111" m="journalist" t="n" />
+<w c="professions" e="قاضي" i="1112" m="judge" t="n" />
+<w c="professions" e="وزير" i="1113" m="minister" t="n" />
+<w c="professions" e="موسيقي" i="1114" m="musician" t="n" />
+<w c="professions" e="مصور" i="1115" m="photographer" t="n" />
+<w c="professions" e="قبطان" i="1116" m="pilot" t="n" />
+<w c="professions" e="شرطي" i="1117" m="policeman" t="n" />
+<w c="professions" e="سياسي، رجل سياسه" i="1118" m="politician" t="n" />
+<w c="professions" e="رئيس الدوله" i="1119" m="president" t="n" />
+<w c="professions" e="محترف" i="1120" m="professional" t="n" />
+<w c="professions" e="ممثل" i="1121" m="representative" t="n" />
+<w c="professions" e="بحار" i="1122" m="sailor" t="n" />
+<w c="professions" e="العالم" i="1123" m="scientist" t="n" />
+<w c="professions" e="سكرتير" i="1124" m="secretary" t="n" />
+<w c="professions" e="خادم" i="1125" m="servant" t="n" />
+<w c="professions" e="مغنٍ" i="1126" m="singer" t="n" />
+<w c="professions" e="جندي" i="1127" m="soldier" t="n" />
+<w c="professions" e="كاتب ؛ مؤلف" i="1128" m="writer" t="n" />
+<w c="pronouns" e="أحد" i="1129" m="anyone" t="pron" />
+<w c="pronouns" e="أي شيء" i="1130" m="anything" t="pron" />
+<w c="pronouns" e="الكل" i="1131" m="everybody" t="pron" />
+<w c="pronouns" e="كل شيء" i="1132" m="everything" t="pron" />
+<w c="pronouns" e="هو" i="1133" m="he" t="pron" />
+<w c="pronouns" e="ـها" i="1134" m="her" t="pron" />
+<w c="pronouns" e="نفسها" i="1135" m="herself" t="pron" />
+<w c="pronouns" e="ـه" i="1136" m="him" t="pron" />
+<w c="pronouns" e="نفسه" i="1137" m="himself" t="pron" />
+<w c="pronouns" e="ـه" i="1138" m="his" t="pron" />
+<w c="pronouns" e="هو/هي - لغير العاقل" i="1139" m="it" t="pron" />
+<w c="pronouns" e="نفسه/نفسها - لغير العاقل" i="1140" m="itself" t="pron" />
+<w c="pronouns" e="ـي" i="1141" m="me" t="pron" />
+<w c="pronouns" e="ـي" i="1142" m="my" t="pron" />
+<w c="pronouns" e="ـنا" i="1143" m="our" t="pron" />
+<w c="pronouns" e="هي" i="1144" m="she" t="pron" />
+<w c="pronouns" e="ذلك / تلك" i="1145" m="that" t="pron" />
+<w c="pronouns" e="ـهم" i="1146" m="their" t="pron" />
+<w c="pronouns" e="ـهم" i="1147" m="them" t="pron" />
+<w c="pronouns" e="هؤلاء / هذه" i="1148" m="these" t="pron" />
+<w c="pronouns" e="هم" i="1149" m="they" t="pron" />
+<w c="pronouns" e="هذا / هذه" i="1150" m="this" t="pron" />
+<w c="pronouns" e="أولئك / هذه" i="1151" m="those" t="pron" />
+<w c="pronouns" e="ـنا" i="1152" m="us" t="pron" />
+<w c="pronouns" e="نحن" i="1153" m="we" t="pron" />
+<w c="pronouns" e="ماذا / ما" i="1154" m="what" t="pron" />
+<w c="pronouns" e="متى" i="1155" m="when" t="pron" />
+<w c="pronouns" e="أي" i="1156" m="which" t="pron" />
+<w c="pronouns" e="أي" i="1157" m="which" t="pron" />
+<w c="pronouns" e="مَن" i="1158" m="who" t="pron" />
+<w c="pronouns" e="الذي" i="1159" m="whom" t="pron" />
+<w c="pronouns" e="لمن" i="1160" m="whose" t="pron" />
+<w c="pronouns" e="أنتَ / أنتِ" i="1161" m="you" t="pron" />
+<w c="pronouns" e="ـك" i="1162" m="your" t="pron" />
+<w c="pronouns" e="نفسك" i="1163" m="yourself" t="pron" />
+<w c="relations" e="صديق، رفيق، خليل" i="1164" m="boyfriend" t="n" />
+<w c="relations" e="موعد" i="1165" m="date" t="n" />
+<w c="relations" e="عزيز" i="1166" m="dear" t="n" />
+<w c="relations" e="ضيف ؛ مدعو" i="1167" m="guest" t="n" />
+<w c="relations" e="تقبيل" i="1168" m="kiss" t="n" />
+<w c="relations" e="عِيْد" i="1169" m="party" t="n" />
+<w c="relations" e="جنس" i="1170" m="sex" t="n" />
+<w c="relations" e="ابتسامة" i="1171" m="smile" t="n" />
+<w c="relations" e="مفاجأة" i="1172" m="surprise" t="n" />
+<w c="relations" e="زيارة" i="1173" m="visit" t="n" />
+<w c="science" e="علم الأحياء" i="1174" m="biology" t="n" />
+<w c="science" e="سبب" i="1175" m="cause" t="n" />
+<w c="science" e="نواة فكرة" i="1176" m="center" t="n" />
+<w c="science" e="كيمياء" i="1177" m="chemistry" t="n" />
+<w c="science" e="مقارنة" i="1178" m="comparison" t="n" />
+<w c="science" e="تأثير" i="1179" m="consequence" t="n" />
+<w c="science" e="سيطرة" i="1180" m="control" t="n" />
+<w c="science" e="مجال" i="1181" m="discipline" t="n" />
+<w c="science" e="اكتشاف" i="1182" m="discovery" t="n" />
+<w c="science" e="حدث" i="1183" m="event" t="n" />
+<w c="science" e="برهان" i="1184" m="evidence" t="n" />
+<w c="science" e="أنموذج" i="1185" m="example" t="n" />
+<w c="science" e="حقيقة" i="1186" m="fact" t="n" />
+<w c="science" e="اختراع" i="1187" m="invention" t="n" />
+<w c="science" e="قضِيه" i="1188" m="issue" t="n" />
+<w c="science" e="منهج" i="1189" m="method" t="n" />
+<w c="science" e="طِراز" i="1190" m="model" t="n" />
+<w c="science" e="خيار بين إثنين" i="1191" m="option" t="n" />
+<w c="science" e="مرحلة" i="1192" m="phase" t="n" />
+<w c="science" e="إجراء" i="1193" m="procedure" t="n" />
+<w c="science" e="الإنتاج" i="1194" m="production" t="n" />
+<w c="science" e="برنامج" i="1195" m="program" t="n" />
+<w c="science" e="مشروع، خطه" i="1196" m="project" t="n" />
+<w c="science" e="مجال" i="1197" m="range" t="n" />
+<w c="science" e="بحث" i="1198" m="research" t="n" />
+<w c="science" e="علم" i="1199" m="science" t="n" />
+<w c="science" e="مجمتع" i="1200" m="society" t="n" />
+<w c="science" e="نظام" i="1201" m="system" t="n" />
+<w c="science" e="تكنولوجيا" i="1202" m="technology" t="n" />
+<w c="science" e="نظرية" i="1203" m="theory" t="n" />
+<w c="science" e="مَيْل" i="1204" m="trend" t="n" />
+<w c="science" e="صعوبة" i="1205" m="trouble" t="n" />
+<w c="science" e="المستعمل" i="1206" m="user" t="n" />
+<w c="society" e="جيش" i="1207" m="army" t="n" />
+<w c="society" e="قاعدة" i="1208" m="base" t="n" />
+<w c="society" e="نادٍ" i="1209" m="club" t="n" />
+<w c="society" e="رفقة" i="1210" m="company" t="n" />
+<w c="society" e="دولة" i="1211" m="country" t="n" />
+<w c="society" e="محكمة" i="1212" m="court" t="n" />
+<w c="society" e="جريمة" i="1213" m="crime" t="n" />
+<w c="society" e="حضاره" i="1214" m="culture" t="n" />
+<w c="society" e="جمهورية" i="1215" m="democracy" t="n" />
+<w c="society" e="حكم" i="1216" m="dominion" t="n" />
+<w c="society" e="الانتخابات" i="1217" m="election" t="n" />
+<w c="society" e="وجود" i="1218" m="existence" t="n" />
+<w c="society" e="أنثى" i="1219" m="female" t="n" />
+<w c="society" e="حكومة" i="1220" m="government" t="n" />
+<w c="society" e="تاريخ" i="1221" m="history" t="n" />
+<w c="society" e="فرد" i="1222" m="individual" t="n" />
+<w c="society" e="مؤسسه" i="1223" m="institution" t="n" />
+<w c="society" e="ملك" i="1224" m="king" t="n" />
+<w c="society" e="زعيم" i="1225" m="leader" t="n" />
+<w c="society" e="ذكر" i="1226" m="male" t="n" />
+<w c="society" e="عضو" i="1227" m="member" t="n" />
+<w c="society" e="وطن" i="1228" m="nation" t="n" />
+<w c="society" e="خبر" i="1229" m="news" t="n" />
+<w c="society" e="ضجيج" i="1230" m="noise" t="n" />
+<w c="society" e="أمر" i="1231" m="order" t="n" />
+<w c="society" e="منظمة" i="1232" m="organization" t="n" />
+<w c="society" e="جواز مرور" i="1233" m="pass" t="n" />
+<w c="society" e="جواز سفر" i="1234" m="passport" t="n" />
+<w c="society" e="سلام" i="1235" m="peace" t="n" />
+<w c="society" e="أشخاص" i="1236" m="people" t="n" />
+<w c="society" e="شرطه" i="1237" m="police" t="n" />
+<w c="society" e="سِياسه" i="1238" m="policy" t="n" />
+<w c="society" e="شعب" i="1239" m="population" t="n" />
+<w c="society" e="جمهور" i="1240" m="public" t="n" />
+<w c="society" e="عقاب" i="1241" m="punishment" t="n" />
+<w c="society" e="دين" i="1242" m="religion" t="n" />
+<w c="society" e="إيمان" i="1243" m="religion" t="n" />
+<w c="society" e="دوله، وِلايه" i="1244" m="state" t="n" />
+<w c="society" e="عنوان" i="1245" m="title" t="n" />
+<w c="society" e="نِقابه، منظمة" i="1246" m="union" t="n" />
+<w c="society" e="حرب" i="1247" m="war" t="n" />
+<w c="society" e="إرادة" i="1248" m="will" t="n" />
+<w c="society" e="وصية" i="1249" m="will" t="n" />
+<w c="sports" e="جائزة" i="1250" m="award" t="n" />
+<w c="sports" e="كرة القاعدة; كرة القاعدة ؛ بيسبول" i="1251" m="baseball" t="n" />
+<w c="sports" e="بطولة" i="1252" m="championship" t="n" />
+<w c="sports" e="منافِس" i="1253" m="competitor" t="n" />
+<w c="sports" e="الغاية" i="1254" m="finish" t="n" />
+<w c="sports" e="لعبة كرة القدم" i="1255" m="football" t="n" />
+<w c="sports" e="لعبه للإستِمتاع" i="1256" m="game" t="n" />
+<w c="sports" e="هدف" i="1257" m="goal" t="n" />
+<w c="sports" e="غولف" i="1258" m="golf" t="n" />
+<w c="sports" e="مباراة" i="1259" m="match" t="n" />
+<w c="sports" e="لاعب" i="1260" m="player" t="n" />
+<w c="sports" e="رقم قياسي" i="1261" m="record" t="n" />
+<w c="sports" e="كرة المضرب" i="1262" m="tennis" t="n" />
+<w c="sports" e="طرح، إلقاء، رمي" i="1263" m="throw" t="n" />
+<w c="sports" e="الفوز" i="1264" m="win" t="n" />
+<w c="time" e="نيسان % أبريل" i="1265" m="April" t="n" />
+<w c="time" e="آب % أغسطس" i="1266" m="August" t="n" />
+<w c="time" e="كانون الأول % ديسمبر" i="1267" m="December" t="n" />
+<w c="time" e="شباط % فبراير" i="1268" m="February" t="n" />
+<w c="time" e="الجمعة" i="1269" m="Friday" t="n" />
+<w c="time" e="كانون الثاني % يناير" i="1270" m="January" t="n" />
+<w c="time" e="تموز % يوليو" i="1271" m="July" t="n" />
+<w c="time" e="حزيران % يونيو" i="1272" m="June" t="n" />
+<w c="time" e="أيار % مايو" i="1273" m="May" t="n" />
+<w c="time" e="الاثنين" i="1274" m="Monday" t="n" />
+<w c="time" e="تشربن الثاني % نوفمبر" i="1275" m="November" t="n" />
+<w c="time" e="تشرين الأول % أكتوبر" i="1276" m="October" t="n" />
+<w c="time" e="السبت" i="1277" m="Saturday" t="n" />
+<w c="time" e="أيلول % سبتمبر" i="1278" m="September" t="n" />
+<w c="time" e="الأحد" i="1279" m="Sunday" t="n" />
+<w c="time" e="الخميس" i="1280" m="Thursday" t="n" />
+<w c="time" e="الثلاثاء" i="1281" m="Tuesday" t="n" />
+<w c="time" e="الأربعاء" i="1282" m="Wednesday" t="n" />
+<w c="time" e="عصر" i="1283" m="afternoon" t="n" />
+<w c="time" e="عمر" i="1284" m="age" t="n" />
+<w c="time" e="خريف" i="1285" m="autumn" t="n" />
+<w c="time" e="بداية" i="1286" m="beginning" t="n" />
+<w c="time" e="مِئة سنه" i="1287" m="century" t="n" />
+<w c="time" e="تاريخ" i="1288" m="date" t="n" />
+<w c="time" e="يوم" i="1289" m="day" t="n" />
+<w c="time" e="نهاية" i="1290" m="end" t="n" />
+<w c="time" e="أمسية" i="1291" m="evening" t="n" />
+<w c="time" e="مستقبل" i="1292" m="future" t="n" />
+<w c="time" e="ساعة" i="1293" m="hour" t="n" />
+<w c="time" e="منتصف الليل" i="1294" m="midnight" t="n" />
+<w c="time" e="دقيقة" i="1295" m="minute" t="n" />
+<w c="time" e="لحظه" i="1296" m="moment" t="n" />
+<w c="time" e="شهر" i="1297" m="month" t="n" />
+<w c="time" e="صباح" i="1298" m="morning" t="n" />
+<w c="time" e="ليل" i="1299" m="night" t="n" />
+<w c="time" e="الآن" i="1300" m="now" t="n" />
+<w c="time" e="ماضي" i="1301" m="past" t="n" />
+<w c="time" e="إستِراحه، فترة إستِراحه" i="1302" m="pause" t="n" />
+<w c="time" e="فتره" i="1303" m="period" t="n" />
+<w c="time" e="حاضر" i="1304" m="present" t="n" />
+<w c="time" e="موسِم" i="1305" m="season" t="n" />
+<w c="time" e="ثانية" i="1306" m="second" t="n" />
+<w c="time" e="ربيع" i="1307" m="spring" t="n" />
+<w c="time" e="صيف" i="1308" m="summer" t="n" />
+<w c="time" e="غد" i="1309" m="tomorrow" t="n" />
+<w c="time" e="أسبوع" i="1310" m="week" t="n" />
+<w c="time" e="نهاية الأسبوع" i="1311" m="weekend" t="n" />
+<w c="time" e="فترة" i="1312" m="while" t="n" />
+<w c="time" e="شتاء" i="1313" m="winter" t="n" />
+<w c="time" e="سنة" i="1314" m="year" t="n" />
+<w c="tools" e="جرس" i="1315" m="bell" t="n" />
+<w c="tools" e="فرشاة" i="1316" m="brush" t="n" />
+<w c="tools" e="زر" i="1317" m="button" t="n" />
+<w c="tools" e="سلاح" i="1318" m="gun" t="n" />
+<w c="tools" e="مطرقة" i="1319" m="hammer" t="n" />
+<w c="tools" e="خطاف" i="1320" m="hook" t="n" />
+<w c="tools" e="مفتاح" i="1321" m="key" t="n" />
+<w c="tools" e="قفل" i="1322" m="lock" t="n" />
+<w c="tools" e="عيدان كبريت" i="1323" m="match" t="n" />
+<w c="tools" e="مسمار" i="1324" m="nail" t="n" />
+<w c="tools" e="إبرة" i="1325" m="needle" t="n" />
+<w c="tools" e="قلم" i="1326" m="pen" t="n" />
+<w c="tools" e="قلم رصاص" i="1327" m="pencil" t="n" />
+<w c="tools" e="مضخة" i="1328" m="pump" t="n" />
+<w c="tools" e="مقص" i="1329" m="scissors" t="n" />
+<w c="tools" e="نابض" i="1330" m="spring" t="n" />
+<w c="tools" e="دمغة" i="1331" m="stamp" t="n" />
+<w c="tools" e="سوط" i="1332" m="whip" t="n" />
+<w c="transport" e="حادث" i="1333" m="accident" t="n" />
+<w c="transport" e="دراجة" i="1334" m="bike" t="n" />
+<w c="transport" e="قارب" i="1335" m="boat" t="n" />
+<w c="transport" e="باص; حافلة ؛ باص" i="1336" m="bus" t="n" />
+<w c="transport" e="سيارة" i="1337" m="car" t="n" />
+<w c="transport" e="منحنى" i="1338" m="curve" t="n" />
+<w c="transport" e="قِطار سريع" i="1339" m="express" t="n" />
+<w c="transport" e="طيران" i="1340" m="flight" t="n" />
+<w c="transport" e="رحلة" i="1341" m="journey" t="n" />
+<w c="transport" e="راكب" i="1342" m="passenger" t="n" />
+<w c="transport" e="طائرة" i="1343" m="plane" t="n" />
+<w c="transport" e="سفينة" i="1344" m="ship" t="n" />
+<w c="transport" e="قسيمة" i="1345" m="skid" t="n" />
+<w c="transport" e="سكة; سكة حديدية" i="1346" m="track" t="n" />
+<w c="transport" e="قطار" i="1347" m="train" t="n" />
+<w c="transport" e="نقل" i="1348" m="transport" t="n" />
+<w c="vegetables" e="فاصولياء" i="1349" m="bean" t="n" />
+<w c="vegetables" e="ملفوف" i="1350" m="cabbage" t="n" />
+<w c="vegetables" e="جزر" i="1351" m="carrot" t="n" />
+<w c="vegetables" e="خيار" i="1352" m="cucumber" t="n" />
+<w c="vegetables" e="ثوم" i="1353" m="garlic" t="n" />
+<w c="vegetables" e="زيتون" i="1354" m="olive" t="n" />
+<w c="vegetables" e="بصل" i="1355" m="onion" t="n" />
+<w c="vegetables" e="جزر أبيض" i="1356" m="parsnip" t="n" />
+<w c="vegetables" e="البازلاء" i="1357" m="pea" t="n" />
+<w c="vegetables" e="بطاطس" i="1358" m="potato" t="n" />
+<w c="vegetables" e="الفجل" i="1359" m="radish" t="n" />
+<w c="vegetables" e="أرز" i="1360" m="rice" t="n" />
+<w c="vegetables" e="طماطم" i="1361" m="tomato" t="n" />
+<w c="verbs" e="وافق" i="1362" m="accept" t="v" />
+<w c="verbs" e="يتهِم" i="1363" m="accuse" t="v" />
+<w c="verbs" e="يتِم ، يحقِق، ينجِز" i="1364" m="achieve" t="v" />
+<w c="verbs" e="تحرك" i="1365" m="act" t="v" />
+<w c="verbs" e="يعترِف بِ" i="1366" m="admit" t="v" />
+<w c="verbs" e="يتفِق مع" i="1367" m="agree" t="v" />
+<w c="verbs" e="يعلِن حضور شخص" i="1368" m="announce" t="v" />
+<w c="verbs" e="جدال" i="1369" m="argue" t="v" />
+<w c="verbs" e="وصل" i="1370" m="arrive" t="v" />
+<w c="verbs" e="يسأل" i="1371" m="ask" t="v" />
+<w c="verbs" e="هاجم" i="1372" m="attack" t="v" />
+<w c="verbs" e="تجنب" i="1373" m="avoid" t="v" />
+<w c="verbs" e="يعيش" i="1374" m="be" t="v" />
+<w c="verbs" e="يحمِل" i="1375" m="bear" t="v" />
+<w c="verbs" e="انتصر" i="1376" m="beat" t="v" />
+<w c="verbs" e="أصبح" i="1377" m="become" t="v" />
+<w c="verbs" e="يفيد، ينفع" i="1378" m="benefit" t="v" />
+<w c="verbs" e="عض" i="1379" m="bite" t="v" />
+<w c="verbs" e="يبني" i="1380" m="build" t="v" />
+<w c="verbs" e="أشعل" i="1381" m="burn" t="v" />
+<w c="verbs" e="اتصل" i="1382" m="call" t="v" />
+<w c="verbs" e="اهتم" i="1383" m="care" t="v" />
+<w c="verbs" e="النقل" i="1384" m="carry" t="v" />
+<w c="verbs" e="أمسك" i="1385" m="catch" t="v" />
+<w c="verbs" e="دفع" i="1386" m="cause" t="v" />
+<w c="verbs" e="غير" i="1387" m="change" t="v" />
+<w c="verbs" e="يحدد" i="1388" m="choose" t="v" />
+<w c="verbs" e="رتب" i="1389" m="classify" t="v" />
+<w c="verbs" e="نظف" i="1390" m="clean" t="v" />
+<w c="verbs" e="يقارِن" i="1391" m="compare" t="v" />
+<w c="verbs" e="يحتوي" i="1392" m="contain" t="v" />
+<w c="verbs" e="يستمِر" i="1393" m="continue" t="v" />
+<w c="verbs" e="تحكم" i="1394" m="control" t="v" />
+<w c="verbs" e="طبخ" i="1395" m="cook" t="v" />
+<w c="verbs" e="نسخ" i="1396" m="copy" t="v" />
+<w c="verbs" e="سعل" i="1397" m="cough" t="v" />
+<w c="verbs" e="حطم" i="1398" m="crush" t="v" />
+<w c="verbs" e="سحق; ضغط" i="1399" m="crush" t="v" />
+<w c="verbs" e="بكى" i="1400" m="cry" t="v" />
+<w c="verbs" e="يقرِر" i="1401" m="decide" t="v" />
+<w c="verbs" e="يصِف" i="1402" m="describe" t="v" />
+<w c="verbs" e="صمم" i="1403" m="design" t="v" />
+<w c="verbs" e="أراد" i="1404" m="desire" t="v" />
+<w c="verbs" e="يموت" i="1405" m="die" t="v" />
+<w c="verbs" e="يكتشِف" i="1406" m="discover" t="v" />
+<w c="verbs" e="يناقِش، يبحث، يتباحث" i="1407" m="discuss" t="v" />
+<w c="verbs" e="فصل" i="1408" m="divide" t="v" />
+<w c="verbs" e="شك" i="1409" m="doubt" t="v" />
+<w c="verbs" e="يسوق" i="1410" m="drive" t="v" />
+<w c="verbs" e="احتوى" i="1411" m="embrace" t="v" />
+<w c="verbs" e="يشجِع" i="1412" m="encourage" t="v" />
+<w c="verbs" e="أنهى" i="1413" m="end" t="v" />
+<w c="verbs" e="يعزِز، يزيد جمال الشيء" i="1414" m="enhance" t="v" />
+<w c="verbs" e="يستمتِع بِ" i="1415" m="enjoy" t="v" />
+<w c="verbs" e="يدخل" i="1416" m="enter" t="v" />
+<w c="verbs" e="يؤسِس، يقيم، ينشِئ" i="1417" m="establish" t="v" />
+<w c="verbs" e="خمن" i="1418" m="estimate" t="v" />
+<w c="verbs" e="جاوز" i="1419" m="exceed" t="v" />
+<w c="verbs" e="يوجد" i="1420" m="exist" t="v" />
+<w c="verbs" e="ينتظِر" i="1421" m="expect" t="v" />
+<w c="verbs" e="شرح، فسر" i="1422" m="explain" t="v" />
+<w c="verbs" e="قاتل" i="1423" m="fight" t="v" />
+<w c="verbs" e="الملء" i="1424" m="fill" t="v" />
+<w c="verbs" e="يكتشِف" i="1425" m="find" t="v" />
+<w c="verbs" e="أكمل" i="1426" m="finish" t="v" />
+<w c="verbs" e="سوى" i="1427" m="flush" t="v" />
+<w c="verbs" e="حرر" i="1428" m="free" t="v" />
+<w c="verbs" e="استسلم (istáslama)" i="1429" m="give up" t="v" />
+<w c="verbs" e="ينمو" i="1430" m="grow" t="v" />
+<w c="verbs" e="يحدث لِ" i="1431" m="happen" t="v" />
+<w c="verbs" e="كره" i="1432" m="hate" t="v" />
+<w c="verbs" e="تقنع" i="1433" m="hide" t="v" />
+<w c="verbs" e="القبضة" i="1434" m="hold" t="v" />
+<w c="verbs" e="يتعرف على ، يثبِت هوية" i="1435" m="identify" t="v" />
+<w c="verbs" e="يشمل، يشتمِل" i="1436" m="include" t="v" />
+<w c="verbs" e="زاد" i="1437" m="increase" t="v" />
+<w c="verbs" e="جرح" i="1438" m="injure" t="v" />
+<w c="verbs" e="قدم" i="1439" m="introduce" t="v" />
+<w c="verbs" e="جمع" i="1440" m="join" t="v" />
+<w c="verbs" e="حافظ" i="1441" m="keep" t="v" />
+<w c="verbs" e="ركل" i="1442" m="kick" t="v" />
+<w c="verbs" e="يقتل" i="1443" m="kill" t="v" />
+<w c="verbs" e="حط" i="1444" m="land" t="v" />
+<w c="verbs" e="قاد" i="1445" m="lead" t="v" />
+<w c="verbs" e="يترك، يدع" i="1446" m="leave" t="v" />
+<w c="verbs" e="ترك" i="1447" m="let" t="v" />
+<w c="verbs" e="رفع; ارتفع" i="1448" m="lift" t="v" />
+<w c="verbs" e="حدد" i="1449" m="limit" t="v" />
+<w c="verbs" e="يشحن ، يحشو سِلاحا نارياً" i="1450" m="load" t="v" />
+<w c="verbs" e="أقفل" i="1451" m="lock" t="v" />
+<w c="verbs" e="بدا" i="1452" m="look" t="v" />
+<w c="verbs" e="يخسر" i="1453" m="lose" t="v" />
+<w c="verbs" e="يدير شؤون" i="1454" m="manage" t="v" />
+<w c="verbs" e="يتزوج" i="1455" m="marry" t="v" />
+<w c="verbs" e="طابق" i="1456" m="match" t="v" />
+<w c="verbs" e="يعني" i="1457" m="mean" t="v" />
+<w c="verbs" e="ينوي، يعتزِم" i="1458" m="mean" t="v" />
+<w c="verbs" e="قاسي" i="1459" m="measure" t="v" />
+<w c="verbs" e="يشير إلى" i="1460" m="mention" t="v" />
+<w c="verbs" e="يفوته، لا يلحق" i="1461" m="miss" t="v" />
+<w c="verbs" e="الرمية الخاطئة" i="1462" m="miss" t="v" />
+<w c="verbs" e="سمى" i="1463" m="name" t="v" />
+<w c="verbs" e="أمر" i="1464" m="order" t="v" />
+<w c="verbs" e="ملك" i="1465" m="own" t="v" />
+<w c="verbs" e="قشر" i="1466" m="peel" t="v" />
+<w c="verbs" e="يقرِر على ، ينوي، يعتزِم" i="1467" m="plan" t="v" />
+<w c="verbs" e="حرث" i="1468" m="plow" t="v" />
+<w c="verbs" e="سمم" i="1469" m="poison" t="v" />
+<w c="verbs" e="لمع" i="1470" m="polish" t="v" />
+<w c="verbs" e="جهز" i="1471" m="prepare" t="v" />
+<w c="verbs" e="يضغط بإصبعِه" i="1472" m="press" t="v" />
+<w c="verbs" e="يمنع" i="1473" m="prevent" t="v" />
+<w c="verbs" e="طبع" i="1474" m="print" t="v" />
+<w c="verbs" e="أجرى" i="1475" m="process" t="v" />
+<w c="verbs" e="استفاد" i="1476" m="profit" t="v" />
+<w c="verbs" e="احتج" i="1477" m="protest" t="v" />
+<w c="verbs" e="يبرهِن" i="1478" m="prove" t="v" />
+<w c="verbs" e="ينشر، يصدِر" i="1479" m="publish" t="v" />
+<w c="verbs" e="ربى" i="1480" m="raise" t="v" />
+<w c="verbs" e="قيم" i="1481" m="rate" t="v" />
+<w c="verbs" e="وصل" i="1482" m="reach" t="v" />
+<w c="verbs" e="يستلِم" i="1483" m="receive" t="v" />
+<w c="verbs" e="سجل" i="1484" m="record" t="v" />
+<w c="verbs" e="يقلِل" i="1485" m="reduce" t="v" />
+<w c="verbs" e="يعكِس" i="1486" m="reflect" t="v" />
+<w c="verbs" e="رفض" i="1487" m="refuse" t="v" />
+<w c="verbs" e="يزيل، يبعِد" i="1488" m="remove" t="v" />
+<w c="verbs" e="أعاد" i="1489" m="render" t="v" />
+<w c="verbs" e="أجاب" i="1490" m="reply" t="v" />
+<w c="verbs" e="يقدِم تقريرا" i="1491" m="report" t="v" />
+<w c="verbs" e="يمثِل" i="1492" m="represent" t="v" />
+<w c="verbs" e="طلب" i="1493" m="request" t="v" />
+<w c="verbs" e="احترم" i="1494" m="respect" t="v" />
+<w c="verbs" e="ارتاح" i="1495" m="rest" t="v" />
+<w c="verbs" e="يظهِر، يفشي، يكشِف" i="1496" m="reveal" t="v" />
+<w c="verbs" e="يخاطِر، يجازِف" i="1497" m="risk" t="v" />
+<w c="verbs" e="دور" i="1498" m="round off" t="v" />
+<w c="verbs" e="حكم" i="1499" m="rule" t="v" />
+<w c="verbs" e="يوفِر، يدخِر" i="1500" m="save" t="v" />
+<w c="verbs" e="الإنقاذ" i="1501" m="save" t="v" />
+<w c="verbs" e="شاهد" i="1502" m="see" t="v" />
+<w c="verbs" e="أرسل" i="1503" m="send" t="v" />
+<w c="verbs" e="يخدم في الجيش" i="1504" m="serve" t="v" />
+<w c="verbs" e="عقد" i="1505" m="sew" t="v" />
+<w c="verbs" e="يتشارك" i="1506" m="share" t="v" />
+<w c="verbs" e="صرخ" i="1507" m="shout" t="v" />
+<w c="verbs" e="عرض" i="1508" m="show" t="v" />
+<w c="verbs" e="اصطدم" i="1509" m="smash" t="v" />
+<w c="verbs" e="أصدر رائحة طيبة" i="1510" m="smell" t="v" />
+<w c="verbs" e="أصدر رائحة بشعة" i="1511" m="smell" t="v" />
+<w c="verbs" e="شم" i="1512" m="smell" t="v" />
+<w c="verbs" e="دخن" i="1513" m="smoke" t="v" />
+<w c="verbs" e="يقضي" i="1514" m="spend" t="v" />
+<w c="verbs" e="يقِف" i="1515" m="stand" t="v" />
+<w c="verbs" e="يبقى، يمكث" i="1516" m="stay" t="v" />
+<w c="verbs" e="سرق" i="1517" m="steal" t="v" />
+<w c="verbs" e="توقف" i="1518" m="stop" t="v" />
+<w c="verbs" e="درس" i="1519" m="study" t="v" />
+<w c="verbs" e="تألم (ta’állama)" i="1520" m="suffer" t="v" />
+<w c="verbs" e="يقترِح" i="1521" m="suggest" t="v" />
+<w c="verbs" e="يزوِد، يعطي" i="1522" m="supply" t="v" />
+<w c="verbs" e="دعم" i="1523" m="support" t="v" />
+<w c="verbs" e="فاجأ" i="1524" m="surprise" t="v" />
+<w c="verbs" e="دام" i="1525" m="survive" t="v" />
+<w c="verbs" e="تذوق" i="1526" m="taste" t="v" />
+<w c="verbs" e="علم" i="1527" m="teach" t="v" />
+<w c="verbs" e="جرب" i="1528" m="test" t="v" />
+<w c="verbs" e="يشكر" i="1529" m="thank" t="v" />
+<w c="verbs" e="رمى" i="1530" m="throw" t="v" />
+<w c="verbs" e="تاجر" i="1531" m="trade" t="v" />
+<w c="verbs" e="درب" i="1532" m="train" t="v" />
+<w c="verbs" e="ذهب" i="1533" m="travel" t="v" />
+<w c="verbs" e="يعالِج" i="1534" m="treat" t="v" />
+<w c="verbs" e="خدع" i="1535" m="trick" t="v" />
+<w c="verbs" e="حاول" i="1536" m="try" t="v" />
+<w c="verbs" e="التف" i="1537" m="turn" t="v" />
+<w c="verbs" e="يزور" i="1538" m="visit" t="v" />
+<w c="verbs" e="مشى" i="1539" m="walk" t="v" />
+<w c="verbs" e="سخن" i="1540" m="warm" t="v" />
+<w c="verbs" e="غسل" i="1541" m="wash" t="v" />
+<w c="verbs" e="شاهد" i="1542" m="watch" t="v" />
+<w c="verbs" e="يلبِس، يرتدي" i="1543" m="wear" t="v" />
+<w c="verbs" e="وزن (wázana)" i="1544" m="weigh" t="v" />
+<w c="verbs" e="ربح" i="1545" m="win" t="v" />
+<w c="verbs" e="يرغب، يتمنى" i="1546" m="wish" t="v" />
+<w c="verbs" e="كان" i="1547" m="be" t="v" />
+<w c="verbs" e="بدأ" i="1548" m="begin" t="v" />
+<w c="verbs" e="كسر" i="1549" m="break" t="v" />
+<w c="verbs" e="اشترى" i="1550" m="buy" t="v" />
+<w c="verbs" e="أغلق" i="1551" m="close" t="v" />
+<w c="verbs" e="جاء" i="1552" m="come" t="v" />
+<w c="verbs" e="قطع" i="1553" m="cut" t="v" />
+<w c="verbs" e="رقص" i="1554" m="dance" t="v" />
+<w c="verbs" e="شرب" i="1555" m="drink" t="v" />
+<w c="verbs" e="أكل" i="1556" m="eat" t="v" />
+<w c="verbs" e="سقط" i="1557" m="fall" t="v" />
+<w c="verbs" e="شعر" i="1558" m="feel" t="v" />
+<w c="verbs" e="وجد" i="1559" m="find" t="v" />
+<w c="verbs" e="أطلق النار" i="1560" m="fire" t="v" />
+<w c="verbs" e="طار" i="1561" m="fly" t="v" />
+<w c="verbs" e="تبع" i="1562" m="follow" t="v" />
+<w c="verbs" e="ينسى، لا يتذكر" i="1563" m="forget" t="v" />
+<w c="verbs" e="حصل" i="1564" m="get" t="v" />
+<w c="verbs" e="أعطى" i="1565" m="give" t="v" />
+<w c="verbs" e="ملك" i="1566" m="have" t="v" />
+<w c="verbs" e="يسمع" i="1567" m="hear" t="v" />
+<w c="verbs" e="ساعد" i="1568" m="help" t="v" />
+<w c="verbs" e="رجا" i="1569" m="hope" t="v" />
+<w c="verbs" e="قفز" i="1570" m="jump" t="v" />
+<w c="verbs" e="قبل" i="1571" m="kiss" t="v" />
+<w c="verbs" e="ضحك" i="1572" m="laugh" t="v" />
+<w c="verbs" e="تعلم" i="1573" m="learn" t="v" />
+<w c="verbs" e="يضطجِع، يتمدد" i="1574" m="lie" t="v" />
+<w c="verbs" e="أحب" i="1575" m="like" t="v" />
+<w c="verbs" e="استمع" i="1576" m="listen" t="v" />
+<w c="verbs" e="رأى" i="1577" m="look" t="v" />
+<w c="verbs" e="يفقِد، يخسر" i="1578" m="lose" t="v" />
+<w c="verbs" e="أحب" i="1579" m="love" t="v" />
+<w c="verbs" e="جعل" i="1580" m="make" t="v" />
+<w c="verbs" e="يصادِف، يلتقي صدفةً" i="1581" m="meet" t="v" />
+<w c="verbs" e="حرك" i="1582" m="move" t="v" />
+<w c="verbs" e="احتاج" i="1583" m="need" t="v" />
+<w c="verbs" e="أهدى" i="1584" m="offer" t="v" />
+<w c="verbs" e="فتح" i="1585" m="open" t="v" />
+<w c="verbs" e="لعب" i="1586" m="play" t="v" />
+<w c="verbs" e="سحب" i="1587" m="pull" t="v" />
+<w c="verbs" e="دفع" i="1588" m="push" t="v" />
+<w c="verbs" e="وضع" i="1589" m="put" t="v" />
+<w c="verbs" e="يقرأ" i="1590" m="read" t="v" />
+<w c="verbs" e="يتذكر" i="1591" m="remember" t="v" />
+<w c="verbs" e="جرى" i="1592" m="run" t="v" />
+<w c="verbs" e="قال" i="1593" m="say" t="v" />
+<w c="verbs" e="باع" i="1594" m="sell" t="v" />
+<w c="verbs" e="غنى" i="1595" m="sing" t="v" />
+<w c="verbs" e="جلس" i="1596" m="sit" t="v" />
+<w c="verbs" e="ابتسم" i="1597" m="smile" t="v" />
+<w c="verbs" e="سبح" i="1598" m="swim" t="v" />
+<w c="verbs" e="أخذ" i="1599" m="take" t="v" />
+<w c="verbs" e="تحدث" i="1600" m="talk" t="v" />
+<w c="verbs" e="يرسم" i="1601" m="trace" t="v" />
+<w c="verbs" e="يفهم" i="1602" m="understand" t="v" />
+<w c="verbs" e="استخدم" i="1603" m="use" t="v" />
+<w c="verbs" e="ينتظِر" i="1604" m="wait" t="v" />
+<w c="verbs" e="كتب" i="1605" m="write" t="v" />
+<w c="weather" e="سحاب" i="1606" m="cloud" t="n" />
+<w c="weather" e="ندى" i="1607" m="dew" t="n" />
+<w c="weather" e="ضباب" i="1608" m="fog" t="n" />
+<w c="weather" e="صقيع" i="1609" m="frost" t="n" />
+<w c="weather" e="برق" i="1610" m="lightning" t="n" />
+<w c="weather" e="مطر" i="1611" m="rain" t="n" />
+<w c="weather" e="قوس قزح" i="1612" m="rainbow" t="n" />
+<w c="weather" e="ثلج" i="1613" m="snow" t="n" />
+<w c="weather" e="عاصفة" i="1614" m="storm" t="n" />
+<w c="weather" e="برق" i="1615" m="thunder" t="n" />
+<w c="weather" e="ريح; رياح" i="1616" m="wind" t="n" />
+</vocb>

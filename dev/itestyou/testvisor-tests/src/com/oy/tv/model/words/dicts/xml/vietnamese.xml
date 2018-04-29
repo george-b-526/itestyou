@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Vietnamese (Ti&#x1EBF;ng Vi&#x1EC7;t)">
+<!--generated: Sun Jan 29 02:47:22 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="khả năng" i="0" m="ability" t="n" />
+<w c="abstract" e="việc làm" i="1" m="act" t="n" />
+<w c="abstract" e="hành động" i="2" m="action" t="n" />
+<w c="abstract" e="sự nhanh nhẹn" i="3" m="activity" t="n" />
+<w c="abstract" e="người hoặc vật thêm vào" i="4" m="addition" t="n" />
+<w c="abstract" e="sự tấn công" i="5" m="attack" t="n" />
+<w c="abstract" e="sự nỗ lực" i="6" m="attempt" t="n" />
+<w c="abstract" e="đằng sau" i="7" m="back" t="n" />
+<w c="abstract" e="cách cư xử" i="8" m="behavior" t="n" />
+<w c="abstract" e="miếng" i="9" m="bit" t="n" />
+<w c="abstract" e="cú đánh" i="10" m="blow" t="n" />
+<w c="abstract" e="sự gián đoạn" i="11" m="break" t="n" />
+<w c="abstract" e="chiến dịch" i="12" m="campaign" t="n" />
+<w c="abstract" e="vụ kiện" i="13" m="case" t="n" />
+<w c="abstract" e="cơ hội" i="14" m="chance" t="n" />
+<w c="abstract" e="sự thay đổi" i="15" m="change" t="n" />
+<w c="abstract" e="quyền lựa chọn" i="16" m="choice" t="n" />
+<w c="abstract" e="điều kiện" i="17" m="condition" t="n" />
+<w c="abstract" e="vết nứt" i="18" m="crack" t="n" />
+<w c="abstract" e="cắt" i="19" m="cut" t="n" />
+<w c="abstract" e="sự hư hại" i="20" m="damage" t="n" />
+<w c="abstract" e="sự nguy hiểm" i="21" m="danger" t="n" />
+<w c="abstract" e="sự trang trí" i="22" m="decoration" t="n" />
+<w c="abstract" e="sự tàn phá" i="23" m="destruction" t="n" />
+<w c="abstract" e="kiểm soát" i="24" m="dominance" t="n" />
+<w c="abstract" e="giọt" i="25" m="drop" t="n" />
+<w c="abstract" e="sự nỗ lực" i="26" m="effort" t="n" />
+<w c="abstract" e="sụp đổ" i="27" m="fall" t="n" />
+<w c="abstract" e="đặc điểm" i="28" m="feature" t="n" />
+<w c="abstract" e="trận đánh" i="29" m="fight" t="n" />
+<w c="abstract" e="đằng trước" i="30" m="front" t="n" />
+<w c="abstract" e="độ cao so với mặt nước biển" i="31" m="height" t="n" />
+<w c="abstract" e="cú đánh" i="32" m="hit" t="n" />
+<w c="abstract" e="lỗ thủng" i="33" m="hole" t="n" />
+<w c="abstract" e="sự phát triển" i="34" m="increase" t="n" />
+<w c="abstract" e="internet" i="35" m="internet" t="n" />
+<w c="abstract" e="bước nhảy" i="36" m="jump" t="n" />
+<w c="abstract" e="cú đá" i="37" m="kick" t="n" />
+<w c="abstract" e="hình thức" i="38" m="kind" t="n" />
+<w c="abstract" e="nút" i="39" m="knot" t="n" />
+<w c="abstract" e="danh sách" i="40" m="list" t="n" />
+<w c="abstract" e="đa số" i="41" m="majority" t="n" />
+<w c="abstract" e="lề thói hay cách làm cái gì" i="42" m="manner" t="n" />
+<w c="abstract" e="chủ đề" i="43" m="matter" t="n" />
+<w c="abstract" e="trí tuệ" i="44" m="mind" t="n" />
+<w c="abstract" e="quá trình hoạt động" i="45" m="operation" t="n" />
+<w c="abstract" e="điều trái ngược" i="46" m="opposite" t="n" />
+<w c="abstract" e="sự nổ ra" i="47" m="outburst" t="n" />
+<w c="abstract" e="một phần" i="48" m="part" t="n" />
+<w c="abstract" e="mẩu" i="49" m="piece" t="n" />
+<w c="abstract" e="nơi chốn" i="50" m="place" t="n" />
+<w c="abstract" e="vị trí" i="51" m="position" t="n" />
+<w c="abstract" e="sức mạnh" i="52" m="power" t="n" />
+<w c="abstract" e="thực hành" i="53" m="practice" t="n" />
+<w c="abstract" e="nhiệm vụ" i="54" m="project" t="n" />
+<w c="abstract" e="tính chất" i="55" m="property" t="n" />
+<w c="abstract" e="chất lượng" i="56" m="quality" t="n" />
+<w c="abstract" e="sự trầm lặng" i="57" m="quiet" t="n" />
+<w c="abstract" e="báo cáo" i="58" m="report" t="n" />
+<w c="abstract" e="trách nhiệm" i="59" m="responsibility" t="n" />
+<w c="abstract" e="sự nghỉ ngơi" i="60" m="rest" t="n" />
+<w c="abstract" e="sự trở lại" i="61" m="return" t="n" />
+<w c="abstract" e="sự đi lên" i="62" m="rise" t="n" />
+<w c="abstract" e="mối nguy hiểm" i="63" m="risk" t="n" />
+<w c="abstract" e="bộ" i="64" m="set" t="n" />
+<w c="abstract" e="tình trạng cực kì yếu đuối" i="65" m="shock" t="n" />
+<w c="abstract" e="sự tĩnh lặng" i="66" m="silence" t="n" />
+<w c="abstract" e="tình hình" i="67" m="situation" t="n" />
+<w c="abstract" e="tình trạng" i="68" m="state" t="n" />
+<w c="abstract" e="tiếng bước chân" i="69" m="step" t="n" />
+<w c="abstract" e="vị giác" i="70" m="taste" t="n" />
+<w c="abstract" e="đỉnh cao nhất" i="71" m="top" t="n" />
+<w c="abstract" e="sự chạm" i="72" m="touch" t="n" />
+<w c="abstract" e="sự đối xử" i="73" m="treatment" t="n" />
+<w c="abstract" e="sự lừa dối" i="74" m="trick" t="n" />
+<w c="abstract" e="loại" i="75" m="type" t="n" />
+<w c="abstract" e="việc dùng" i="76" m="use" t="n" />
+<w c="abstract" e="mòn" i="77" m="wear" t="n" />
+<w c="abstract" e="trọn vẹn" i="78" m="whole" t="n" />
+<w c="abstract" e="nhu cầu" i="79" m="wish" t="n" />
+<w c="adjectives" e="trước đây" i="80" m="ago" t="adj" />
+<w c="adjectives" e="tự động" i="81" m="automatic" t="adj" />
+<w c="adjectives" e="sẵn sàng" i="82" m="available" t="adj" />
+<w c="adjectives" e="đắng" i="83" m="bitter" t="adj" />
+<w c="adjectives" e="sự nhạt nhẽo" i="84" m="boring" t="adj" />
+<w c="adjectives" e="bị vỡ (1; 2); bị bể (1)" i="85" m="broken" t="adj" />
+<w c="adjectives" e="quan trọng nhất" i="86" m="central" t="adj" />
+<w c="adjectives" e="đích xác" i="87" m="certain" t="adj" />
+<w c="adjectives" e="rẻ" i="88" m="cheap" t="adj" />
+<w c="adjectives" e="thuộc hóa học" i="89" m="chemical" t="adj" />
+<w c="adjectives" e="trong trẻo" i="90" m="clear" t="adj" />
+<w c="adjectives" e="khép kín" i="91" m="closed" t="adj" />
+<w c="adjectives" e="phổ biến" i="92" m="common" t="adj" />
+<w c="adjectives" e="đầy đủ" i="93" m="complete" t="adj" />
+<w c="adjectives" e="độc ác" i="94" m="cruel" t="adj" />
+<w c="adjectives" e="chính là mối hiểm họa" i="95" m="dangerous" t="adj" />
+<w c="adjectives" e="mịn màng" i="96" m="delicate" t="adj" />
+<w c="adjectives" e="khác" i="97" m="different" t="adj" />
+<w c="adjectives" e="khác nhau" i="98" m="different" t="adj" />
+<w c="adjectives" e="khô ráo" i="99" m="dry" t="adj" />
+<w c="adjectives" e="mỗi" i="100" m="each" t="adj" />
+<w c="adjectives" e="đầu" i="101" m="early" t="adj" />
+<w c="adjectives" e="dễ dàng" i="102" m="easy" t="adj" />
+<w c="adjectives" e="thuộc về kinh tế" i="103" m="economic" t="adj" />
+<w c="adjectives" e="tiết kiệm" i="104" m="economic" t="adj" />
+<w c="adjectives" e="thuộc điện" i="105" m="electric" t="adj" />
+<w c="adjectives" e="bằng nhau" i="106" m="equal" t="adj" />
+<w c="adjectives" e="chẵn" i="107" m="even" t="adj" />
+<w c="adjectives" e="mỗi" i="108" m="every" t="adj" />
+<w c="adjectives" e="xuất sắc" i="109" m="excellent" t="adj" />
+<w c="adjectives" e="sai" i="110" m="fake" t="adj" />
+<w c="adjectives" e="xa" i="111" m="far" t="adj" />
+<w c="adjectives" e="béo mập" i="112" m="fat" t="adj" />
+<w c="adjectives" e="nhiều về số lượng" i="113" m="fat" t="adj" />
+<w c="adjectives" e="không nhiều" i="114" m="few" t="adj" />
+<w c="adjectives" e="quyết định" i="115" m="final" t="adj" />
+<w c="adjectives" e="liên quan đến tiền bạc hoặc tài chính" i="116" m="financial" t="adj" />
+<w c="adjectives" e="mạnh mẽ" i="117" m="firm" t="adj" />
+<w c="adjectives" e="bằng phẳng" i="118" m="flat" t="adj" />
+<w c="adjectives" e="tiếp sau đó về thời gian" i="119" m="following" t="adj" />
+<w c="adjectives" e="nước ngoài" i="120" m="foreign" t="adj" />
+<w c="adjectives" e="trước" i="121" m="former" t="adj" />
+<w c="adjectives" e="mỏng manh" i="122" m="fragile" t="adj" />
+<w c="adjectives" e="biếu" i="123" m="free" t="adj" />
+<w c="adjectives" e="thường xuyên" i="124" m="frequent" t="adj" />
+<w c="adjectives" e="mới" i="125" m="fresh" t="adj" />
+<w c="adjectives" e="đầy" i="126" m="full" t="adj" />
+<w c="adjectives" e="tổng số" i="127" m="full" t="adj" />
+<w c="adjectives" e="xa hơn nữa" i="128" m="further" t="adj" />
+<w c="adjectives" e="thuộc hoặc xảy ra trong tương lai" i="129" m="future" t="adj" />
+<w c="adjectives" e="phổ biến" i="130" m="general" t="adj" />
+<w c="adjectives" e="thuộc về công nghiệp" i="131" m="industrial" t="adj" />
+<w c="adjectives" e="thú vị" i="132" m="interesting" t="adj" />
+<w c="adjectives" e="quốc tế" i="133" m="international" t="adj" />
+<w c="adjectives" e="cuối cùng" i="134" m="last" t="adj" />
+<w c="adjectives" e="thuộc pháp luật" i="135" m="legal" t="adj" />
+<w c="adjectives" e="lỏng" i="136" m="liquid" t="adj" />
+<w c="adjectives" e="to" i="137" m="loud" t="adj" />
+<w c="adjectives" e="thấp" i="138" m="low" t="adj" />
+<w c="adjectives" e="có tính may mắn" i="139" m="lucky" t="adj" />
+<w c="adjectives" e="chủ yếu" i="140" m="main" t="adj" />
+<w c="adjectives" e="chủ yếu" i="141" m="major" t="adj" />
+<w c="adjectives" e="nhiều" i="142" m="many" t="adj" />
+<w c="adjectives" e="bằng kim loại" i="143" m="metal" t="adj" />
+<w c="adjectives" e="quân sự" i="144" m="military" t="adj" />
+<w c="adjectives" e="hiện đại" i="145" m="modern" t="adj" />
+<w c="adjectives" e="hẹp" i="146" m="narrow" t="adj" />
+<w c="adjectives" e="tự nhiên" i="147" m="natural" t="adj" />
+<w c="adjectives" e="cần thiết" i="148" m="necessary" t="adj" />
+<w c="adjectives" e="liền kề" i="149" m="next" t="adj" />
+<w c="adjectives" e="bình thường" i="150" m="normal" t="adj" />
+<w c="adjectives" e="đối lập" i="151" m="opposite" t="adj" />
+<w c="adjectives" e="nguyên bản" i="152" m="original" t="adj" />
+<w c="adjectives" e="của chính mình" i="153" m="own" t="adj" />
+<w c="adjectives" e="song song" i="154" m="parallel" t="adj" />
+<w c="adjectives" e="đặc biệt" i="155" m="particular" t="adj" />
+<w c="adjectives" e="quá khứ" i="156" m="past" t="adj" />
+<w c="adjectives" e="cá nhân" i="157" m="personal" t="adj" />
+<w c="adjectives" e="thuộc chính trị" i="158" m="political" t="adj" />
+<w c="adjectives" e="nghèo" i="159" m="poor" t="adj" />
+<w c="adjectives" e="bình dân" i="160" m="popular" t="adj" />
+<w c="adjectives" e="có thể" i="161" m="possible" t="adj" />
+<w c="adjectives" e="có mặt" i="162" m="present" t="adj" />
+<w c="adjectives" e="trước" i="163" m="previous" t="adj" />
+<w c="adjectives" e="riêng tư" i="164" m="private" t="adj" />
+<w c="adjectives" e="có thể" i="165" m="probable" t="adj" />
+<w c="adjectives" e="thuộc về nghề" i="166" m="professional" t="adj" />
+<w c="adjectives" e="công khai" i="167" m="public" t="adj" />
+<w c="adjectives" e="yên lặng" i="168" m="quiet" t="adj" />
+<w c="adjectives" e="đã xong" i="169" m="ready" t="adj" />
+<w c="adjectives" e="gần đây" i="170" m="recent" t="adj" />
+<w c="adjectives" e="cách đều về thời gian và khoảng cách" i="171" m="regular" t="adj" />
+<w c="adjectives" e="có trách nhiệm" i="172" m="responsible" t="adj" />
+<w c="adjectives" e="cứng rắn" i="173" m="rigid" t="adj" />
+<w c="adjectives" e="lỗ mãng" i="174" m="rough" t="adj" />
+<w c="adjectives" e="tròn" i="175" m="round" t="adj" />
+<w c="adjectives" e="có thể tin cậy" i="176" m="safe" t="adj" />
+<w c="adjectives" e="như nhau" i="177" m="same" t="adj" />
+<w c="adjectives" e="thứ hai" i="178" m="second" t="adj" />
+<w c="adjectives" e="bí mật" i="179" m="secret" t="adj" />
+<w c="adjectives" e="tách rời nhau" i="180" m="separate" t="adj" />
+<w c="adjectives" e="nghiêm trang" i="181" m="serious" t="adj" />
+<w c="adjectives" e="cố định" i="182" m="set" t="adj" />
+<w c="adjectives" e="vài" i="183" m="several" t="adj" />
+<w c="adjectives" e="ngắn" i="184" m="short" t="adj" />
+<w c="adjectives" e="tĩnh lặng" i="185" m="silent" t="adj" />
+<w c="adjectives" e="đơn giản" i="186" m="simple" t="adj" />
+<w c="adjectives" e="đơn độc" i="187" m="single" t="adj" />
+<w c="adjectives" e="nhỏ bé" i="188" m="small" t="adj" />
+<w c="adjectives" e="nhẵn" i="189" m="smooth" t="adj" />
+<w c="adjectives" e="thể rắn" i="190" m="solid" t="adj" />
+<w c="adjectives" e="thưa thớt" i="191" m="sparse" t="adj" />
+<w c="adjectives" e="đặc biệt" i="192" m="special" t="adj" />
+<w c="adjectives" e="đặc trưng" i="193" m="specific" t="adj" />
+<w c="adjectives" e="vuông" i="194" m="square" t="adj" />
+<w c="adjectives" e="thông thường" i="195" m="standard" t="adj" />
+<w c="adjectives" e="dính như keo" i="196" m="sticky" t="adj" />
+<w c="adjectives" e="thẳng" i="197" m="straight" t="adj" />
+<w c="adjectives" e="lạ thường" i="198" m="strange" t="adj" />
+<w c="adjectives" e="đặc sắc" i="199" m="stylish" t="adj" />
+<w c="adjectives" e="thình lình" i="200" m="sudden" t="adj" />
+<w c="adjectives" e="ngọt" i="201" m="sweet" t="adj" />
+<w c="adjectives" e="cao" i="202" m="tall" t="adj" />
+<w c="adjectives" e="đặc" i="203" m="thick" t="adj" />
+<w c="adjectives" e="mỏng" i="204" m="thin" t="adj" />
+<w c="adjectives" e="chật" i="205" m="tight" t="adj" />
+<w c="adjectives" e="thật" i="206" m="true" t="adj" />
+<w c="adjectives" e="xấu xí" i="207" m="ugly" t="adj" />
+<w c="adjectives" e="dưới" i="208" m="under" t="adj" />
+<w c="adjectives" e="hiếm" i="209" m="unusual" t="adj" />
+<w c="adjectives" e="thông thường" i="210" m="usual" t="adj" />
+<w c="adjectives" e="đa dạng" i="211" m="various" t="adj" />
+<w c="adjectives" e="nhiệt tình" i="212" m="warm" t="adj" />
+<w c="adjectives" e="ướt" i="213" m="wet" t="adj" />
+<w c="adjectives" e="toàn bộ" i="214" m="whole" t="adj" />
+<w c="adjectives" e="rộng" i="215" m="wide" t="adj" />
+<w c="adjectives" e="cái khác" i="216" m="another" t="adj" />
+<w c="adjectives" e="xấu" i="217" m="bad" t="adj" />
+<w c="adjectives" e="cơ bản" i="218" m="basic" t="adj" />
+<w c="adjectives" e="đẹp" i="219" m="beautiful" t="adj" />
+<w c="adjectives" e="tốt nhất" i="220" m="best" t="adj" />
+<w c="adjectives" e="thích hợp hơn" i="221" m="better" t="adj" />
+<w c="adjectives" e="to lớn" i="222" m="big" t="adj" />
+<w c="adjectives" e="sạch" i="223" m="clean" t="adj" />
+<w c="adjectives" e="lạnh" i="224" m="cold" t="adj" />
+<w c="adjectives" e="chính xác" i="225" m="correct" t="adj" />
+<w c="adjectives" e="tối tăm" i="226" m="dark" t="adj" />
+<w c="adjectives" e="khó khăn" i="227" m="difficult" t="adj" />
+<w c="adjectives" e="nhanh" i="228" m="fast" t="adj" />
+<w c="adjectives" e="ngoan" i="229" m="good" t="adj" />
+<w c="adjectives" e="lớn" i="230" m="great" t="adj" />
+<w c="adjectives" e="rất hài lòng" i="231" m="great" t="adj" />
+<w c="adjectives" e="hạnh phúc" i="232" m="happy" t="adj" />
+<w c="adjectives" e="khoẻ mạnh" i="233" m="healthy" t="adj" />
+<w c="adjectives" e="nặng nề" i="234" m="heavy" t="adj" />
+<w c="adjectives" e="nóng" i="235" m="hot" t="adj" />
+<w c="adjectives" e="quan trọng" i="236" m="important" t="adj" />
+<w c="adjectives" e="bên trái" i="237" m="left" t="adj" />
+<w c="adjectives" e="nhẹ" i="238" m="light" t="adj" />
+<w c="adjectives" e="gần" i="239" m="near" t="adj" />
+<w c="adjectives" e="mới" i="240" m="new" t="adj" />
+<w c="adjectives" e="tốt" i="241" m="nice" t="adj" />
+<w c="adjectives" e="thực sự" i="242" m="real" t="adj" />
+<w c="adjectives" e="bên phải" i="243" m="right" t="adj" />
+<w c="adjectives" e="tinh" i="244" m="sharp" t="adj" />
+<w c="adjectives" e="chậm chạp" i="245" m="slow" t="adj" />
+<w c="adjectives" e="mềm" i="246" m="soft" t="adj" />
+<w c="adjectives" e="rõ rệt" i="247" m="strong" t="adj" />
+<w c="adjectives" e="yếu" i="248" m="weak" t="adj" />
+<w c="adjectives" e="sai" i="249" m="wrong" t="adj" />
+<w c="adjective" e="có khả năng" i="250" m="able" t="adj" />
+<w c="adjective" e="còn sống" i="251" m="alive" t="adj" />
+<w c="adjective" e="không bầu bạn" i="252" m="alone" t="adj" />
+<w c="adjective" e="tức giận" i="253" m="angry" t="adj" />
+<w c="adjective" e="thức" i="254" m="awake" t="adj" />
+<w c="adjective" e="chết" i="255" m="dead" t="adj" />
+<w c="adjective" e="tự do" i="256" m="free" t="adj" />
+<w c="adjective" e="thân ái" i="257" m="friendly" t="adj" />
+<w c="adjective" e="thuộc con người" i="258" m="human" t="adj" />
+<w c="adjective" e="đói" i="259" m="hungry" t="adj" />
+<w c="adjective" e="bị bệnh" i="260" m="ill" t="adj" />
+<w c="adjective" e="thiếu kiên nhẫn" i="261" m="impatient" t="adj" />
+<w c="adjective" e="sáng dạ" i="262" m="intelligent" t="adj" />
+<w c="adjective" e="tốt" i="263" m="kind" t="adj" />
+<w c="adjective" e="nhị hoa" i="264" m="male" t="adj" />
+<w c="adjective" e="đàn ông" i="265" m="male" t="adj" />
+<w c="adjective" e="đã kết hôn" i="266" m="married" t="adj" />
+<w c="adjective" e="có vẻ là" i="267" m="mean" t="adj" />
+<w c="adjective" e="thuộc y học" i="268" m="medical" t="adj" />
+<w c="adjective" e="già" i="269" m="old" t="adj" />
+<w c="adjective" e="kiên nhẫn" i="270" m="patient" t="adj" />
+<w c="adjective" e="từng người" i="271" m="private" t="adj" />
+<w c="adjective" e="giàu có" i="272" m="rich" t="adj" />
+<w c="adjective" e="xứng với vua chúa" i="273" m="royal" t="adj" />
+<w c="adjective" e="buồn rầu" i="274" m="sad" t="adj" />
+<w c="adjective" e="nhạy bén" i="275" m="sharp" t="adj" />
+<w c="adjective" e="thành thật" i="276" m="sincere" t="adj" />
+<w c="adjective" e="độc thân" i="277" m="single" t="adj" />
+<w c="adjective" e="giỏi" i="278" m="skilful" t="adj" />
+<w c="adjective" e="ngu dại" i="279" m="stupid" t="adj" />
+<w c="adjective" e="khát" i="280" m="thirsty" t="adj" />
+<w c="adjective" e="mệt" i="281" m="tired" t="adj" />
+<w c="adjective" e="hung dữ" i="282" m="violent" t="adj" />
+<w c="adjective" e="thông thái" i="283" m="wise" t="adj" />
+<w c="adverb" e="khắp xung quanh" i="284" m="about" t="adv" />
+<w c="adverb" e="bên trên" i="285" m="above" t="adv" />
+<w c="adverb" e="lại" i="286" m="again" t="adv" />
+<w c="adverb" e="gần như" i="287" m="almost" t="adv" />
+<w c="adverb" e="dọc theo" i="288" m="along" t="adv" />
+<w c="adverb" e="luôn luôn" i="289" m="always" t="adv" />
+<w c="adverb" e="khoảng chừng" i="290" m="approximately" t="adv" />
+<w c="adverb" e="trước (khi)" i="291" m="before" t="adv" />
+<w c="adverb" e="đằng sau" i="292" m="behind" t="adv" />
+<w c="adverb" e="chỉ rõ sự liên quan" i="293" m="between" t="adv" />
+<w c="adverb" e="trực tiếp" i="294" m="directly" t="adv" />
+<w c="adverb" e="đầu" i="295" m="early" t="adv" />
+<w c="adverb" e="cái này hay cái kia trong hai cái" i="296" m="either" t="adv" />
+<w c="adverb" e="đủ" i="297" m="enough" t="adv" />
+<w c="adverb" e="đúng là" i="298" m="exactly" t="adv" />
+<w c="adverb" e="cuối cùng" i="299" m="finally" t="adv" />
+<w c="adverb" e="trước hết" i="300" m="first" t="adv" />
+<w c="adverb" e="tại điểm này" i="301" m="here" t="adv" />
+<w c="adverb" e="tuy vậy" i="302" m="however" t="adv" />
+<w c="adverb" e="ngay lập tức" i="303" m="immediately" t="adv" />
+<w c="adverb" e="thật vậy" i="304" m="indeed" t="adv" />
+<w c="adverb" e="bên trong" i="305" m="inside" t="adv" />
+<w c="adverb" e="thay vì" i="306" m="instead" t="adv" />
+<w c="adverb" e="muộn" i="307" m="late" t="adv" />
+<w c="adverb" e="ít nhất" i="308" m="least" t="adv" />
+<w c="adverb" e="một ít" i="309" m="little" t="adv" />
+<w c="adverb" e="nói chung" i="310" m="mostly" t="adv" />
+<w c="adverb" e="không" i="311" m="not" t="adv" />
+<w c="adverb" e="rõ ràng là" i="312" m="obviously" t="adv" />
+<w c="adverb" e="thường xuyên" i="313" m="often" t="adv" />
+<w c="adverb" e="một lần" i="314" m="once" t="adv" />
+<w c="adverb" e="đặc biệt" i="315" m="particularly" t="adv" />
+<w c="adverb" e="làm ơn; xin" i="316" m="please" t="adv" />
+<w c="adverb" e="có thể" i="317" m="possibly" t="adv" />
+<w c="adverb" e="có khả năng" i="318" m="probably" t="adv" />
+<w c="adverb" e="nhanh chóng" i="319" m="quickly" t="adv" />
+<w c="adverb" e="thực sự" i="320" m="really" t="adv" />
+<w c="adverb" e="rất" i="321" m="really" t="adv" />
+<w c="adverb" e="gần đây" i="322" m="recently" t="adv" />
+<w c="adverb" e="chỉ" i="323" m="simply" t="adv" />
+<w c="adverb" e="chậm" i="324" m="slowly" t="adv" />
+<w c="adverb" e="trong thời gian ngắn" i="325" m="soon" t="adv" />
+<w c="adverb" e="vẫn còn" i="326" m="still" t="adv" />
+<w c="adverb" e="như thế" i="327" m="such" t="adv" />
+<w c="adverb" e="chắc chắn" i="328" m="surely" t="adv" />
+<w c="adverb" e="vào lúc" i="329" m="then" t="adv" />
+<w c="adverb" e="đằng kia" i="330" m="there" t="adv" />
+<w c="adverb" e="hôm nay" i="331" m="today" t="adv" />
+<w c="adverb" e="cùng" i="332" m="together" t="adv" />
+<w c="adverb" e="ngày mai" i="333" m="tomorrow" t="adv" />
+<w c="adverb" e="đêm nay" i="334" m="tonight" t="adv" />
+<w c="adverb" e="cũng" i="335" m="too" t="adv" />
+<w c="adverb" e="như thường lệ" i="336" m="usually" t="adv" />
+<w c="adverb" e="thực sự" i="337" m="very" t="adv" />
+<w c="adverb" e="khoẻ mạnh" i="338" m="well" t="adv" />
+<w c="adverb" e="tại sao" i="339" m="why" t="adv" />
+<w c="anatomy" e="cánh tay" i="340" m="arm" t="noun" />
+<w c="anatomy" e="cái lưng" i="341" m="back" t="noun" />
+<w c="anatomy" e="máu" i="342" m="blood" t="noun" />
+<w c="anatomy" e="thân người" i="343" m="body" t="noun" />
+<w c="anatomy" e="bộ xương" i="344" m="bone" t="noun" />
+<w c="anatomy" e="bộ não" i="345" m="brain" t="noun" />
+<w c="anatomy" e="hơi thở" i="346" m="breath" t="noun" />
+<w c="anatomy" e="tế bào" i="347" m="cell" t="noun" />
+<w c="anatomy" e="cằm" i="348" m="chin" t="noun" />
+<w c="anatomy" e="tai" i="349" m="ear" t="noun" />
+<w c="anatomy" e="mắt" i="350" m="eye" t="noun" />
+<w c="anatomy" e="mặt" i="351" m="face" t="noun" />
+<w c="anatomy" e="ngón tay" i="352" m="finger" t="noun" />
+<w c="anatomy" e="trán" i="353" m="forehead" t="noun" />
+<w c="anatomy" e="gen" i="354" m="gene" t="noun" />
+<w c="anatomy" e="tóc" i="355" m="hair" t="noun" />
+<w c="anatomy" e="lông" i="356" m="hair" t="noun" />
+<w c="anatomy" e="bàn tay" i="357" m="hand" t="noun" />
+<w c="anatomy" e="cái đầu" i="358" m="head" t="noun" />
+<w c="anatomy" e="tim" i="359" m="heart" t="noun" />
+<w c="anatomy" e="đầu gối" i="360" m="knee" t="noun" />
+<w c="anatomy" e="chân" i="361" m="leg" t="noun" />
+<w c="anatomy" e="môi" i="362" m="lip" t="noun" />
+<w c="anatomy" e="miệng" i="363" m="mouth" t="noun" />
+<w c="anatomy" e="cơ bắp" i="364" m="muscle" t="noun" />
+<w c="anatomy" e="móng" i="365" m="nail" t="noun" />
+<w c="anatomy" e="cổ" i="366" m="neck" t="noun" />
+<w c="anatomy" e="dây thần kinh" i="367" m="nerve" t="noun" />
+<w c="anatomy" e="mũi" i="368" m="nose" t="noun" />
+<w c="anatomy" e="da" i="369" m="skin" t="noun" />
+<w c="anatomy" e="dạ dày" i="370" m="stomach" t="noun" />
+<w c="anatomy" e="đuôi" i="371" m="tail" t="noun" />
+<w c="anatomy" e="cổ họng" i="372" m="throat" t="noun" />
+<w c="anatomy" e="ngón tay cái" i="373" m="thumb" t="noun" />
+<w c="anatomy" e="lưỡi" i="374" m="tongue" t="noun" />
+<w c="anatomy" e="răng" i="375" m="tooth" t="noun" />
+<w c="anatomy" e="cánh" i="376" m="wing" t="noun" />
+<w c="animals" e="con kiến" i="377" m="ant" t="noun" />
+<w c="animals" e="con gấu" i="378" m="bear" t="noun" />
+<w c="animals" e="con ong" i="379" m="bee" t="noun" />
+<w c="animals" e="con chim" i="380" m="bird" t="noun" />
+<w c="animals" e="con mèo" i="381" m="cat" t="noun" />
+<w c="animals" e="bò cái" i="382" m="cow" t="noun" />
+<w c="animals" e="con chó" i="383" m="dog" t="noun" />
+<w c="animals" e="con voi" i="384" m="elephant" t="noun" />
+<w c="animals" e="cá" i="385" m="fish" t="noun" />
+<w c="animals" e="con ruồi" i="386" m="fly" t="noun" />
+<w c="animals" e="con dê" i="387" m="goat" t="noun" />
+<w c="animals" e="ngựa" i="388" m="horse" t="noun" />
+<w c="animals" e="côn trùng" i="389" m="insect" t="noun" />
+<w c="animals" e="sư tử" i="390" m="lion" t="noun" />
+<w c="animals" e="con khỉ" i="391" m="monkey" t="noun" />
+<w c="animals" e="lợn đực thiến" i="392" m="pig" t="noun" />
+<w c="animals" e="con cừu" i="393" m="sheep" t="noun" />
+<w c="animals" e="con rắn" i="394" m="snake" t="noun" />
+<w c="art" e="mỹ thuật" i="395" m="art" t="n" />
+<w c="art" e="ban nhạc" i="396" m="band" t="n" />
+<w c="art" e="màu sắc" i="397" m="color" t="n" />
+<w c="art" e="buổi hòa nhạc" i="398" m="concert" t="n" />
+<w c="art" e="sự đa dạng" i="399" m="diversity" t="n" />
+<w c="art" e="trò tiêu khiển" i="400" m="entertainment" t="n" />
+<w c="art" e="việc thành công" i="401" m="hit" t="n" />
+<w c="art" e="quan điểm" i="402" m="image" t="n" />
+<w c="art" e="màng" i="403" m="movie" t="n" />
+<w c="art" e="âm nhạc" i="404" m="music" t="n" />
+<w c="art" e="nốt" i="405" m="note" t="n" />
+<w c="art" e="dàn nhạc" i="406" m="orchestra" t="n" />
+<w c="art" e="sơn" i="407" m="paint" t="n" />
+<w c="art" e="bức hoạ" i="408" m="painting" t="n" />
+<w c="art" e="ảnh" i="409" m="picture" t="n" />
+<w c="art" e="bài thơ" i="410" m="poem" t="n" />
+<w c="art" e="thi ca" i="411" m="poetry" t="n" />
+<w c="art" e="nhịp điệu" i="412" m="rhythm" t="n" />
+<w c="art" e="bài hát" i="413" m="song" t="n" />
+<w c="art" e="sân khấu" i="414" m="stage" t="n" />
+<w c="art" e="văn phong" i="415" m="style" t="n" />
+<w c="art" e="thời trang" i="416" m="vogue" t="n" />
+<w c="business" e="tài khoản" i="417" m="account" t="n" />
+<w c="business" e="sự thuận lợi" i="418" m="advantage" t="n" />
+<w c="business" e="bài quảng cáo" i="419" m="advertisement" t="n" />
+<w c="business" e="lời khuyên" i="420" m="advice" t="n" />
+<w c="business" e="sự chú ý" i="421" m="attention" t="n" />
+<w c="business" e="quyền lực" i="422" m="authority" t="n" />
+<w c="business" e="hối phiếu" i="423" m="banknote" t="n" />
+<w c="business" e="sự mặc cả" i="424" m="bargain" t="n" />
+<w c="business" e="nhãn mác" i="425" m="brand" t="n" />
+<w c="business" e="công ty" i="426" m="business" t="n" />
+<w c="business" e="tiền vốn" i="427" m="capital" t="n" />
+<w c="business" e="tiền lẻ" i="428" m="change" t="n" />
+<w c="business" e="séc" i="429" m="check" t="n" />
+<w c="business" e="công ty" i="430" m="company" t="n" />
+<w c="business" e="những người cạnh tranh" i="431" m="competition" t="n" />
+<w c="business" e="lời buộc tội" i="432" m="complaint" t="n" />
+<w c="business" e="cuộc thi đấu" i="433" m="contest" t="n" />
+<w c="business" e="bản hợp đồng" i="434" m="contract" t="n" />
+<w c="business" e="hội đồng" i="435" m="council" t="n" />
+<w c="business" e="bài học" i="436" m="course" t="n" />
+<w c="business" e="khách hàng" i="437" m="customer" t="n" />
+<w c="business" e="nhu cầu" i="438" m="demand" t="n" />
+<w c="business" e="bộ" i="439" m="department" t="n" />
+<w c="business" e="bản thiết kế" i="440" m="design" t="n" />
+<w c="business" e="sự khó khăn" i="441" m="difficulty" t="n" />
+<w c="business" e="hướng" i="442" m="direction" t="n" />
+<w c="business" e="người quản lý" i="443" m="director" t="n" />
+<w c="business" e="kinh tế" i="444" m="economy" t="n" />
+<w c="business" e="môi trường" i="445" m="environment" t="n" />
+<w c="business" e="kinh nghiệm" i="446" m="experience" t="n" />
+<w c="business" e="hãng" i="447" m="firm" t="n" />
+<w c="business" e="tờ khai" i="448" m="form" t="n" />
+<w c="business" e="nhóm" i="449" m="group" t="n" />
+<w c="business" e="sự trợ giúp" i="450" m="help" t="n" />
+<w c="business" e="thời gian nghỉ" i="451" m="holiday" t="n" />
+<w c="business" e="thu nhập" i="452" m="income" t="n" />
+<w c="business" e="ngành công nghiệp" i="453" m="industry" t="n" />
+<w c="business" e="bảo hiểm" i="454" m="insurance" t="n" />
+<w c="business" e="lợi tức" i="455" m="interest" t="n" />
+<w c="business" e="bản kê khai" i="456" m="invoice" t="n" />
+<w c="business" e="việc làm" i="457" m="job" t="n" />
+<w c="business" e="pháp luật" i="458" m="law" t="n" />
+<w c="business" e="sự được phép nghỉ" i="459" m="leave" t="n" />
+<w c="business" e="số tiền bị mất" i="460" m="loss" t="n" />
+<w c="business" e="hướng dẫn" i="461" m="management" t="n" />
+<w c="business" e="vật dùng để đánh dấu" i="462" m="marker" t="n" />
+<w c="business" e="chợ" i="463" m="market" t="n" />
+<w c="business" e="nguyên vật liệu" i="464" m="material" t="n" />
+<w c="business" e="trung độ" i="465" m="mean" t="n" />
+<w c="business" e="họp" i="466" m="meeting" t="n" />
+<w c="business" e="tiền" i="467" m="money" t="n" />
+<w c="business" e="nghề nghiệp" i="468" m="occupation" t="n" />
+<w c="business" e="lời mời" i="469" m="offer" t="n" />
+<w c="business" e="viên chức" i="470" m="officer" t="n" />
+<w c="business" e="thao tác; vận hành" i="471" m="operation" t="n" />
+<w c="business" e="chủ nhân" i="472" m="owner" t="n" />
+<w c="business" e="việc trả công" i="473" m="payment" t="n" />
+<w c="business" e="kế hoạch" i="474" m="plan" t="n" />
+<w c="business" e="giá tiền" i="475" m="price" t="n" />
+<w c="business" e="vấn đề khó khăn" i="476" m="problem" t="n" />
+<w c="business" e="lợi nhuận" i="477" m="profit" t="n" />
+<w c="business" e="tài sản" i="478" m="property" t="n" />
+<w c="business" e="mức" i="479" m="rate" t="n" />
+<w c="business" e="người/vật còn lại" i="480" m="rest" t="n" />
+<w c="business" e="quyền" i="481" m="right" t="n" />
+<w c="business" e="sự bán" i="482" m="sale" t="n" />
+<w c="business" e="sự phục vụ" i="483" m="service" t="n" />
+<w c="business" e="cổ phần" i="484" m="share" t="n" />
+<w c="business" e="cửa hàng" i="485" m="shop" t="n" />
+<w c="business" e="sự khéo léo" i="486" m="skill" t="n" />
+<w c="business" e="nhân viên" i="487" m="staff" t="n" />
+<w c="business" e="sự chống đỡ" i="488" m="support" t="n" />
+<w c="business" e="biểu" i="489" m="table" t="n" />
+<w c="business" e="thuế" i="490" m="tax" t="n" />
+<w c="business" e="đội" i="491" m="team" t="n" />
+<w c="business" e="thương mại" i="492" m="trade" t="n" />
+<w c="business" e="giá trị" i="493" m="value" t="n" />
+<w c="business" e="phần thưởng" i="494" m="wages" t="n" />
+<w c="business" e="nỗ lực" i="495" m="work" t="n" />
+<w c="business" e="thường là công nhân làm việc chân tay" i="496" m="worker" t="n" />
+<w c="city" e="sân bay nhỏ" i="497" m="airport" t="n" />
+<w c="city" e="ngân hàng" i="498" m="bank" t="n" />
+<w c="city" e="cầu" i="499" m="bridge" t="n" />
+<w c="city" e="công trình xây dựng" i="500" m="building" t="n" />
+<w c="city" e="thủ đô" i="501" m="capital" t="n" />
+<w c="city" e="lâu đài" i="502" m="castle" t="n" />
+<w c="city" e="nhà thờ" i="503" m="church" t="n" />
+<w c="city" e="rạp chiếu bóng" i="504" m="cinema" t="n" />
+<w c="city" e="đô thị" i="505" m="city" t="n" />
+<w c="city" e="nhà máy" i="506" m="factory" t="n" />
+<w c="city" e="căn hộ" i="507" m="flat" t="n" />
+<w c="city" e="bệnh viện" i="508" m="hospital" t="n" />
+<w c="city" e="khách sạn" i="509" m="hotel" t="n" />
+<w c="city" e="thư viện" i="510" m="library" t="n" />
+<w c="city" e="bảo tàng" i="511" m="museum" t="n" />
+<w c="city" e="công viên" i="512" m="park" t="n" />
+<w c="city" e="nhà tù" i="513" m="prison" t="n" />
+<w c="city" e="nhà hàng" i="514" m="restaurant" t="n" />
+<w c="city" e="đường giao thông" i="515" m="road" t="n" />
+<w c="city" e="trường học" i="516" m="school" t="n" />
+<w c="city" e="trạm" i="517" m="station" t="n" />
+<w c="city" e="đường phố" i="518" m="street" t="n" />
+<w c="city" e="sự xây dựng" i="519" m="structure" t="n" />
+<w c="city" e="xe điện ngầm" i="520" m="subway" t="n" />
+<w c="city" e="siêu thị" i="521" m="supermarket" t="n" />
+<w c="city" e="nhà hát" i="522" m="theater" t="n" />
+<w c="city" e="thị trấn" i="523" m="town" t="n" />
+<w c="city" e="trường đại học" i="524" m="university" t="n" />
+<w c="clothes" e="túi" i="525" m="bag" t="n" />
+<w c="clothes" e="vải" i="526" m="cloth" t="n" />
+<w c="clothes" e="quần áo" i="527" m="clothing" t="n" />
+<w c="clothes" e="áo choàng" i="528" m="coat" t="n" />
+<w c="clothes" e="cổ áo" i="529" m="collar" t="n" />
+<w c="clothes" e="mũ" i="530" m="hat" t="n" />
+<w c="clothes" e="áo vét" i="531" m="jacket" t="n" />
+<w c="clothes" e="đá quý" i="532" m="jewel" t="n" />
+<w c="clothes" e="cái nhẫn" i="533" m="ring" t="n" />
+<w c="clothes" e="áo sơ mi" i="534" m="shirt" t="n" />
+<w c="clothes" e="giày" i="535" m="shoe" t="n" />
+<w c="clothes" e="váy" i="536" m="skirt" t="n" />
+<w c="clothes" e="miếng lót giày" i="537" m="sock" t="n" />
+<w c="clothes" e="va li" i="538" m="suitcase" t="n" />
+<w c="clothes" e="ca vát" i="539" m="tie" t="n" />
+<w c="colors" e="không sữa" i="540" m="black" t="adj" />
+<w c="colors" e="(màu) xanh (blue or green); xanh lam; xanh lục; xanh lá cây" i="541" m="blue" t="adj" />
+<w c="colors" e="màu nâu" i="542" m="brown" t="adj" />
+<w c="colors" e="xám" i="543" m="gray" t="adj" />
+<w c="colors" e="non" i="544" m="green" t="adj" />
+<w c="colors" e="cam" i="545" m="orange" t="adj" />
+<w c="colors" e="màu hồng" i="546" m="pink" t="adj" />
+<w c="colors" e="màu tím" i="547" m="violet" t="adj" />
+<w c="colors" e="trắng" i="548" m="white" t="adj" />
+<w c="colors" e="màu vàng" i="549" m="yellow" t="adj" />
+<w c="communication" e="thông báo" i="550" m="announcement" t="n" />
+<w c="communication" e="câu trả lời" i="551" m="answer" t="n" />
+<w c="communication" e="sự cãi nhau" i="552" m="argument" t="n" />
+<w c="communication" e="lý lẽ" i="553" m="argument" t="n" />
+<w c="communication" e="sách" i="554" m="book" t="n" />
+<w c="communication" e="cuộc gọi điện thoại" i="555" m="call" t="n" />
+<w c="communication" e="ký tự" i="556" m="character" t="n" />
+<w c="communication" e="lời kêu gọi" i="557" m="cry" t="n" />
+<w c="communication" e="dữ liệu" i="558" m="data" t="n" />
+<w c="communication" e="quyết định" i="559" m="decision" t="n" />
+<w c="communication" e="từ điển" i="560" m="dictionary" t="n" />
+<w c="communication" e="sự thảo luận" i="561" m="discussion" t="n" />
+<w c="communication" e="sự nghi ngờ" i="562" m="doubt" t="n" />
+<w c="communication" e="sự từng trải" i="563" m="experience" t="n" />
+<w c="communication" e="cách nhìn" i="564" m="expression" t="n" />
+<w c="communication" e="tình cảm" i="565" m="feeling" t="n" />
+<w c="communication" e="biết đùa" i="566" m="humor" t="n" />
+<w c="communication" e="ý nghĩ" i="567" m="idea" t="n" />
+<w c="communication" e="sự chú ý" i="568" m="interest" t="n" />
+<w c="communication" e="cuộc phỏng vấn" i="569" m="interview" t="n" />
+<w c="communication" e="ngôn ngữ" i="570" m="language" t="n" />
+<w c="communication" e="tiếng nói của một đất nước" i="571" m="language" t="n" />
+<w c="communication" e="chữ cái" i="572" m="letter" t="n" />
+<w c="communication" e="thư" i="573" m="letter" t="n" />
+<w c="communication" e="lời nói dối" i="574" m="lie" t="n" />
+<w c="communication" e="tạp chí" i="575" m="magazine" t="n" />
+<w c="communication" e="thư từ" i="576" m="mail" t="n" />
+<w c="communication" e="những kỷ niệm" i="577" m="memory" t="n" />
+<w c="communication" e="trí nhớ" i="578" m="memory" t="n" />
+<w c="communication" e="sai lầm" i="579" m="mistake" t="n" />
+<w c="communication" e="tên" i="580" m="name" t="n" />
+<w c="communication" e="báo" i="581" m="newspaper" t="n" />
+<w c="communication" e="số" i="582" m="number" t="n" />
+<w c="communication" e="ý kiến" i="583" m="opinion" t="n" />
+<w c="communication" e="trang sách" i="584" m="page" t="n" />
+<w c="communication" e="chấm nhỏ" i="585" m="point" t="n" />
+<w c="communication" e="sự phát âm" i="586" m="pronunciation" t="n" />
+<w c="communication" e="sự đề xuất" i="587" m="proposal" t="n" />
+<w c="communication" e="sự phản đối" i="588" m="protest" t="n" />
+<w c="communication" e="câu hỏi" i="589" m="question" t="n" />
+<w c="communication" e="lý do" i="590" m="reason" t="n" />
+<w c="communication" e="mối quan hệ" i="591" m="relation" t="n" />
+<w c="communication" e="lời yêu cầu" i="592" m="request" t="n" />
+<w c="communication" e="câu" i="593" m="sentence" t="n" />
+<w c="communication" e="ngôn ngữ" i="594" m="speech" t="n" />
+<w c="communication" e="việc viết chính tả" i="595" m="spelling" t="n" />
+<w c="communication" e="tiêu chuẩn" i="596" m="standard" t="n" />
+<w c="communication" e="sự bày tỏ" i="597" m="statement" t="n" />
+<w c="communication" e="chủ đề" i="598" m="subject" t="n" />
+<w c="communication" e="sự gợi ý" i="599" m="suggestion" t="n" />
+<w c="communication" e="giọng nói" i="600" m="voice" t="n" />
+<w c="communication" e="từ" i="601" m="word" t="n" />
+<w c="communication" e="chữ viết" i="602" m="writing" t="n" />
+<w c="conjunction" e="và" i="603" m="and" t="conj" />
+<w c="conjunction" e="bởi vì" i="604" m="because" t="conj" />
+<w c="conjunction" e="bởi vì" i="605" m="for" t="conj" />
+<w c="conjunction" e="nếu" i="606" m="if" t="conj" />
+<w c="conjunction" e="hoặc" i="607" m="or" t="conj" />
+<w c="conjunction" e="hơn" i="608" m="than" t="conj" />
+<w c="conjunction" e="trước khi" i="609" m="until" t="conj" />
+<w c="containers" e="bao; bao (1)" i="610" m="bag" t="n" />
+<w c="containers" e="cái rổ" i="611" m="basket" t="n" />
+<w c="containers" e="chai lọ" i="612" m="bottle" t="n" />
+<w c="containers" e="hộp" i="613" m="box" t="n" />
+<w c="containers" e="tách" i="614" m="cup" t="n" />
+<w c="containers" e="cái cốc" i="615" m="glass" t="n" />
+<w c="containers" e="cái đĩa" i="616" m="plate" t="n" />
+<w c="conversation" e="tôi không biết" i="617" m="I don't know" t="" />
+<w c="conversation" e="tôi không hiểu" i="618" m="I don't understand" t="" />
+<w c="conversation" e="sự cạn ly, nâng cốc chúc mừng" i="619" m="cheers" t="" />
+<w c="conversation" e="xin chào buổi ngày" i="620" m="good day" t="" />
+<w c="conversation" e="chúc may mắn" i="621" m="good luck" t="" />
+<w c="conversation" e="chúc mừng" i="622" m="happy birthday" t="" />
+<w c="conversation" e="xin chào" i="623" m="hello" t="" />
+<w c="conversation" e="bạn khỏe không" i="624" m="how are you" t="" />
+<w c="conversation" e="cảm ơn nhiều" i="625" m="many thanks" t="" />
+<w c="conversation" e="tên của tôi là" i="626" m="my name is" t="" />
+<w c="conversation" e="không" i="627" m="no" t="" />
+<w c="conversation" e="xin lỗi" i="628" m="sorry" t="" />
+<w c="conversation" e="cám ơn" i="629" m="thank you very much" t="" />
+<w c="conversation" e="vâng" i="630" m="yes" t="" />
+<w c="conversation" e="không có chi" i="631" m="you're welcome" t="" />
+<w c="countries" e="Trung Hoa đại lục" i="632" m="China" t="n" />
+<w c="countries" e="Cộng hòa Séc" i="633" m="Czech Republic" t="n" />
+<w c="countries" e="Pháp" i="634" m="France" t="n" />
+<w c="countries" e="Đức" i="635" m="Germany" t="n" />
+<w c="countries" e="Ấn Độ" i="636" m="India" t="n" />
+<w c="countries" e="Ý" i="637" m="Italy" t="n" />
+<w c="countries" e="Nhật Bản" i="638" m="Japan" t="n" />
+<w c="countries" e="Tây Ban Nha" i="639" m="Spain" t="n" />
+<w c="countries" e="Liên hiệp Vương quốc Anh và Bắc Ireland" i="640" m="United Kingdom" t="n" />
+<w c="countries" e="Hoa Kỳ" i="641" m="United States" t="n" />
+<w c="devices" e="máy ảnh" i="642" m="camera" t="n" />
+<w c="devices" e="máy bộ đàm" i="643" m="cellphone" t="n" />
+<w c="devices" e="đồng hồ" i="644" m="clock" t="n" />
+<w c="devices" e="máy tính" i="645" m="computer" t="n" />
+<w c="devices" e="thang máy" i="646" m="elevator" t="n" />
+<w c="devices" e="máy" i="647" m="engine" t="n" />
+<w c="devices" e="dụng cụ" i="648" m="instrument" t="n" />
+<w c="devices" e="cỗ máy" i="649" m="machine" t="n" />
+<w c="devices" e="lò nướng" i="650" m="oven" t="n" />
+<w c="devices" e="vô tuyến" i="651" m="television" t="n" />
+<w c="devices" e="quay phim" i="652" m="television camera" t="n" />
+<w c="devices" e="đồng hồ đeo tay" i="653" m="watch" t="n" />
+<w c="drinks" e="rượu bia" i="654" m="beer" t="n" />
+<w c="drinks" e="cà phê" i="655" m="coffee" t="n" />
+<w c="drinks" e="đồ uống" i="656" m="drink" t="n" />
+<w c="drinks" e="sữa" i="657" m="milk" t="n" />
+<w c="drinks" e="sữa khuấy" i="658" m="milkshake" t="n" />
+<w c="drinks" e="trà" i="659" m="tea" t="n" />
+<w c="drinks" e="nước" i="660" m="water" t="n" />
+<w c="drinks" e="rượu" i="661" m="wine" t="n" />
+<w c="education" e="hạng" i="662" m="class" t="n" />
+<w c="education" e="giáo dục" i="663" m="education" t="n" />
+<w c="education" e="sự giáo dục" i="664" m="education" t="n" />
+<w c="education" e="hạng" i="665" m="grade" t="n" />
+<w c="education" e="sự hiểu biết" i="666" m="knowledge" t="n" />
+<w c="education" e="sinh viên" i="667" m="student" t="n" />
+<w c="education" e="giáo viên" i="668" m="teacher" t="n" />
+<w c="education" e="khóa huấn luyện" i="669" m="training" t="n" />
+<w c="environment" e="mưa axít" i="670" m="acid rain" t="n" />
+<w c="environment" e="khí quyển" i="671" m="atmosphere" t="n" />
+<w c="environment" e="sinh thái học" i="672" m="ecology" t="n" />
+<w c="environment" e="vùng xung quanh" i="673" m="environment" t="n" />
+<w c="environment" e="nhiên liệu hóa thạch" i="674" m="fossil fuel" t="n" />
+<w c="environment" e="ấm lên toàn cầu" i="675" m="global warming" t="n" />
+<w c="environment" e="hiệu ứng nhà kính" i="676" m="greenhouse effect" t="n" />
+<w c="environment" e="mỏ" i="677" m="mine" t="n" />
+<w c="environment" e="một loại oxy" i="678" m="ozone" t="n" />
+<w c="environment" e="ô nhiễm môi trường" i="679" m="pollution" t="n" />
+<w c="environment" e="sương khói" i="680" m="smog" t="n" />
+<w c="environment" e="rác thải" i="681" m="waste" t="n" />
+<w c="family" e="trẻ sơ sinh" i="682" m="baby" t="n" />
+<w c="family" e="sinh nhật" i="683" m="birthday" t="n" />
+<w c="family" e="con trai" i="684" m="boy" t="n" />
+<w c="family" e="anh" i="685" m="brother" t="n" />
+<w c="family" e="con gái" i="686" m="daughter" t="n" />
+<w c="family" e="chết" i="687" m="death" t="n" />
+<w c="family" e="gia đình" i="688" m="family" t="n" />
+<w c="family" e="cha" i="689" m="father" t="n" />
+<w c="family" e="bạn" i="690" m="friend" t="n" />
+<w c="family" e="con gái" i="691" m="girl" t="n" />
+<w c="family" e="ông bà" i="692" m="grandfather" t="n" />
+<w c="family" e="con người" i="693" m="human" t="n" />
+<w c="family" e="người chồng" i="694" m="husband" t="n" />
+<w c="family" e="đàn ông" i="695" m="man" t="n" />
+<w c="family" e="kết hôn" i="696" m="marriage" t="n" />
+<w c="family" e="mẹ" i="697" m="mother" t="n" />
+<w c="family" e="người láng giềng" i="698" m="neighbor" t="n" />
+<w c="family" e="cha" i="699" m="parent" t="n" />
+<w c="family" e="người" i="700" m="person" t="n" />
+<w c="family" e="mối quan hệ" i="701" m="relationship" t="n" />
+<w c="family" e="chị" i="702" m="sister" t="n" />
+<w c="family" e="con trai" i="703" m="son" t="n" />
+<w c="family" e="đám cưới" i="704" m="wedding" t="n" />
+<w c="family" e="vợ" i="705" m="wife" t="n" />
+<w c="family" e="người đàn bà đã có chồng" i="706" m="woman" t="n" />
+<w c="feelings" e="sự sợ hãi" i="707" m="fear" t="n" />
+<w c="feelings" e="sự căm thù" i="708" m="hate" t="n" />
+<w c="feelings" e="yêu thích" i="709" m="love" t="n" />
+<w c="feelings" e="điều thú vị" i="710" m="pleasure" t="n" />
+<w c="food" e="bánh mỳ" i="711" m="bread" t="n" />
+<w c="food" e="bữa sáng" i="712" m="breakfast" t="n" />
+<w c="food" e="bơ" i="713" m="butter" t="n" />
+<w c="food" e="pho mát" i="714" m="cheese" t="n" />
+<w c="food" e="sô cô la" i="715" m="chocolate" t="n" />
+<w c="food" e="cúp" i="716" m="cup" t="n" />
+<w c="food" e="quả trứng" i="717" m="egg" t="n" />
+<w c="food" e="lương thực" i="718" m="food" t="n" />
+<w c="food" e="cái nĩa" i="719" m="fork" t="n" />
+<w c="food" e="quả" i="720" m="fruit" t="n" />
+<w c="food" e="con dao" i="721" m="knife" t="n" />
+<w c="food" e="bữa trưa" i="722" m="lunch" t="n" />
+<w c="food" e="bữa ăn" i="723" m="meal" t="n" />
+<w c="food" e="thịt" i="724" m="meat" t="n" />
+<w c="food" e="dầu" i="725" m="oil" t="n" />
+<w c="food" e="rau trộn dầu giấm" i="726" m="salad" t="n" />
+<w c="food" e="muối" i="727" m="salt" t="n" />
+<w c="food" e="xăng-duýt" i="728" m="sandwich" t="n" />
+<w c="food" e="nước chấm" i="729" m="sauce" t="n" />
+<w c="food" e="xúp" i="730" m="soup" t="n" />
+<w c="food" e="đường" i="731" m="sugar" t="n" />
+<w c="food" e="tính chất ngọt" i="732" m="sweet" t="n" />
+<w c="fruits" e="quả táo" i="733" m="apple" t="n" />
+<w c="fruits" e="quả chuối" i="734" m="banana" t="n" />
+<w c="fruits" e="quả anh đào" i="735" m="cherry" t="n" />
+<w c="fruits" e="quả chanh" i="736" m="lemon" t="n" />
+<w c="fruits" e="quả hạch" i="737" m="nut" t="n" />
+<w c="fruits" e="quả cam" i="738" m="orange" t="n" />
+<w c="fruits" e="cây đào" i="739" m="peach" t="n" />
+<w c="fruits" e="quả lê" i="740" m="pear" t="n" />
+<w c="fruits" e="quả dứa" i="741" m="pineapple" t="n" />
+<w c="fruits" e="quả mận" i="742" m="plum" t="n" />
+<w c="fruits" e="quả mâm xôi" i="743" m="raspberry" t="n" />
+<w c="fruits" e="quả" i="744" m="strawberry" t="n" />
+<w c="furniture" e="giường" i="745" m="bed" t="n" />
+<w c="furniture" e="thảm" i="746" m="carpet" t="n" />
+<w c="furniture" e="ghế" i="747" m="chair" t="n" />
+<w c="furniture" e="tủ" i="748" m="cupboard" t="n" />
+<w c="furniture" e="màn cửa" i="749" m="curtain" t="n" />
+<w c="furniture" e="bàn viết" i="750" m="desk" t="n" />
+<w c="furniture" e="ngăn kéo" i="751" m="drawer" t="n" />
+<w c="furniture" e="giá" i="752" m="shelf" t="n" />
+<w c="furniture" e="bồn rửa bát" i="753" m="sink" t="n" />
+<w c="furniture" e="cái bàn" i="754" m="table" t="n" />
+<w c="geography" e="Trái Đất" i="755" m="Earth" t="n" />
+<w c="geography" e="mặt trăng" i="756" m="Moon" t="n" />
+<w c="geography" e="bãi biển" i="757" m="beach" t="n" />
+<w c="geography" e="hướng đông" i="758" m="east" t="n" />
+<w c="geography" e="hòn đảo" i="759" m="island" t="n" />
+<w c="geography" e="hồ" i="760" m="lake" t="n" />
+<w c="geography" e="đất" i="761" m="land" t="n" />
+<w c="geography" e="bản đồ" i="762" m="map" t="n" />
+<w c="geography" e="hướng bắc" i="763" m="north" t="n" />
+<w c="geography" e="đồng bằng" i="764" m="plain" t="n" />
+<w c="geography" e="dòng sông" i="765" m="river" t="n" />
+<w c="geography" e="biển" i="766" m="sea" t="n" />
+<w c="geography" e="miền nam" i="767" m="south" t="n" />
+<w c="geography" e="ngôi sao" i="768" m="star" t="n" />
+<w c="geography" e="mặt trời" i="769" m="sun" t="n" />
+<w c="geography" e="hướng tây" i="770" m="west" t="n" />
+<w c="house" e="địa chỉ" i="771" m="address" t="n" />
+<w c="house" e="gạch" i="772" m="brick" t="n" />
+<w c="house" e="cái cửa" i="773" m="door" t="n" />
+<w c="house" e="sàn nhà" i="774" m="floor" t="n" />
+<w c="house" e="tầng" i="775" m="floor" t="n" />
+<w c="house" e="đồ dùng trong nhà" i="776" m="furniture" t="n" />
+<w c="house" e="vườn" i="777" m="garden" t="n" />
+<w c="house" e="cổng" i="778" m="gate" t="n" />
+<w c="house" e="hành lang" i="779" m="hall" t="n" />
+<w c="house" e="nhà" i="780" m="home" t="n" />
+<w c="house" e="căn nhà" i="781" m="house" t="n" />
+<w c="house" e="bếp" i="782" m="kitchen" t="n" />
+<w c="house" e="mái nhà" i="783" m="roof" t="n" />
+<w c="house" e="phòng" i="784" m="room" t="n" />
+<w c="house" e="sự tắm dưới vòi hoa sen" i="785" m="shower" t="n" />
+<w c="house" e="bậc" i="786" m="step" t="n" />
+<w c="house" e="nhà vệ sinh" i="787" m="toilet" t="n" />
+<w c="house" e="bức tường" i="788" m="wall" t="n" />
+<w c="house" e="giếng" i="789" m="well" t="n" />
+<w c="house" e="cửa sổ" i="790" m="window" t="n" />
+<w c="languages" e="Tiếng Trung quốc" i="791" m="Chinese" t="n" />
+<w c="languages" e="Tiếng Anh" i="792" m="English" t="n" />
+<w c="languages" e="tiếng Pháp" i="793" m="French" t="n" />
+<w c="languages" e="Tiếng Đức" i="794" m="German" t="n" />
+<w c="languages" e="tiếng Hin-đi" i="795" m="Hindi" t="n" />
+<w c="languages" e="Tiếng Ý" i="796" m="Italian" t="n" />
+<w c="languages" e="tiếng Nhật" i="797" m="Japanese" t="n" />
+<w c="languages" e="tiếng Tây ban nha" i="798" m="Spanish" t="n" />
+<w c="materials" e="a-xít" i="799" m="acid" t="n" />
+<w c="materials" e="hóa chất" i="800" m="chemical" t="n" />
+<w c="materials" e="nguyên tố hóa học" i="801" m="chemical element" t="n" />
+<w c="materials" e="than đá" i="802" m="coal" t="n" />
+<w c="materials" e="bụi" i="803" m="dust" t="n" />
+<w c="materials" e="trái đất" i="804" m="earth" t="n" />
+<w c="materials" e="mỡ" i="805" m="fat" t="n" />
+<w c="materials" e="thuỷ tinh" i="806" m="glass" t="n" />
+<w c="materials" e="keo" i="807" m="glue" t="n" />
+<w c="materials" e="vàng" i="808" m="gold" t="n" />
+<w c="materials" e="mực viết" i="809" m="ink" t="n" />
+<w c="materials" e="sắt" i="810" m="iron" t="n" />
+<w c="materials" e="chì" i="811" m="lead" t="n" />
+<w c="materials" e="da" i="812" m="leather" t="n" />
+<w c="materials" e="chất lỏng" i="813" m="liquid" t="n" />
+<w c="materials" e="chất" i="814" m="matter" t="n" />
+<w c="materials" e="kim loại" i="815" m="metallic element" t="n" />
+<w c="materials" e="dầu mỏ" i="816" m="oil" t="n" />
+<w c="materials" e="giấy" i="817" m="paper" t="n" />
+<w c="materials" e="chất độc" i="818" m="poison" t="n" />
+<w c="materials" e="bột" i="819" m="powder" t="n" />
+<w c="materials" e="cát" i="820" m="sand" t="n" />
+<w c="materials" e="tơ" i="821" m="silk" t="n" />
+<w c="materials" e="bạc" i="822" m="silver" t="n" />
+<w c="materials" e="xà bông" i="823" m="soap" t="n" />
+<w c="materials" e="thép" i="824" m="steel" t="n" />
+<w c="materials" e="gỗ" i="825" m="wood" t="n" />
+<w c="mathematics" e="tính cộng" i="826" m="addition" t="n" />
+<w c="mathematics" e="góc" i="827" m="angle" t="n" />
+<w c="mathematics" e="diện tích" i="828" m="area" t="n" />
+<w c="mathematics" e="hình tròn" i="829" m="circle" t="n" />
+<w c="mathematics" e="nguyên tố" i="830" m="component" t="n" />
+<w c="mathematics" e="đường cong" i="831" m="curve" t="n" />
+<w c="mathematics" e="độ" i="832" m="degree" t="n" />
+<w c="mathematics" e="mức" i="833" m="degree" t="n" />
+<w c="mathematics" e="khoảng cách" i="834" m="distance" t="n" />
+<w c="mathematics" e="sự phân chia" i="835" m="division" t="n" />
+<w c="mathematics" e="đường viền" i="836" m="edge" t="n" />
+<w c="mathematics" e="chức năng" i="837" m="function" t="n" />
+<w c="mathematics" e="ranh giới" i="838" m="limit" t="n" />
+<w c="mathematics" e="đường kẻ" i="839" m="line" t="n" />
+<w c="mathematics" e="mạng lưới" i="840" m="net" t="n" />
+<w c="mathematics" e="tỷ lệ phần trăm" i="841" m="percent" t="n" />
+<w c="mathematics" e="mục đích" i="842" m="purpose" t="n" />
+<w c="mathematics" e="kết quả" i="843" m="result" t="n" />
+<w c="mathematics" e="qui định" i="844" m="rule" t="n" />
+<w c="mathematics" e="tập hợp" i="845" m="set" t="n" />
+<w c="mathematics" e="mép" i="846" m="side" t="n" />
+<w c="mathematics" e="hình vuông" i="847" m="square" t="n" />
+<w c="mathematics" e="bình phương" i="848" m="square" t="n" />
+<w c="mathematics" e="mặt" i="849" m="surface" t="n" />
+<w c="mathematics" e="lượng" i="850" m="total" t="n" />
+<w c="medicine" e="sự trông nom" i="851" m="care" t="n" />
+<w c="medicine" e="cảm lạnh" i="852" m="cold" t="n" />
+<w c="medicine" e="sự ho" i="853" m="cough" t="n" />
+<w c="medicine" e="bệnh" i="854" m="disease" t="n" />
+<w c="medicine" e="bác sỹ" i="855" m="doctor" t="n" />
+<w c="medicine" e="sức khỏe" i="856" m="health" t="n" />
+<w c="medicine" e="chu kỳ kinh nguyệt" i="857" m="menstruation" t="n" />
+<w c="medicine" e="y tá" i="858" m="nurse" t="n" />
+<w c="medicine" e="sự hoạt động" i="859" m="operation" t="n" />
+<w c="medicine" e="đau" i="860" m="pain" t="n" />
+<w c="medicine" e="bệnh nhân" i="861" m="patient" t="n" />
+<w c="medicine" e="mũi khâu" i="862" m="stitch" t="n" />
+<w c="nature" e="không khí" i="863" m="air" t="n" />
+<w c="nature" e="động vật" i="864" m="animal" t="n" />
+<w c="nature" e="cành cây" i="865" m="branch" t="n" />
+<w c="nature" e="sự tiến triển" i="866" m="evolution" t="n" />
+<w c="nature" e="trại" i="867" m="farm" t="n" />
+<w c="nature" e="đồng ruộng" i="868" m="field" t="n" />
+<w c="nature" e="ngọn lửa" i="869" m="fire" t="n" />
+<w c="nature" e="hoa" i="870" m="flower" t="n" />
+<w c="nature" e="rừng" i="871" m="forest" t="n" />
+<w c="nature" e="cỏ" i="872" m="grass" t="n" />
+<w c="nature" e="lá cây" i="873" m="leaf" t="n" />
+<w c="nature" e="sự sống" i="874" m="life" t="n" />
+<w c="nature" e="tự nhiên" i="875" m="nature" t="n" />
+<w c="nature" e="thực vật" i="876" m="plant" t="n" />
+<w c="nature" e="rễ cây" i="877" m="root" t="n" />
+<w c="nature" e="giới tính" i="878" m="sex" t="n" />
+<w c="nature" e="trời" i="879" m="sky" t="n" />
+<w c="nature" e="giấc" i="880" m="sleep" t="n" />
+<w c="nature" e="mùi" i="881" m="smell" t="n" />
+<w c="nature" e="khói" i="882" m="smoke" t="n" />
+<w c="nature" e="nguồn gốc" i="883" m="spring" t="n" />
+<w c="nature" e="thân" i="884" m="stem" t="n" />
+<w c="nature" e="dòng" i="885" m="stream" t="n" />
+<w c="nature" e="cây" i="886" m="tree" t="n" />
+<w c="nature" e="thời tiết" i="887" m="weather" t="n" />
+<w c="nature" e="Thế giới" i="888" m="world" t="n" />
+<w c="numbers" e="hai người" i="889" m="couple" t="n" />
+<w c="numbers" e="tám" i="890" m="eight" t="n" />
+<w c="numbers" e="số năm" i="891" m="five" t="n" />
+<w c="numbers" e="triệu" i="892" m="million" t="n" />
+<w c="numbers" e="chín" i="893" m="nine" t="n" />
+<w c="numbers" e="không có gì" i="894" m="nothing" t="n" />
+<w c="numbers" e="một" i="895" m="one" t="n" />
+<w c="numbers" e="mười" i="896" m="ten" t="n" />
+<w c="numbers" e="số thứ ba" i="897" m="third" t="n" />
+<w c="numbers" e="một nghìn" i="898" m="thousand" t="n" />
+<w c="numbers" e="con số một nghìn" i="899" m="thousand" t="n" />
+<w c="numbers" e="ba; ba" i="900" m="three" t="n" />
+<w c="numbers" e="hai" i="901" m="two" t="n" />
+<w c="objects" e="quả bóng" i="902" m="ball" t="n" />
+<w c="objects" e="dây xích" i="903" m="chain" t="n" />
+<w c="objects" e="dùi cui" i="904" m="club" t="n" />
+<w c="objects" e="cuộn" i="905" m="coil" t="n" />
+<w c="objects" e="phong bì" i="906" m="envelope" t="n" />
+<w c="objects" e="lông vũ" i="907" m="feather" t="n" />
+<w c="objects" e="cờ" i="908" m="flag" t="n" />
+<w c="objects" e="khung" i="909" m="frame" t="n" />
+<w c="objects" e="quai" i="910" m="handle" t="n" />
+<w c="objects" e="món quà" i="911" m="present" t="n" />
+<w c="objects" e="dây chão" i="912" m="rope" t="n" />
+<w c="objects" e="cánh buồm" i="913" m="sail" t="n" />
+<w c="objects" e="bưu phí" i="914" m="stamp" t="n" />
+<w c="objects" e="cái gậy" i="915" m="stick" t="n" />
+<w c="objects" e="đá" i="916" m="stone" t="n" />
+<w c="objects" e="vé" i="917" m="ticket" t="n" />
+<w c="objects" e="bánh xe" i="918" m="wheel" t="n" />
+<w c="objects" e="dây kim loại" i="919" m="wire" t="n" />
+<w c="physics" e="sự cân bằng" i="920" m="balance" t="n" />
+<w c="physics" e="điện tích" i="921" m="charge" t="n" />
+<w c="physics" e="năng lực" i="922" m="energy" t="n" />
+<w c="physics" e="ánh sáng" i="923" m="light" t="n" />
+<w c="physics" e="khối" i="924" m="mass" t="n" />
+<w c="physics" e="tầm vóc lớn" i="925" m="mass" t="n" />
+<w c="physics" e="sự đo lường" i="926" m="measurement" t="n" />
+<w c="physics" e="gương" i="927" m="mirror" t="n" />
+<w c="physics" e="sự vận động" i="928" m="movement" t="n" />
+<w c="physics" e="áp lực" i="929" m="pressure" t="n" />
+<w c="physics" e="quy trình" i="930" m="process" t="n" />
+<w c="physics" e="quy mô" i="931" m="size" t="n" />
+<w c="physics" e="hơi nước" i="932" m="steam" t="n" />
+<w c="physics" e="lực" i="933" m="strength" t="n" />
+<w c="physics" e="thời gian được tính bằng đơn vị năm" i="934" m="time" t="n" />
+<w c="physics" e="số nguyên nhỏ nhất" i="935" m="unit" t="n" />
+<w c="prepositions" e="chống lại" i="936" m="against" t="prep" />
+<w c="prepositions" e="chia phần" i="937" m="among" t="prep" />
+<w c="prepositions" e="ở tại" i="938" m="at" t="prep" />
+<w c="prepositions" e="ở tại" i="939" m="at" t="prep" />
+<w c="prepositions" e="trong thời gian" i="940" m="during" t="prep" />
+<w c="prepositions" e="cho" i="941" m="for" t="prep" />
+<w c="prepositions" e="vào trong" i="942" m="into" t="prep" />
+<w c="prepositions" e="từ một thời điểm trong quá khứ đến nay" i="943" m="since" t="prep" />
+<w c="prepositions" e="với" i="944" m="with" t="prep" />
+<w c="prepositions" e="với" i="945" m="with" t="prep" />
+<w c="prepositions" e="không có cái gì" i="946" m="without" t="prep" />
+<w c="professions" e="diễn viên" i="947" m="actor" t="n" />
+<w c="professions" e="hoạ sĩ" i="948" m="artist" t="n" />
+<w c="professions" e="nhà doanh nghiệp" i="949" m="businessman" t="n" />
+<w c="professions" e="đầu bếp" i="950" m="cook" t="n" />
+<w c="professions" e="chuyên gia" i="951" m="expert" t="n" />
+<w c="professions" e="tướng" i="952" m="general" t="n" />
+<w c="professions" e="nhà báo" i="953" m="journalist" t="n" />
+<w c="professions" e="quan tòa" i="954" m="judge" t="n" />
+<w c="professions" e="bộ trưởng" i="955" m="minister" t="n" />
+<w c="professions" e="nhà soạn nhạc" i="956" m="musician" t="n" />
+<w c="professions" e="phi công" i="957" m="pilot" t="n" />
+<w c="professions" e="nhân viên cảnh sát" i="958" m="policeman" t="n" />
+<w c="professions" e="chính trị gia" i="959" m="politician" t="n" />
+<w c="professions" e="tổng thống" i="960" m="president" t="n" />
+<w c="professions" e="chuyên nghiệp" i="961" m="professional" t="n" />
+<w c="professions" e="người đại diện của doanh nghiệp" i="962" m="representative" t="n" />
+<w c="professions" e="thủy thủ" i="963" m="sailor" t="n" />
+<w c="professions" e="nhà khoa học" i="964" m="scientist" t="n" />
+<w c="professions" e="thư kí" i="965" m="secretary" t="n" />
+<w c="professions" e="người hầu" i="966" m="servant" t="n" />
+<w c="professions" e="ca sĩ" i="967" m="singer" t="n" />
+<w c="professions" e="người lính" i="968" m="soldier" t="n" />
+<w c="professions" e="tác giả" i="969" m="writer" t="n" />
+<w c="pronouns" e="mọi người" i="970" m="everybody" t="pron" />
+<w c="pronouns" e="mọi thứ" i="971" m="everything" t="pron" />
+<w c="pronouns" e="của nó" i="972" m="her" t="pron" />
+<w c="pronouns" e="tự nó" i="973" m="herself" t="pron" />
+<w c="pronouns" e="nó" i="974" m="him" t="pron" />
+<w c="pronouns" e="của nó" i="975" m="his" t="pron" />
+<w c="pronouns" e="tôi" i="976" m="me" t="pron" />
+<w c="pronouns" e="của tôi" i="977" m="my" t="pron" />
+<w c="pronouns" e="của chúng ta" i="978" m="our" t="pron" />
+<w c="pronouns" e="nó" i="979" m="she" t="pron" />
+<w c="pronouns" e="của họ" i="980" m="their" t="pron" />
+<w c="pronouns" e="chúng nó" i="981" m="them" t="pron" />
+<w c="pronouns" e="người vật đã được đề cập đến" i="982" m="they" t="pron" />
+<w c="pronouns" e="chúng tôi" i="983" m="us" t="pron" />
+<w c="pronouns" e="chúng tôi" i="984" m="we" t="pron" />
+<w c="pronouns" e="ai" i="985" m="who" t="pron" />
+<w c="pronouns" e="với ai" i="986" m="whom" t="pron" />
+<w c="pronouns" e="chính mình" i="987" m="yourself" t="pron" />
+<w c="relations" e="bạn trai" i="988" m="boyfriend" t="n" />
+<w c="relations" e="cuộc hẹn" i="989" m="date" t="n" />
+<w c="relations" e="người yêu quý" i="990" m="dear" t="n" />
+<w c="relations" e="khách" i="991" m="guest" t="n" />
+<w c="relations" e="nụ hôn" i="992" m="kiss" t="n" />
+<w c="relations" e="bữa tiệc" i="993" m="party" t="n" />
+<w c="relations" e="nụ cười" i="994" m="smile" t="n" />
+<w c="relations" e="sự ngạc nhiên" i="995" m="surprise" t="n" />
+<w c="relations" e="sự viếng thăm" i="996" m="visit" t="n" />
+<w c="science" e="sinh vật học" i="997" m="biology" t="n" />
+<w c="science" e="nguyên nhân" i="998" m="cause" t="n" />
+<w c="science" e="bản chất" i="999" m="center" t="n" />
+<w c="science" e="hóa học" i="1000" m="chemistry" t="n" />
+<w c="science" e="sự so sánh" i="1001" m="comparison" t="n" />
+<w c="science" e="hậu quả" i="1002" m="consequence" t="n" />
+<w c="science" e="sự quản lý" i="1003" m="control" t="n" />
+<w c="science" e="sự rèn luyện" i="1004" m="discipline" t="n" />
+<w c="science" e="khám phá" i="1005" m="discovery" t="n" />
+<w c="science" e="sự kiện" i="1006" m="event" t="n" />
+<w c="science" e="bằng chứng" i="1007" m="evidence" t="n" />
+<w c="science" e="mẫu" i="1008" m="example" t="n" />
+<w c="science" e="sự việc" i="1009" m="fact" t="n" />
+<w c="science" e="vấn đề" i="1010" m="issue" t="n" />
+<w c="science" e="phương pháp" i="1011" m="method" t="n" />
+<w c="science" e="sự lựa chọn" i="1012" m="option" t="n" />
+<w c="science" e="thời kỳ" i="1013" m="phase" t="n" />
+<w c="science" e="thủ tục" i="1014" m="procedure" t="n" />
+<w c="science" e="sản xuất" i="1015" m="production" t="n" />
+<w c="science" e="chương trình" i="1016" m="program" t="n" />
+<w c="science" e="dự án" i="1017" m="project" t="n" />
+<w c="science" e="phạm vi" i="1018" m="range" t="n" />
+<w c="science" e="cuộc nghiên cứu" i="1019" m="research" t="n" />
+<w c="science" e="cuộc điều tra" i="1020" m="research" t="n" />
+<w c="science" e="khoa học" i="1021" m="science" t="n" />
+<w c="science" e="xã hội" i="1022" m="society" t="n" />
+<w c="science" e="hệ thống" i="1023" m="system" t="n" />
+<w c="science" e="công nghệ" i="1024" m="technology" t="n" />
+<w c="science" e="lý thuyết" i="1025" m="theory" t="n" />
+<w c="science" e="khuynh hướng" i="1026" m="trend" t="n" />
+<w c="science" e="điều rắc rối" i="1027" m="trouble" t="n" />
+<w c="science" e="người sử dụng" i="1028" m="user" t="n" />
+<w c="society" e="quân đội" i="1029" m="army" t="n" />
+<w c="society" e="thành phần chủ yếu" i="1030" m="base" t="n" />
+<w c="society" e="hội" i="1031" m="club" t="n" />
+<w c="society" e="tình bạn bè" i="1032" m="company" t="n" />
+<w c="society" e="đất nước" i="1033" m="country" t="n" />
+<w c="society" e="tòa án" i="1034" m="court" t="n" />
+<w c="society" e="sự phạm tội" i="1035" m="crime" t="n" />
+<w c="society" e="văn hóa" i="1036" m="culture" t="n" />
+<w c="society" e="nước cộng hòa" i="1037" m="democracy" t="n" />
+<w c="society" e="quyền cai trị" i="1038" m="dominion" t="n" />
+<w c="society" e="cuộc bầu cử" i="1039" m="election" t="n" />
+<w c="society" e="sự tồn tại" i="1040" m="existence" t="n" />
+<w c="society" e="chính quyền" i="1041" m="government" t="n" />
+<w c="society" e="lịch sử" i="1042" m="history" t="n" />
+<w c="society" e="cá nhân" i="1043" m="individual" t="n" />
+<w c="society" e="thể chế" i="1044" m="institution" t="n" />
+<w c="society" e="vua" i="1045" m="king" t="n" />
+<w c="society" e="người lãnh đạo" i="1046" m="leader" t="n" />
+<w c="society" e="thành viên" i="1047" m="member" t="n" />
+<w c="society" e="quốc gia" i="1048" m="nation" t="n" />
+<w c="society" e="chỉ thị" i="1049" m="order" t="n" />
+<w c="society" e="cơ quan" i="1050" m="organization" t="n" />
+<w c="society" e="giấy phép ra vào" i="1051" m="pass" t="n" />
+<w c="society" e="hộ chiếu" i="1052" m="passport" t="n" />
+<w c="society" e="hoà bình" i="1053" m="peace" t="n" />
+<w c="society" e="người dân" i="1054" m="people" t="n" />
+<w c="society" e="lực lượng cảnh sát" i="1055" m="police" t="n" />
+<w c="society" e="chính sách" i="1056" m="policy" t="n" />
+<w c="society" e="dân số" i="1057" m="population" t="n" />
+<w c="society" e="quần chúng" i="1058" m="public" t="n" />
+<w c="society" e="sự bị trừng phạt" i="1059" m="punishment" t="n" />
+<w c="society" e="sự sùng bái" i="1060" m="religion" t="n" />
+<w c="society" e="đức tin" i="1061" m="religion" t="n" />
+<w c="society" e="quốc gia" i="1062" m="state" t="n" />
+<w c="society" e="sự hợp nhất" i="1063" m="union" t="n" />
+<w c="society" e="ý chí" i="1064" m="will" t="n" />
+<w c="society" e="di chúc" i="1065" m="will" t="n" />
+<w c="sports" e="bằng danh dự" i="1066" m="award" t="n" />
+<w c="sports" e="bóng chày" i="1067" m="baseball" t="n" />
+<w c="sports" e="danh hiệu quán quân" i="1068" m="championship" t="n" />
+<w c="sports" e="đối thủ cạnh tranh" i="1069" m="competitor" t="n" />
+<w c="sports" e="nơi đến" i="1070" m="finish" t="n" />
+<w c="sports" e="môn bóng đá" i="1071" m="football" t="n" />
+<w c="sports" e="trò chơi" i="1072" m="game" t="n" />
+<w c="sports" e="bàn thắng" i="1073" m="goal" t="n" />
+<w c="sports" e="môn đánh gôn" i="1074" m="golf" t="n" />
+<w c="sports" e="người chơi" i="1075" m="player" t="n" />
+<w c="sports" e="kỷ lục" i="1076" m="record" t="n" />
+<w c="sports" e="quần vợt" i="1077" m="tennis" t="n" />
+<w c="sports" e="sự ném" i="1078" m="throw" t="n" />
+<w c="sports" e="sự chiến thắng" i="1079" m="win" t="n" />
+<w c="time" e="Tháng tư" i="1080" m="April" t="n" />
+<w c="time" e="tháng tám" i="1081" m="August" t="n" />
+<w c="time" e="Tháng mười hai" i="1082" m="December" t="n" />
+<w c="time" e="Tháng hai" i="1083" m="February" t="n" />
+<w c="time" e="Thứ Sáu" i="1084" m="Friday" t="n" />
+<w c="time" e="Tháng một" i="1085" m="January" t="n" />
+<w c="time" e="Tháng bảy" i="1086" m="July" t="n" />
+<w c="time" e="Tháng sáu" i="1087" m="June" t="n" />
+<w c="time" e="Tháng năm" i="1088" m="May" t="n" />
+<w c="time" e="Thứ Hai" i="1089" m="Monday" t="n" />
+<w c="time" e="Tháng mười một" i="1090" m="November" t="n" />
+<w c="time" e="Tháng mười" i="1091" m="October" t="n" />
+<w c="time" e="Thứ Bảy" i="1092" m="Saturday" t="n" />
+<w c="time" e="Tháng chín" i="1093" m="September" t="n" />
+<w c="time" e="Chủ nhật" i="1094" m="Sunday" t="n" />
+<w c="time" e="Thứ Năm" i="1095" m="Thursday" t="n" />
+<w c="time" e="Thứ Ba" i="1096" m="Tuesday" t="n" />
+<w c="time" e="Thứ Tư" i="1097" m="Wednesday" t="n" />
+<w c="time" e="buổi chiều" i="1098" m="afternoon" t="n" />
+<w c="time" e="chín ngấu" i="1099" m="age" t="n" />
+<w c="time" e="mùa thu" i="1100" m="autumn" t="n" />
+<w c="time" e="sự bắt đầu" i="1101" m="beginning" t="n" />
+<w c="time" e="thế kỷ" i="1102" m="century" t="n" />
+<w c="time" e="ngày tháng" i="1103" m="date" t="n" />
+<w c="time" e="ngày" i="1104" m="day" t="n" />
+<w c="time" e="buổi tối" i="1105" m="evening" t="n" />
+<w c="time" e="giờ" i="1106" m="hour" t="n" />
+<w c="time" e="nửa đêm" i="1107" m="midnight" t="n" />
+<w c="time" e="phút" i="1108" m="minute" t="n" />
+<w c="time" e="một chốc lát" i="1109" m="moment" t="n" />
+<w c="time" e="buổi sáng" i="1110" m="morning" t="n" />
+<w c="time" e="đêm" i="1111" m="night" t="n" />
+<w c="time" e="hiện nay" i="1112" m="now" t="n" />
+<w c="time" e="quá khứ" i="1113" m="past" t="n" />
+<w c="time" e="lúc tạm nghỉ" i="1114" m="pause" t="n" />
+<w c="time" e="giai đoạn" i="1115" m="period" t="n" />
+<w c="time" e="mùa" i="1116" m="season" t="n" />
+<w c="time" e="giây" i="1117" m="second" t="n" />
+<w c="time" e="mùa xuân" i="1118" m="spring" t="n" />
+<w c="time" e="mùa hè" i="1119" m="summer" t="n" />
+<w c="time" e="tuần" i="1120" m="week" t="n" />
+<w c="time" e="ngày cuối tuần" i="1121" m="weekend" t="n" />
+<w c="time" e="một lúc" i="1122" m="while" t="n" />
+<w c="time" e="mùa đông" i="1123" m="winter" t="n" />
+<w c="time" e="năm" i="1124" m="year" t="n" />
+<w c="tools" e="cái chuông" i="1125" m="bell" t="n" />
+<w c="tools" e="bàn chải" i="1126" m="brush" t="n" />
+<w c="tools" e="nút" i="1127" m="button" t="n" />
+<w c="tools" e="súng" i="1128" m="gun" t="n" />
+<w c="tools" e="đầu cần" i="1129" m="hammer" t="n" />
+<w c="tools" e="cái móc" i="1130" m="hook" t="n" />
+<w c="tools" e="chìa khóa" i="1131" m="key" t="n" />
+<w c="tools" e="diêm" i="1132" m="match" t="n" />
+<w c="tools" e="cái đinh" i="1133" m="nail" t="n" />
+<w c="tools" e="kim khâu" i="1134" m="needle" t="n" />
+<w c="tools" e="cái bút" i="1135" m="pen" t="n" />
+<w c="tools" e="cái bút chì" i="1136" m="pencil" t="n" />
+<w c="tools" e="máy bơm" i="1137" m="pump" t="n" />
+<w c="tools" e="lò xo" i="1138" m="spring" t="n" />
+<w c="tools" e="dấu" i="1139" m="stamp" t="n" />
+<w c="tools" e="roi da" i="1140" m="whip" t="n" />
+<w c="transport" e="tai nạn" i="1141" m="accident" t="n" />
+<w c="transport" e="xe đạp" i="1142" m="bike" t="n" />
+<w c="transport" e="thuyền" i="1143" m="boat" t="n" />
+<w c="transport" e="xe buýt" i="1144" m="bus" t="n" />
+<w c="transport" e="xe ô tô" i="1145" m="car" t="n" />
+<w c="transport" e="tàu tốc hành" i="1146" m="express" t="n" />
+<w c="transport" e="sự bay" i="1147" m="flight" t="n" />
+<w c="transport" e="quãng đường" i="1148" m="journey" t="n" />
+<w c="transport" e="hành khách" i="1149" m="passenger" t="n" />
+<w c="transport" e="máy bay" i="1150" m="plane" t="n" />
+<w c="transport" e="tàu thủy" i="1151" m="ship" t="n" />
+<w c="transport" e="thanh ray" i="1152" m="track" t="n" />
+<w c="transport" e="xe lửa" i="1153" m="train" t="n" />
+<w c="transport" e="giao thông" i="1154" m="transport" t="n" />
+<w c="vegetables" e="đậu" i="1155" m="bean" t="n" />
+<w c="vegetables" e="cải bắp" i="1156" m="cabbage" t="n" />
+<w c="vegetables" e="củ cà rốt" i="1157" m="carrot" t="n" />
+<w c="vegetables" e="quả dưa chuột" i="1158" m="cucumber" t="n" />
+<w c="vegetables" e="cây tỏi" i="1159" m="garlic" t="n" />
+<w c="vegetables" e="quả ô liu" i="1160" m="olive" t="n" />
+<w c="vegetables" e="củ hành" i="1161" m="onion" t="n" />
+<w c="vegetables" e="cây củ cải vàng" i="1162" m="parsnip" t="n" />
+<w c="vegetables" e="cây củ cải" i="1163" m="radish" t="n" />
+<w c="vegetables" e="cà chua" i="1164" m="tomato" t="n" />
+<w c="verbs" e="chấp nhận" i="1165" m="accept" t="v" />
+<w c="verbs" e="buộc tội" i="1166" m="accuse" t="v" />
+<w c="verbs" e="đạt được" i="1167" m="achieve" t="v" />
+<w c="verbs" e="hành động" i="1168" m="act" t="v" />
+<w c="verbs" e="công nhận" i="1169" m="admit" t="v" />
+<w c="verbs" e="đồng tình" i="1170" m="agree" t="v" />
+<w c="verbs" e="cho phép" i="1171" m="allow" t="v" />
+<w c="verbs" e="công bố" i="1172" m="announce" t="v" />
+<w c="verbs" e="cãi nhau" i="1173" m="argue" t="v" />
+<w c="verbs" e="đến" i="1174" m="arrive" t="v" />
+<w c="verbs" e="hỏi" i="1175" m="ask" t="v" />
+<w c="verbs" e="tấn công" i="1176" m="attack" t="v" />
+<w c="verbs" e="tránh" i="1177" m="avoid" t="v" />
+<w c="verbs" e="có sự sống" i="1178" m="be" t="v" />
+<w c="verbs" e="mang vác" i="1179" m="bear" t="v" />
+<w c="verbs" e="đánh bại" i="1180" m="beat" t="v" />
+<w c="verbs" e="trở thành" i="1181" m="become" t="v" />
+<w c="verbs" e="cắn" i="1182" m="bite" t="v" />
+<w c="verbs" e="làm cho" i="1183" m="bring" t="v" />
+<w c="verbs" e="xây dựng" i="1184" m="build" t="v" />
+<w c="verbs" e="gọi điện" i="1185" m="call" t="v" />
+<w c="verbs" e="mang" i="1186" m="carry" t="v" />
+<w c="verbs" e="thay đổi" i="1187" m="change" t="v" />
+<w c="verbs" e="chọn" i="1188" m="choose" t="v" />
+<w c="verbs" e="xếp hạng" i="1189" m="classify" t="v" />
+<w c="verbs" e="làm sạch" i="1190" m="clean" t="v" />
+<w c="verbs" e="ví" i="1191" m="compare" t="v" />
+<w c="verbs" e="chứa đựng" i="1192" m="contain" t="v" />
+<w c="verbs" e="tiếp tục" i="1193" m="continue" t="v" />
+<w c="verbs" e="nấu ăn" i="1194" m="cook" t="v" />
+<w c="verbs" e="bản sao" i="1195" m="copy" t="v" />
+<w c="verbs" e="ho" i="1196" m="cough" t="v" />
+<w c="verbs" e="khóc" i="1197" m="cry" t="v" />
+<w c="verbs" e="quyết định" i="1198" m="decide" t="v" />
+<w c="verbs" e="mô tả" i="1199" m="describe" t="v" />
+<w c="verbs" e="thiết kế" i="1200" m="design" t="v" />
+<w c="verbs" e="muốn" i="1201" m="desire" t="v" />
+<w c="verbs" e="chết" i="1202" m="die" t="v" />
+<w c="verbs" e="khám phá" i="1203" m="discover" t="v" />
+<w c="verbs" e="thảo luận" i="1204" m="discuss" t="v" />
+<w c="verbs" e="phân chia" i="1205" m="divide" t="v" />
+<w c="verbs" e="nghi ngờ" i="1206" m="doubt" t="v" />
+<w c="verbs" e="lái xe" i="1207" m="drive" t="v" />
+<w c="verbs" e="bao gồm" i="1208" m="embrace" t="v" />
+<w c="verbs" e="khuyến khích" i="1209" m="encourage" t="v" />
+<w c="verbs" e="kết thúc" i="1210" m="end" t="v" />
+<w c="verbs" e="nâng cao" i="1211" m="enhance" t="v" />
+<w c="verbs" e="đi vào" i="1212" m="enter" t="v" />
+<w c="verbs" e="xây dựng" i="1213" m="establish" t="v" />
+<w c="verbs" e="ước tính" i="1214" m="estimate" t="v" />
+<w c="verbs" e="vượt quá" i="1215" m="exceed" t="v" />
+<w c="verbs" e="tồn tại" i="1216" m="exist" t="v" />
+<w c="verbs" e="đợi" i="1217" m="expect" t="v" />
+<w c="verbs" e="giải thích" i="1218" m="explain" t="v" />
+<w c="verbs" e="đấu tranh" i="1219" m="fight" t="v" />
+<w c="verbs" e="đổ đầy" i="1220" m="fill" t="v" />
+<w c="verbs" e="phát hiện" i="1221" m="find" t="v" />
+<w c="verbs" e="tha thứ" i="1222" m="forgive" t="v" />
+<w c="verbs" e="giải phóng" i="1223" m="free" t="v" />
+<w c="verbs" e="phát triển" i="1224" m="grow" t="v" />
+<w c="verbs" e="xảy ra" i="1225" m="happen" t="v" />
+<w c="verbs" e="ghét" i="1226" m="hate" t="v" />
+<w c="verbs" e="che đậy" i="1227" m="hide" t="v" />
+<w c="verbs" e="cầm" i="1228" m="hold" t="v" />
+<w c="verbs" e="nhận ra" i="1229" m="identify" t="v" />
+<w c="verbs" e="bao gồm" i="1230" m="include" t="v" />
+<w c="verbs" e="làm bị thương" i="1231" m="injure" t="v" />
+<w c="verbs" e="giới thiệu" i="1232" m="introduce" t="v" />
+<w c="verbs" e="nối" i="1233" m="join" t="v" />
+<w c="verbs" e="giữ trong tình trạng" i="1234" m="keep" t="v" />
+<w c="verbs" e="đá" i="1235" m="kick" t="v" />
+<w c="verbs" e="giết" i="1236" m="kill" t="v" />
+<w c="verbs" e="hạ cánh" i="1237" m="land" t="v" />
+<w c="verbs" e="hướng dẫn" i="1238" m="lead" t="v" />
+<w c="verbs" e="bỏ lại" i="1239" m="leave" t="v" />
+<w c="verbs" e="cho phép" i="1240" m="let" t="v" />
+<w c="verbs" e="nâng lên" i="1241" m="lift" t="v" />
+<w c="verbs" e="hạn chế" i="1242" m="limit" t="v" />
+<w c="verbs" e="nạp điện" i="1243" m="load" t="v" />
+<w c="verbs" e="dường như" i="1244" m="look" t="v" />
+<w c="verbs" e="mất" i="1245" m="lose" t="v" />
+<w c="verbs" e="lãnh đạo" i="1246" m="manage" t="v" />
+<w c="verbs" e="cưới" i="1247" m="marry" t="v" />
+<w c="verbs" e="định" i="1248" m="mean" t="v" />
+<w c="verbs" e="đo lường" i="1249" m="measure" t="v" />
+<w c="verbs" e="đề cập" i="1250" m="mention" t="v" />
+<w c="verbs" e="gọi" i="1251" m="name" t="v" />
+<w c="verbs" e="sở hữu" i="1252" m="own" t="v" />
+<w c="verbs" e="nộp" i="1253" m="pass" t="v" />
+<w c="verbs" e="gọt vỏ" i="1254" m="peel" t="v" />
+<w c="verbs" e="đầu độc" i="1255" m="poison" t="v" />
+<w c="verbs" e="đánh bóng" i="1256" m="polish" t="v" />
+<w c="verbs" e="chuẩn bị" i="1257" m="prepare" t="v" />
+<w c="verbs" e="nhấn" i="1258" m="press" t="v" />
+<w c="verbs" e="ngăn chặn" i="1259" m="prevent" t="v" />
+<w c="verbs" e="in" i="1260" m="print" t="v" />
+<w c="verbs" e="xử lý" i="1261" m="process" t="v" />
+<w c="verbs" e="phản đối" i="1262" m="protest" t="v" />
+<w c="verbs" e="chứng minh" i="1263" m="prove" t="v" />
+<w c="verbs" e="xuất bản" i="1264" m="publish" t="v" />
+<w c="verbs" e="giáo dục" i="1265" m="raise" t="v" />
+<w c="verbs" e="đánh giá" i="1266" m="rate" t="v" />
+<w c="verbs" e="đến được" i="1267" m="reach" t="v" />
+<w c="verbs" e="nhận được" i="1268" m="receive" t="v" />
+<w c="verbs" e="thu thanh" i="1269" m="record" t="v" />
+<w c="verbs" e="cắt giảm" i="1270" m="reduce" t="v" />
+<w c="verbs" e="phản xạ" i="1271" m="reflect" t="v" />
+<w c="verbs" e="từ chối" i="1272" m="refuse" t="v" />
+<w c="verbs" e="di chuyển" i="1273" m="remove" t="v" />
+<w c="verbs" e="trả lại" i="1274" m="render" t="v" />
+<w c="verbs" e="trả lời" i="1275" m="reply" t="v" />
+<w c="verbs" e="thông báo" i="1276" m="report" t="v" />
+<w c="verbs" e="đại diện" i="1277" m="represent" t="v" />
+<w c="verbs" e="yêu cầu" i="1278" m="request" t="v" />
+<w c="verbs" e="thể hiện sự kính trọng" i="1279" m="respect" t="v" />
+<w c="verbs" e="vạch trần" i="1280" m="reveal" t="v" />
+<w c="verbs" e="liều" i="1281" m="risk" t="v" />
+<w c="verbs" e="cai trị" i="1282" m="rule" t="v" />
+<w c="verbs" e="để dành" i="1283" m="save" t="v" />
+<w c="verbs" e="cứu hộ" i="1284" m="save" t="v" />
+<w c="verbs" e="nhìn thấy" i="1285" m="see" t="v" />
+<w c="verbs" e="coi như" i="1286" m="see" t="v" />
+<w c="verbs" e="gửi" i="1287" m="send" t="v" />
+<w c="verbs" e="may" i="1288" m="sew" t="v" />
+<w c="verbs" e="kêu gào" i="1289" m="shout" t="v" />
+<w c="verbs" e="cho xem" i="1290" m="show" t="v" />
+<w c="verbs" e="trải qua" i="1291" m="spend" t="v" />
+<w c="verbs" e="đứng" i="1292" m="stand" t="v" />
+<w c="verbs" e="tiếp tục tồn tại" i="1293" m="stay" t="v" />
+<w c="verbs" e="ăn cắp" i="1294" m="steal" t="v" />
+<w c="verbs" e="chặn lại" i="1295" m="stop" t="v" />
+<w c="verbs" e="học" i="1296" m="study" t="v" />
+<w c="verbs" e="đề nghị" i="1297" m="suggest" t="v" />
+<w c="verbs" e="cung cấp" i="1298" m="supply" t="v" />
+<w c="verbs" e="truyền sức mạnh" i="1299" m="support" t="v" />
+<w c="verbs" e="làm ngạc nhiên" i="1300" m="surprise" t="v" />
+<w c="verbs" e="còn đủ" i="1301" m="survive" t="v" />
+<w c="verbs" e="dạy" i="1302" m="teach" t="v" />
+<w c="verbs" e="thử nghiệm" i="1303" m="test" t="v" />
+<w c="verbs" e="cảm ơn" i="1304" m="thank" t="v" />
+<w c="verbs" e="ném" i="1305" m="throw" t="v" />
+<w c="verbs" e="đặt tiêu đề" i="1306" m="title" t="v" />
+<w c="verbs" e="kinh doanh" i="1307" m="trade" t="v" />
+<w c="verbs" e="đào tạo" i="1308" m="train" t="v" />
+<w c="verbs" e="đi" i="1309" m="travel" t="v" />
+<w c="verbs" e="đối xử" i="1310" m="treat" t="v" />
+<w c="verbs" e="cố gắng" i="1311" m="try" t="v" />
+<w c="verbs" e="xoay" i="1312" m="turn" t="v" />
+<w c="verbs" e="đến thăm" i="1313" m="visit" t="v" />
+<w c="verbs" e="đi bộ" i="1314" m="walk" t="v" />
+<w c="verbs" e="nhìn" i="1315" m="watch" t="v" />
+<w c="verbs" e="mặc" i="1316" m="wear" t="v" />
+<w c="verbs" e="cân nặng" i="1317" m="weigh" t="v" />
+<w c="verbs" e="thắng" i="1318" m="win" t="v" />
+<w c="verbs" e="ước" i="1319" m="wish" t="v" />
+<w c="verbs" e="Bắt đầu" i="1320" m="begin" t="v" />
+<w c="verbs" e="chia ra" i="1321" m="break" t="v" />
+<w c="verbs" e="mua" i="1322" m="buy" t="v" />
+<w c="verbs" e="đóng" i="1323" m="close" t="v" />
+<w c="verbs" e="đi đến" i="1324" m="come" t="v" />
+<w c="verbs" e="cắt" i="1325" m="cut" t="v" />
+<w c="verbs" e="khiêu vũ" i="1326" m="dance" t="v" />
+<w c="verbs" e="sử dụng" i="1327" m="do" t="v" />
+<w c="verbs" e="uống" i="1328" m="drink" t="v" />
+<w c="verbs" e="ăn" i="1329" m="eat" t="v" />
+<w c="verbs" e="rơi" i="1330" m="fall" t="v" />
+<w c="verbs" e="tìm thấy" i="1331" m="find" t="v" />
+<w c="verbs" e="bắn" i="1332" m="fire" t="v" />
+<w c="verbs" e="bay" i="1333" m="fly" t="v" />
+<w c="verbs" e="theo sau" i="1334" m="follow" t="v" />
+<w c="verbs" e="quên" i="1335" m="forget" t="v" />
+<w c="verbs" e="cho" i="1336" m="give" t="v" />
+<w c="verbs" e="nghe" i="1337" m="hear" t="v" />
+<w c="verbs" e="giúp" i="1338" m="help" t="v" />
+<w c="verbs" e="hy vọng" i="1339" m="hope" t="v" />
+<w c="verbs" e="nhảy lên" i="1340" m="jump" t="v" />
+<w c="verbs" e="hôn" i="1341" m="kiss" t="v" />
+<w c="verbs" e="cười" i="1342" m="laugh" t="v" />
+<w c="verbs" e="học" i="1343" m="learn" t="v" />
+<w c="verbs" e="nằm" i="1344" m="lie" t="v" />
+<w c="verbs" e="thích" i="1345" m="like" t="v" />
+<w c="verbs" e="lắng nghe" i="1346" m="listen" t="v" />
+<w c="verbs" e="nhìn" i="1347" m="look" t="v" />
+<w c="verbs" e="mất" i="1348" m="lose" t="v" />
+<w c="verbs" e="thích" i="1349" m="love" t="v" />
+<w c="verbs" e="bắt gặp" i="1350" m="meet" t="v" />
+<w c="verbs" e="di chuyển" i="1351" m="move" t="v" />
+<w c="verbs" e="cần đến" i="1352" m="need" t="v" />
+<w c="verbs" e="mời" i="1353" m="offer" t="v" />
+<w c="verbs" e="mở ra" i="1354" m="open" t="v" />
+<w c="verbs" e="trả tiền" i="1355" m="pay" t="v" />
+<w c="verbs" e="nô đùa" i="1356" m="play" t="v" />
+<w c="verbs" e="rút ra" i="1357" m="pull" t="v" />
+<w c="verbs" e="đẩy" i="1358" m="push" t="v" />
+<w c="verbs" e="đặt" i="1359" m="put" t="v" />
+<w c="verbs" e="đọc" i="1360" m="read" t="v" />
+<w c="verbs" e="nhớ lại" i="1361" m="remember" t="v" />
+<w c="verbs" e="chạy" i="1362" m="run" t="v" />
+<w c="verbs" e="nói" i="1363" m="say" t="v" />
+<w c="verbs" e="bán" i="1364" m="sell" t="v" />
+<w c="verbs" e="hát" i="1365" m="sing" t="v" />
+<w c="verbs" e="ngồi" i="1366" m="sit" t="v" />
+<w c="verbs" e="mỉm cười" i="1367" m="smile" t="v" />
+<w c="verbs" e="bơi; tắm (lit. &quot;to bathe&quot;; used when swimming leisurely)" i="1368" m="swim" t="v" />
+<w c="verbs" e="cầm" i="1369" m="take" t="v" />
+<w c="verbs" e="nói" i="1370" m="talk" t="v" />
+<w c="verbs" e="vẽ" i="1371" m="trace" t="v" />
+<w c="verbs" e="hiểu được ý" i="1372" m="understand" t="v" />
+<w c="verbs" e="áp dụng" i="1373" m="use" t="v" />
+<w c="verbs" e="đợi" i="1374" m="wait" t="v" />
+<w c="weather" e="mây" i="1375" m="cloud" t="n" />
+<w c="weather" e="sương" i="1376" m="dew" t="n" />
+<w c="weather" e="sương mù" i="1377" m="fog" t="n" />
+<w c="weather" e="sự đông giá" i="1378" m="frost" t="n" />
+<w c="weather" e="chớp" i="1379" m="lightning" t="n" />
+<w c="weather" e="cầu vồng" i="1380" m="rainbow" t="n" />
+<w c="weather" e="tuyết" i="1381" m="snow" t="n" />
+<w c="weather" e="cơn giông tố" i="1382" m="storm" t="n" />
+<w c="weather" e="sấm" i="1383" m="thunder" t="n" />
+<w c="weather" e="gió" i="1384" m="wind" t="n" />
+</vocb>

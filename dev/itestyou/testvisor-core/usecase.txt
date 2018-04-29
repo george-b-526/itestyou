@@ -1,0 +1,57 @@
+- systems
+	- portal server; responsible for:
+		- usability and content focus	
+		- manage user database
+		- show available units with taxonomy 
+		- group units into bundles
+		- start test
+		- show test results
+	- engine server; responsible for:
+		- algorithmic focus
+		- manage algebra runtime
+		- manage unit types
+		- manage unit variations
+		- securely administer tests
+	
+- actors
+	- visitor
+	- promoter
+	- portal admin
+	- engine admin
+	
+- use case
+	- engine admin logs into engine server
+	- engine admin designs new unit or changes existing unit
+	- engine admin defines variations for a unit
+	- engine admin published the unit
+	- engine server sends unit definition and preview to portal server
+	- engine admin leaves engine server
+
+- use case
+	- visitor visits promoter website
+	- visitor clicks "take test link"
+	- visitor is redirected to portal server
+	- portal server shows the test details 
+	- portal server asks user to login or create account to take test
+	- visitor provides credentials
+	- portal server 
+		- calls engine server and creates instance of the test
+		- records new test id  
+		- redirects visitor to engine server to continue test with testId
+	- engine server 
+		- administers the test
+		- redirects visitor to the portal server to view test results
+	- portal server fetches test results and caches them locally
+	- visitor reviews the test results  
+	- visitor leaves portal server
+
+- use case
+	- promoter visits the portal server
+	- portal server 
+		- fetches the list of units from engine server
+		- fetches first N unit previews from engine server 
+		- caches them 
+		- shows them to the promoter
+	- promoter chooses the unit to embed on his site
+	- promoter copies HTML link and embeds it into web site
+	- promoter leaves portal server  

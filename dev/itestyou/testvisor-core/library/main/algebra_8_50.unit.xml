@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit xmlns="http://www.testvisor.com/schemas/1.0/unit" bindings="{a,b,c,d,e,f}" defaults="{1,2,1,-2,2,1}">
+	<eval>  
+		<stmt>eq1 := Hold((a*x+b))</stmt>  
+		<stmt>eq2 := Hold((c*x+d)*(e*x+f))</stmt>
+	</eval> 
+	<question>Which of the following expressions is equal to <draw><echo>Eval(eq1)</echo>+<echo>Eval(eq2)</echo></draw>?</question>  
+	<choices>      
+		<answer>  
+			<draw><echo>Expand(Simplify(eq1 + eq2))</echo></draw> 
+		</answer>
+		<decoy>
+			<draw><echo>Expand(Simplify(-eq1 + eq2))</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Expand(Simplify(-eq1 - eq2))</echo></draw> 
+		</decoy>
+		<decoy>
+			<draw><echo>Expand(Simplify(eq1 - eq2))</echo></draw> 
+		</decoy>
+	</choices>
+</unit>

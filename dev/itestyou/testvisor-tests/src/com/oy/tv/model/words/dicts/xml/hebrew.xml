@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Hebrew (&#x05E2;&#x05D1;&#x05E8;&#x05D9;&#x05EA;)">
+<!--generated: Sun Jan 29 02:47:20 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="פעולה" i="0" m="action" t="n" />
+<w c="abstract" e="פעילות" i="1" m="activity" t="n" />
+<w c="abstract" e="הרחבה" i="2" m="addition" t="n" />
+<w c="abstract" e="כמות" i="3" m="amount" t="n" />
+<w c="abstract" e="מתקפה" i="4" m="attack" t="n" />
+<w c="abstract" e="נסיון" i="5" m="attempt" t="n" />
+<w c="abstract" e="התנהגות" i="6" m="behavior" t="n" />
+<w c="abstract" e="מכה" i="7" m="blow" t="n" />
+<w c="abstract" e="בידור" i="8" m="break" t="n" />
+<w c="abstract" e="מסע קידום" i="9" m="campaign" t="n" />
+<w c="abstract" e="מופע" i="10" m="case" t="n" />
+<w c="abstract" e="הזדמנות" i="11" m="chance" t="n" />
+<w c="abstract" e="מצב" i="12" m="condition" t="n" />
+<w c="abstract" e="מחבר" i="13" m="connection" t="n" />
+<w c="abstract" e="סכנה" i="14" m="danger" t="n" />
+<w c="abstract" e="מוות" i="15" m="death" t="n" />
+<w c="abstract" e="קישוט" i="16" m="decoration" t="n" />
+<w c="abstract" e="טיפה" i="17" m="drop" t="n" />
+<w c="abstract" e="נפילה" i="18" m="fall" t="n" />
+<w c="abstract" e="מאמר" i="19" m="feature" t="n" />
+<w c="abstract" e="חזית" i="20" m="front" t="n" />
+<w c="abstract" e="גבה" i="21" m="height" t="n" />
+<w c="abstract" e="חור (m)" i="22" m="hole" t="n" />
+<w c="abstract" e="אינטרנט" i="23" m="internet" t="n" />
+<w c="abstract" e="בעיטה" i="24" m="kick" t="n" />
+<w c="abstract" e="סוג (soog) (m)" i="25" m="kind" t="n" />
+<w c="abstract" e="קשר" i="26" m="knot" t="n" />
+<w c="abstract" e="רשימה" i="27" m="list" t="n" />
+<w c="abstract" e="רוב" i="28" m="majority" t="n" />
+<w c="abstract" e="אופן" i="29" m="manner" t="n" />
+<w c="abstract" e="רוח (f); מוח (m)" i="30" m="mind" t="n" />
+<w c="abstract" e="ביצועים" i="31" m="operation" t="n" />
+<w c="abstract" e="חלק" i="32" m="part" t="n" />
+<w c="abstract" e="כוח" i="33" m="power" t="n" />
+<w c="abstract" e="מאפיין" i="34" m="property" t="n" />
+<w c="abstract" e="איכות" i="35" m="quality" t="n" />
+<w c="abstract" e="דין וחשבון" i="36" m="report" t="n" />
+<w c="abstract" e="מנוחה" i="37" m="rest" t="n" />
+<w c="abstract" e="הלם" i="38" m="shock" t="n" />
+<w c="abstract" e="דבר" i="39" m="thing" t="n" />
+<w c="abstract" e="טיפול" i="40" m="treatment" t="n" />
+<w c="adjectives" e="אחרי (ahre) (1,2); לאחר (leahar) (1,2); לאחר מכן (leahar miken) (3); אחרי כן (aharey hen) (3)" i="41" m="after" t="adj" />
+<w c="adjectives" e="אוטומטי" i="42" m="automatic" t="adj" />
+<w c="adjectives" e="זמין" i="43" m="available" t="adj" />
+<w c="adjectives" e="משעמם" i="44" m="boring" t="adj" />
+<w c="adjectives" e="שניהם" i="45" m="both" t="adj" />
+<w c="adjectives" e="ודאי" i="46" m="certain" t="adj" />
+<w c="adjectives" e="זול" i="47" m="cheap" t="adj" />
+<w c="adjectives" e="נסגר" i="48" m="closed" t="adj" />
+<w c="adjectives" e="משותף (me'shutaf)" i="49" m="common" t="adj" />
+<w c="adjectives" e="מסוכן" i="50" m="dangerous" t="adj" />
+<w c="adjectives" e="למטה" i="51" m="down" t="adj" />
+<w c="adjectives" e="קל" i="52" m="easy" t="adj" />
+<w c="adjectives" e="חשמלי" i="53" m="electric" t="adj" />
+<w c="adjectives" e="שווה" i="54" m="equal" t="adj" />
+<w c="adjectives" e="זוגי (zoogi)" i="55" m="even" t="adj" />
+<w c="adjectives" e="כל" i="56" m="every" t="adj" />
+<w c="adjectives" e="לא נכון" i="57" m="false" t="adj" />
+<w c="adjectives" e="סופי" i="58" m="final" t="adj" />
+<w c="adjectives" e="זר" i="59" m="foreign" t="adj" />
+<w c="adjectives" e="חופשי" i="60" m="free" t="adj" />
+<w c="adjectives" e="תעשייתי" i="61" m="industrial" t="adj" />
+<w c="adjectives" e="מעניין" i="62" m="interesting" t="adj" />
+<w c="adjectives" e="בינלאומי" i="63" m="international" t="adj" />
+<w c="adjectives" e="אחרון" i="64" m="last" t="adj" />
+<w c="adjectives" e="נוזל" i="65" m="liquid" t="adj" />
+<w c="adjectives" e="רם" i="66" m="loud" t="adj" />
+<w c="adjectives" e="בר מזל (bar mazal) (m)" i="67" m="lucky" t="adj" />
+<w c="adjectives" e="ראשי (Ra'shi) (m); ראשית (Ra'shit) (f); ראשיים (Ra'shi'yim) (m) (p); ראשיות (Ra'shi'yot) (f) (p)" i="68" m="main" t="adj" />
+<w c="adjectives" e="מתכתי" i="69" m="metal" t="adj" />
+<w c="adjectives" e="צבא" i="70" m="military" t="adj" />
+<w c="adjectives" e="יותר" i="71" m="more" t="adj" />
+<w c="adjectives" e="הכרחי" i="72" m="necessary" t="adj" />
+<w c="adjectives" e="רגיל" i="73" m="normal" t="adj" />
+<w c="adjectives" e="מקורי" i="74" m="original" t="adj" />
+<w c="adjectives" e="אחר" i="75" m="other" t="adj" />
+<w c="adjectives" e="מקבילי" i="76" m="parallel" t="adj" />
+<w c="adjectives" e="אישי" i="77" m="personal" t="adj" />
+<w c="adjectives" e="פיזי" i="78" m="physical" t="adj" />
+<w c="adjectives" e="אפשרי" i="79" m="possible" t="adj" />
+<w c="adjectives" e="פרטי" i="80" m="private" t="adj" />
+<w c="adjectives" e="כנראה" i="81" m="probable" t="adj" />
+<w c="adjectives" e="שקט" i="82" m="quiet" t="adj" />
+<w c="adjectives" e="סדיר" i="83" m="regular" t="adj" />
+<w c="adjectives" e="אחראי" i="84" m="responsible" t="adj" />
+<w c="adjectives" e="שני (sheni) (m); שניה (shnia) (f); שניים (shniyim) (m) (p); שניות (shniyot) (f) (p)" i="85" m="second" t="adj" />
+<w c="adjectives" e="רציני" i="86" m="serious" t="adj" />
+<w c="adjectives" e="קצר" i="87" m="short" t="adj" />
+<w c="adjectives" e="כסף'כֶּסֶף (késef)" i="88" m="silver" t="adj" />
+<w c="adjectives" e="קטן" i="89" m="small" t="adj" />
+<w c="adjectives" e="בפרט" i="90" m="special" t="adj" />
+<w c="adjectives" e="מוזר" i="91" m="strange" t="adj" />
+<w c="adjectives" e="פתאוםי" i="92" m="sudden" t="adj" />
+<w c="adjectives" e="עוגה" i="93" m="sweet" t="adj" />
+<w c="adjectives" e="אמיתי" i="94" m="true" t="adj" />
+<w c="adjectives" e="רטוב (ratov)" i="95" m="wet" t="adj" />
+<w c="adjectives" e="רחב" i="96" m="wide" t="adj" />
+<w c="adjectives" e="יפה" i="97" m="beautiful" t="adj" />
+<w c="adjectives" e="גדול" i="98" m="big" t="adj" />
+<w c="adjectives" e="קר" i="99" m="cold" t="adj" />
+<w c="adjectives" e="קשה" i="100" m="difficult" t="adj" />
+<w c="adjectives" e="במהירות" i="101" m="fast" t="adj" />
+<w c="adjectives" e="טוב (tov)" i="102" m="good" t="adj" />
+<w c="adjectives" e="שמח" i="103" m="happy" t="adj" />
+<w c="adjectives" e="חם" i="104" m="hot" t="adj" />
+<w c="adjectives" e="שמאל" i="105" m="left" t="adj" />
+<w c="adjectives" e=":he:ארך'ארוך" i="106" m="long" t="adj" />
+<w c="adjectives" e="חדש" i="107" m="new" t="adj" />
+<w c="adjectives" e="נחמד" i="108" m="nice" t="adj" />
+<w c="adjectives" e="ימין (yemín)" i="109" m="right" t="adj" />
+<w c="adjectives" e="איטי" i="110" m="slow" t="adj" />
+<w c="adjectives" e="חלש" i="111" m="weak" t="adj" />
+<w c="adjective" e="מסוגל" i="112" m="able" t="adj" />
+<w c="adjective" e="חי" i="113" m="alive" t="adj" />
+<w c="adjective" e="נקבה (nekeva) (2); נשי (nashi) (1)" i="114" m="female" t="adj" />
+<w c="adjective" e="ידידותי" i="115" m="friendly" t="adj" />
+<w c="adjective" e="choleh" i="116" m="ill" t="adj" />
+<w c="adjective" e="זכר" i="117" m="male" t="adj" />
+<w c="adjective" e="רפואי" i="118" m="medical" t="adj" />
+<w c="adjective" e="זקן" i="119" m="old" t="adj" />
+<w c="adjective" e="עשיר" i="120" m="rich" t="adj" />
+<w c="adjective" e="עצוב" i="121" m="sad" t="adj" />
+<w c="adjective" e="מצליח" i="122" m="successful" t="adj" />
+<w c="adjective" e="צמא" i="123" m="thirsty" t="adj" />
+<w c="adjective" e="עייף" i="124" m="tired" t="adj" />
+<w c="adjective" e="אלים" i="125" m="violent" t="adj" />
+<w c="adjective" e="חכם" i="126" m="wise" t="adj" />
+<w c="adjective" e="צעיר" i="127" m="young" t="adj" />
+<w c="adverb" e="מעל" i="128" m="above" t="adv" />
+<w c="adverb" e="שוב (šuv)" i="129" m="again" t="adv" />
+<w c="adverb" e="תמיד" i="130" m="always" t="adv" />
+<w c="adverb" e="&amp;lt;span dir=rtl&amp;gt;סביב ל...&amp;lt;/span&amp;gt;" i="131" m="approximately" t="adv" />
+<w c="adverb" e="ישירות" i="132" m="directly" t="adv" />
+<w c="adverb" e="מוקדם" i="133" m="early" t="adv" />
+<w c="adverb" e="אחד משניים" i="134" m="either" t="adv" />
+<w c="adverb" e="מספיק" i="135" m="enough" t="adv" />
+<w c="adverb" e="מלכתחילה" i="136" m="first" t="adv" />
+<w c="adverb" e="קדימה" i="137" m="forward" t="adv" />
+<w c="adverb" e="כאן" i="138" m="here" t="adv" />
+<w c="adverb" e="בכל אופן" i="139" m="however" t="adv" />
+<w c="adverb" e="מאוחר" i="140" m="late" t="adv" />
+<w c="adverb" e="מעט" i="141" m="little" t="adv" />
+<w c="adverb" e="לא (lo)" i="142" m="not" t="adv" />
+<w c="adverb" e="עכשיו (akhsháv)" i="143" m="now" t="adv" />
+<w c="adverb" e="תכופות" i="144" m="often" t="adv" />
+<w c="adverb" e="פעם" i="145" m="once" t="adv" />
+<w c="adverb" e="אולי" i="146" m="probably" t="adv" />
+<w c="adverb" e="מהר" i="147" m="quickly" t="adv" />
+<w c="adverb" e="באמת" i="148" m="really" t="adv" />
+<w c="adverb" e="לאחרונה" i="149" m="recently" t="adv" />
+<w c="adverb" e="לפעמים" i="150" m="sometimes" t="adv" />
+<w c="adverb" e="בקרוב" i="151" m="soon" t="adv" />
+<w c="adverb" e="עדיין" i="152" m="still" t="adv" />
+<w c="adverb" e="אז" i="153" m="then" t="adv" />
+<w c="adverb" e="שם" i="154" m="there" t="adv" />
+<w c="adverb" e="היום (ha-yóm)" i="155" m="today" t="adv" />
+<w c="adverb" e="ביחד" i="156" m="together" t="adv" />
+<w c="adverb" e="מחר" i="157" m="tomorrow" t="adv" />
+<w c="adverb" e="הערב" i="158" m="tonight" t="adv" />
+<w c="adverb" e="גם" i="159" m="too" t="adv" />
+<w c="adverb" e="מאוד (məód) (1)" i="160" m="very" t="adv" />
+<w c="adverb" e="למה" i="161" m="why" t="adv" />
+<w c="anatomy" e="זרוע" i="162" m="arm" t="noun" />
+<w c="anatomy" e="גב" i="163" m="back" t="noun" />
+<w c="anatomy" e="מקור" i="164" m="beak" t="noun" />
+<w c="anatomy" e="דם" i="165" m="blood" t="noun" />
+<w c="anatomy" e="גופה" i="166" m="body" t="noun" />
+<w c="anatomy" e="עצם" i="167" m="bone" t="noun" />
+<w c="anatomy" e="מוח" i="168" m="brain" t="noun" />
+<w c="anatomy" e="נפש" i="169" m="breath" t="noun" />
+<w c="anatomy" e="תא" i="170" m="cell" t="noun" />
+<w c="anatomy" e="חזה (m)" i="171" m="chest" t="noun" />
+<w c="anatomy" e="סנטר" i="172" m="chin" t="noun" />
+<w c="anatomy" e="אוזן" i="173" m="ear" t="noun" />
+<w c="anatomy" e="עין" i="174" m="eye" t="noun" />
+<w c="anatomy" e="פנים" i="175" m="face" t="noun" />
+<w c="anatomy" e="אצבע" i="176" m="finger" t="noun" />
+<w c="anatomy" e="כף רגל" i="177" m="foot" t="noun" />
+<w c="anatomy" e="מצח" i="178" m="forehead" t="noun" />
+<w c="anatomy" e="גן" i="179" m="gene" t="noun" />
+<w c="anatomy" e="שיער" i="180" m="hair" t="noun" />
+<w c="anatomy" e="יד" i="181" m="hand" t="noun" />
+<w c="anatomy" e="ראש" i="182" m="head" t="noun" />
+<w c="anatomy" e="לב" i="183" m="heart" t="noun" />
+<w c="anatomy" e="ברך" i="184" m="knee" t="noun" />
+<w c="anatomy" e="רגל" i="185" m="leg" t="noun" />
+<w c="anatomy" e="שפה" i="186" m="lip" t="noun" />
+<w c="anatomy" e="פה" i="187" m="mouth" t="noun" />
+<w c="anatomy" e="שריר" i="188" m="muscle" t="noun" />
+<w c="anatomy" e="ציפורן" i="189" m="nail" t="noun" />
+<w c="anatomy" e="צוואר" i="190" m="neck" t="noun" />
+<w c="anatomy" e="עצב" i="191" m="nerve" t="noun" />
+<w c="anatomy" e="אף" i="192" m="nose" t="noun" />
+<w c="anatomy" e="עור" i="193" m="skin" t="noun" />
+<w c="anatomy" e="קיבה" i="194" m="stomach" t="noun" />
+<w c="anatomy" e="זנב" i="195" m="tail" t="noun" />
+<w c="anatomy" e="לוע" i="196" m="throat" t="noun" />
+<w c="anatomy" e="אגודל" i="197" m="thumb" t="noun" />
+<w c="anatomy" e="אצבעות כף הרגל" i="198" m="toe" t="noun" />
+<w c="anatomy" e="לשון" i="199" m="tongue" t="noun" />
+<w c="anatomy" e="שן" i="200" m="tooth" t="noun" />
+<w c="anatomy" e="כנף" i="201" m="wing" t="noun" />
+<w c="animals" e="נמליים" i="202" m="ant" t="noun" />
+<w c="animals" e="דוב" i="203" m="bear" t="noun" />
+<w c="animals" e="דבורה" i="204" m="bee" t="noun" />
+<w c="animals" e="ציפור" i="205" m="bird" t="noun" />
+<w c="animals" e="חתול" i="206" m="cat" t="noun" />
+<w c="animals" e="פרה" i="207" m="cow" t="noun" />
+<w c="animals" e="כלב" i="208" m="dog" t="noun" />
+<w c="animals" e="פיליים" i="209" m="elephant" t="noun" />
+<w c="animals" e="דג" i="210" m="fish" t="noun" />
+<w c="animals" e="זבוב" i="211" m="fly" t="noun" />
+<w c="animals" e="עז" i="212" m="goat" t="noun" />
+<w c="animals" e="סוס הבית" i="213" m="horse" t="noun" />
+<w c="animals" e="חרק" i="214" m="insect" t="noun" />
+<w c="animals" e="אריה" i="215" m="lion" t="noun" />
+<w c="animals" e="קוף" i="216" m="monkey" t="noun" />
+<w c="animals" e="חזיר" i="217" m="pig" t="noun" />
+<w c="animals" e="כבס" i="218" m="sheep" t="noun" />
+<w c="animals" e="נחש" i="219" m="snake" t="noun" />
+<w c="art" e="אמנות" i="220" m="art" t="n" />
+<w c="art" e="צבעים" i="221" m="color" t="n" />
+<w c="art" e="קונצרט" i="222" m="concert" t="n" />
+<w c="art" e="בידור" i="223" m="entertainment" t="n" />
+<w c="art" e="סרט" i="224" m="movie" t="n" />
+<w c="art" e="מוזיקה" i="225" m="music" t="n" />
+<w c="art" e="תו" i="226" m="note" t="n" />
+<w c="art" e="תזמורת" i="227" m="orchestra" t="n" />
+<w c="art" e="צבע" i="228" m="paint" t="n" />
+<w c="art" e="תמונה" i="229" m="painting" t="n" />
+<w c="art" e="תמונה" i="230" m="picture" t="n" />
+<w c="art" e="שירה" i="231" m="poetry" t="n" />
+<w c="art" e="קצב" i="232" m="rhythm" t="n" />
+<w c="art" e="זמר" i="233" m="song" t="n" />
+<w c="art" e="סגנון" i="234" m="style" t="n" />
+<w c="article" e="&amp;amp;rlm;ה-" i="235" m="the" t="" />
+<w c="business" e="חשבון" i="236" m="account" t="n" />
+<w c="business" e="יתרון" i="237" m="advantage" t="n" />
+<w c="business" e="פרסומת" i="238" m="advertisement" t="n" />
+<w c="business" e="עצה" i="239" m="advice" t="n" />
+<w c="business" e="קשב" i="240" m="attention" t="n" />
+<w c="business" e="מתן הרשאות" i="241" m="authority" t="n" />
+<w c="business" e="שטר כסף" i="242" m="banknote" t="n" />
+<w c="business" e="הון" i="243" m="capital" t="n" />
+<w c="business" e="המחאה" i="244" m="check" t="n" />
+<w c="business" e="ועדה" i="245" m="committee" t="n" />
+<w c="business" e="תחרות" i="246" m="competition" t="n" />
+<w c="business" e="חוזה" i="247" m="contract" t="n" />
+<w c="business" e="עלות" i="248" m="cost" t="n" />
+<w c="business" e="עיצה" i="249" m="council" t="n" />
+<w c="business" e="לקוח" i="250" m="customer" t="n" />
+<w c="business" e="צורך" i="251" m="demand" t="n" />
+<w c="business" e="מחלקה" i="252" m="department" t="n" />
+<w c="business" e="עיצוב" i="253" m="design" t="n" />
+<w c="business" e="קושי" i="254" m="difficulty" t="n" />
+<w c="business" e="מנהל" i="255" m="director" t="n" />
+<w c="business" e="משטר כלכלי" i="256" m="economy" t="n" />
+<w c="business" e="נסיון" i="257" m="experience" t="n" />
+<w c="business" e="טופס" i="258" m="form" t="n" />
+<w c="business" e="לקבץ" i="259" m="group" t="n" />
+<w c="business" e="עזרה" i="260" m="help" t="n" />
+<w c="business" e="חופשה" i="261" m="holiday" t="n" />
+<w c="business" e="הכנסה" i="262" m="income" t="n" />
+<w c="business" e="תעשייה" i="263" m="industry" t="n" />
+<w c="business" e="ביטוח" i="264" m="insurance" t="n" />
+<w c="business" e="ריבית" i="265" m="interest" t="n" />
+<w c="business" e="חשבונית" i="266" m="invoice" t="n" />
+<w c="business" e="משימה" i="267" m="job" t="n" />
+<w c="business" e="דין" i="268" m="law" t="n" />
+<w c="business" e="ניהול" i="269" m="management" t="n" />
+<w c="business" e="סמן" i="270" m="marker" t="n" />
+<w c="business" e="שוק" i="271" m="market" t="n" />
+<w c="business" e="חומר גלם" i="272" m="material" t="n" />
+<w c="business" e="פגישה" i="273" m="meeting" t="n" />
+<w c="business" e="כסף" i="274" m="money" t="n" />
+<w c="business" e="עבודה" i="275" m="occupation" t="n" />
+<w c="business" e="משרד" i="276" m="office" t="n" />
+<w c="business" e="פעולה" i="277" m="operation" t="n" />
+<w c="business" e="חבילה" i="278" m="package" t="n" />
+<w c="business" e="בעיה (f) (1)" i="279" m="problem" t="n" />
+<w c="business" e="תוצר" i="280" m="product" t="n" />
+<w c="business" e="רכוש" i="281" m="property" t="n" />
+<w c="business" e="שארית" i="282" m="rest" t="n" />
+<w c="business" e="זכות" i="283" m="right" t="n" />
+<w c="business" e="פלג" i="284" m="section" t="n" />
+<w c="business" e="שירות" i="285" m="service" t="n" />
+<w c="business" e="מניה" i="286" m="share" t="n" />
+<w c="business" e="חנות" i="287" m="shop" t="n" />
+<w c="business" e="מיומנות" i="288" m="skill" t="n" />
+<w c="business" e="מבנה" i="289" m="structure" t="n" />
+<w c="business" e="טבלה" i="290" m="table" t="n" />
+<w c="business" e="מס" i="291" m="tax" t="n" />
+<w c="business" e="צוות" i="292" m="team" t="n" />
+<w c="business" e="מסחר" i="293" m="trade" t="n" />
+<w c="business" e="ערך" i="294" m="value" t="n" />
+<w c="business" e="עבודה" i="295" m="work" t="n" />
+<w c="business" e="עובד" i="296" m="worker" t="n" />
+<w c="city" e="נמל  תעופה" i="297" m="airport" t="n" />
+<w c="city" e="בנק" i="298" m="bank" t="n" />
+<w c="city" e="גשר" i="299" m="bridge" t="n" />
+<w c="city" e="בנין" i="300" m="building" t="n" />
+<w c="city" e="עיר בירה" i="301" m="capital" t="n" />
+<w c="city" e="טירה" i="302" m="castle" t="n" />
+<w c="city" e="כנסייה" i="303" m="church" t="n" />
+<w c="city" e="קולנוע" i="304" m="cinema" t="n" />
+<w c="city" e="עיר" i="305" m="city" t="n" />
+<w c="city" e="בית חרושת" i="306" m="factory" t="n" />
+<w c="city" e="דירה" i="307" m="flat" t="n" />
+<w c="city" e="בית חולים" i="308" m="hospital" t="n" />
+<w c="city" e="מלון" i="309" m="hotel" t="n" />
+<w c="city" e="ספריה" i="310" m="library" t="n" />
+<w c="city" e="מוזאון" i="311" m="museum" t="n" />
+<w c="city" e="פרק" i="312" m="park" t="n" />
+<w c="city" e="בית כלא" i="313" m="prison" t="n" />
+<w c="city" e="מסעדה" i="314" m="restaurant" t="n" />
+<w c="city" e="כביש" i="315" m="road" t="n" />
+<w c="city" e="בית-ספר" i="316" m="school" t="n" />
+<w c="city" e="תחנה" i="317" m="station" t="n" />
+<w c="city" e="רחוב" i="318" m="street" t="n" />
+<w c="city" e="רכבת תחתית" i="319" m="subway" t="n" />
+<w c="city" e="מרכול" i="320" m="supermarket" t="n" />
+<w c="city" e="תיאטרון" i="321" m="theater" t="n" />
+<w c="city" e="עיירה" i="322" m="town" t="n" />
+<w c="city" e="כפר" i="323" m="village" t="n" />
+<w c="clothes" e="מגף" i="324" m="boot" t="n" />
+<w c="clothes" e="טקסטיל" i="325" m="cloth" t="n" />
+<w c="clothes" e="ביגוד" i="326" m="clothing" t="n" />
+<w c="clothes" e="מעיל" i="327" m="coat" t="n" />
+<w c="clothes" e="צווארון (tzavaron)" i="328" m="collar" t="n" />
+<w c="clothes" e="כובע" i="329" m="hat" t="n" />
+<w c="clothes" e="מקטורן" i="330" m="jacket" t="n" />
+<w c="clothes" e="תכשיט" i="331" m="jewel" t="n" />
+<w c="clothes" e="מעגל" i="332" m="ring" t="n" />
+<w c="clothes" e="חולצה" i="333" m="shirt" t="n" />
+<w c="clothes" e="נעל" i="334" m="shoe" t="n" />
+<w c="clothes" e="חצאית" i="335" m="skirt" t="n" />
+<w c="clothes" e="גרב" i="336" m="sock" t="n" />
+<w c="clothes" e="מזוודה" i="337" m="suitcase" t="n" />
+<w c="clothes" e="עניבה" i="338" m="tie" t="n" />
+<w c="colors" e="שחור" i="339" m="black" t="adj" />
+<w c="colors" e="כחול (kakhól)" i="340" m="blue" t="adj" />
+<w c="colors" e="חום" i="341" m="brown" t="adj" />
+<w c="colors" e="אפור" i="342" m="gray" t="adj" />
+<w c="colors" e="ירוק" i="343" m="green" t="adj" />
+<w c="colors" e="אורנג'" i="344" m="orange" t="adj" />
+<w c="colors" e="ורוד" i="345" m="pink" t="adj" />
+<w c="colors" e="אדום (adom)" i="346" m="red" t="adj" />
+<w c="colors" e="סגול" i="347" m="violet" t="adj" />
+<w c="colors" e="לבן" i="348" m="white" t="adj" />
+<w c="colors" e="צהוב" i="349" m="yellow" t="adj" />
+<w c="communication" e="הכרזה" i="350" m="announcement" t="n" />
+<w c="communication" e="תגובה" i="351" m="answer" t="n" />
+<w c="communication" e="מחלוקת" i="352" m="argument" t="n" />
+<w c="communication" e="ארגומנט" i="353" m="argument" t="n" />
+<w c="communication" e="סֵפֶר" i="354" m="book" t="n" />
+<w c="communication" e="שיחה" i="355" m="call" t="n" />
+<w c="communication" e="גרפמה" i="356" m="character" t="n" />
+<w c="communication" e="נתונים" i="357" m="data" t="n" />
+<w c="communication" e="החלטה" i="358" m="decision" t="n" />
+<w c="communication" e="מילון" i="359" m="dictionary" t="n" />
+<w c="communication" e="דיון" i="360" m="discussion" t="n" />
+<w c="communication" e="הבעת פנים" i="361" m="expression" t="n" />
+<w c="communication" e="הרגשה (hargasha) (f)" i="362" m="feeling" t="n" />
+<w c="communication" e="הומור" i="363" m="humor" t="n" />
+<w c="communication" e="רעיון" i="364" m="idea" t="n" />
+<w c="communication" e="ראיון" i="365" m="interview" t="n" />
+<w c="communication" e="בלשנות" i="366" m="language" t="n" />
+<w c="communication" e="שפה טבעית" i="367" m="language" t="n" />
+<w c="communication" e="תו" i="368" m="letter" t="n" />
+<w c="communication" e="מכתב" i="369" m="letter" t="n" />
+<w c="communication" e="שקר לבן" i="370" m="lie" t="n" />
+<w c="communication" e="כתב עת" i="371" m="magazine" t="n" />
+<w c="communication" e="דאר" i="372" m="mail" t="n" />
+<w c="communication" e="זיכרון" i="373" m="memory" t="n" />
+<w c="communication" e="תקלה" i="374" m="mistake" t="n" />
+<w c="communication" e="שם (šem) (m)" i="375" m="name" t="n" />
+<w c="communication" e="עיתון" i="376" m="newspaper" t="n" />
+<w c="communication" e="ביאור" i="377" m="note" t="n" />
+<w c="communication" e="מספר" i="378" m="number" t="n" />
+<w c="communication" e="דף" i="379" m="page" t="n" />
+<w c="communication" e="הגייה" i="380" m="pronunciation" t="n" />
+<w c="communication" e="הצעה" i="381" m="proposal" t="n" />
+<w c="communication" e="תנועת מחאה" i="382" m="protest" t="n" />
+<w c="communication" e="שאילתה" i="383" m="question" t="n" />
+<w c="communication" e="תגובה" i="384" m="reaction" t="n" />
+<w c="communication" e="תבונה" i="385" m="reason" t="n" />
+<w c="communication" e="סוד (m)" i="386" m="secret" t="n" />
+<w c="communication" e="משפט" i="387" m="sentence" t="n" />
+<w c="communication" e="צורה" i="388" m="shape" t="n" />
+<w c="communication" e="סימן" i="389" m="sign" t="n" />
+<w c="communication" e="כתיב" i="390" m="spelling" t="n" />
+<w c="communication" e="הצהרה'הַצְהָרָה (ha-tseharah) (f)" i="391" m="statement" t="n" />
+<w c="communication" e="עצם" i="392" m="subject" t="n" />
+<w c="communication" e="קול" i="393" m="voice" t="n" />
+<w c="communication" e="מילה" i="394" m="word" t="n" />
+<w c="communication" e="כתיבה" i="395" m="writing" t="n" />
+<w c="conjunction" e="-ו" i="396" m="and" t="conj" />
+<w c="conjunction" e="כי" i="397" m="because" t="conj" />
+<w c="conjunction" e="אם" i="398" m="if" t="conj" />
+<w c="conjunction" e="או" i="399" m="or" t="conj" />
+<w c="conjunction" e="מאשר" i="400" m="than" t="conj" />
+<w c="conjunction" e="עד" i="401" m="until" t="conj" />
+<w c="containers" e="תיק" i="402" m="bag" t="n" />
+<w c="containers" e="סל" i="403" m="basket" t="n" />
+<w c="containers" e="בקבוק" i="404" m="bottle" t="n" />
+<w c="containers" e="צלחת" i="405" m="plate" t="n" />
+<w c="conversation" e="אני לא יודע" i="406" m="I don't know" t="" />
+<w c="conversation" e="אני לא מבין" i="407" m="I don't understand" t="" />
+<w c="conversation" e="לחיים" i="408" m="cheers" t="" />
+<w c="conversation" e="?העם אתה/את מדבר/מדברת אנגלית (Ha'im ata/at medaber/medaberet anglit?)" i="409" m="do you speak English" t="" />
+<w c="conversation" e="יום נעים" i="410" m="good day" t="" />
+<w c="conversation" e="בהצלחה" i="411" m="good luck" t="" />
+<w c="conversation" e="בוקר טוב (bóker tov)" i="412" m="good morning" t="" />
+<w c="conversation" e="יום הולדת שמח" i="413" m="happy birthday" t="" />
+<w c="conversation" e="הלו" i="414" m="hello" t="" />
+<w c="conversation" e="?מה שלומך" i="415" m="how are you" t="" />
+<w c="conversation" e="תודה רבה" i="416" m="many thanks" t="" />
+<w c="conversation" e="לא (lo)" i="417" m="no" t="" />
+<w c="conversation" e="סליחה" i="418" m="sorry" t="" />
+<w c="conversation" e="תודה רבה!" i="419" m="thank you very much" t="" />
+<w c="conversation" e="מה שמך" i="420" m="what is your name" t="" />
+<w c="conversation" e="כן" i="421" m="yes" t="" />
+<w c="conversation" e="בבקשה" i="422" m="you're welcome" t="" />
+<w c="countries" e="סין" i="423" m="China" t="n" />
+<w c="countries" e="הרפובליקה הצ'כית" i="424" m="Czech Republic" t="n" />
+<w c="countries" e="הרפובליקה של צרפת" i="425" m="France" t="n" />
+<w c="countries" e="הרפובליקה הפדרלית של גרמניה" i="426" m="Germany" t="n" />
+<w c="countries" e="הרפובליקה של הודו" i="427" m="India" t="n" />
+<w c="countries" e="איטליה" i="428" m="Italy" t="n" />
+<w c="countries" e="יפן" i="429" m="Japan" t="n" />
+<w c="countries" e="ממלכת ספרד" i="430" m="Spain" t="n" />
+<w c="countries" e="בריטניה" i="431" m="United Kingdom" t="n" />
+<w c="countries" e="ארצות הברית" i="432" m="United States" t="n" />
+<w c="devices" e="מצלמה" i="433" m="camera" t="n" />
+<w c="devices" e="טלפון סלולרי" i="434" m="cellphone" t="n" />
+<w c="devices" e="שעון" i="435" m="clock" t="n" />
+<w c="devices" e="מחשב" i="436" m="computer" t="n" />
+<w c="devices" e="מעלית" i="437" m="elevator" t="n" />
+<w c="devices" e="מנוע" i="438" m="engine" t="n" />
+<w c="devices" e="מכונה" i="439" m="machine" t="n" />
+<w c="devices" e="תנור" i="440" m="oven" t="n" />
+<w c="devices" e="טלוויזיה (televizia) (f)" i="441" m="television" t="n" />
+<w c="devices" e="שעון" i="442" m="watch" t="n" />
+<w c="drinks" e="בירה" i="443" m="beer" t="n" />
+<w c="drinks" e="קפה" i="444" m="coffee" t="n" />
+<w c="drinks" e="משקה" i="445" m="drink" t="n" />
+<w c="drinks" e="חלב" i="446" m="milk" t="n" />
+<w c="drinks" e="מילקשייק" i="447" m="milkshake" t="n" />
+<w c="drinks" e="תה" i="448" m="tea" t="n" />
+<w c="drinks" e="מים" i="449" m="water" t="n" />
+<w c="drinks" e="יין" i="450" m="wine" t="n" />
+<w c="education" e="כיתה" i="451" m="class" t="n" />
+<w c="education" e="חינוך" i="452" m="education" t="n" />
+<w c="education" e="חינוך" i="453" m="education" t="n" />
+<w c="education" e="ציון" i="454" m="grade" t="n" />
+<w c="education" e="הכרה" i="455" m="knowledge" t="n" />
+<w c="education" e="תלמיד" i="456" m="student" t="n" />
+<w c="education" e="מורה" i="457" m="teacher" t="n" />
+<w c="education" e="תרגול" i="458" m="training" t="n" />
+<w c="environment" e="גשם חומצי" i="459" m="acid rain" t="n" />
+<w c="environment" e="אטמוספירה" i="460" m="atmosphere" t="n" />
+<w c="environment" e="שינויי אקלים" i="461" m="climate change" t="n" />
+<w c="environment" e="אקולוגיה" i="462" m="ecology" t="n" />
+<w c="environment" e="סביבה" i="463" m="environment" t="n" />
+<w c="environment" e="דלק מאובנים" i="464" m="fossil fuel" t="n" />
+<w c="environment" e="התחממות עולמית" i="465" m="global warming" t="n" />
+<w c="environment" e="אפקט החממה" i="466" m="greenhouse effect" t="n" />
+<w c="environment" e="אוזון" i="467" m="ozone" t="n" />
+<w c="environment" e="זיהום הסביבה" i="468" m="pollution" t="n" />
+<w c="environment" e="מיחזור" i="469" m="recycling" t="n" />
+<w c="environment" e="ערפיח" i="470" m="smog" t="n" />
+<w c="environment" e="פסולת" i="471" m="waste" t="n" />
+<w c="family" e="ינקות" i="472" m="baby" t="n" />
+<w c="family" e="לידה" i="473" m="birth" t="n" />
+<w c="family" e="יום הולדת" i="474" m="birthday" t="n" />
+<w c="family" e="ילד (yéled) (m); בחור (bakhúr) (m)" i="475" m="boy" t="n" />
+<w c="family" e="אח" i="476" m="brother" t="n" />
+<w c="family" e="בת" i="477" m="daughter" t="n" />
+<w c="family" e="מוות" i="478" m="death" t="n" />
+<w c="family" e="משפחה" i="479" m="family" t="n" />
+<w c="family" e="אבא" i="480" m="father" t="n" />
+<w c="family" e="חבר" i="481" m="friend" t="n" />
+<w c="family" e="בת" i="482" m="girl" t="n" />
+<w c="family" e="סבא" i="483" m="grandfather" t="n" />
+<w c="family" e="האדם הנבון" i="484" m="human" t="n" />
+<w c="family" e="בעל" i="485" m="husband" t="n" />
+<w c="family" e="גבר" i="486" m="man" t="n" />
+<w c="family" e="נישואים" i="487" m="marriage" t="n" />
+<w c="family" e="אמא" i="488" m="mother" t="n" />
+<w c="family" e="הורה (hore) (m); הורה (hora) (f); (plural:) הורים (horim) (m) or (m &amp;amp; f; הורות (horot) (f)" i="489" m="parent" t="n" />
+<w c="family" e="אחות" i="490" m="sister" t="n" />
+<w c="family" e="בן" i="491" m="son" t="n" />
+<w c="family" e="חתונה" i="492" m="wedding" t="n" />
+<w c="family" e="אישה" i="493" m="wife" t="n" />
+<w c="family" e="אישה" i="494" m="woman" t="n" />
+<w c="feelings" e="פחד" i="495" m="fear" t="n" />
+<w c="feelings" e="שנאה" i="496" m="hate" t="n" />
+<w c="feelings" e="אהבה" i="497" m="love" t="n" />
+<w c="feelings" e="עונג" i="498" m="pleasure" t="n" />
+<w c="food" e="לחם" i="499" m="bread" t="n" />
+<w c="food" e="ארוחת בוקר" i="500" m="breakfast" t="n" />
+<w c="food" e="חמאה" i="501" m="butter" t="n" />
+<w c="food" e="עוגה" i="502" m="cake" t="n" />
+<w c="food" e="גבינה" i="503" m="cheese" t="n" />
+<w c="food" e="שוקולד" i="504" m="chocolate" t="n" />
+<w c="food" e="גביע" i="505" m="cup" t="n" />
+<w c="food" e="ביצה" i="506" m="egg" t="n" />
+<w c="food" e="אוכל" i="507" m="food" t="n" />
+<w c="food" e="מזלג" i="508" m="fork" t="n" />
+<w c="food" e="פרי" i="509" m="fruit" t="n" />
+<w c="food" e="סכין" i="510" m="knife" t="n" />
+<w c="food" e="ארוחת צהריים" i="511" m="lunch" t="n" />
+<w c="food" e="ארוחה" i="512" m="meal" t="n" />
+<w c="food" e="בשר" i="513" m="meat" t="n" />
+<w c="food" e="שמן" i="514" m="oil" t="n" />
+<w c="food" e="סלט" i="515" m="salad" t="n" />
+<w c="food" e="מלח" i="516" m="salt" t="n" />
+<w c="food" e="לחמניה" i="517" m="sandwich" t="n" />
+<w c="food" e="רוטב" i="518" m="sauce" t="n" />
+<w c="food" e="מרק" i="519" m="soup" t="n" />
+<w c="food" e="כף" i="520" m="spoon" t="n" />
+<w c="food" e="סוכר" i="521" m="sugar" t="n" />
+<w c="fruits" e="תפוח" i="522" m="apple" t="n" />
+<w c="fruits" e="משמש" i="523" m="apricot" t="n" />
+<w c="fruits" e="בננה" i="524" m="banana" t="n" />
+<w c="fruits" e="תות" i="525" m="blackberry" t="n" />
+<w c="fruits" e="דובדבן" i="526" m="cherry" t="n" />
+<w c="fruits" e="לימון" i="527" m="lemon" t="n" />
+<w c="fruits" e="אגוז" i="528" m="nut" t="n" />
+<w c="fruits" e="תפוח" i="529" m="orange" t="n" />
+<w c="fruits" e="אפרסק" i="530" m="peach" t="n" />
+<w c="fruits" e="אגס" i="531" m="pear" t="n" />
+<w c="fruits" e="אננס" i="532" m="pineapple" t="n" />
+<w c="fruits" e="שזיף" i="533" m="plum" t="n" />
+<w c="fruits" e="פטל" i="534" m="raspberry" t="n" />
+<w c="fruits" e="תות שדה" i="535" m="strawberry" t="n" />
+<w c="furniture" e="מיטה" i="536" m="bed" t="n" />
+<w c="furniture" e="שטיח" i="537" m="carpet" t="n" />
+<w c="furniture" e="כיסא" i="538" m="chair" t="n" />
+<w c="furniture" e="ארון" i="539" m="cupboard" t="n" />
+<w c="furniture" e="וילון" i="540" m="curtain" t="n" />
+<w c="furniture" e="שולחן (m)" i="541" m="desk" t="n" />
+<w c="furniture" e="מגרה" i="542" m="drawer" t="n" />
+<w c="furniture" e="מדף" i="543" m="shelf" t="n" />
+<w c="furniture" e="כיור" i="544" m="sink" t="n" />
+<w c="furniture" e="שולחן" i="545" m="table" t="n" />
+<w c="geography" e="כדור הארץ" i="546" m="Earth" t="n" />
+<w c="geography" e="לבנה" i="547" m="Moon" t="n" />
+<w c="geography" e="חוף" i="548" m="beach" t="n" />
+<w c="geography" e="מזרח" i="549" m="east" t="n" />
+<w c="geography" e="גבעה" i="550" m="hill" t="n" />
+<w c="geography" e="אי" i="551" m="island" t="n" />
+<w c="geography" e="בריכה" i="552" m="lake" t="n" />
+<w c="geography" e="קרקע" i="553" m="land" t="n" />
+<w c="geography" e="מפה" i="554" m="map" t="n" />
+<w c="geography" e="צפון" i="555" m="north" t="n" />
+<w c="geography" e="מישור" i="556" m="plain" t="n" />
+<w c="geography" e="נהר" i="557" m="river" t="n" />
+<w c="geography" e="ים" i="558" m="sea" t="n" />
+<w c="geography" e="דרום" i="559" m="south" t="n" />
+<w c="geography" e="חלל" i="560" m="space" t="n" />
+<w c="geography" e="כוכב" i="561" m="star" t="n" />
+<w c="geography" e="שמש" i="562" m="sun" t="n" />
+<w c="geography" e="מערב" i="563" m="west" t="n" />
+<w c="house" e="כתובת" i="564" m="address" t="n" />
+<w c="house" e="חדר אמבטיה" i="565" m="bathroom" t="n" />
+<w c="house" e="חדר שנה" i="566" m="bedroom" t="n" />
+<w c="house" e="לבנה" i="567" m="brick" t="n" />
+<w c="house" e="דלת" i="568" m="door" t="n" />
+<w c="house" e="רצפה" i="569" m="floor" t="n" />
+<w c="house" e="רצפה" i="570" m="floor" t="n" />
+<w c="house" e="ריהוט" i="571" m="furniture" t="n" />
+<w c="house" e="מוסך" i="572" m="garage" t="n" />
+<w c="house" e="גן" i="573" m="garden" t="n" />
+<w c="house" e="שער" i="574" m="gate" t="n" />
+<w c="house" e="מבואה" i="575" m="hall" t="n" />
+<w c="house" e="בית" i="576" m="home" t="n" />
+<w c="house" e="בית מגורים" i="577" m="house" t="n" />
+<w c="house" e="מטבח" i="578" m="kitchen" t="n" />
+<w c="house" e="גג" i="579" m="roof" t="n" />
+<w c="house" e="חדר" i="580" m="room" t="n" />
+<w c="house" e="מקלחת" i="581" m="shower" t="n" />
+<w c="house" e="בית שימוש" i="582" m="toilet" t="n" />
+<w c="house" e="חומה" i="583" m="wall" t="n" />
+<w c="house" e="באר" i="584" m="well" t="n" />
+<w c="house" e="חלון" i="585" m="window" t="n" />
+<w c="languages" e="סינית" i="586" m="Chinese" t="n" />
+<w c="languages" e="אנגלית" i="587" m="English" t="n" />
+<w c="languages" e="צרפתית" i="588" m="French" t="n" />
+<w c="languages" e="גרמנית" i="589" m="German" t="n" />
+<w c="languages" e="הינדי" i="590" m="Hindi" t="n" />
+<w c="languages" e="איטלקית" i="591" m="Italian" t="n" />
+<w c="languages" e="יפנית" i="592" m="Japanese" t="n" />
+<w c="languages" e="רוסית" i="593" m="Russian" t="n" />
+<w c="languages" e="ספרדית" i="594" m="Spanish" t="n" />
+<w c="materials" e="חומצה" i="595" m="acid" t="n" />
+<w c="materials" e="כימיקל" i="596" m="chemical" t="n" />
+<w c="materials" e="יסוד כימי" i="597" m="chemical element" t="n" />
+<w c="materials" e="פחם" i="598" m="coal" t="n" />
+<w c="materials" e="אבק" i="599" m="dust" t="n" />
+<w c="materials" e="שומן" i="600" m="fat" t="n" />
+<w c="materials" e="זכוכית" i="601" m="glass" t="n" />
+<w c="materials" e="דבק" i="602" m="glue" t="n" />
+<w c="materials" e="זהב" i="603" m="gold" t="n" />
+<w c="materials" e="גלידה" i="604" m="ice" t="n" />
+<w c="materials" e="דיו" i="605" m="ink" t="n" />
+<w c="materials" e="ברזל" i="606" m="iron" t="n" />
+<w c="materials" e="עופרת" i="607" m="lead" t="n" />
+<w c="materials" e="עור" i="608" m="leather" t="n" />
+<w c="materials" e="מתכת" i="609" m="metallic element" t="n" />
+<w c="materials" e="נפט" i="610" m="oil" t="n" />
+<w c="materials" e="נייר" i="611" m="paper" t="n" />
+<w c="materials" e="רעל" i="612" m="poison" t="n" />
+<w c="materials" e="חול" i="613" m="sand" t="n" />
+<w c="materials" e="משי" i="614" m="silk" t="n" />
+<w c="materials" e="כסף" i="615" m="silver" t="n" />
+<w c="materials" e="סבון" i="616" m="soap" t="n" />
+<w c="materials" e="פלדה" i="617" m="steel" t="n" />
+<w c="materials" e="עץ" i="618" m="wood" t="n" />
+<w c="materials" e="צמר" i="619" m="wool" t="n" />
+<w c="mathematics" e="סכום" i="620" m="addition" t="n" />
+<w c="mathematics" e="זווית" i="621" m="angle" t="n" />
+<w c="mathematics" e="שטח" i="622" m="area" t="n" />
+<w c="mathematics" e="מעגל" i="623" m="circle" t="n" />
+<w c="mathematics" e="רכיב" i="624" m="component" t="n" />
+<w c="mathematics" e="עקומה" i="625" m="curve" t="n" />
+<w c="mathematics" e="מעלה" i="626" m="degree" t="n" />
+<w c="mathematics" e="רמה" i="627" m="degree" t="n" />
+<w c="mathematics" e="שוני" i="628" m="difference" t="n" />
+<w c="mathematics" e="מרחק" i="629" m="distance" t="n" />
+<w c="mathematics" e="קצה" i="630" m="edge" t="n" />
+<w c="mathematics" e="חצי" i="631" m="half" t="n" />
+<w c="mathematics" e="גבול" i="632" m="limit" t="n" />
+<w c="mathematics" e="ישר" i="633" m="line" t="n" />
+<w c="mathematics" e="רשת" i="634" m="net" t="n" />
+<w c="mathematics" e="אחוז" i="635" m="percent" t="n" />
+<w c="mathematics" e="פונקציה" i="636" m="purpose" t="n" />
+<w c="mathematics" e="כלל" i="637" m="rule" t="n" />
+<w c="mathematics" e="קבוצה" i="638" m="set" t="n" />
+<w c="mathematics" e="ריבוע" i="639" m="square" t="n" />
+<w c="mathematics" e="ריבוע" i="640" m="square" t="n" />
+<w c="medicine" e="נזלת" i="641" m="cold" t="n" />
+<w c="medicine" e="שיעול" i="642" m="cough" t="n" />
+<w c="medicine" e="מחלה" i="643" m="disease" t="n" />
+<w c="medicine" e="רופא" i="644" m="doctor" t="n" />
+<w c="medicine" e="בריאות" i="645" m="health" t="n" />
+<w c="medicine" e="וסת" i="646" m="menstruation" t="n" />
+<w c="medicine" e="אח" i="647" m="nurse" t="n" />
+<w c="medicine" e="כאב" i="648" m="pain" t="n" />
+<w c="medicine" e="חולה" i="649" m="patient" t="n" />
+<w c="nature" e="אוויר" i="650" m="air" t="n" />
+<w c="nature" e="בעל חיים" i="651" m="animal" t="n" />
+<w c="nature" e="ענף" i="652" m="branch" t="n" />
+<w c="nature" e="זרם" i="653" m="current" t="n" />
+<w c="nature" e="אבולוציה" i="654" m="evolution" t="n" />
+<w c="nature" e="משק" i="655" m="farm" t="n" />
+<w c="nature" e="שדה" i="656" m="field" t="n" />
+<w c="nature" e="אש" i="657" m="fire" t="n" />
+<w c="nature" e="פרח" i="658" m="flower" t="n" />
+<w c="nature" e="יער" i="659" m="forest" t="n" />
+<w c="nature" e="גראס" i="660" m="grass" t="n" />
+<w c="nature" e="עלה" i="661" m="leaf" t="n" />
+<w c="nature" e="חיים" i="662" m="life" t="n" />
+<w c="nature" e="טבע" i="663" m="nature" t="n" />
+<w c="nature" e="צמח" i="664" m="plant" t="n" />
+<w c="nature" e="בסיס" i="665" m="root" t="n" />
+<w c="nature" e="זוויג" i="666" m="sex" t="n" />
+<w c="nature" e="שמיים" i="667" m="sky" t="n" />
+<w c="nature" e="שינה" i="668" m="sleep" t="n" />
+<w c="nature" e="ריח (m)" i="669" m="smell" t="n" />
+<w c="nature" e="מעיין" i="670" m="spring" t="n" />
+<w c="nature" e="זרם" i="671" m="stream" t="n" />
+<w c="nature" e="עץ" i="672" m="tree" t="n" />
+<w c="nature" e="גל" i="673" m="wave" t="n" />
+<w c="nature" e="מזג אוויר" i="674" m="weather" t="n" />
+<w c="nature" e="עולם" i="675" m="world" t="n" />
+<w c="numbers" e="שמונה" i="676" m="eight" t="n" />
+<w c="numbers" e="שמונה עשרה" i="677" m="eighteen" t="n" />
+<w c="numbers" e="שמונים" i="678" m="eighty" t="n" />
+<w c="numbers" e="אחד עשר" i="679" m="eleven" t="n" />
+<w c="numbers" e="כמשה עשר" i="680" m="fifteen" t="n" />
+<w c="numbers" e="חמישים" i="681" m="fifty" t="n" />
+<w c="numbers" e="חמישה" i="682" m="five" t="n" />
+<w c="numbers" e="ארבעים" i="683" m="forty" t="n" />
+<w c="numbers" e="ארבע עשרה" i="684" m="fourteen" t="n" />
+<w c="numbers" e="מיליון" i="685" m="million" t="n" />
+<w c="numbers" e="תשעה" i="686" m="nine" t="n" />
+<w c="numbers" e="תשע עשרה" i="687" m="nineteen" t="n" />
+<w c="numbers" e="תשעים" i="688" m="ninety" t="n" />
+<w c="numbers" e="כלום" i="689" m="nothing" t="n" />
+<w c="numbers" e="אחת (ákhat) (f) (used in counting); אחד (ékhad) (m)" i="690" m="one" t="n" />
+<w c="numbers" e="שבעה־עשר (shivá-asár)" i="691" m="seventeen" t="n" />
+<w c="numbers" e="שבעים" i="692" m="seventy" t="n" />
+<w c="numbers" e="שש" i="693" m="six" t="n" />
+<w c="numbers" e="שש עשרה" i="694" m="sixteen" t="n" />
+<w c="numbers" e="שישים" i="695" m="sixty" t="n" />
+<w c="numbers" e="עשר" i="696" m="ten" t="n" />
+<w c="numbers" e="שלוש עשרה" i="697" m="thirteen" t="n" />
+<w c="numbers" e="שלושים" i="698" m="thirty" t="n" />
+<w c="numbers" e="אלף" i="699" m="thousand" t="n" />
+<w c="numbers" e="אלף (élef)" i="700" m="thousand" t="n" />
+<w c="numbers" e="שלושה" i="701" m="three" t="n" />
+<w c="numbers" e="עשרים (esrím)" i="702" m="twenty" t="n" />
+<w c="numbers" e="שתיים (štáyim) (f) (used for numbering); שניים (šnáyim) (m)" i="703" m="two" t="n" />
+<w c="objects" e="כדור" i="704" m="ball" t="n" />
+<w c="objects" e="להב" i="705" m="blade" t="n" />
+<w c="objects" e="שלשלת" i="706" m="chain" t="n" />
+<w c="objects" e="אלה" i="707" m="club" t="n" />
+<w c="objects" e="מעטפה" i="708" m="envelope" t="n" />
+<w c="objects" e="נוצה" i="709" m="feather" t="n" />
+<w c="objects" e="דגל" i="710" m="flag" t="n" />
+<w c="objects" e="מסגרת" i="711" m="frame" t="n" />
+<w c="objects" e="נקודת אחיזה" i="712" m="handle" t="n" />
+<w c="objects" e="תפריט" i="713" m="menu" t="n" />
+<w c="objects" e="האם (ha-óm)" i="714" m="nut" t="n" />
+<w c="objects" e="סיכה" i="715" m="pin" t="n" />
+<w c="objects" e="צינור" i="716" m="pipe" t="n" />
+<w c="objects" e="מתנה" i="717" m="present" t="n" />
+<w c="objects" e="חבל" i="718" m="rope" t="n" />
+<w c="objects" e="מפרש" i="719" m="sail" t="n" />
+<w c="objects" e="זרע" i="720" m="seed" t="n" />
+<w c="objects" e="בול דואר" i="721" m="stamp" t="n" />
+<w c="objects" e="מקל" i="722" m="stick" t="n" />
+<w c="objects" e="סלע" i="723" m="stone" t="n" />
+<w c="objects" e="גלגל" i="724" m="wheel" t="n" />
+<w c="objects" e="תיל" i="725" m="wire" t="n" />
+<w c="physics" e="מטען חשמלי" i="726" m="charge" t="n" />
+<w c="physics" e="אנרגיה" i="727" m="energy" t="n" />
+<w c="physics" e="אור" i="728" m="light" t="n" />
+<w c="physics" e="מסה" i="729" m="mass" t="n" />
+<w c="physics" e="מדידה" i="730" m="measurement" t="n" />
+<w c="physics" e="מראה" i="731" m="mirror" t="n" />
+<w c="physics" e="לחץ" i="732" m="pressure" t="n" />
+<w c="physics" e="תהליך" i="733" m="process" t="n" />
+<w c="physics" e="קול" i="734" m="sound" t="n" />
+<w c="physics" e="אדים" i="735" m="steam" t="n" />
+<w c="physics" e="כוח" i="736" m="strength" t="n" />
+<w c="physics" e="זמן" i="737" m="time" t="n" />
+<w c="physics" e="יחידה" i="738" m="unit" t="n" />
+<w c="physics" e="משקל" i="739" m="weight" t="n" />
+<w c="prepositions" e="מול" i="740" m="against" t="prep" />
+<w c="prepositions" e="באמצע" i="741" m="among" t="prep" />
+<w c="prepositions" e="במהלך" i="742" m="during" t="prep" />
+<w c="prepositions" e="ל־" i="743" m="for" t="prep" />
+<w c="prepositions" e="של" i="744" m="of" t="prep" />
+<w c="prepositions" e="נוגע" i="745" m="on" t="prep" />
+<w c="prepositions" e="נוגע" i="746" m="on" t="prep" />
+<w c="prepositions" e="מאז" i="747" m="since" t="prep" />
+<w c="prepositions" e="אל" i="748" m="to" t="prep" />
+<w c="prepositions" e="עם" i="749" m="with" t="prep" />
+<w c="prepositions" e="עם" i="750" m="with" t="prep" />
+<w c="prepositions" e="בלי" i="751" m="without" t="prep" />
+<w c="professions" e="שחקן" i="752" m="actor" t="n" />
+<w c="professions" e="שחקנית" i="753" m="actress" t="n" />
+<w c="professions" e="אמן" i="754" m="artist" t="n" />
+<w c="professions" e="טבח" i="755" m="cook" t="n" />
+<w c="professions" e="גנרל" i="756" m="general" t="n" />
+<w c="professions" e="עיתונאי" i="757" m="journalist" t="n" />
+<w c="professions" e="שופט" i="758" m="judge" t="n" />
+<w c="professions" e="שר" i="759" m="minister" t="n" />
+<w c="professions" e="מוזיקאי" i="760" m="musician" t="n" />
+<w c="professions" e="צלם" i="761" m="photographer" t="n" />
+<w c="professions" e="טייס" i="762" m="pilot" t="n" />
+<w c="professions" e="שוטר" i="763" m="policeman" t="n" />
+<w c="professions" e="פוליטיקאי" i="764" m="politician" t="n" />
+<w c="professions" e="יורד ים" i="765" m="sailor" t="n" />
+<w c="professions" e="מזכירה" i="766" m="secretary" t="n" />
+<w c="professions" e="זמר" i="767" m="singer" t="n" />
+<w c="professions" e="חייל" i="768" m="soldier" t="n" />
+<w c="professions" e="סופר" i="769" m="writer" t="n" />
+<w c="pronouns" e="כולם" i="770" m="everybody" t="pron" />
+<w c="pronouns" e="שלה" i="771" m="her" t="pron" />
+<w c="pronouns" e="שלו" i="772" m="his" t="pron" />
+<w c="pronouns" e="זה" i="773" m="it" t="pron" />
+<w c="pronouns" e="לי" i="774" m="me" t="pron" />
+<w c="pronouns" e="שלי" i="775" m="my" t="pron" />
+<w c="pronouns" e="היא" i="776" m="she" t="pron" />
+<w c="pronouns" e="הם" i="777" m="they" t="pron" />
+<w c="pronouns" e="זה (zeh) (m); זו (zu); זאת (zot) (f); אלה (eleh) (p)" i="778" m="this" t="pron" />
+<w c="pronouns" e="אותנו" i="779" m="us" t="pron" />
+<w c="pronouns" e="אנו" i="780" m="we" t="pron" />
+<w c="pronouns" e="מה" i="781" m="what" t="pron" />
+<w c="pronouns" e="מתי" i="782" m="when" t="pron" />
+<w c="pronouns" e="מי" i="783" m="who" t="pron" />
+<w c="pronouns" e="אתם" i="784" m="you" t="pron" />
+<w c="relations" e="חבר (m)" i="785" m="boyfriend" t="n" />
+<w c="relations" e="פעילות" i="786" m="date" t="n" />
+<w c="relations" e="אורח" i="787" m="guest" t="n" />
+<w c="relations" e="נשיקה" i="788" m="kiss" t="n" />
+<w c="relations" e="מסיבה" i="789" m="party" t="n" />
+<w c="relations" e="מין" i="790" m="sex" t="n" />
+<w c="relations" e="חיוך" i="791" m="smile" t="n" />
+<w c="relations" e="הפתעה" i="792" m="surprise" t="n" />
+<w c="relations" e="בקר" i="793" m="visit" t="n" />
+<w c="science" e="ביולוגיה" i="794" m="biology" t="n" />
+<w c="science" e="סיבה" i="795" m="cause" t="n" />
+<w c="science" e="ליבה" i="796" m="center" t="n" />
+<w c="science" e="כימיה" i="797" m="chemistry" t="n" />
+<w c="science" e="השוואה" i="798" m="comparison" t="n" />
+<w c="science" e="השפעה" i="799" m="consequence" t="n" />
+<w c="science" e="בקרה" i="800" m="control" t="n" />
+<w c="science" e="אירוע" i="801" m="event" t="n" />
+<w c="science" e="עובדה" i="802" m="fact" t="n" />
+<w c="science" e="פעולת שירות" i="803" m="method" t="n" />
+<w c="science" e="מופע" i="804" m="phase" t="n" />
+<w c="science" e="פרוצדורה" i="805" m="procedure" t="n" />
+<w c="science" e="תוכנית" i="806" m="program" t="n" />
+<w c="science" e="פרוייקט" i="807" m="project" t="n" />
+<w c="science" e="שיטות מחקר" i="808" m="research" t="n" />
+<w c="science" e="מדע" i="809" m="science" t="n" />
+<w c="science" e="חברה" i="810" m="society" t="n" />
+<w c="science" e="מערכת" i="811" m="system" t="n" />
+<w c="science" e="טכנולוגיה" i="812" m="technology" t="n" />
+<w c="science" e="תאוריה" i="813" m="theory" t="n" />
+<w c="science" e="בעיה" i="814" m="trouble" t="n" />
+<w c="science" e="משתמש" i="815" m="user" t="n" />
+<w c="society" e="צבא" i="816" m="army" t="n" />
+<w c="society" e="בסיס" i="817" m="base" t="n" />
+<w c="society" e="גילדה" i="818" m="club" t="n" />
+<w c="society" e="פלוגה" i="819" m="company" t="n" />
+<w c="society" e="מדינה" i="820" m="country" t="n" />
+<w c="society" e="בית משפט" i="821" m="court" t="n" />
+<w c="society" e="עבירה" i="822" m="crime" t="n" />
+<w c="society" e="תרבות" i="823" m="culture" t="n" />
+<w c="society" e="רפובליקה" i="824" m="democracy" t="n" />
+<w c="society" e="בחירות" i="825" m="election" t="n" />
+<w c="society" e="קיום" i="826" m="existence" t="n" />
+<w c="society" e="ממשלה" i="827" m="government" t="n" />
+<w c="society" e="היסטוריה" i="828" m="history" t="n" />
+<w c="society" e="מלך" i="829" m="king" t="n" />
+<w c="society" e="מוביל" i="830" m="leader" t="n" />
+<w c="society" e="חבר" i="831" m="member" t="n" />
+<w c="society" e="אומה" i="832" m="nation" t="n" />
+<w c="society" e="רעש" i="833" m="noise" t="n" />
+<w c="society" e="ארגון" i="834" m="organization" t="n" />
+<w c="society" e="דרכון" i="835" m="passport" t="n" />
+<w c="society" e="שלום" i="836" m="peace" t="n" />
+<w c="society" e="בני אדם" i="837" m="people" t="n" />
+<w c="society" e="משטרה" i="838" m="police" t="n" />
+<w c="society" e="אוכלוסייה" i="839" m="population" t="n" />
+<w c="society" e="ענישה" i="840" m="punishment" t="n" />
+<w c="society" e="דת" i="841" m="religion" t="n" />
+<w c="society" e="דת" i="842" m="religion" t="n" />
+<w c="society" e="מדינה" i="843" m="state" t="n" />
+<w c="society" e="איחוד" i="844" m="union" t="n" />
+<w c="society" e="מלחמה" i="845" m="war" t="n" />
+<w c="society" e="צוואה" i="846" m="will" t="n" />
+<w c="sports" e="כדור בסיס" i="847" m="baseball" t="n" />
+<w c="sports" e="יריב" i="848" m="competitor" t="n" />
+<w c="sports" e="יעד" i="849" m="finish" t="n" />
+<w c="sports" e="כדורגל" i="850" m="football" t="n" />
+<w c="sports" e="משחק" i="851" m="game" t="n" />
+<w c="sports" e="שער" i="852" m="goal" t="n" />
+<w c="sports" e="גולף" i="853" m="golf" t="n" />
+<w c="sports" e="שחקן" i="854" m="player" t="n" />
+<w c="sports" e="טניס" i="855" m="tennis" t="n" />
+<w c="time" e="אפריל" i="856" m="April" t="n" />
+<w c="time" e="אבגוסט" i="857" m="August" t="n" />
+<w c="time" e="דצמבר" i="858" m="December" t="n" />
+<w c="time" e="פברואר" i="859" m="February" t="n" />
+<w c="time" e="יום שישי" i="860" m="Friday" t="n" />
+<w c="time" e="ינואר" i="861" m="January" t="n" />
+<w c="time" e="יולי" i="862" m="July" t="n" />
+<w c="time" e="יוני" i="863" m="June" t="n" />
+<w c="time" e="מאי" i="864" m="May" t="n" />
+<w c="time" e="יום שני" i="865" m="Monday" t="n" />
+<w c="time" e="נובמבר" i="866" m="November" t="n" />
+<w c="time" e="אוקטובר" i="867" m="October" t="n" />
+<w c="time" e="יום השבת" i="868" m="Saturday" t="n" />
+<w c="time" e="ספטמבר" i="869" m="September" t="n" />
+<w c="time" e="יום ראשון" i="870" m="Sunday" t="n" />
+<w c="time" e="יום חמישי" i="871" m="Thursday" t="n" />
+<w c="time" e="יום שלישי" i="872" m="Tuesday" t="n" />
+<w c="time" e="יום רביעי" i="873" m="Wednesday" t="n" />
+<w c="time" e="אחר-צהריים" i="874" m="afternoon" t="n" />
+<w c="time" e="גיל" i="875" m="age" t="n" />
+<w c="time" e="סתיו" i="876" m="autumn" t="n" />
+<w c="time" e="מאה" i="877" m="century" t="n" />
+<w c="time" e="יממה" i="878" m="day" t="n" />
+<w c="time" e="ערב" i="879" m="evening" t="n" />
+<w c="time" e="עתיד" i="880" m="future" t="n" />
+<w c="time" e="שעה" i="881" m="hour" t="n" />
+<w c="time" e="חצות" i="882" m="midnight" t="n" />
+<w c="time" e="דקה" i="883" m="minute" t="n" />
+<w c="time" e="מומנט" i="884" m="moment" t="n" />
+<w c="time" e="חודש (hodesh)" i="885" m="month" t="n" />
+<w c="time" e="בוקר" i="886" m="morning" t="n" />
+<w c="time" e="לילה" i="887" m="night" t="n" />
+<w c="time" e="עבר" i="888" m="past" t="n" />
+<w c="time" e="הווה" i="889" m="present" t="n" />
+<w c="time" e="עונות השנה" i="890" m="season" t="n" />
+<w c="time" e="שנייה" i="891" m="second" t="n" />
+<w c="time" e="אביב" i="892" m="spring" t="n" />
+<w c="time" e="קיץ" i="893" m="summer" t="n" />
+<w c="time" e="שבוע" i="894" m="week" t="n" />
+<w c="time" e="סוף שבוע (m) (Friday and Saturday in Israel)" i="895" m="weekend" t="n" />
+<w c="time" e="חורף" i="896" m="winter" t="n" />
+<w c="time" e="שנה" i="897" m="year" t="n" />
+<w c="tools" e="פעמון" i="898" m="bell" t="n" />
+<w c="tools" e="מברשת" i="899" m="brush" t="n" />
+<w c="tools" e="לחצן" i="900" m="button" t="n" />
+<w c="tools" e="רובה" i="901" m="gun" t="n" />
+<w c="tools" e="פטיש" i="902" m="hammer" t="n" />
+<w c="tools" e="מפתח" i="903" m="key" t="n" />
+<w c="tools" e="מנעול" i="904" m="lock" t="n" />
+<w c="tools" e="גפרור" i="905" m="match" t="n" />
+<w c="tools" e="מסמר" i="906" m="nail" t="n" />
+<w c="tools" e="מחט" i="907" m="needle" t="n" />
+<w c="tools" e="עט" i="908" m="pen" t="n" />
+<w c="tools" e="עיפרון" i="909" m="pencil" t="n" />
+<w c="tools" e="משאבה" i="910" m="pump" t="n" />
+<w c="tools" e="מספריים" i="911" m="scissors" t="n" />
+<w c="tools" e="קפיץ" i="912" m="spring" t="n" />
+<w c="tools" e="בול" i="913" m="stamp" t="n" />
+<w c="tools" e="שוט" i="914" m="whip" t="n" />
+<w c="transport" e="תאונה" i="915" m="accident" t="n" />
+<w c="transport" e="אופניים" i="916" m="bike" t="n" />
+<w c="transport" e="סירה" i="917" m="boat" t="n" />
+<w c="transport" e="אבטובוס" i="918" m="bus" t="n" />
+<w c="transport" e="מכונית" i="919" m="car" t="n" />
+<w c="transport" e="טיסה" i="920" m="flight" t="n" />
+<w c="transport" e="מסע" i="921" m="journey" t="n" />
+<w c="transport" e="נוסע" i="922" m="passenger" t="n" />
+<w c="transport" e="אבירון" i="923" m="plane" t="n" />
+<w c="transport" e="ספינה" i="924" m="ship" t="n" />
+<w c="transport" e="פס" i="925" m="track" t="n" />
+<w c="transport" e="רכבת" i="926" m="train" t="n" />
+<w c="transport" e="תחבורה" i="927" m="transport" t="n" />
+<w c="vegetables" e="שעועית" i="928" m="bean" t="n" />
+<w c="vegetables" e="כרוב" i="929" m="cabbage" t="n" />
+<w c="vegetables" e="גזר" i="930" m="carrot" t="n" />
+<w c="vegetables" e="מלפפון" i="931" m="cucumber" t="n" />
+<w c="vegetables" e="שום" i="932" m="garlic" t="n" />
+<w c="vegetables" e="זית" i="933" m="olive" t="n" />
+<w c="vegetables" e="בצל" i="934" m="onion" t="n" />
+<w c="vegetables" e="תפוח אדמה" i="935" m="potato" t="n" />
+<w c="vegetables" e="צנון" i="936" m="radish" t="n" />
+<w c="vegetables" e="ארז" i="937" m="rice" t="n" />
+<w c="vegetables" e="עגבניה" i="938" m="tomato" t="n" />
+<w c="verbs" e="לשאול" i="939" m="ask" t="v" />
+<w c="verbs" e="לבנות'לבנות /livnot/" i="940" m="build" t="v" />
+<w c="verbs" e="התקשר" i="941" m="call" t="v" />
+<w c="verbs" e="בחר" i="942" m="choose" t="v" />
+<w c="verbs" e="למיין" i="943" m="classify" t="v" />
+<w c="verbs" e="השווה" i="944" m="compare" t="v" />
+<w c="verbs" e="להעתיק" i="945" m="copy" t="v" />
+<w c="verbs" e="פצל" i="946" m="divide" t="v" />
+<w c="verbs" e="הלך'הָלַךְ" i="947" m="happen" t="v" />
+<w c="verbs" e="שנאה" i="948" m="hate" t="v" />
+<w c="verbs" e="פרסום" i="949" m="publish" t="v" />
+<w c="verbs" e="עונה (m) - Oné); (f) - Ona)" i="950" m="reply" t="v" />
+<w c="verbs" e="שמר" i="951" m="save" t="v" />
+<w c="verbs" e="לראות (li-rót)" i="952" m="see" t="v" />
+<w c="verbs" e="שלח" i="953" m="send" t="v" />
+<w c="verbs" e="גנב (ganav)" i="954" m="steal" t="v" />
+<w c="verbs" e="עצר" i="955" m="stop" t="v" />
+<w c="verbs" e="להציע (li-hitsi‘a)" i="956" m="suggest" t="v" />
+<w c="verbs" e="הלך'הָלַךְ (halákh)" i="957" m="travel" t="v" />
+<w c="verbs" e="לרחוץ (lirhotz) (1); לשטוף (lishtof) (1,2)" i="958" m="wash" t="v" />
+<w c="verbs" e="לאתחל" i="959" m="begin" t="v" />
+<w c="verbs" e="לקנות (liknot)" i="960" m="buy" t="v" />
+<w c="verbs" e="סגור" i="961" m="close" t="v" />
+<w c="verbs" e="לבוא (le-vó)" i="962" m="come" t="v" />
+<w c="verbs" e="שתה (shatah)" i="963" m="drink" t="v" />
+<w c="verbs" e="לימצו (limtzo)" i="964" m="find" t="v" />
+<w c="verbs" e="נתן (nātān)" i="965" m="give" t="v" />
+<w c="verbs" e="לנשק (Lenashek)" i="966" m="kiss" t="v" />
+<w c="verbs" e="צחק" i="967" m="laugh" t="v" />
+<w c="verbs" e="(ללמוד; leel-mod)" i="968" m="learn" t="v" />
+<w c="verbs" e="לשכב (Lish'kav)" i="969" m="lie" t="v" />
+<w c="verbs" e="לשקר (Le'sha'ker)" i="970" m="lie" t="v" />
+<w c="verbs" e="להאזין" i="971" m="listen" t="v" />
+<w c="verbs" e="לאהוב" i="972" m="love" t="v" />
+<w c="verbs" e="לקרוא (le-kára’a)" i="973" m="read" t="v" />
+<w c="verbs" e="לרוץ (leráts)" i="974" m="run" t="v" />
+<w c="verbs" e="לשבת" i="975" m="sit" t="v" />
+<w c="verbs" e="לדבר (le-dabér)" i="976" m="talk" t="v" />
+<w c="verbs" e="החל" i="977" m="use" t="v" />
+<w c="verbs" e="לחכות (lehakot); להמתין (lehamtin)" i="978" m="wait" t="v" />
+<w c="verbs" e="לכתוב (lihtov)" i="979" m="write" t="v" />
+<w c="weather" e="ענן" i="980" m="cloud" t="n" />
+<w c="weather" e="טל" i="981" m="dew" t="n" />
+<w c="weather" e="ערפל" i="982" m="fog" t="n" />
+<w c="weather" e="קרה" i="983" m="frost" t="n" />
+<w c="weather" e="בזק" i="984" m="lightning" t="n" />
+<w c="weather" e="גשם (m) (geshem)" i="985" m="rain" t="n" />
+<w c="weather" e="קשת" i="986" m="rainbow" t="n" />
+<w c="weather" e="שלג" i="987" m="snow" t="n" />
+<w c="weather" e="סופה" i="988" m="storm" t="n" />
+<w c="weather" e="רעם" i="989" m="thunder" t="n" />
+<w c="weather" e="רוח" i="990" m="wind" t="n" />
+</vocb>

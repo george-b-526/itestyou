@@ -1,0 +1,7 @@
+RELEASE CHECKLIST
+	- in TODO.txt complete release notes
+	- in AndroidManifest.xml change 
+		- version-code
+		- version-name
+	- in EntityPolicy.java change 
+		- expiration date

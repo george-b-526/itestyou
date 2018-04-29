@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocb name="&gt;Catalan (Catal&#x00E0;)">
+<!--generated: Sun Jan 29 02:47:25 PST 2012 -->
+<!--legend: e = expression, i = id, m = meaning, t = type, c = category-->
+<w c="abstract" e="acte" i="0" m="act" t="n" />
+<w c="abstract" e="activitat" i="1" m="activity" t="n" />
+<w c="abstract" e="quantitat" i="2" m="amount" t="n" />
+<w c="abstract" e="actitud" i="3" m="attitude" t="n" />
+<w c="abstract" e="comportament" i="4" m="behavior" t="n" />
+<w c="abstract" e="cop" i="5" m="blow" t="n" />
+<w c="abstract" e="descans; pausa" i="6" m="break" t="n" />
+<w c="abstract" e="afer; assumpte; cosa" i="7" m="case" t="n" />
+<w c="abstract" e="oportunitat" i="8" m="chance" t="n" />
+<w c="abstract" e="canvi" i="9" m="change" t="n" />
+<w c="abstract" e="elecció" i="10" m="choice" t="n" />
+<w c="abstract" e="estat" i="11" m="condition" t="n" />
+<w c="abstract" e="clivella; escletxa; esquerda" i="12" m="crack" t="n" />
+<w c="abstract" e="desperfecte" i="13" m="damage" t="n" />
+<w c="abstract" e="perill" i="14" m="danger" t="n" />
+<w c="abstract" e="decoració" i="15" m="decoration" t="n" />
+<w c="abstract" e="detall" i="16" m="detail" t="n" />
+<w c="abstract" e="gota" i="17" m="drop" t="n" />
+<w c="abstract" e="deure" i="18" m="duty" t="n" />
+<w c="abstract" e="fadiga" i="19" m="effort" t="n" />
+<w c="abstract" e="caiguda" i="20" m="fall" t="n" />
+<w c="abstract" e="tret" i="21" m="feature" t="n" />
+<w c="abstract" e="lluita" i="22" m="fight" t="n" />
+<w c="abstract" e="front" i="23" m="front" t="n" />
+<w c="abstract" e="altitud" i="24" m="height" t="n" />
+<w c="abstract" e="cop" i="25" m="hit" t="n" />
+<w c="abstract" e="cavitat" i="26" m="hole" t="n" />
+<w c="abstract" e="augment" i="27" m="increase" t="n" />
+<w c="abstract" e="internet" i="28" m="internet" t="n" />
+<w c="abstract" e="puntada" i="29" m="kick" t="n" />
+<w c="abstract" e="espècie; sort" i="30" m="kind" t="n" />
+<w c="abstract" e="nus" i="31" m="knot" t="n" />
+<w c="abstract" e="llista" i="32" m="list" t="n" />
+<w c="abstract" e="manera" i="33" m="manner" t="n" />
+<w c="abstract" e="cosa" i="34" m="matter" t="n" />
+<w c="abstract" e="ment" i="35" m="mind" t="n" />
+<w c="abstract" e="funcionament" i="36" m="operation" t="n" />
+<w c="abstract" e="part" i="37" m="part" t="n" />
+<w c="abstract" e="caràcter; caracteristica" i="38" m="personality" t="n" />
+<w c="abstract" e="part" i="39" m="piece" t="n" />
+<w c="abstract" e="lloc" i="40" m="place" t="n" />
+<w c="abstract" e="poder" i="41" m="power" t="n" />
+<w c="abstract" e="pràctica" i="42" m="practice" t="n" />
+<w c="abstract" e="projecte" i="43" m="project" t="n" />
+<w c="abstract" e="qualitat" i="44" m="quality" t="n" />
+<w c="abstract" e="responsabilitat" i="45" m="responsibility" t="n" />
+<w c="abstract" e="descans" i="46" m="rest" t="n" />
+<w c="abstract" e="ascensió" i="47" m="rise" t="n" />
+<w c="abstract" e="atzar" i="48" m="risk" t="n" />
+<w c="abstract" e="espai; lloc" i="49" m="seat" t="n" />
+<w c="abstract" e="xoc" i="50" m="shock" t="n" />
+<w c="abstract" e="silenci" i="51" m="silence" t="n" />
+<w c="abstract" e="part" i="52" m="slice" t="n" />
+<w c="abstract" e="estat" i="53" m="state" t="n" />
+<w c="abstract" e="pas" i="54" m="step" t="n" />
+<w c="abstract" e="cosa; objecte" i="55" m="thing" t="n" />
+<w c="abstract" e="cim; dalt" i="56" m="top" t="n" />
+<w c="abstract" e="cura" i="57" m="treatment" t="n" />
+<w c="abstract" e="espècie; sort" i="58" m="type" t="n" />
+<w c="abstract" e="utilització" i="59" m="use" t="n" />
+<w c="abstract" e="voluntat" i="60" m="will" t="n" />
+<w c="abstract" e="desig" i="61" m="wish" t="n" />
+<w c="adjectives" e="àcid" i="62" m="acid" t="adj" />
+<w c="adjectives" e="darrera de; després de" i="63" m="after" t="adj" />
+<w c="adjectives" e="tot" i="64" m="all" t="adj" />
+<w c="adjectives" e="alguna mena de; una mena de" i="65" m="any" t="adj" />
+<w c="adjectives" e="amarg" i="66" m="bitter" t="adj" />
+<w c="adjectives" e="ambdós" i="67" m="both" t="adj" />
+<w c="adjectives" e="clar; nítid" i="68" m="bright" t="adj" />
+<w c="adjectives" e="barat" i="69" m="cheap" t="adj" />
+<w c="adjectives" e="clar" i="70" m="clear" t="adj" />
+<w c="adjectives" e="tancat" i="71" m="closed" t="adj" />
+<w c="adjectives" e="comú" i="72" m="common" t="adj" />
+<w c="adjectives" e="delicat; exquisit; fi fina" i="73" m="dainty" t="adj" />
+<w c="adjectives" e="sota" i="74" m="down" t="adj" />
+<w c="adjectives" e="sec" i="75" m="dry" t="adj" />
+<w c="adjectives" e="aviat; d'hora" i="76" m="early" t="adj" />
+<w c="adjectives" e="fàcil" i="77" m="easy" t="adj" />
+<w c="adjectives" e="econòmic" i="78" m="economic" t="adj" />
+<w c="adjectives" e="econòmic" i="79" m="economic" t="adj" />
+<w c="adjectives" e="igual" i="80" m="equal" t="adj" />
+<w c="adjectives" e="llis" i="81" m="even" t="adj" />
+<w c="adjectives" e="excel-lent" i="82" m="excellent" t="adj" />
+<w c="adjectives" e="fals" i="83" m="false" t="adj" />
+<w c="adjectives" e="gruixut" i="84" m="fat" t="adj" />
+<w c="adjectives" e="gras" i="85" m="fat" t="adj" />
+<w c="adjectives" e="robust" i="86" m="firm" t="adj" />
+<w c="adjectives" e="pla" i="87" m="flat" t="adj" />
+<w c="adjectives" e="aliè; estranger; estrany; foraster" i="88" m="foreign" t="adj" />
+<w c="adjectives" e="anterior" i="89" m="former" t="adj" />
+<w c="adjectives" e="desocupat; franc; lliure; vacant" i="90" m="free" t="adj" />
+<w c="adjectives" e="fresc; recent" i="91" m="fresh" t="adj" />
+<w c="adjectives" e="ple" i="92" m="full" t="adj" />
+<w c="adjectives" e="general" i="93" m="general" t="adj" />
+<w c="adjectives" e="industrial" i="94" m="industrial" t="adj" />
+<w c="adjectives" e="legal" i="95" m="legal" t="adj" />
+<w c="adjectives" e="fluid" i="96" m="liquid" t="adj" />
+<w c="adjectives" e="local" i="97" m="local" t="adj" />
+<w c="adjectives" e="alt; fort de so" i="98" m="loud" t="adj" />
+<w c="adjectives" e="baix" i="99" m="low" t="adj" />
+<w c="adjectives" e="feliç" i="100" m="lucky" t="adj" />
+<w c="adjectives" e="major" i="101" m="main" t="adj" />
+<w c="adjectives" e="cabdal; principal" i="102" m="major" t="adj" />
+<w c="adjectives" e="molts" i="103" m="many" t="adj" />
+<w c="adjectives" e="militar" i="104" m="military" t="adj" />
+<w c="adjectives" e="modern" i="105" m="modern" t="adj" />
+<w c="adjectives" e="més" i="106" m="more" t="adj" />
+<w c="adjectives" e="molt" i="107" m="much" t="adj" />
+<w c="adjectives" e="natural" i="108" m="natural" t="adj" />
+<w c="adjectives" e="necessari" i="109" m="necessary" t="adj" />
+<w c="adjectives" e="proper; pròxim" i="110" m="next" t="adj" />
+<w c="adjectives" e="cap; ningú" i="111" m="no" t="adj" />
+<w c="adjectives" e="normal" i="112" m="normal" t="adj" />
+<w c="adjectives" e="sobre" i="113" m="on" t="adj" />
+<w c="adjectives" e="original" i="114" m="original" t="adj" />
+<w c="adjectives" e="altre" i="115" m="other" t="adj" />
+<w c="adjectives" e="paraŀlel" i="116" m="parallel" t="adj" />
+<w c="adjectives" e="físic" i="117" m="physical" t="adj" />
+<w c="adjectives" e="pobre" i="118" m="poor" t="adj" />
+<w c="adjectives" e="popular" i="119" m="popular" t="adj" />
+<w c="adjectives" e="present" i="120" m="present" t="adj" />
+<w c="adjectives" e="particular; privat" i="121" m="private" t="adj" />
+<w c="adjectives" e="possible" i="122" m="probable" t="adj" />
+<w c="adjectives" e="llest" i="123" m="ready" t="adj" />
+<w c="adjectives" e="rígid" i="124" m="rigid" t="adj" />
+<w c="adjectives" e="rodó" i="125" m="round" t="adj" />
+<w c="adjectives" e="segur" i="126" m="safe" t="adj" />
+<w c="adjectives" e="a part; apartat; determinat; separat" i="127" m="separate" t="adj" />
+<w c="adjectives" e="seriós" i="128" m="serious" t="adj" />
+<w c="adjectives" e="silenciós" i="129" m="silent" t="adj" />
+<w c="adjectives" e="simple" i="130" m="simple" t="adj" />
+<w c="adjectives" e="llis" i="131" m="smooth" t="adj" />
+<w c="adjectives" e="robust" i="132" m="solid" t="adj" />
+<w c="adjectives" e="prim" i="133" m="sparse" t="adj" />
+<w c="adjectives" e="especial" i="134" m="special" t="adj" />
+<w c="adjectives" e="quadrat" i="135" m="square" t="adj" />
+<w c="adjectives" e="dret" i="136" m="straight" t="adj" />
+<w c="adjectives" e="elegant" i="137" m="stylish" t="adj" />
+<w c="adjectives" e="sobtat" i="138" m="sudden" t="adj" />
+<w c="adjectives" e="dolç" i="139" m="sweet" t="adj" />
+<w c="adjectives" e="gruixut" i="140" m="thick" t="adj" />
+<w c="adjectives" e="prim" i="141" m="thin" t="adj" />
+<w c="adjectives" e="lleig" i="142" m="ugly" t="adj" />
+<w c="adjectives" e="sota de" i="143" m="under" t="adj" />
+<w c="adjectives" e="original" i="144" m="unusual" t="adj" />
+<w c="adjectives" e="divers" i="145" m="various" t="adj" />
+<w c="adjectives" e="calent; càlid" i="146" m="warm" t="adj" />
+<w c="adjectives" e="ample; folgat; vast" i="147" m="wide" t="adj" />
+<w c="adjectives" e="altre" i="148" m="another" t="adj" />
+<w c="adjectives" e="dolent" i="149" m="bad" t="adj" />
+<w c="adjectives" e="basilar" i="150" m="basic" t="adj" />
+<w c="adjectives" e="preciós" i="151" m="beautiful" t="adj" />
+<w c="adjectives" e="millor" i="152" m="better" t="adj" />
+<w c="adjectives" e="gran; gros" i="153" m="big" t="adj" />
+<w c="adjectives" e="net" i="154" m="clean" t="adj" />
+<w c="adjectives" e="fred" i="155" m="cold" t="adj" />
+<w c="adjectives" e="correcte; just" i="156" m="correct" t="adj" />
+<w c="adjectives" e="obscur" i="157" m="dark" t="adj" />
+<w c="adjectives" e="dur" i="158" m="difficult" t="adj" />
+<w c="adjectives" e="desendreçat" i="159" m="dirty" t="adj" />
+<w c="adjectives" e="prompte; ràpid" i="160" m="fast" t="adj" />
+<w c="adjectives" e="bon" i="161" m="good" t="adj" />
+<w c="adjectives" e="gran" i="162" m="great" t="adj" />
+<w c="adjectives" e="feliç" i="163" m="happy" t="adj" />
+<w c="adjectives" e="sa" i="164" m="healthy" t="adj" />
+<w c="adjectives" e="alt" i="165" m="high" t="adj" />
+<w c="adjectives" e="lleuger" i="166" m="light" t="adj" />
+<w c="adjectives" e="llarg" i="167" m="long" t="adj" />
+<w c="adjectives" e="a la vora de; al costat de; vora" i="168" m="near" t="adj" />
+<w c="adjectives" e="nou" i="169" m="new" t="adj" />
+<w c="adjectives" e="bonic" i="170" m="nice" t="adj" />
+<w c="adjectives" e="ver; veritable; vertader" i="171" m="real" t="adj" />
+<w c="adjectives" e="correcte; just" i="172" m="right" t="adj" />
+<w c="adjectives" e="esmolat" i="173" m="sharp" t="adj" />
+<w c="adjectives" e="semblant; similar" i="174" m="similar" t="adj" />
+<w c="adjectives" e="lent" i="175" m="slow" t="adj" />
+<w c="adjectives" e="bla" i="176" m="soft" t="adj" />
+<w c="adjectives" e="fort" i="177" m="strong" t="adj" />
+<w c="adjectives" e="feble" i="178" m="weak" t="adj" />
+<w c="adjective" e="apte; capaç" i="179" m="able" t="adj" />
+<w c="adjective" e="solitari" i="180" m="alone" t="adj" />
+<w c="adjective" e="mort" i="181" m="dead" t="adj" />
+<w c="adjective" e="lliure" i="182" m="free" t="adj" />
+<w c="adjective" e="amigable" i="183" m="friendly" t="adj" />
+<w c="adjective" e="bo; sa" i="184" m="healthy" t="adj" />
+<w c="adjective" e="malalt" i="185" m="ill" t="adj" />
+<w c="adjective" e="inteŀligent" i="186" m="intelligent" t="adj" />
+<w c="adjective" e="just" i="187" m="just" t="adj" />
+<w c="adjective" e="gentil" i="188" m="kind" t="adj" />
+<w c="adjective" e="mascle" i="189" m="male" t="adj" />
+<w c="adjective" e="casat" i="190" m="married" t="adj" />
+<w c="adjective" e="vell" i="191" m="old" t="adj" />
+<w c="adjective" e="pacient" i="192" m="patient" t="adj" />
+<w c="adjective" e="abundós; ric" i="193" m="rich" t="adj" />
+<w c="adjective" e="experimental; experimentat; expert" i="194" m="skilful" t="adj" />
+<w c="adjective" e="beneit; estult; estúpid; neci; nici; toix" i="195" m="stupid" t="adj" />
+<w c="adjective" e="cansat" i="196" m="tired" t="adj" />
+<w c="adjective" e="savi" i="197" m="wise" t="adj" />
+<w c="adjective" e="jove" i="198" m="young" t="adj" />
+<w c="adverb" e="gairebé" i="199" m="almost" t="adv" />
+<w c="adverb" e="ja" i="200" m="already" t="adv" />
+<w c="adverb" e="sempre" i="201" m="always" t="adv" />
+<w c="adverb" e="aproximadament" i="202" m="approximately" t="adv" />
+<w c="adverb" e="darrera de; després de" i="203" m="behind" t="adv" />
+<w c="adverb" e="entre" i="204" m="between" t="adv" />
+<w c="adverb" e="a l'altra banda de" i="205" m="beyond" t="adv" />
+<w c="adverb" e="més enllà de; per devant de" i="206" m="by" t="adv" />
+<w c="adverb" e="directe; dret; recte" i="207" m="directly" t="adv" />
+<w c="adverb" e="aviat; d'hora" i="208" m="early" t="adv" />
+<w c="adverb" e="bastant" i="209" m="enough" t="adv" />
+<w c="adverb" e="sol; únic" i="210" m="entirely" t="adv" />
+<w c="adverb" e="àdhuc; fins i tot" i="211" m="even" t="adv" />
+<w c="adverb" e="suara; tot just" i="212" m="exactly" t="adv" />
+<w c="adverb" e="darrer; últim" i="213" m="finally" t="adv" />
+<w c="adverb" e="anterior" i="214" m="forward" t="adv" />
+<w c="adverb" e="no obstant això; tanmateix" i="215" m="however" t="adv" />
+<w c="adverb" e="a; dins de; en" i="216" m="in" t="adv" />
+<w c="adverb" e="darrera de; després de" i="217" m="later" t="adv" />
+<w c="adverb" e="poc" i="218" m="little" t="adv" />
+<w c="adverb" e="més" i="219" m="more" t="adv" />
+<w c="adverb" e="mai" i="220" m="never" t="adv" />
+<w c="adverb" e="no" i="221" m="not" t="adv" />
+<w c="adverb" e="ara; no abans de; no després de; només; solament; sols; tan sols" i="222" m="now" t="adv" />
+<w c="adverb" e="freqüentment" i="223" m="often" t="adv" />
+<w c="adverb" e="alguna vegada; algun dia; en algun temps; una vegada; un cop" i="224" m="once" t="adv" />
+<w c="adverb" e="fora" i="225" m="outside" t="adv" />
+<w c="adverb" e="pricipalment; sobretot" i="226" m="particularly" t="adv" />
+<w c="adverb" e="potser" i="227" m="possibly" t="adv" />
+<w c="adverb" e="versemblantment" i="228" m="probably" t="adv" />
+<w c="adverb" e="veritablement" i="229" m="really" t="adv" />
+<w c="adverb" e="veritablement" i="230" m="really" t="adv" />
+<w c="adverb" e="només" i="231" m="simply" t="adv" />
+<w c="adverb" e="aviat; prompte" i="232" m="soon" t="adv" />
+<w c="adverb" e="encara" i="233" m="still" t="adv" />
+<w c="adverb" e="alli" i="234" m="there" t="adv" />
+<w c="adverb" e="per aquesta raó; per tant" i="235" m="therefore" t="adv" />
+<w c="adverb" e="avui" i="236" m="today" t="adv" />
+<w c="adverb" e="demà" i="237" m="tomorrow" t="adv" />
+<w c="adverb" e="també" i="238" m="too" t="adv" />
+<w c="adverb" e="molt" i="239" m="very" t="adv" />
+<w c="adverb" e="bé" i="240" m="well" t="adv" />
+<w c="adverb" e="per què" i="241" m="why" t="adv" />
+<w c="anatomy" e="braç" i="242" m="arm" t="noun" />
+<w c="anatomy" e="esquena" i="243" m="back" t="noun" />
+<w c="anatomy" e="bec" i="244" m="beak" t="noun" />
+<w c="anatomy" e="sang" i="245" m="blood" t="noun" />
+<w c="anatomy" e="tronc" i="246" m="body" t="noun" />
+<w c="anatomy" e="os" i="247" m="bone" t="noun" />
+<w c="anatomy" e="cervell" i="248" m="brain" t="noun" />
+<w c="anatomy" e="sala" i="249" m="cell" t="noun" />
+<w c="anatomy" e="pit" i="250" m="chest" t="noun" />
+<w c="anatomy" e="pit" i="251" m="chest" t="noun" />
+<w c="anatomy" e="mentó" i="252" m="chin" t="noun" />
+<w c="anatomy" e="orella" i="253" m="ear" t="noun" />
+<w c="anatomy" e="ull" i="254" m="eye" t="noun" />
+<w c="anatomy" e="cara" i="255" m="face" t="noun" />
+<w c="anatomy" e="dit" i="256" m="finger" t="noun" />
+<w c="anatomy" e="peu" i="257" m="foot" t="noun" />
+<w c="anatomy" e="front" i="258" m="forehead" t="noun" />
+<w c="anatomy" e="gen" i="259" m="gene" t="noun" />
+<w c="anatomy" e="cabell" i="260" m="hair" t="noun" />
+<w c="anatomy" e="mà" i="261" m="hand" t="noun" />
+<w c="anatomy" e="cap" i="262" m="head" t="noun" />
+<w c="anatomy" e="cor" i="263" m="heart" t="noun" />
+<w c="anatomy" e="genoll" i="264" m="knee" t="noun" />
+<w c="anatomy" e="cama" i="265" m="leg" t="noun" />
+<w c="anatomy" e="llavi" i="266" m="lip" t="noun" />
+<w c="anatomy" e="boca" i="267" m="mouth" t="noun" />
+<w c="anatomy" e="múscul" i="268" m="muscle" t="noun" />
+<w c="anatomy" e="ungla" i="269" m="nail" t="noun" />
+<w c="anatomy" e="coll" i="270" m="neck" t="noun" />
+<w c="anatomy" e="nervi" i="271" m="nerve" t="noun" />
+<w c="anatomy" e="nas" i="272" m="nose" t="noun" />
+<w c="anatomy" e="pell" i="273" m="skin" t="noun" />
+<w c="anatomy" e="estómac" i="274" m="stomach" t="noun" />
+<w c="anatomy" e="cua" i="275" m="tail" t="noun" />
+<w c="anatomy" e="faringe" i="276" m="throat" t="noun" />
+<w c="anatomy" e="polze" i="277" m="thumb" t="noun" />
+<w c="anatomy" e="dit" i="278" m="toe" t="noun" />
+<w c="anatomy" e="llengua" i="279" m="tongue" t="noun" />
+<w c="anatomy" e="dent" i="280" m="tooth" t="noun" />
+<w c="anatomy" e="ala" i="281" m="wing" t="noun" />
+<w c="animals" e="formiga" i="282" m="ant" t="noun" />
+<w c="animals" e="ós" i="283" m="bear" t="noun" />
+<w c="animals" e="abella" i="284" m="bee" t="noun" />
+<w c="animals" e="ocell" i="285" m="bird" t="noun" />
+<w c="animals" e="gat" i="286" m="cat" t="noun" />
+<w c="animals" e="vaca" i="287" m="cow" t="noun" />
+<w c="animals" e="gos" i="288" m="dog" t="noun" />
+<w c="animals" e="elefant" i="289" m="elephant" t="noun" />
+<w c="animals" e="peix" i="290" m="fish" t="noun" />
+<w c="animals" e="mosca" i="291" m="fly" t="noun" />
+<w c="animals" e="cabra" i="292" m="goat" t="noun" />
+<w c="animals" e="cavall" i="293" m="horse" t="noun" />
+<w c="animals" e="insecte" i="294" m="insect" t="noun" />
+<w c="animals" e="lleó" i="295" m="lion" t="noun" />
+<w c="animals" e="mico; mona; simi" i="296" m="monkey" t="noun" />
+<w c="animals" e="porc" i="297" m="pig" t="noun" />
+<w c="animals" e="ovella" i="298" m="sheep" t="noun" />
+<w c="animals" e="serp" i="299" m="snake" t="noun" />
+<w c="art" e="art" i="300" m="art" t="n" />
+<w c="art" e="color" i="301" m="color" t="n" />
+<w c="art" e="concert" i="302" m="concert" t="n" />
+<w c="art" e="diversitat" i="303" m="diversity" t="n" />
+<w c="art" e="diversió" i="304" m="entertainment" t="n" />
+<w c="art" e="film" i="305" m="movie" t="n" />
+<w c="art" e="música" i="306" m="music" t="n" />
+<w c="art" e="nota" i="307" m="note" t="n" />
+<w c="art" e="orquestra" i="308" m="orchestra" t="n" />
+<w c="art" e="pintura" i="309" m="paint" t="n" />
+<w c="art" e="quadre" i="310" m="painting" t="n" />
+<w c="art" e="imatge" i="311" m="picture" t="n" />
+<w c="art" e="poema" i="312" m="poem" t="n" />
+<w c="art" e="poesia" i="313" m="poetry" t="n" />
+<w c="art" e="ritme" i="314" m="rhythm" t="n" />
+<w c="art" e="cançó" i="315" m="song" t="n" />
+<w c="art" e="escena" i="316" m="stage" t="n" />
+<w c="art" e="estil" i="317" m="style" t="n" />
+<w c="art" e="moda; mode" i="318" m="vogue" t="n" />
+<w c="article" e="el" i="319" m="the" t="" />
+<w c="business" e="compte" i="320" m="account" t="n" />
+<w c="business" e="avantatge" i="321" m="advantage" t="n" />
+<w c="business" e="publicitat" i="322" m="advertisement" t="n" />
+<w c="business" e="consell" i="323" m="advice" t="n" />
+<w c="business" e="acord" i="324" m="agreement" t="n" />
+<w c="business" e="atenció" i="325" m="attention" t="n" />
+<w c="business" e="autoritat" i="326" m="authority" t="n" />
+<w c="business" e="bitllet de banc" i="327" m="banknote" t="n" />
+<w c="business" e="capital" i="328" m="capital" t="n" />
+<w c="business" e="xec" i="329" m="check" t="n" />
+<w c="business" e="encàrrec" i="330" m="committee" t="n" />
+<w c="business" e="competició" i="331" m="contest" t="n" />
+<w c="business" e="còpia" i="332" m="copy" t="n" />
+<w c="business" e="cost" i="333" m="cost" t="n" />
+<w c="business" e="consell" i="334" m="council" t="n" />
+<w c="business" e="client" i="335" m="customer" t="n" />
+<w c="business" e="departament" i="336" m="department" t="n" />
+<w c="business" e="projecte" i="337" m="design" t="n" />
+<w c="business" e="dificultat" i="338" m="difficulty" t="n" />
+<w c="business" e="direcció" i="339" m="direction" t="n" />
+<w c="business" e="director" i="340" m="director" t="n" />
+<w c="business" e="economia" i="341" m="economy" t="n" />
+<w c="business" e="medi" i="342" m="environment" t="n" />
+<w c="business" e="dedicació" i="343" m="experience" t="n" />
+<w c="business" e="empresa" i="344" m="firm" t="n" />
+<w c="business" e="formulari" i="345" m="form" t="n" />
+<w c="business" e="agrupament" i="346" m="group" t="n" />
+<w c="business" e="ajuda" i="347" m="help" t="n" />
+<w c="business" e="vacances" i="348" m="holiday" t="n" />
+<w c="business" e="ingrés" i="349" m="income" t="n" />
+<w c="business" e="indústria" i="350" m="industry" t="n" />
+<w c="business" e="contracte d'assegurança" i="351" m="insurance" t="n" />
+<w c="business" e="interès" i="352" m="interest" t="n" />
+<w c="business" e="factura" i="353" m="invoice" t="n" />
+<w c="business" e="treball" i="354" m="job" t="n" />
+<w c="business" e="llei" i="355" m="law" t="n" />
+<w c="business" e="comiat" i="356" m="leave" t="n" />
+<w c="business" e="mercat" i="357" m="market" t="n" />
+<w c="business" e="material" i="358" m="material" t="n" />
+<w c="business" e="mig" i="359" m="mean" t="n" />
+<w c="business" e="reunió" i="360" m="meeting" t="n" />
+<w c="business" e="diner" i="361" m="money" t="n" />
+<w c="business" e="ocupació" i="362" m="occupation" t="n" />
+<w c="business" e="oferta" i="363" m="offer" t="n" />
+<w c="business" e="despatx; oficina; taulell" i="364" m="office" t="n" />
+<w c="business" e="operació" i="365" m="operation" t="n" />
+<w c="business" e="paquet" i="366" m="package" t="n" />
+<w c="business" e="divisió" i="367" m="part" t="n" />
+<w c="business" e="projecte" i="368" m="plan" t="n" />
+<w c="business" e="problema" i="369" m="problem" t="n" />
+<w c="business" e="producte" i="370" m="product" t="n" />
+<w c="business" e="guany" i="371" m="profit" t="n" />
+<w c="business" e="taxa" i="372" m="rate" t="n" />
+<w c="business" e="residu" i="373" m="rest" t="n" />
+<w c="business" e="dret" i="374" m="right" t="n" />
+<w c="business" e="venda" i="375" m="sale" t="n" />
+<w c="business" e="departament; especialitat; secció" i="376" m="section" t="n" />
+<w c="business" e="acció" i="377" m="share" t="n" />
+<w c="business" e="botiga" i="378" m="shop" t="n" />
+<w c="business" e="habilitat" i="379" m="skill" t="n" />
+<w c="business" e="personal" i="380" m="staff" t="n" />
+<w c="business" e="estructura" i="381" m="structure" t="n" />
+<w c="business" e="suport" i="382" m="support" t="n" />
+<w c="business" e="index; llista; taula" i="383" m="table" t="n" />
+<w c="business" e="fiscalitat" i="384" m="tax" t="n" />
+<w c="business" e="comerç" i="385" m="trade" t="n" />
+<w c="business" e="mèrit; valor" i="386" m="value" t="n" />
+<w c="business" e="recompensa" i="387" m="wages" t="n" />
+<w c="business" e="treball" i="388" m="work" t="n" />
+<w c="city" e="aeroport" i="389" m="airport" t="n" />
+<w c="city" e="banc" i="390" m="bank" t="n" />
+<w c="city" e="pont" i="391" m="bridge" t="n" />
+<w c="city" e="edifici" i="392" m="building" t="n" />
+<w c="city" e="capital" i="393" m="capital" t="n" />
+<w c="city" e="castell" i="394" m="castle" t="n" />
+<w c="city" e="església" i="395" m="church" t="n" />
+<w c="city" e="cinema" i="396" m="cinema" t="n" />
+<w c="city" e="ciutat" i="397" m="city" t="n" />
+<w c="city" e="fábrica" i="398" m="factory" t="n" />
+<w c="city" e="pis" i="399" m="flat" t="n" />
+<w c="city" e="l'hospital" i="400" m="hospital" t="n" />
+<w c="city" e="alberg" i="401" m="hotel" t="n" />
+<w c="city" e="biblioteca" i="402" m="library" t="n" />
+<w c="city" e="museu" i="403" m="museum" t="n" />
+<w c="city" e="parc" i="404" m="park" t="n" />
+<w c="city" e="carretera" i="405" m="road" t="n" />
+<w c="city" e="escola" i="406" m="school" t="n" />
+<w c="city" e="estació" i="407" m="station" t="n" />
+<w c="city" e="carrer" i="408" m="street" t="n" />
+<w c="city" e="construcció" i="409" m="structure" t="n" />
+<w c="city" e="metro" i="410" m="subway" t="n" />
+<w c="city" e="supermercat" i="411" m="supermarket" t="n" />
+<w c="city" e="teatre" i="412" m="theater" t="n" />
+<w c="city" e="ciutat" i="413" m="town" t="n" />
+<w c="city" e="universitat" i="414" m="university" t="n" />
+<w c="city" e="poble; vila" i="415" m="village" t="n" />
+<w c="clothes" e="bota" i="416" m="boot" t="n" />
+<w c="clothes" e="tèxtil" i="417" m="cloth" t="n" />
+<w c="clothes" e="roba" i="418" m="clothing" t="n" />
+<w c="clothes" e="jaqueta" i="419" m="coat" t="n" />
+<w c="clothes" e="coll" i="420" m="collar" t="n" />
+<w c="clothes" e="barret" i="421" m="hat" t="n" />
+<w c="clothes" e="jaqueta" i="422" m="jacket" t="n" />
+<w c="clothes" e="joia" i="423" m="jewel" t="n" />
+<w c="clothes" e="anell" i="424" m="ring" t="n" />
+<w c="clothes" e="camisa" i="425" m="shirt" t="n" />
+<w c="clothes" e="sabata" i="426" m="shoe" t="n" />
+<w c="clothes" e="faldilla" i="427" m="skirt" t="n" />
+<w c="clothes" e="mitjó" i="428" m="sock" t="n" />
+<w c="clothes" e="maleta" i="429" m="suitcase" t="n" />
+<w c="clothes" e="corbata" i="430" m="tie" t="n" />
+<w c="colors" e="negre" i="431" m="black" t="adj" />
+<w c="colors" e="blau" i="432" m="blue" t="adj" />
+<w c="colors" e="marró" i="433" m="brown" t="adj" />
+<w c="colors" e="gris" i="434" m="gray" t="adj" />
+<w c="colors" e="verd" i="435" m="green" t="adj" />
+<w c="colors" e="orange" i="436" m="orange" t="adj" />
+<w c="colors" e="rosa" i="437" m="pink" t="adj" />
+<w c="colors" e="violeta" i="438" m="violet" t="adj" />
+<w c="colors" e="blanc" i="439" m="white" t="adj" />
+<w c="colors" e="groc" i="440" m="yellow" t="adj" />
+<w c="communication" e="anunci" i="441" m="announcement" t="n" />
+<w c="communication" e="resposta" i="442" m="answer" t="n" />
+<w c="communication" e="aprovació" i="443" m="approval" t="n" />
+<w c="communication" e="llibre" i="444" m="book" t="n" />
+<w c="communication" e="grafema" i="445" m="character" t="n" />
+<w c="communication" e="dades" i="446" m="data" t="n" />
+<w c="communication" e="resolució" i="447" m="decision" t="n" />
+<w c="communication" e="diccionari" i="448" m="dictionary" t="n" />
+<w c="communication" e="incertesa" i="449" m="doubt" t="n" />
+<w c="communication" e="sentiment" i="450" m="feeling" t="n" />
+<w c="communication" e="humor" i="451" m="humor" t="n" />
+<w c="communication" e="pensament" i="452" m="idea" t="n" />
+<w c="communication" e="interès" i="453" m="interest" t="n" />
+<w c="communication" e="entrevista" i="454" m="interview" t="n" />
+<w c="communication" e="llenguatge" i="455" m="language" t="n" />
+<w c="communication" e="lletra" i="456" m="letter" t="n" />
+<w c="communication" e="carta" i="457" m="letter" t="n" />
+<w c="communication" e="mentida" i="458" m="lie" t="n" />
+<w c="communication" e="revista" i="459" m="magazine" t="n" />
+<w c="communication" e="correu" i="460" m="mail" t="n" />
+<w c="communication" e="memòria humana" i="461" m="memory" t="n" />
+<w c="communication" e="error" i="462" m="mistake" t="n" />
+<w c="communication" e="nom" i="463" m="name" t="n" />
+<w c="communication" e="diari" i="464" m="newspaper" t="n" />
+<w c="communication" e="nombre" i="465" m="number" t="n" />
+<w c="communication" e="opinió" i="466" m="opinion" t="n" />
+<w c="communication" e="pàgina" i="467" m="page" t="n" />
+<w c="communication" e="punt; punta; randa" i="468" m="point" t="n" />
+<w c="communication" e="pronunciació" i="469" m="pronunciation" t="n" />
+<w c="communication" e="pregunta" i="470" m="question" t="n" />
+<w c="communication" e="reacció" i="471" m="reaction" t="n" />
+<w c="communication" e="motiu" i="472" m="reason" t="n" />
+<w c="communication" e="secret" i="473" m="secret" t="n" />
+<w c="communication" e="frase" i="474" m="sentence" t="n" />
+<w c="communication" e="forma" i="475" m="shape" t="n" />
+<w c="communication" e="signe" i="476" m="sign" t="n" />
+<w c="communication" e="llengua" i="477" m="speech" t="n" />
+<w c="communication" e="mida" i="478" m="standard" t="n" />
+<w c="communication" e="subjecte" i="479" m="subject" t="n" />
+<w c="communication" e="proposta" i="480" m="suggestion" t="n" />
+<w c="communication" e="veu" i="481" m="voice" t="n" />
+<w c="communication" e="paraula" i="482" m="word" t="n" />
+<w c="communication" e="escriptura" i="483" m="writing" t="n" />
+<w c="conjunction" e="i" i="484" m="and" t="conj" />
+<w c="conjunction" e="perquè" i="485" m="because" t="conj" />
+<w c="conjunction" e="car; perquè; puix que" i="486" m="for" t="conj" />
+<w c="conjunction" e="si" i="487" m="if" t="conj" />
+<w c="conjunction" e="o" i="488" m="or" t="conj" />
+<w c="containers" e="bossa; sac" i="489" m="bag" t="n" />
+<w c="containers" e="encistellada" i="490" m="basket" t="n" />
+<w c="containers" e="ampolla" i="491" m="bottle" t="n" />
+<w c="containers" e="caixeta" i="492" m="box" t="n" />
+<w c="containers" e="llauna" i="493" m="can" t="n" />
+<w c="containers" e="tassa" i="494" m="cup" t="n" />
+<w c="containers" e="got" i="495" m="glass" t="n" />
+<w c="containers" e="plat" i="496" m="plate" t="n" />
+<w c="conversation" e="no sé" i="497" m="I don't know" t="" />
+<w c="conversation" e="no ho entenc" i="498" m="I don't understand" t="" />
+<w c="conversation" e="salut" i="499" m="cheers" t="" />
+<w c="conversation" e="parles anglès" i="500" m="do you speak English" t="" />
+<w c="conversation" e="bon dia" i="501" m="good day" t="" />
+<w c="conversation" e="sort" i="502" m="good luck" t="" />
+<w c="conversation" e="per molts anys" i="503" m="happy birthday" t="" />
+<w c="conversation" e="hola" i="504" m="hello" t="" />
+<w c="conversation" e="com estàs" i="505" m="how are you" t="" />
+<w c="conversation" e="quant és" i="506" m="how much is it" t="" />
+<w c="conversation" e="no" i="507" m="no" t="" />
+<w c="conversation" e="moltes gràcies" i="508" m="thank you very much" t="" />
+<w c="conversation" e="sí" i="509" m="yes" t="" />
+<w c="countries" e="Xina" i="510" m="China" t="n" />
+<w c="countries" e="República Txeca" i="511" m="Czech Republic" t="n" />
+<w c="countries" e="França" i="512" m="France" t="n" />
+<w c="countries" e="Alemanya" i="513" m="Germany" t="n" />
+<w c="countries" e="Índia" i="514" m="India" t="n" />
+<w c="countries" e="Itàlia" i="515" m="Italy" t="n" />
+<w c="countries" e="Japó" i="516" m="Japan" t="n" />
+<w c="countries" e="Espanya" i="517" m="Spain" t="n" />
+<w c="countries" e="Regne Unit" i="518" m="United Kingdom" t="n" />
+<w c="countries" e="Estats Units" i="519" m="United States" t="n" />
+<w c="devices" e="càmera fotogràfica" i="520" m="camera" t="n" />
+<w c="devices" e="mòbil" i="521" m="cellphone" t="n" />
+<w c="devices" e="rellotge" i="522" m="clock" t="n" />
+<w c="devices" e="ordenador" i="523" m="computer" t="n" />
+<w c="devices" e="ascensor" i="524" m="elevator" t="n" />
+<w c="devices" e="motor" i="525" m="engine" t="n" />
+<w c="devices" e="instrument" i="526" m="instrument" t="n" />
+<w c="devices" e="màquina" i="527" m="machine" t="n" />
+<w c="devices" e="forn" i="528" m="oven" t="n" />
+<w c="devices" e="rellotge" i="529" m="watch" t="n" />
+<w c="drinks" e="cervesa" i="530" m="beer" t="n" />
+<w c="drinks" e="cafè" i="531" m="coffee" t="n" />
+<w c="drinks" e="beguda" i="532" m="drink" t="n" />
+<w c="drinks" e="llet" i="533" m="milk" t="n" />
+<w c="drinks" e="batut" i="534" m="milkshake" t="n" />
+<w c="drinks" e="te" i="535" m="tea" t="n" />
+<w c="drinks" e="aigua" i="536" m="water" t="n" />
+<w c="drinks" e="vi" i="537" m="wine" t="n" />
+<w c="education" e="classe" i="538" m="class" t="n" />
+<w c="education" e="formació" i="539" m="education" t="n" />
+<w c="education" e="educació" i="540" m="education" t="n" />
+<w c="education" e="ensenyament" i="541" m="education" t="n" />
+<w c="education" e="examen" i="542" m="examination" t="n" />
+<w c="education" e="coneixement" i="543" m="knowledge" t="n" />
+<w c="education" e="estudiant" i="544" m="student" t="n" />
+<w c="education" e="mestre" i="545" m="teacher" t="n" />
+<w c="environment" e="pluja àcida" i="546" m="acid rain" t="n" />
+<w c="environment" e="atmosfera" i="547" m="atmosphere" t="n" />
+<w c="environment" e="canvi climàtic" i="548" m="climate change" t="n" />
+<w c="environment" e="ecologia" i="549" m="ecology" t="n" />
+<w c="environment" e="medi ambient" i="550" m="environment" t="n" />
+<w c="environment" e="combustible fòssil" i="551" m="fossil fuel" t="n" />
+<w c="environment" e="escalfament global" i="552" m="global warming" t="n" />
+<w c="environment" e="efecte hivernacle" i="553" m="greenhouse effect" t="n" />
+<w c="environment" e="mina" i="554" m="mine" t="n" />
+<w c="environment" e="ozó" i="555" m="ozone" t="n" />
+<w c="environment" e="contaminació" i="556" m="pollution" t="n" />
+<w c="environment" e="reciclatge" i="557" m="recycling" t="n" />
+<w c="environment" e="boirum" i="558" m="smog" t="n" />
+<w c="family" e="bebè; criançó; criatura; nadó" i="559" m="baby" t="n" />
+<w c="family" e="aniversari" i="560" m="birthday" t="n" />
+<w c="family" e="noi; vailet; xicot" i="561" m="boy" t="n" />
+<w c="family" e="germà" i="562" m="brother" t="n" />
+<w c="family" e="criatura; infant; nen" i="563" m="child" t="n" />
+<w c="family" e="filla" i="564" m="daughter" t="n" />
+<w c="family" e="mort" i="565" m="death" t="n" />
+<w c="family" e="família" i="566" m="family" t="n" />
+<w c="family" e="pare" i="567" m="father" t="n" />
+<w c="family" e="amic" i="568" m="friend" t="n" />
+<w c="family" e="senyoreta" i="569" m="girl" t="n" />
+<w c="family" e="avi" i="570" m="grandfather" t="n" />
+<w c="family" e="humà" i="571" m="human" t="n" />
+<w c="family" e="marit" i="572" m="husband" t="n" />
+<w c="family" e="home" i="573" m="man" t="n" />
+<w c="family" e="matrimoni" i="574" m="marriage" t="n" />
+<w c="family" e="mare" i="575" m="mother" t="n" />
+<w c="family" e="veí" i="576" m="neighbor" t="n" />
+<w c="family" e="individu" i="577" m="person" t="n" />
+<w c="family" e="germana" i="578" m="sister" t="n" />
+<w c="family" e="fill" i="579" m="son" t="n" />
+<w c="family" e="muller" i="580" m="wife" t="n" />
+<w c="family" e="dona" i="581" m="woman" t="n" />
+<w c="feelings" e="por" i="582" m="fear" t="n" />
+<w c="feelings" e="odi" i="583" m="hate" t="n" />
+<w c="feelings" e="amor" i="584" m="love" t="n" />
+<w c="feelings" e="plaer" i="585" m="pleasure" t="n" />
+<w c="food" e="pa" i="586" m="bread" t="n" />
+<w c="food" e="esmorzar" i="587" m="breakfast" t="n" />
+<w c="food" e="mantega" i="588" m="butter" t="n" />
+<w c="food" e="pastís" i="589" m="cake" t="n" />
+<w c="food" e="formatge" i="590" m="cheese" t="n" />
+<w c="food" e="xocolata" i="591" m="chocolate" t="n" />
+<w c="food" e="copa" i="592" m="cup" t="n" />
+<w c="food" e="ou" i="593" m="egg" t="n" />
+<w c="food" e="menjar" i="594" m="food" t="n" />
+<w c="food" e="forquilla" i="595" m="fork" t="n" />
+<w c="food" e="fruit" i="596" m="fruit" t="n" />
+<w c="food" e="ganivet" i="597" m="knife" t="n" />
+<w c="food" e="dinar" i="598" m="lunch" t="n" />
+<w c="food" e="àpat" i="599" m="meal" t="n" />
+<w c="food" e="carn" i="600" m="meat" t="n" />
+<w c="food" e="oli" i="601" m="oil" t="n" />
+<w c="food" e="amanida" i="602" m="salad" t="n" />
+<w c="food" e="sal" i="603" m="salt" t="n" />
+<w c="food" e="entrepà" i="604" m="sandwich" t="n" />
+<w c="food" e="salsa" i="605" m="sauce" t="n" />
+<w c="food" e="sopa" i="606" m="soup" t="n" />
+<w c="food" e="cullera" i="607" m="spoon" t="n" />
+<w c="food" e="sucre" i="608" m="sugar" t="n" />
+<w c="fruits" e="poma" i="609" m="apple" t="n" />
+<w c="fruits" e="albercoc" i="610" m="apricot" t="n" />
+<w c="fruits" e="banana" i="611" m="banana" t="n" />
+<w c="fruits" e="móra" i="612" m="blackberry" t="n" />
+<w c="fruits" e="cirera" i="613" m="cherry" t="n" />
+<w c="fruits" e="llimó; llimona" i="614" m="lemon" t="n" />
+<w c="fruits" e="núcula" i="615" m="nut" t="n" />
+<w c="fruits" e="taronja" i="616" m="orange" t="n" />
+<w c="fruits" e="préssec" i="617" m="peach" t="n" />
+<w c="fruits" e="perera" i="618" m="pear" t="n" />
+<w c="fruits" e="pinya d'Amèrica" i="619" m="pineapple" t="n" />
+<w c="fruits" e="pruna" i="620" m="plum" t="n" />
+<w c="fruits" e="gerdó" i="621" m="raspberry" t="n" />
+<w c="fruits" e="maduixa" i="622" m="strawberry" t="n" />
+<w c="furniture" e="llit" i="623" m="bed" t="n" />
+<w c="furniture" e="catifa" i="624" m="carpet" t="n" />
+<w c="furniture" e="cadira" i="625" m="chair" t="n" />
+<w c="furniture" e="armari" i="626" m="cupboard" t="n" />
+<w c="furniture" e="cortina" i="627" m="curtain" t="n" />
+<w c="furniture" e="calaix" i="628" m="drawer" t="n" />
+<w c="furniture" e="taula" i="629" m="table" t="n" />
+<w c="geography" e="Terra" i="630" m="Earth" t="n" />
+<w c="geography" e="lluna" i="631" m="Moon" t="n" />
+<w c="geography" e="riba; ribera; vora" i="632" m="bank" t="n" />
+<w c="geography" e="platja" i="633" m="beach" t="n" />
+<w c="geography" e="est" i="634" m="east" t="n" />
+<w c="geography" e="turó" i="635" m="hill" t="n" />
+<w c="geography" e="illa" i="636" m="island" t="n" />
+<w c="geography" e="llac" i="637" m="lake" t="n" />
+<w c="geography" e="terra" i="638" m="land" t="n" />
+<w c="geography" e="mapa" i="639" m="map" t="n" />
+<w c="geography" e="nord" i="640" m="north" t="n" />
+<w c="geography" e="planícia" i="641" m="plain" t="n" />
+<w c="geography" e="regió" i="642" m="region" t="n" />
+<w c="geography" e="riu" i="643" m="river" t="n" />
+<w c="geography" e="mar" i="644" m="sea" t="n" />
+<w c="geography" e="sud" i="645" m="south" t="n" />
+<w c="geography" e="astre" i="646" m="star" t="n" />
+<w c="geography" e="sol" i="647" m="sun" t="n" />
+<w c="geography" e="oest" i="648" m="west" t="n" />
+<w c="house" e="adreça" i="649" m="address" t="n" />
+<w c="house" e="bany" i="650" m="bathroom" t="n" />
+<w c="house" e="habitació" i="651" m="bedroom" t="n" />
+<w c="house" e="maó" i="652" m="brick" t="n" />
+<w c="house" e="porta" i="653" m="door" t="n" />
+<w c="house" e="sòl; trespol" i="654" m="floor" t="n" />
+<w c="house" e="mobles" i="655" m="furniture" t="n" />
+<w c="house" e="garatge" i="656" m="garage" t="n" />
+<w c="house" e="jardí" i="657" m="garden" t="n" />
+<w c="house" e="porta" i="658" m="gate" t="n" />
+<w c="house" e="vestíbul" i="659" m="hall" t="n" />
+<w c="house" e="llar" i="660" m="home" t="n" />
+<w c="house" e="casa" i="661" m="house" t="n" />
+<w c="house" e="cuina" i="662" m="kitchen" t="n" />
+<w c="house" e="teulada" i="663" m="roof" t="n" />
+<w c="house" e="habitació" i="664" m="room" t="n" />
+<w c="house" e="dutxa" i="665" m="shower" t="n" />
+<w c="house" e="esglaó; graó" i="666" m="step" t="n" />
+<w c="house" e="wàter" i="667" m="toilet" t="n" />
+<w c="house" e="mur" i="668" m="wall" t="n" />
+<w c="house" e="pou" i="669" m="well" t="n" />
+<w c="house" e="finestra" i="670" m="window" t="n" />
+<w c="languages" e="Anglès" i="671" m="English" t="n" />
+<w c="languages" e="Alemany" i="672" m="German" t="n" />
+<w c="materials" e="àcid" i="673" m="acid" t="n" />
+<w c="materials" e="substància química" i="674" m="chemical" t="n" />
+<w c="materials" e="element químic" i="675" m="chemical element" t="n" />
+<w c="materials" e="carbó" i="676" m="coal" t="n" />
+<w c="materials" e="cotó" i="677" m="cotton" t="n" />
+<w c="materials" e="pols" i="678" m="dust" t="n" />
+<w c="materials" e="terra" i="679" m="earth" t="n" />
+<w c="materials" e="greix" i="680" m="fat" t="n" />
+<w c="materials" e="vidre" i="681" m="glass" t="n" />
+<w c="materials" e="cola" i="682" m="glue" t="n" />
+<w c="materials" e="or" i="683" m="gold" t="n" />
+<w c="materials" e="gra; grana" i="684" m="grain" t="n" />
+<w c="materials" e="gel; glaç" i="685" m="ice" t="n" />
+<w c="materials" e="tinta" i="686" m="ink" t="n" />
+<w c="materials" e="ferro" i="687" m="iron" t="n" />
+<w c="materials" e="plom" i="688" m="lead" t="n" />
+<w c="materials" e="pell" i="689" m="leather" t="n" />
+<w c="materials" e="líquid" i="690" m="liquid" t="n" />
+<w c="materials" e="matèria" i="691" m="matter" t="n" />
+<w c="materials" e="metall" i="692" m="metallic element" t="n" />
+<w c="materials" e="petroli" i="693" m="oil" t="n" />
+<w c="materials" e="paper" i="694" m="paper" t="n" />
+<w c="materials" e="verí" i="695" m="poison" t="n" />
+<w c="materials" e="pòlvores" i="696" m="powder" t="n" />
+<w c="materials" e="sorra" i="697" m="sand" t="n" />
+<w c="materials" e="seda" i="698" m="silk" t="n" />
+<w c="materials" e="argent" i="699" m="silver" t="n" />
+<w c="materials" e="sabó" i="700" m="soap" t="n" />
+<w c="materials" e="acer" i="701" m="steel" t="n" />
+<w c="materials" e="fusta" i="702" m="wood" t="n" />
+<w c="materials" e="llana" i="703" m="wool" t="n" />
+<w c="mathematics" e="addició" i="704" m="addition" t="n" />
+<w c="mathematics" e="angle" i="705" m="angle" t="n" />
+<w c="mathematics" e="àrea" i="706" m="area" t="n" />
+<w c="mathematics" e="centre" i="707" m="center" t="n" />
+<w c="mathematics" e="circumferència" i="708" m="circle" t="n" />
+<w c="mathematics" e="element" i="709" m="component" t="n" />
+<w c="mathematics" e="corba" i="710" m="curve" t="n" />
+<w c="mathematics" e="grau" i="711" m="degree" t="n" />
+<w c="mathematics" e="nivell" i="712" m="degree" t="n" />
+<w c="mathematics" e="distància" i="713" m="distance" t="n" />
+<w c="mathematics" e="marge; vora" i="714" m="edge" t="n" />
+<w c="mathematics" e="fronteral; límit" i="715" m="limit" t="n" />
+<w c="mathematics" e="línia" i="716" m="line" t="n" />
+<w c="mathematics" e="xarxa" i="717" m="net" t="n" />
+<w c="mathematics" e="percentatge" i="718" m="percent" t="n" />
+<w c="mathematics" e="funció" i="719" m="purpose" t="n" />
+<w c="mathematics" e="resultat" i="720" m="result" t="n" />
+<w c="mathematics" e="regla" i="721" m="rule" t="n" />
+<w c="mathematics" e="conjunt" i="722" m="set" t="n" />
+<w c="mathematics" e="flanc" i="723" m="side" t="n" />
+<w c="mathematics" e="quadrat" i="724" m="square" t="n" />
+<w c="mathematics" e="quadrat" i="725" m="square" t="n" />
+<w c="mathematics" e="superfície" i="726" m="surface" t="n" />
+<w c="mathematics" e="import" i="727" m="total" t="n" />
+<w c="medicine" e="refredat" i="728" m="cold" t="n" />
+<w c="medicine" e="tos" i="729" m="cough" t="n" />
+<w c="medicine" e="malaltia" i="730" m="disease" t="n" />
+<w c="medicine" e="metge" i="731" m="doctor" t="n" />
+<w c="medicine" e="salut i benestar social" i="732" m="health" t="n" />
+<w c="medicine" e="menstruació" i="733" m="menstruation" t="n" />
+<w c="medicine" e="infermera" i="734" m="nurse" t="n" />
+<w c="medicine" e="dolor" i="735" m="pain" t="n" />
+<w c="medicine" e="punt" i="736" m="stitch" t="n" />
+<w c="nature" e="aire" i="737" m="air" t="n" />
+<w c="nature" e="animal" i="738" m="animal" t="n" />
+<w c="nature" e="branca" i="739" m="branch" t="n" />
+<w c="nature" e="corrent" i="740" m="current" t="n" />
+<w c="nature" e="evolució" i="741" m="evolution" t="n" />
+<w c="nature" e="granja" i="742" m="farm" t="n" />
+<w c="nature" e="camp" i="743" m="field" t="n" />
+<w c="nature" e="flama" i="744" m="fire" t="n" />
+<w c="nature" e="flor" i="745" m="flower" t="n" />
+<w c="nature" e="floresta" i="746" m="forest" t="n" />
+<w c="nature" e="herba" i="747" m="grass" t="n" />
+<w c="nature" e="fulla" i="748" m="leaf" t="n" />
+<w c="nature" e="vida" i="749" m="life" t="n" />
+<w c="nature" e="natura" i="750" m="nature" t="n" />
+<w c="nature" e="planta" i="751" m="plant" t="n" />
+<w c="nature" e="arrel" i="752" m="root" t="n" />
+<w c="nature" e="sexe" i="753" m="sex" t="n" />
+<w c="nature" e="cel" i="754" m="sky" t="n" />
+<w c="nature" e="son" i="755" m="sleep" t="n" />
+<w c="nature" e="aroma" i="756" m="smell" t="n" />
+<w c="nature" e="fum" i="757" m="smoke" t="n" />
+<w c="nature" e="font" i="758" m="spring" t="n" />
+<w c="nature" e="tija" i="759" m="stem" t="n" />
+<w c="nature" e="arbre" i="760" m="tree" t="n" />
+<w c="nature" e="ona" i="761" m="wave" t="n" />
+<w c="nature" e="temps atmosfèric" i="762" m="weather" t="n" />
+<w c="nature" e="món" i="763" m="world" t="n" />
+<w c="numbers" e="vuit" i="764" m="eight" t="n" />
+<w c="numbers" e="divuit" i="765" m="eighteen" t="n" />
+<w c="numbers" e="vuitanta" i="766" m="eighty" t="n" />
+<w c="numbers" e="onze" i="767" m="eleven" t="n" />
+<w c="numbers" e="quinze" i="768" m="fifteen" t="n" />
+<w c="numbers" e="cinquanta" i="769" m="fifty" t="n" />
+<w c="numbers" e="cinc" i="770" m="five" t="n" />
+<w c="numbers" e="quaranta" i="771" m="forty" t="n" />
+<w c="numbers" e="quatre" i="772" m="four" t="n" />
+<w c="numbers" e="catorze" i="773" m="fourteen" t="n" />
+<w c="numbers" e="milió" i="774" m="million" t="n" />
+<w c="numbers" e="nou" i="775" m="nine" t="n" />
+<w c="numbers" e="dinou" i="776" m="nineteen" t="n" />
+<w c="numbers" e="noranta" i="777" m="ninety" t="n" />
+<w c="numbers" e="res" i="778" m="nothing" t="n" />
+<w c="numbers" e="un" i="779" m="one" t="n" />
+<w c="numbers" e="set" i="780" m="seven" t="n" />
+<w c="numbers" e="setanta" i="781" m="seventy" t="n" />
+<w c="numbers" e="sis" i="782" m="six" t="n" />
+<w c="numbers" e="setze" i="783" m="sixteen" t="n" />
+<w c="numbers" e="seixanta" i="784" m="sixty" t="n" />
+<w c="numbers" e="deu" i="785" m="ten" t="n" />
+<w c="numbers" e="tretze" i="786" m="thirteen" t="n" />
+<w c="numbers" e="trenta" i="787" m="thirty" t="n" />
+<w c="numbers" e="mil" i="788" m="thousand" t="n" />
+<w c="numbers" e="mil" i="789" m="thousand" t="n" />
+<w c="numbers" e="tres" i="790" m="three" t="n" />
+<w c="numbers" e="dos" i="791" m="two" t="n" />
+<w c="objects" e="pilota" i="792" m="ball" t="n" />
+<w c="objects" e="fulla" i="793" m="blade" t="n" />
+<w c="objects" e="planxa; tauler; taules; tauló" i="794" m="board" t="n" />
+<w c="objects" e="carta; targeta" i="795" m="card" t="n" />
+<w c="objects" e="cadena" i="796" m="chain" t="n" />
+<w c="objects" e="club" i="797" m="club" t="n" />
+<w c="objects" e="bobina; rodet; rotlle" i="798" m="coil" t="n" />
+<w c="objects" e="sobre de carta" i="799" m="envelope" t="n" />
+<w c="objects" e="ploma" i="800" m="feather" t="n" />
+<w c="objects" e="senyera" i="801" m="flag" t="n" />
+<w c="objects" e="marc" i="802" m="frame" t="n" />
+<w c="objects" e="nansa" i="803" m="handle" t="n" />
+<w c="objects" e="menú" i="804" m="menu" t="n" />
+<w c="objects" e="tub" i="805" m="pipe" t="n" />
+<w c="objects" e="regal" i="806" m="present" t="n" />
+<w c="objects" e="corda" i="807" m="rope" t="n" />
+<w c="objects" e="vela de vaixell" i="808" m="sail" t="n" />
+<w c="objects" e="llavor" i="809" m="seed" t="n" />
+<w c="objects" e="segell" i="810" m="stamp" t="n" />
+<w c="objects" e="bastó" i="811" m="stick" t="n" />
+<w c="objects" e="pedra" i="812" m="stone" t="n" />
+<w c="objects" e="bitllet" i="813" m="ticket" t="n" />
+<w c="objects" e="roda" i="814" m="wheel" t="n" />
+<w c="objects" e="bronze" i="815" m="wire" t="n" />
+<w c="physics" e="equilibri" i="816" m="balance" t="n" />
+<w c="physics" e="càrrega elèctrica" i="817" m="charge" t="n" />
+<w c="physics" e="energia" i="818" m="energy" t="n" />
+<w c="physics" e="llum" i="819" m="light" t="n" />
+<w c="physics" e="massa" i="820" m="mass" t="n" />
+<w c="physics" e="massa" i="821" m="mass" t="n" />
+<w c="physics" e="mesura" i="822" m="measurement" t="n" />
+<w c="physics" e="mirall" i="823" m="mirror" t="n" />
+<w c="physics" e="moviment" i="824" m="movement" t="n" />
+<w c="physics" e="pressió" i="825" m="pressure" t="n" />
+<w c="physics" e="amplitud" i="826" m="size" t="n" />
+<w c="physics" e="sons" i="827" m="sound" t="n" />
+<w c="physics" e="baf; vapor" i="828" m="steam" t="n" />
+<w c="physics" e="força" i="829" m="strength" t="n" />
+<w c="physics" e="temps" i="830" m="time" t="n" />
+<w c="physics" e="pes" i="831" m="weight" t="n" />
+<w c="prepositions" e="contra" i="832" m="against" t="prep" />
+<w c="prepositions" e="a" i="833" m="at" t="prep" />
+<w c="prepositions" e="a" i="834" m="at" t="prep" />
+<w c="prepositions" e="durant" i="835" m="during" t="prep" />
+<w c="prepositions" e="per" i="836" m="for" t="prep" />
+<w c="prepositions" e="a; dins de; en" i="837" m="into" t="prep" />
+<w c="prepositions" e="de" i="838" m="of" t="prep" />
+<w c="prepositions" e="des de" i="839" m="since" t="prep" />
+<w c="prepositions" e="a" i="840" m="to" t="prep" />
+<w c="prepositions" e="amb" i="841" m="with" t="prep" />
+<w c="prepositions" e="amb" i="842" m="with" t="prep" />
+<w c="prepositions" e="sense" i="843" m="without" t="prep" />
+<w c="professions" e="actor" i="844" m="actor" t="n" />
+<w c="professions" e="actor" i="845" m="actress" t="n" />
+<w c="professions" e="artista" i="846" m="artist" t="n" />
+<w c="professions" e="comerciant" i="847" m="businessman" t="n" />
+<w c="professions" e="cuiner" i="848" m="cook" t="n" />
+<w c="professions" e="expert" i="849" m="expert" t="n" />
+<w c="professions" e="general" i="850" m="general" t="n" />
+<w c="professions" e="periodista" i="851" m="journalist" t="n" />
+<w c="professions" e="jutge" i="852" m="judge" t="n" />
+<w c="professions" e="ministre" i="853" m="minister" t="n" />
+<w c="professions" e="músic" i="854" m="musician" t="n" />
+<w c="professions" e="policia" i="855" m="policeman" t="n" />
+<w c="professions" e="polític" i="856" m="politician" t="n" />
+<w c="professions" e="mariner" i="857" m="sailor" t="n" />
+<w c="professions" e="secretari" i="858" m="secretary" t="n" />
+<w c="professions" e="cantador" i="859" m="singer" t="n" />
+<w c="professions" e="soldat" i="860" m="soldier" t="n" />
+<w c="professions" e="escriptor" i="861" m="writer" t="n" />
+<w c="pronouns" e="tot" i="862" m="everything" t="pron" />
+<w c="pronouns" e="se; si" i="863" m="herself" t="pron" />
+<w c="pronouns" e="se; si" i="864" m="himself" t="pron" />
+<w c="pronouns" e="seu" i="865" m="his" t="pron" />
+<w c="pronouns" e="ell; ella" i="866" m="it" t="pron" />
+<w c="pronouns" e="me" i="867" m="me" t="pron" />
+<w c="pronouns" e="meu" i="868" m="my" t="pron" />
+<w c="pronouns" e="nostre" i="869" m="our" t="pron" />
+<w c="pronouns" e="ella" i="870" m="she" t="pron" />
+<w c="pronouns" e="seu; seva" i="871" m="their" t="pron" />
+<w c="pronouns" e="els" i="872" m="them" t="pron" />
+<w c="pronouns" e="ells" i="873" m="they" t="pron" />
+<w c="pronouns" e="això" i="874" m="this" t="pron" />
+<w c="pronouns" e="nos" i="875" m="us" t="pron" />
+<w c="pronouns" e="nosaltres" i="876" m="we" t="pron" />
+<w c="pronouns" e="què" i="877" m="what" t="pron" />
+<w c="pronouns" e="qui" i="878" m="who" t="pron" />
+<w c="pronouns" e="vós" i="879" m="you" t="pron" />
+<w c="relations" e="compromís" i="880" m="date" t="n" />
+<w c="relations" e="amiga" i="881" m="girlfriend" t="n" />
+<w c="relations" e="hoste" i="882" m="guest" t="n" />
+<w c="relations" e="bes" i="883" m="kiss" t="n" />
+<w c="relations" e="festa" i="884" m="party" t="n" />
+<w c="relations" e="sexe" i="885" m="sex" t="n" />
+<w c="relations" e="somriure" i="886" m="smile" t="n" />
+<w c="relations" e="sorpresa" i="887" m="surprise" t="n" />
+<w c="relations" e="visita" i="888" m="visit" t="n" />
+<w c="science" e="biologia" i="889" m="biology" t="n" />
+<w c="science" e="causa" i="890" m="cause" t="n" />
+<w c="science" e="essència" i="891" m="center" t="n" />
+<w c="science" e="química" i="892" m="chemistry" t="n" />
+<w c="science" e="efecte" i="893" m="consequence" t="n" />
+<w c="science" e="disciplina" i="894" m="discipline" t="n" />
+<w c="science" e="troballa" i="895" m="discovery" t="n" />
+<w c="science" e="esdeveniment" i="896" m="event" t="n" />
+<w c="science" e="exemple" i="897" m="example" t="n" />
+<w c="science" e="fet" i="898" m="fact" t="n" />
+<w c="science" e="problema" i="899" m="issue" t="n" />
+<w c="science" e="alternativa" i="900" m="option" t="n" />
+<w c="science" e="fase" i="901" m="phase" t="n" />
+<w c="science" e="procediment" i="902" m="procedure" t="n" />
+<w c="science" e="producció" i="903" m="production" t="n" />
+<w c="science" e="programa informàtic" i="904" m="program" t="n" />
+<w c="science" e="projecte" i="905" m="project" t="n" />
+<w c="science" e="investigació" i="906" m="research" t="n" />
+<w c="science" e="ciència" i="907" m="science" t="n" />
+<w c="science" e="societat" i="908" m="society" t="n" />
+<w c="science" e="sistema" i="909" m="system" t="n" />
+<w c="science" e="tecnologia" i="910" m="technology" t="n" />
+<w c="science" e="teoria" i="911" m="theory" t="n" />
+<w c="science" e="tendència" i="912" m="trend" t="n" />
+<w c="science" e="problema" i="913" m="trouble" t="n" />
+<w c="society" e="exèrcit" i="914" m="army" t="n" />
+<w c="society" e="club" i="915" m="club" t="n" />
+<w c="society" e="companyia militar" i="916" m="company" t="n" />
+<w c="society" e="país" i="917" m="country" t="n" />
+<w c="society" e="tribunal" i="918" m="court" t="n" />
+<w c="society" e="cultura" i="919" m="culture" t="n" />
+<w c="society" e="república" i="920" m="democracy" t="n" />
+<w c="society" e="domini" i="921" m="dominion" t="n" />
+<w c="society" e="elecció" i="922" m="election" t="n" />
+<w c="society" e="existència" i="923" m="existence" t="n" />
+<w c="society" e="dona" i="924" m="female" t="n" />
+<w c="society" e="govern" i="925" m="government" t="n" />
+<w c="society" e="història" i="926" m="history" t="n" />
+<w c="society" e="individu" i="927" m="individual" t="n" />
+<w c="society" e="institució" i="928" m="institution" t="n" />
+<w c="society" e="rei" i="929" m="king" t="n" />
+<w c="society" e="cap" i="930" m="leader" t="n" />
+<w c="society" e="baró; home; mascle" i="931" m="male" t="n" />
+<w c="society" e="membre" i="932" m="member" t="n" />
+<w c="society" e="nació" i="933" m="nation" t="n" />
+<w c="society" e="soroll" i="934" m="noise" t="n" />
+<w c="society" e="passaport" i="935" m="passport" t="n" />
+<w c="society" e="pau" i="936" m="peace" t="n" />
+<w c="society" e="gent" i="937" m="people" t="n" />
+<w c="society" e="policia" i="938" m="police" t="n" />
+<w c="society" e="política" i="939" m="policy" t="n" />
+<w c="society" e="població mundial" i="940" m="population" t="n" />
+<w c="society" e="pena" i="941" m="punishment" t="n" />
+<w c="society" e="religió" i="942" m="religion" t="n" />
+<w c="society" e="creences" i="943" m="religion" t="n" />
+<w c="society" e="estat" i="944" m="state" t="n" />
+<w c="society" e="títol" i="945" m="title" t="n" />
+<w c="society" e="guerra" i="946" m="war" t="n" />
+<w c="society" e="testament" i="947" m="will" t="n" />
+<w c="sports" e="beisbol" i="948" m="baseball" t="n" />
+<w c="sports" e="títol" i="949" m="championship" t="n" />
+<w c="sports" e="joc" i="950" m="game" t="n" />
+<w c="sports" e="gol" i="951" m="goal" t="n" />
+<w c="sports" e="golf" i="952" m="golf" t="n" />
+<w c="sports" e="jugador" i="953" m="player" t="n" />
+<w c="sports" e="rècord" i="954" m="record" t="n" />
+<w c="sports" e="tennis" i="955" m="tennis" t="n" />
+<w c="time" e="Abril" i="956" m="April" t="n" />
+<w c="time" e="agost" i="957" m="August" t="n" />
+<w c="time" e="Desembre" i="958" m="December" t="n" />
+<w c="time" e="Febrer" i="959" m="February" t="n" />
+<w c="time" e="Divendres" i="960" m="Friday" t="n" />
+<w c="time" e="Gener" i="961" m="January" t="n" />
+<w c="time" e="Juliol" i="962" m="July" t="n" />
+<w c="time" e="Juny" i="963" m="June" t="n" />
+<w c="time" e="maig" i="964" m="May" t="n" />
+<w c="time" e="Dilluns" i="965" m="Monday" t="n" />
+<w c="time" e="Novembre" i="966" m="November" t="n" />
+<w c="time" e="Octubre" i="967" m="October" t="n" />
+<w c="time" e="Dissabte" i="968" m="Saturday" t="n" />
+<w c="time" e="Setembre" i="969" m="September" t="n" />
+<w c="time" e="Diumenge" i="970" m="Sunday" t="n" />
+<w c="time" e="Dijous" i="971" m="Thursday" t="n" />
+<w c="time" e="Dimarts" i="972" m="Tuesday" t="n" />
+<w c="time" e="Dimecres" i="973" m="Wednesday" t="n" />
+<w c="time" e="tarda" i="974" m="afternoon" t="n" />
+<w c="time" e="edat" i="975" m="age" t="n" />
+<w c="time" e="tardor" i="976" m="autumn" t="n" />
+<w c="time" e="segle" i="977" m="century" t="n" />
+<w c="time" e="data" i="978" m="date" t="n" />
+<w c="time" e="dia" i="979" m="day" t="n" />
+<w c="time" e="fi" i="980" m="end" t="n" />
+<w c="time" e="vespre" i="981" m="evening" t="n" />
+<w c="time" e="futur" i="982" m="future" t="n" />
+<w c="time" e="hora" i="983" m="hour" t="n" />
+<w c="time" e="mitjanit" i="984" m="midnight" t="n" />
+<w c="time" e="minut" i="985" m="minute" t="n" />
+<w c="time" e="estona; moment" i="986" m="moment" t="n" />
+<w c="time" e="moment" i="987" m="moment" t="n" />
+<w c="time" e="mes" i="988" m="month" t="n" />
+<w c="time" e="matí" i="989" m="morning" t="n" />
+<w c="time" e="nit" i="990" m="night" t="n" />
+<w c="time" e="ara" i="991" m="now" t="n" />
+<w c="time" e="passat" i="992" m="past" t="n" />
+<w c="time" e="descans; pausa" i="993" m="pause" t="n" />
+<w c="time" e="període" i="994" m="period" t="n" />
+<w c="time" e="estació de l'any" i="995" m="season" t="n" />
+<w c="time" e="segon" i="996" m="second" t="n" />
+<w c="time" e="primavera" i="997" m="spring" t="n" />
+<w c="time" e="estiu" i="998" m="summer" t="n" />
+<w c="time" e="setmana" i="999" m="week" t="n" />
+<w c="time" e="hivern" i="1000" m="winter" t="n" />
+<w c="time" e="any" i="1001" m="year" t="n" />
+<w c="tools" e="campana" i="1002" m="bell" t="n" />
+<w c="tools" e="raspall" i="1003" m="brush" t="n" />
+<w c="tools" e="botó" i="1004" m="button" t="n" />
+<w c="tools" e="fusell" i="1005" m="gun" t="n" />
+<w c="tools" e="martell" i="1006" m="hammer" t="n" />
+<w c="tools" e="ganxo" i="1007" m="hook" t="n" />
+<w c="tools" e="clau" i="1008" m="key" t="n" />
+<w c="tools" e="pany" i="1009" m="lock" t="n" />
+<w c="tools" e="llumí" i="1010" m="match" t="n" />
+<w c="tools" e="clau" i="1011" m="nail" t="n" />
+<w c="tools" e="aculla" i="1012" m="needle" t="n" />
+<w c="tools" e="ploma" i="1013" m="pen" t="n" />
+<w c="tools" e="llapis" i="1014" m="pencil" t="n" />
+<w c="tools" e="bomba" i="1015" m="pump" t="n" />
+<w c="tools" e="tisores" i="1016" m="scissors" t="n" />
+<w c="tools" e="ressort" i="1017" m="spring" t="n" />
+<w c="tools" e="caixetí" i="1018" m="stamp" t="n" />
+<w c="tools" e="cotxer" i="1019" m="whip" t="n" />
+<w c="transport" e="accident" i="1020" m="accident" t="n" />
+<w c="transport" e="bicicleta" i="1021" m="bike" t="n" />
+<w c="transport" e="barca" i="1022" m="boat" t="n" />
+<w c="transport" e="autobús" i="1023" m="bus" t="n" />
+<w c="transport" e="cotxe" i="1024" m="car" t="n" />
+<w c="transport" e="corba" i="1025" m="curve" t="n" />
+<w c="transport" e="vol" i="1026" m="flight" t="n" />
+<w c="transport" e="passatger" i="1027" m="passenger" t="n" />
+<w c="transport" e="avió" i="1028" m="plane" t="n" />
+<w c="transport" e="vaixell" i="1029" m="ship" t="n" />
+<w c="transport" e="carril" i="1030" m="track" t="n" />
+<w c="transport" e="tren" i="1031" m="train" t="n" />
+<w c="transport" e="transport" i="1032" m="transport" t="n" />
+<w c="vegetables" e="mongeta" i="1033" m="bean" t="n" />
+<w c="vegetables" e="col" i="1034" m="cabbage" t="n" />
+<w c="vegetables" e="pastanaga" i="1035" m="carrot" t="n" />
+<w c="vegetables" e="cogombre" i="1036" m="cucumber" t="n" />
+<w c="vegetables" e="all" i="1037" m="garlic" t="n" />
+<w c="vegetables" e="oliva" i="1038" m="olive" t="n" />
+<w c="vegetables" e="ceba" i="1039" m="onion" t="n" />
+<w c="vegetables" e="xirivia" i="1040" m="parsnip" t="n" />
+<w c="vegetables" e="patata" i="1041" m="potato" t="n" />
+<w c="vegetables" e="rave" i="1042" m="radish" t="n" />
+<w c="vegetables" e="arròs" i="1043" m="rice" t="n" />
+<w c="vegetables" e="tomàquet" i="1044" m="tomato" t="n" />
+<w c="verbs" e="allotjar" i="1045" m="accept" t="v" />
+<w c="verbs" e="acusar" i="1046" m="accuse" t="v" />
+<w c="verbs" e="aconseguir; assolir; atènyer" i="1047" m="achieve" t="v" />
+<w c="verbs" e="fer" i="1048" m="act" t="v" />
+<w c="verbs" e="afegir" i="1049" m="add" t="v" />
+<w c="verbs" e="influir" i="1050" m="affect" t="v" />
+<w c="verbs" e="accedir a; acceptar; acordar; consentir" i="1051" m="agree" t="v" />
+<w c="verbs" e="permetre" i="1052" m="allow" t="v" />
+<w c="verbs" e="anular" i="1053" m="announce" t="v" />
+<w c="verbs" e="disputar" i="1054" m="argue" t="v" />
+<w c="verbs" e="arribar" i="1055" m="arrive" t="v" />
+<w c="verbs" e="demanar; posar qüestions; preguntar" i="1056" m="ask" t="v" />
+<w c="verbs" e="atacar" i="1057" m="attack" t="v" />
+<w c="verbs" e="evitar" i="1058" m="avoid" t="v" />
+<w c="verbs" e="viure" i="1059" m="be" t="v" />
+<w c="verbs" e="dur; portar" i="1060" m="bear" t="v" />
+<w c="verbs" e="bategar; batre; castigar; copejar; espetegar; pegar; picar" i="1061" m="beat" t="v" />
+<w c="verbs" e="obtenir; rebre; tenir" i="1062" m="become" t="v" />
+<w c="verbs" e="creure" i="1063" m="believe" t="v" />
+<w c="verbs" e="agafar; corroir; mossegar" i="1064" m="bite" t="v" />
+<w c="verbs" e="aportar; portar; portar a" i="1065" m="bring" t="v" />
+<w c="verbs" e="construir" i="1066" m="build" t="v" />
+<w c="verbs" e="cridar" i="1067" m="call" t="v" />
+<w c="verbs" e="curar; tenir cura de" i="1068" m="care" t="v" />
+<w c="verbs" e="traginar" i="1069" m="carry" t="v" />
+<w c="verbs" e="canviar" i="1070" m="change" t="v" />
+<w c="verbs" e="elegir; triar" i="1071" m="choose" t="v" />
+<w c="verbs" e="netejar" i="1072" m="clean" t="v" />
+<w c="verbs" e="comparar" i="1073" m="compare" t="v" />
+<w c="verbs" e="contenir" i="1074" m="contain" t="v" />
+<w c="verbs" e="continuar; fer durar" i="1075" m="continue" t="v" />
+<w c="verbs" e="coure" i="1076" m="cook" t="v" />
+<w c="verbs" e="tossir" i="1077" m="cough" t="v" />
+<w c="verbs" e="plorar" i="1078" m="cry" t="v" />
+<w c="verbs" e="decidir" i="1079" m="decide" t="v" />
+<w c="verbs" e="descriure" i="1080" m="describe" t="v" />
+<w c="verbs" e="dibuixar" i="1081" m="design" t="v" />
+<w c="verbs" e="voler" i="1082" m="desire" t="v" />
+<w c="verbs" e="desenvolupar" i="1083" m="develop" t="v" />
+<w c="verbs" e="morir" i="1084" m="die" t="v" />
+<w c="verbs" e="dividir" i="1085" m="divide" t="v" />
+<w c="verbs" e="dubtar" i="1086" m="doubt" t="v" />
+<w c="verbs" e="dirigir" i="1087" m="drive" t="v" />
+<w c="verbs" e="alenar" i="1088" m="encourage" t="v" />
+<w c="verbs" e="acabar" i="1089" m="end" t="v" />
+<w c="verbs" e="gaudir" i="1090" m="enjoy" t="v" />
+<w c="verbs" e="entrar" i="1091" m="enter" t="v" />
+<w c="verbs" e="fundar" i="1092" m="establish" t="v" />
+<w c="verbs" e="superar" i="1093" m="exceed" t="v" />
+<w c="verbs" e="existir" i="1094" m="exist" t="v" />
+<w c="verbs" e="esperar" i="1095" m="expect" t="v" />
+<w c="verbs" e="explicar" i="1096" m="explain" t="v" />
+<w c="verbs" e="combatre" i="1097" m="fight" t="v" />
+<w c="verbs" e="descobrir" i="1098" m="find" t="v" />
+<w c="verbs" e="acabar; finir; terminar" i="1099" m="finish" t="v" />
+<w c="verbs" e="perdonar" i="1100" m="forgive" t="v" />
+<w c="verbs" e="alliberar" i="1101" m="free" t="v" />
+<w c="verbs" e="capitular" i="1102" m="give up" t="v" />
+<w c="verbs" e="crèixer" i="1103" m="grow" t="v" />
+<w c="verbs" e="ocórrer" i="1104" m="happen" t="v" />
+<w c="verbs" e="odiar" i="1105" m="hate" t="v" />
+<w c="verbs" e="camuflar" i="1106" m="hide" t="v" />
+<w c="verbs" e="aguantar; mantenir; retenir; sostenir; suportar; tenir" i="1107" m="hold" t="v" />
+<w c="verbs" e="identificar" i="1108" m="identify" t="v" />
+<w c="verbs" e="ferir" i="1109" m="injure" t="v" />
+<w c="verbs" e="presentar" i="1110" m="introduce" t="v" />
+<w c="verbs" e="presentar" i="1111" m="introduce" t="v" />
+<w c="verbs" e="lligar" i="1112" m="join" t="v" />
+<w c="verbs" e="tenir" i="1113" m="keep" t="v" />
+<w c="verbs" e="matar" i="1114" m="kill" t="v" />
+<w c="verbs" e="aterrar" i="1115" m="land" t="v" />
+<w c="verbs" e="conduir" i="1116" m="lead" t="v" />
+<w c="verbs" e="deixar" i="1117" m="let" t="v" />
+<w c="verbs" e="elevar" i="1118" m="lift" t="v" />
+<w c="verbs" e="carregament" i="1119" m="load" t="v" />
+<w c="verbs" e="tancar amb clau" i="1120" m="lock" t="v" />
+<w c="verbs" e="semblar" i="1121" m="look" t="v" />
+<w c="verbs" e="perdre" i="1122" m="lose" t="v" />
+<w c="verbs" e="administrar" i="1123" m="manage" t="v" />
+<w c="verbs" e="cartejar-se; enllaçar-se" i="1124" m="match" t="v" />
+<w c="verbs" e="tenir la intenció de" i="1125" m="mean" t="v" />
+<w c="verbs" e="mesurar" i="1126" m="measure" t="v" />
+<w c="verbs" e="mencionar" i="1127" m="mention" t="v" />
+<w c="verbs" e="deixar passar; desatendre; passar de llarg" i="1128" m="miss" t="v" />
+<w c="verbs" e="manar; ordenar" i="1129" m="order" t="v" />
+<w c="verbs" e="posseir" i="1130" m="own" t="v" />
+<w c="verbs" e="pelar" i="1131" m="peel" t="v" />
+<w c="verbs" e="ginebre" i="1132" m="plow" t="v" />
+<w c="verbs" e="emmetzinar" i="1133" m="poison" t="v" />
+<w c="verbs" e="preparar" i="1134" m="prepare" t="v" />
+<w c="verbs" e="premsar" i="1135" m="press" t="v" />
+<w c="verbs" e="impedir" i="1136" m="prevent" t="v" />
+<w c="verbs" e="imprimir" i="1137" m="print" t="v" />
+<w c="verbs" e="aprofitar-se" i="1138" m="profit" t="v" />
+<w c="verbs" e="protestar" i="1139" m="protest" t="v" />
+<w c="verbs" e="demostrar; provar" i="1140" m="prove" t="v" />
+<w c="verbs" e="publicar" i="1141" m="publish" t="v" />
+<w c="verbs" e="agambar" i="1142" m="raise" t="v" />
+<w c="verbs" e="apreciar; avaluar; prear; taxar" i="1143" m="rate" t="v" />
+<w c="verbs" e="aconseguir; assolir; atènyer" i="1144" m="reach" t="v" />
+<w c="verbs" e="obtenir; rebre; tenir" i="1145" m="receive" t="v" />
+<w c="verbs" e="gravar" i="1146" m="record" t="v" />
+<w c="verbs" e="reduir" i="1147" m="reduce" t="v" />
+<w c="verbs" e="reflectir" i="1148" m="reflect" t="v" />
+<w c="verbs" e="negar" i="1149" m="refuse" t="v" />
+<w c="verbs" e="rellevar; substituir" i="1150" m="replace" t="v" />
+<w c="verbs" e="respondre" i="1151" m="reply" t="v" />
+<w c="verbs" e="informar; referir; relatar; reportar" i="1152" m="report" t="v" />
+<w c="verbs" e="presentar" i="1153" m="represent" t="v" />
+<w c="verbs" e="demanar" i="1154" m="request" t="v" />
+<w c="verbs" e="honorar" i="1155" m="respect" t="v" />
+<w c="verbs" e="descobrir" i="1156" m="reveal" t="v" />
+<w c="verbs" e="arriscar" i="1157" m="risk" t="v" />
+<w c="verbs" e="dirigir; dominar; governar; regir" i="1158" m="rule" t="v" />
+<w c="verbs" e="estalviar" i="1159" m="save" t="v" />
+<w c="verbs" e="veure" i="1160" m="see" t="v" />
+<w c="verbs" e="considerar" i="1161" m="see" t="v" />
+<w c="verbs" e="enviar" i="1162" m="send" t="v" />
+<w c="verbs" e="servir" i="1163" m="serve" t="v" />
+<w c="verbs" e="cosir" i="1164" m="sew" t="v" />
+<w c="verbs" e="xisclar" i="1165" m="shout" t="v" />
+<w c="verbs" e="mostrar" i="1166" m="show" t="v" />
+<w c="verbs" e="fer flaire; fer olor" i="1167" m="smell" t="v" />
+<w c="verbs" e="olorar" i="1168" m="smell" t="v" />
+<w c="verbs" e="estar dret; estar en algun; romandre" i="1169" m="stand" t="v" />
+<w c="verbs" e="quedar; restar; romandre" i="1170" m="stay" t="v" />
+<w c="verbs" e="robar" i="1171" m="steal" t="v" />
+<w c="verbs" e="parar" i="1172" m="stop" t="v" />
+<w c="verbs" e="estudiar" i="1173" m="study" t="v" />
+<w c="verbs" e="patir; sofrir" i="1174" m="suffer" t="v" />
+<w c="verbs" e="proposar" i="1175" m="suggest" t="v" />
+<w c="verbs" e="lliurar" i="1176" m="supply" t="v" />
+<w c="verbs" e="donar suport; estintolar; recolzar" i="1177" m="support" t="v" />
+<w c="verbs" e="sorprendre" i="1178" m="surprise" t="v" />
+<w c="verbs" e="tastar" i="1179" m="taste" t="v" />
+<w c="verbs" e="ensenyar" i="1180" m="teach" t="v" />
+<w c="verbs" e="assajar; provar" i="1181" m="test" t="v" />
+<w c="verbs" e="agrair" i="1182" m="thank" t="v" />
+<w c="verbs" e="llençar" i="1183" m="throw" t="v" />
+<w c="verbs" e="comerciar" i="1184" m="trade" t="v" />
+<w c="verbs" e="anar" i="1185" m="travel" t="v" />
+<w c="verbs" e="curar" i="1186" m="treat" t="v" />
+<w c="verbs" e="decebre; enganyar" i="1187" m="trick" t="v" />
+<w c="verbs" e="assajar; provar" i="1188" m="try" t="v" />
+<w c="verbs" e="girar" i="1189" m="turn" t="v" />
+<w c="verbs" e="visitar" i="1190" m="visit" t="v" />
+<w c="verbs" e="caminar; marxar" i="1191" m="walk" t="v" />
+<w c="verbs" e="escalfar" i="1192" m="warm" t="v" />
+<w c="verbs" e="llavar" i="1193" m="wash" t="v" />
+<w c="verbs" e="veure" i="1194" m="watch" t="v" />
+<w c="verbs" e="guanyar" i="1195" m="win" t="v" />
+<w c="verbs" e="desitjar" i="1196" m="wish" t="v" />
+<w c="verbs" e="ésser" i="1197" m="be" t="v" />
+<w c="verbs" e="debutar" i="1198" m="begin" t="v" />
+<w c="verbs" e="rompre; trencar" i="1199" m="break" t="v" />
+<w c="verbs" e="comprar" i="1200" m="buy" t="v" />
+<w c="verbs" e="tancar" i="1201" m="close" t="v" />
+<w c="verbs" e="venir" i="1202" m="come" t="v" />
+<w c="verbs" e="dansar" i="1203" m="dance" t="v" />
+<w c="verbs" e="beure" i="1204" m="drink" t="v" />
+<w c="verbs" e="menjar" i="1205" m="eat" t="v" />
+<w c="verbs" e="caure" i="1206" m="fall" t="v" />
+<w c="verbs" e="percebre; sentir" i="1207" m="feel" t="v" />
+<w c="verbs" e="trobar" i="1208" m="find" t="v" />
+<w c="verbs" e="tirar" i="1209" m="fire" t="v" />
+<w c="verbs" e="volar" i="1210" m="fly" t="v" />
+<w c="verbs" e="seguir" i="1211" m="follow" t="v" />
+<w c="verbs" e="oblidar" i="1212" m="forget" t="v" />
+<w c="verbs" e="obtenir; rebre; tenir" i="1213" m="get" t="v" />
+<w c="verbs" e="donar" i="1214" m="give" t="v" />
+<w c="verbs" e="haver; tenir" i="1215" m="have" t="v" />
+<w c="verbs" e="assabentar-se de; exaudir; oir; sentir" i="1216" m="hear" t="v" />
+<w c="verbs" e="acudir" i="1217" m="help" t="v" />
+<w c="verbs" e="esperançar; esperar" i="1218" m="hope" t="v" />
+<w c="verbs" e="saltar" i="1219" m="jump" t="v" />
+<w c="verbs" e="besar" i="1220" m="kiss" t="v" />
+<w c="verbs" e="riure" i="1221" m="laugh" t="v" />
+<w c="verbs" e="aprendre" i="1222" m="learn" t="v" />
+<w c="verbs" e="jaure; jeure" i="1223" m="lie" t="v" />
+<w c="verbs" e="mentir" i="1224" m="lie" t="v" />
+<w c="verbs" e="escoltar" i="1225" m="listen" t="v" />
+<w c="verbs" e="mirar" i="1226" m="look" t="v" />
+<w c="verbs" e="perdre" i="1227" m="lose" t="v" />
+<w c="verbs" e="estimar" i="1228" m="love" t="v" />
+<w c="verbs" e="fer" i="1229" m="make" t="v" />
+<w c="verbs" e="caure; encertar; endevinar; ensopegar" i="1230" m="meet" t="v" />
+<w c="verbs" e="bellugar; moure" i="1231" m="move" t="v" />
+<w c="verbs" e="necessitar" i="1232" m="need" t="v" />
+<w c="verbs" e="oferir" i="1233" m="offer" t="v" />
+<w c="verbs" e="obrir" i="1234" m="open" t="v" />
+<w c="verbs" e="pagar" i="1235" m="pay" t="v" />
+<w c="verbs" e="sonar" i="1236" m="play" t="v" />
+<w c="verbs" e="estirar; tirar; treure" i="1237" m="pull" t="v" />
+<w c="verbs" e="pondre" i="1238" m="put" t="v" />
+<w c="verbs" e="llegir" i="1239" m="read" t="v" />
+<w c="verbs" e="recordar" i="1240" m="remember" t="v" />
+<w c="verbs" e="dir" i="1241" m="say" t="v" />
+<w c="verbs" e="vendre" i="1242" m="sell" t="v" />
+<w c="verbs" e="cantar" i="1243" m="sing" t="v" />
+<w c="verbs" e="seure" i="1244" m="sit" t="v" />
+<w c="verbs" e="somriure" i="1245" m="smile" t="v" />
+<w c="verbs" e="nedar" i="1246" m="swim" t="v" />
+<w c="verbs" e="parlar" i="1247" m="talk" t="v" />
+<w c="verbs" e="dibuixar" i="1248" m="trace" t="v" />
+<w c="verbs" e="comprendre; entendre" i="1249" m="understand" t="v" />
+<w c="verbs" e="utilitzar" i="1250" m="use" t="v" />
+<w c="verbs" e="esperar" i="1251" m="wait" t="v" />
+<w c="verbs" e="escriure" i="1252" m="write" t="v" />
+<w c="weather" e="núvol" i="1253" m="cloud" t="n" />
+<w c="weather" e="rosada" i="1254" m="dew" t="n" />
+<w c="weather" e="boira" i="1255" m="fog" t="n" />
+<w c="weather" e="gelada" i="1256" m="frost" t="n" />
+<w c="weather" e="llamp" i="1257" m="lightning" t="n" />
+<w c="weather" e="pluja" i="1258" m="rain" t="n" />
+<w c="weather" e="arc de Sant Martí" i="1259" m="rainbow" t="n" />
+<w c="weather" e="neu" i="1260" m="snow" t="n" />
+<w c="weather" e="tempestat" i="1261" m="storm" t="n" />
+<w c="weather" e="tro" i="1262" m="thunder" t="n" />
+<w c="weather" e="vent" i="1263" m="wind" t="n" />
+</vocb>
